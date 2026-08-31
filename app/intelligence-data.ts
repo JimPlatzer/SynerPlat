@@ -1,0 +1,31 @@
+export type Highlight={date:string;title:string;summary:string;sector:string;source:string;url:string;score:number};
+
+export const monthlyHighlights:Highlight[]=[
+  {date:'08.01',title:'中国可再生能源消费最低比重制度正式施行',summary:'制度将可再生能源消费最低比重与电力消纳责任相衔接，进一步压实重点用能行业和各地区的绿电消费责任。',sector:'新能源',source:'国家发展改革委',url:'https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202606/t20260612_1405837_ext.html',score:9},
+  {date:'08.14',title:'欧盟推动土地、水资源与干旱韧性进入国际议程',summary:'欧盟在UNCCD COP17前提出加强退化土地恢复、抗旱能力和水资源保护，气候适应与自然风险进一步进入政策核心。',sector:'自然与适应',source:'European Commission',url:'https://environment.ec.europa.eu/news/eu-calls-global-action-make-land-and-water-more-resilient-drought-and-desertification-intensify-2026-08-14_en',score:7},
+  {date:'08.17',title:'加拿大宣布最高100亿加元清洁电力投资与融资支持',summary:'投资组合覆盖Churchill Falls升级、Gull Island水电与输电基础设施，并与关键矿产开发相衔接。',sector:'新能源',source:'Natural Resources Canada',url:'https://www.canada.ca/en/natural-resources-canada/news/2026/08/prime-minister-carney-announces-the-largest-clean-energy-investment-in-north-american-history.html',score:9},
+  {date:'08.24',title:'中国原则通过多行业全国碳市场配额方案',summary:'发电、钢铁、水泥与铝冶炼被纳入相关年度配额安排，并强化碳排放数据质量与履约管理。',sector:'高排放行业',source:'中国生态环境部',url:'https://www.mee.gov.cn/ywdt/hjywnews/202608/t20260824_1164432.shtml',score:10},
+  {date:'08.27',title:'西班牙拟对数据中心建立能源、水效和数字主权要求',summary:'拟要求新增可再生能源逐小时覆盖至少80%用电，并设置严格能源和水资源效率标准。',sector:'人工智能',source:'西班牙数字化转型部',url:'https://digital.gob.es/comunicacion/notas-prensa/mtdfp/2026/08/el-gobierno-plantea-impulsar-los-centros-de-datos-sostenibles--e',score:9},
+  {date:'08.29',title:'澳大利亚推进气候披露与排放清单数字化发布',summary:'联邦实体和公司将通过统一透明度门户发布气候披露和排放数据，机器可读披露继续扩散。',sector:'企业出海',source:'澳大利亚财政部',url:'https://www.finance.gov.au/government/managing-commonwealth-resources/commonwealth-climate-disclosure-rmg-140/publishing-climate-disclosure',score:8}
+];
+
+export const annualHighlights:Highlight[]=[
+  {date:'02.25',title:'英国发布UK SRS S1与S2可持续披露标准',summary:'英国基于IFRS S1与S2建立本地可持续和气候披露基准，跨市场披露趋同继续推进。',sector:'企业出海',source:'UK Government',url:'https://www.gov.uk/government/publications/uk-sustainability-reporting-standards-uk-srs-s1-and-uk-srs-s2',score:9},
+  {date:'05.28',title:'IEA发布《World Energy Investment 2026》',summary:'报告提供2026年能源投资估计及区域资本流向，是观察清洁能源投资是否兑现的重要基准。',sector:'新能源',source:'IEA',url:'https://www.iea.org/reports/world-energy-investment-2026',score:8},
+  {date:'05.29',title:'美国SEC提出撤销联邦气候披露规则',summary:'SEC提出撤销2024年通过的上市公司气候相关披露要求，使美国联邦路径与多个采用ISSB基准的市场出现明显分化。',sector:'企业出海',source:'US SEC',url:'https://www.sec.gov/rules-regulations/2026/05/s7-2026-19',score:9},
+  {date:'06.03',title:'欧盟发布能源数字化与AI战略路线图',summary:'路线图将能源AI应用、技术主权、网络安全和数字基础设施可持续性纳入同一政策框架。',sector:'人工智能',source:'European Commission',url:'https://energy.ec.europa.eu/news/commission-presents-measures-digitalise-europes-energy-system-while-ensuring-sustainable-2026-06-03_en',score:8},
+  {date:'06.26',title:'中国发布能源领域节能降碳行动计划',summary:'计划覆盖火电升级、能源碳核算、数字化碳管理、绿证绿电交易与重点项目库。',sector:'高排放行业',source:'国家能源局',url:'https://www.nea.gov.cn/20260710/4acf5873e20149cdbc52c709b16b30ff/c.html',score:9},
+  {date:'07.03',title:'欧盟采用修订版ESRS与中小企业自愿标准',summary:'修订版大幅压缩数据点并设置价值链信息上限，在减负和高质量披露之间重新平衡。',sector:'企业出海',source:'European Commission',url:'https://finance.ec.europa.eu/news/commission-adopts-revised-sustainability-reporting-standards-reduce-administrative-burdens-eu-2026-07-03_en',score:10},
+  {date:'07.09',title:'中国发布“十五五”碳达峰行动方案',summary:'提出到2030年单位GDP二氧化碳排放较2025年下降17%、非化石能源消费占比达到25%等目标。',sector:'高排放行业',source:'中国国务院',url:'https://www.gov.cn/zhengce/content/202607/content_7074826.htm',score:10},
+  {date:'07.13',title:'欧盟更新零毁林法规产品范围与数字工具',summary:'法规实施配套进一步明确，相关企业需要准备产品溯源、地理位置与尽职调查声明数据。',sector:'企业出海',source:'European Commission',url:'https://environment.ec.europa.eu/news/commission-updates-product-scope-and-tools-support-eudr-2026-07-13_en',score:9},
+  {date:'07.27',title:'欧盟明确AI Act中的资源绩效与能耗披露方向',summary:'通用AI模型提供者需要披露能源消耗，系统性风险模型还需评估能源效率。',sector:'人工智能',source:'European Commission',url:'https://digital-strategy.ec.europa.eu/en/faqs/navigating-ai-act',score:9},
+  {date:'08.24',title:'中国全国碳市场配额方案扩展至关键工业行业',summary:'钢铁、水泥与铝冶炼的配额、核定和履约安排成为年度高排放行业核心政策信号。',sector:'高排放行业',source:'中国生态环境部',url:'https://www.mee.gov.cn/ywdt/hjywnews/202608/t20260824_1164432.shtml',score:10}
+];
+
+export const heroMessages=[
+  ['把复杂变化，整理成可验证的决策线索。','从政策、研究与行业事件中，提取真正影响企业的长期信号。'],
+  ['在信息发生之后，看见影响发生之前。','连接监管变化、资本流向、技术演进与企业行动。'],
+  ['让可靠来源彼此连接，让趋势自然浮现。','持续追踪 ESG 直接与间接影响，不被单条新闻牵着走。'],
+  ['从公开信息出发，构建自己的研究底稿。','新闻、政策、论文与白皮书，在同一套证据框架中被整理。'],
+  ['比热点更早一步，比结论多一层证据。','用可追溯资料理解人工智能、能源转型与跨境经营风险。']
+] as const;
