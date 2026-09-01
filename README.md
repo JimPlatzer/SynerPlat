@@ -2,7 +2,7 @@
 
 SynerPlat 是一个开源的 ESG 政策、重大动态与研究资料情报网站。它将政府和监管信息、行业报告、白皮书、学术论文与工作论文整理为可检索的动态卡片、行业观察、时间尺度摘要和可视化信号。
 
-在线演示：<https://synerplat-esg-intelligence.platzerqi.chatgpt.site/>
+公开网站：<https://jimplatzer.github.io/SynerPlat/>
 
 ## 主要功能
 
@@ -11,12 +11,13 @@ SynerPlat 是一个开源的 ESG 政策、重大动态与研究资料情报网�
 - 按行业、相关性和事件类型筛选重大动态
 - 收藏、移除、恢复和导出浏览器本地数据
 - 研究资料库检索、类型过滤与详情查看
-- JSON 导入、自动初步分类及“用户导入”标签
+- Word (.docx)、PDF 与 JSON 导入；自动提取标题和正文预览，资料年月必填并显示为 `XXXX/XX`
+- 导入资料自动初步分类并添加“用户导入”标签
 - 权威政策、新闻和学术资料联网搜索入口
 - 本周／本月总结、关键词词云和频率条形图
 - 过去7天／过去30天滚动词频切换，覆盖重大动态、新增观察和研究资料
 - 重大动态与次重大“新增观察”分层展示，★ 标记达到当前主门槛的条目
-- 独立的数据洞察与时间轴页面
+- 独立的数据洞察与时间轴页面，重点展示政策年度数量、新闻数量、新闻关键词、行业与事件类型
 - 每日 GitHub Actions 自动检索、证据筛选、去重、构建与公开发布
 
 > 研究内容用于信息整理，不构成法律、投资或合规意见。日期、摘要与分类在正式引用前仍应回到原始来源核验。
@@ -28,6 +29,7 @@ SynerPlat 是一个开源的 ESG 政策、重大动态与研究资料情报网�
 - Vinext + Vite
 - Cloudflare Workers-compatible runtime
 - TypeScript
+- PDF.js + Mammoth（浏览器本地解析 PDF / Word）
 
 ## 安装
 
@@ -68,7 +70,7 @@ cp .env.example .env.local
 
 可选变量见 [`.env.example`](.env.example)。真实 `.env` 文件已被 Git 忽略，不应提交。
 
-浏览器中的收藏、移除状态和用户导入资料使用 `localStorage`，只存在于当前设备，不是共享数据库。
+浏览器中的收藏、移除状态和用户导入资料使用 `localStorage`，只存在于当前设备，不是共享数据库。Word/PDF 的原始文件不会上传；网站只在本机提取并保存标题、资料年月、正文预览和分类信息。
 
 ## 数据维护
 
@@ -129,6 +131,7 @@ npm run check
 │   └── page.tsx              # 首页与主要交互
 ├── public/
 │   ├── auto-intelligence.json # 自动检索生成的滚动情报
+│   ├── pdf.worker.min.mjs    # PDF.js 浏览器解析 Worker
 │   ├── research-library.json # 研究资料库
 │   ├── og.png                # 社交分享图
 │   └── favicon.svg
