@@ -1,11 +1,38 @@
 {
-  "updatedAt": null,
-  "weekRange": null,
-  "monthLabel": null,
+  "updatedAt": "2026-09-01T04:21:43.601Z",
+  "weekRange": "2026.08.25—09.01",
+  "monthLabel": "2026年9月",
   "stories": [],
   "sectorInsights": [],
   "summary": null,
   "monthlyHighlights": [],
   "annualHighlights": [],
-  "sourceHealth": []
+  "sourceHealth": [
+    {
+      "source": "Federal Register",
+      "status": "ok",
+      "items": 3
+    },
+    {
+      "source": "GOV.UK",
+      "status": "ok",
+      "items": 37
+    },
+    {
+      "source": "Crossref",
+      "status": "error",
+      "message": "400 https://api.crossref.org/works?query.bibliographic=ESG+climate+disclosure&filter=from-created-date%3A2026-08-25%2Cuntil-created-date%3A2026-09-01%2Ctype%3Ajournal-article&rows="
+    },
+    {
+      "source": "arXiv",
+      "status": "ok",
+      "items": 40
+    },
+    {
+      "source": "GitHub Models",
+      "status": "error",
+      "message": "GitHub Models 410: {\"error\":{\"code\":\"github_models_retirement_brownout\",\"message\":\"GitHub Models is temporarily unavailable as part of a scheduled retirement brownout.\"}}\n"
+    }
+  ],
+  "verifiedCandidateCount": 16
 }

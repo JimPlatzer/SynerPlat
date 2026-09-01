@@ -1,47 +1,723 @@
 {
-  "updatedAt": "2026-09-01T09:00:00+08:00",
+  "updatedAt": "2026-09-01T04:21:43.601Z",
   "items": [
-    {"id":"oecd-just-transition-sentiment-2026","type":"工作论文","title":"Taking the temperature on climate change and on just transition policies: Public sentiment in OECD countries","publisher":"OECD","date":"2026-08-31","publishedDate":"2026-08-31","eventDate":"2026-08-31","dateNote":"研究发布","sector":"高排放行业","tags":["公正转型","气候政策","劳动力","非同行评审"],"summary":"OECD 基于 27 个成员国数据评估公众对气候变化与转型政策的态度：超过三分之二受访者表达气候关切，但进一步行动的支持度低于关切度；经济脆弱家庭和排放密集行业劳动者更担忧转型的连带影响。","insight":"研究提示高排放行业转型方案需要把经济安全、成本分配、补偿机制与透明沟通纳入同一政策设计；该材料属于 OECD 工作论文，不等同于已完成同行评审的期刊论文。","url":"https://www.oecd.org/en/publications/taking-the-temperature-on-climate-change-and-on-just-transition-policies_96cf0561-en.html","featured":true},
-    {"id":"iea-key-ai-2026","type":"行业报告","title":"Key Questions on Energy and AI","publisher":"International Energy Agency","date":"2026","sector":"人工智能","tags":["AI","数据中心","能源安全"],"summary":"基于 2025 年《Energy and AI》继续更新数据中心电力需求、资本开支、供电瓶颈与高耗能 AI 应用趋势。","insight":"适合研究 AI 基础设施投资、能源约束和电网风险之间的传导关系。","url":"https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary","featured":true},
-    {"id":"ec-esrs-2026","type":"政策法规","title":"欧盟委员会通过修订版可持续发展报告标准（ESRS）","publisher":"European Commission","date":"2026-07-03","sector":"企业出海","tags":["CSRD","ESRS","披露"],"summary":"欧盟委员会采用修订后的 ESRS，并推出面向较小企业的自愿标准，属于 Omnibus I 简化方案的一部分。","insight":"直接影响在欧经营及处于欧盟企业价值链中的公司披露范围、数据准备与合规节奏。","url":"https://finance.ec.europa.eu/news/commission-adopts-revised-sustainability-reporting-standards-reduce-administrative-burdens-eu-2026-07-03_en","featured":true},
-    {"id":"ifrs-taxonomy-2026","type":"政策法规","title":"IFRS 可持续披露分类标准更新：温室气体排放修订","publisher":"IFRS Foundation / ISSB","date":"2026-07-29","sector":"高排放行业","tags":["ISSB","温室气体","数字披露"],"summary":"ISSB 就反映温室气体排放披露修订的可持续披露分类标准更新公开征求意见。","insight":"说明可持续信息正在加速走向结构化、机器可读和跨市场可比。","url":"https://www.ifrs.org/projects/work-plan/ifrs-sustainability-disclosure-taxonomy-update-amendments-ghg-emissions-disclosures/","featured":true},
-    {"id":"nature-water-metric-2026","type":"学术论文","title":"A quantitative metric for industrial water use sustainability for ESG reporting","publisher":"Nature Water","date":"2026-02-10","sector":"高排放行业","tags":["水资源","ESG指标","漂绿"],"summary":"研究指出当前企业水资源披露缺乏统一、透明的量化指标，并提出工业用水可持续性度量方法。","insight":"可用于研究高耗水企业 ESG 指标设计、跨企业比较和漂绿风险。","url":"https://www.nature.com/articles/s44221-025-00575-9","featured":false},
-    {"id":"unep-gap-2025","type":"白皮书","title":"Emissions Gap Report 2025: Off Target","publisher":"UN Environment Programme","date":"2025-11-04","sector":"高排放行业","tags":["减排差距","NDC","气候政策"],"summary":"UNEP 年度科学评估显示，最新国家气候承诺对本世纪升温预期改善有限，当前政策路径仍对应更高气候风险。","insight":"适合作为企业转型计划、政策情景和气候风险研究的宏观基准。","url":"https://www.unep.org/resources/emissions-gap-report-2025","featured":true},
-    {"id":"iea-energy-ai-2025","type":"行业报告","title":"Energy and AI","publisher":"International Energy Agency","date":"2025-04-10","sector":"人工智能","tags":["AI","电力需求","排放"],"summary":"IEA 综合建模 AI 与能源的双向影响，覆盖数据中心用电、供给结构、能源安全、创新、排放与可负担性。","insight":"是判断 AI 能源足迹与政策响应的关键基准报告。","url":"https://www.iea.org/reports/energy-and-ai/","featured":true},
-    {"id":"nature-clean-dc-2025","type":"学术论文","title":"Designing and regulating clean energy data centres","publisher":"Nature Reviews Clean Technology","date":"2025-05-09","sector":"人工智能","tags":["数据中心","清洁能源","监管"],"summary":"论文讨论如何通过计算、电力和热能系统协同，使数据中心从能源消费者转向更主动的能源系统参与者。","insight":"可支持数据中心清洁电力采购、余热利用和监管设计研究。","url":"https://www.nature.com/articles/s44359-025-00062-0","featured":false},
-    {"id":"google-ai-impact-2025","type":"工作论文","title":"Measuring the environmental impact of delivering AI at Google Scale","publisher":"arXiv / Google researchers","date":"2025-08-21","sector":"人工智能","tags":["推理能耗","水耗","测量方法"],"summary":"研究提出覆盖加速器、主机、闲置容量和数据中心开销的 AI 推理全栈环境影响测量方法。","insight":"提供产业侧实测方法，但结论应结合作者所属机构和适用边界审慎使用。","url":"https://arxiv.org/abs/2508.15734","featured":false},
-    {"id":"llm-footprint-2025","type":"工作论文","title":"How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference","publisher":"arXiv","date":"2025-05-14","sector":"人工智能","tags":["LLM","能耗基准","水耗"],"summary":"研究构建基础设施感知的框架，对多种大模型推理的能源、水与碳足迹进行对比。","insight":"适合研究模型效率与规模效应，但属于预印本，引用时需标注尚未完成同行评审。","url":"https://arxiv.org/abs/2505.09598","featured":false},
-    {"id":"ocean-disclosure-2025","type":"学术论文","title":"Identifying and closing gaps in corporate reporting of ocean impacts","publisher":"Nature Sustainability","date":"2025-09-08","sector":"新兴行业","tags":["海洋经济","自然相关披露","生物多样性"],"summary":"对八个海洋经济行业中 75 家大型企业报告进行内容分析，发现海洋特定影响的指标与目标仍明显不足。","insight":"揭示自然相关披露从通用碳指标走向生态系统特定指标的必要性。","url":"https://www.nature.com/articles/s41893-025-01631-8","featured":false},
-    {"id":"pollutant-risk-2025","type":"学术论文","title":"Integrating Pollutant Registers for Climate Risk Evaluation of Industrial Companies","publisher":"Scientific Reports","date":"2025-01-07","sector":"高排放行业","tags":["污染物登记","气候风险","工业企业"],"summary":"研究整合欧洲、北美和澳大利亚污染物登记数据，用于工业企业转型与物理气候风险评估。","insight":"为高排放企业的大规模、可比较气候风险筛选提供数据方法。","url":"https://www.nature.com/articles/s41598-024-82533-1","featured":false},
-    {"id":"oecd-ai-footprint-2022","type":"政策报告","title":"Measuring the environmental impacts of AI compute and applications","publisher":"OECD","date":"2022-11-15","sector":"人工智能","tags":["AI足迹","测量标准","透明度"],"summary":"OECD 区分 AI 计算与应用的直接和间接环境影响，建议建立测量标准、扩大数据收集并提高透明度。","insight":"虽非最新，但仍是界定 AI 环境影响边界和研究方法的重要政策基础。","url":"https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html","featured":false},
-    {"id":"nature-ai-climate-2025","type":"学术论文","title":"Artificial Intelligence-driven approach to climate action and sustainable development","publisher":"Nature Communications","date":"2025-01-31","sector":"人工智能","tags":["NDC","SDG","机器学习"],"summary":"研究用机器学习和自然语言处理比较67个国家的自愿国别评估与国家自主贡献，分析气候行动和可持续发展目标的协同。","insight":"提供使用 AI 进行跨国政策文本比较的可复用研究范式。","url":"https://www.nature.com/articles/s41467-024-53956-1","featured":true},
-    {"id":"npj-green-intelligent-2025","type":"学术论文","title":"Green and intelligent: the role of AI in the climate transition","publisher":"npj Climate Action","date":"2025-06-23","sector":"人工智能","tags":["气候转型","包容增长","AI治理"],"summary":"该开放获取观点文章系统讨论 AI 支持气候行动的机会，以及提高 AI 自身可持续性的政策与设计策略。","insight":"适合作为 AI 气候效应正负两面分析的理论框架。","url":"https://www.nature.com/articles/s44168-025-00252-3","featured":false},
-    {"id":"npj-adaptation-disclosure-2026","type":"学术论文","title":"Empirically assessing corporate adaptation and resilience disclosure using AI","publisher":"npj Climate Action","date":"2026","sector":"企业出海","tags":["适应力","企业披露","大语言模型"],"summary":"研究以大语言模型评估标普500企业可持续报告，发现适应和韧性相关的风险、指标和目标披露明显不足。","insight":"提示仅依赖企业可持续报告可能系统性低估物理气候风险。","url":"https://www.nature.com/articles/s44168-025-00321-7","featured":true},
-    {"id":"nature-ai-sdg-review-2025","type":"学术论文","title":"Artificial intelligence in sustainable development research","publisher":"Nature Sustainability","date":"2025-07-21","sector":"人工智能","tags":["系统综述","SDG","研究方法"],"summary":"综述792篇将 AI 用于可持续发展目标研究的同行评审论文，发现先进 AI 方法与深层可持续专业知识的结合仍然有限。","insight":"可用于识别 AI+可持续发展研究主题、学科分布和方法空白。","url":"https://www.nature.com/articles/s41893-025-01598-6","featured":true},
-    {"id":"nature-ai-netzero-2024","type":"学术评论","title":"Will AI accelerate or delay the race to net-zero emissions?","publisher":"Nature","date":"2024-04-22","sector":"人工智能","tags":["净零","情景分析","间接排放"],"summary":"文章强调 AI 对排放的间接系统效应可能远大于计算本身的直接足迹，需要使用多情景方法评估。","insight":"为区分 AI 的直接、应用和宏观结构效应提供概念框架。","url":"https://www.nature.com/articles/d41586-024-01137-x","featured":false},
-    {"id":"iscience-dc-transparency-2025","type":"学术论文","title":"Why transparency matters for sustainable data centers and carbon-neutral AI","publisher":"iScience","date":"2025-11-21","sector":"人工智能","tags":["数据中心","透明度","碳中和"],"summary":"开放获取文章讨论运营数据不透明如何限制数据中心减排研究和可持续技术创新。","insight":"支持研究数据中心强制披露、能效基准和环境信息透明度。","url":"https://www.sciencedirect.com/science/article/pii/S2589004225019662","featured":false},
-    {"id":"nature-sustainable-ai-2024","type":"学术论文","title":"Prioritize environmental sustainability in use of AI and data science methods","publisher":"Nature Geoscience","date":"2024-01-26","sector":"人工智能","tags":["科研计算","可持续设计","能耗"],"summary":"文章主张在环境研究使用 AI 与数据科学时同步核算计算资源需求并采用可持续设计原则。","insight":"适合制定研究项目计算足迹与方法透明度规范。","url":"https://www.nature.com/articles/s41561-023-01369-y","featured":false},
-    {"id":"renewable-ai-supplychain-2025","type":"学术论文","title":"Enhancing ESG performance through artificial intelligence supply chains in the energy industry","publisher":"Renewable Energy","date":"2025-06-01","sector":"新能源","tags":["AI供应链","创新","协作"],"summary":"基于314家能源企业数据，研究 AI 自适应供应链、创新协作能力与 ESG 表现之间的关系。","insight":"为能源企业将 AI 能力与可持续战略协同提供实证材料。","url":"https://www.sciencedirect.com/science/article/pii/S0960148125005178","featured":false},
-    {"id":"nature-soe-ai-esg-2025","type":"学术论文","title":"The impact of artificial intelligence-driven ESG performance on sustainable development of central state-owned enterprises","publisher":"Scientific Reports","date":"2025-03-12","sector":"高排放行业","tags":["央企","ESG绩效","AI应用"],"summary":"研究使用2016—2022年上市中央企业数据分析 AI 应用、ESG 表现与可持续发展绩效的关联及中介机制。","insight":"提供中国大型国有企业情境下的实证样本，但因果解释仍应审慎。","url":"https://www.nature.com/articles/s41598-025-93694-y","featured":false},
-    {"id":"patterns-dc-footprint-2026","type":"学术论文","title":"The carbon and water footprints of data centers and what this could mean for AI","publisher":"Patterns","date":"2026","sector":"人工智能","tags":["数据中心","水足迹","碳足迹"],"summary":"开放获取研究梳理数据中心碳与水足迹，并讨论 AI 成为新增用电增长动力后的测量和治理问题。","insight":"适合建立数据中心能源—碳—水三维评价框架。","url":"https://www.sciencedirect.com/science/article/pii/S2666389925002788","featured":false},
-    {"id":"green-paradox-ai-2026","type":"学术论文","title":"The green paradox: climate, environmental and sustainability implications of AI","publisher":"Global Environmental Change Advances","date":"2026","sector":"人工智能","tags":["综述","电子废物","资源消耗"],"summary":"综述 AI 在提高效率和解决环境问题的同时带来的能源、水资源与电子废弃物负担。","insight":"可用作研究 AI 可持续性反弹效应的综合入口。","url":"https://www.sciencedirect.com/science/article/pii/S2950138525000178","featured":false},
-    {"id":"oecd-finance-outlook-2025","type":"行业报告","title":"Global Outlook on Financing for Sustainable Development 2025","publisher":"OECD","date":"2025","sector":"绿色金融","tags":["可持续融资","SDG","漂绿"],"summary":"报告追踪全球可持续发展融资缺口、公共资金撬动私人资本与可持续分类标准的发展。","insight":"适合作为绿色金融市场规模和政策缺口的宏观数据来源。","url":"https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/global-outlook-on-financing-for-sustainable-development-2025_6748f647/753d5368-en.pdf","featured":true},
-    {"id":"arxiv-greenwashing-2025","type":"工作论文","title":"Towards Robust ESG Analysis Against Greenwashing Risks","publisher":"arXiv","date":"2025-02-20","sector":"企业出海","tags":["漂绿","自然语言处理","ESG分析"],"summary":"工作论文提出面向行动与议题的 ESG 文本分析方法，尝试降低误导性可持续声明对自动分析的影响。","insight":"可作为自动识别企业 ESG 声明与实际行动差异的方法参考；尚未完成同行评审。","url":"https://arxiv.org/abs/2502.15821","featured":false},
-    {"id":"iea-investment-2026","type":"行业报告","title":"World Energy Investment 2026","publisher":"International Energy Agency","date":"2026-05-28","sector":"新能源","tags":["能源投资","资本流向","区域数据"],"summary":"IEA 年度基准报告追踪各类能源项目的资本流向，并提供2026年全年投资估计和区域分析。","insight":"适合用于检验政策目标是否转化为真实资本开支。","url":"https://www.iea.org/reports/world-energy-investment-2026","featured":true},
-    {"id":"eu-ai-energy-roadmap-2026","type":"政策报告","title":"Strategic Roadmap for Digitalisation and AI in Energy","publisher":"European Commission","date":"2026-06-03","sector":"人工智能","tags":["能源数字化","AI","网络安全"],"summary":"欧盟路线图覆盖能源系统 AI 应用、技术主权、关键基础设施风险和可持续数字化。","insight":"对能源企业 AI 应用合规、网络安全和跨境技术依赖具有直接参考价值。","url":"https://energy.ec.europa.eu/news/commission-presents-measures-digitalise-europes-energy-system-while-ensuring-sustainable-2026-06-03_en","featured":true},
-    {"id":"ifrs-climate-progress-2024","type":"行业报告","title":"Progress on Corporate Climate-related Disclosures 2024","publisher":"IFRS Foundation","date":"2024-11","sector":"企业出海","tags":["TCFD","ISSB","司法辖区"],"summary":"报告比较多个司法辖区采用气候相关披露规则与保证要求的进度。","insight":"适合建立跨市场气候披露监管地图和合规时间表。","url":"https://www.ifrs.org/content/dam/ifrs/supporting-implementation/issb-standards/progress-climate-related-disclosures-2024.pdf","featured":false},
-    {"id":"uk-srs-2026","type":"政策法规","title":"UK Sustainability Reporting Standards S1 and S2","publisher":"UK Department for Business and Trade","date":"2026-02-25","sector":"企业出海","tags":["UK SRS","IFRS S1","IFRS S2"],"summary":"英国发布基于 IFRS 可持续披露标准的 S1 一般要求和 S2 气候相关披露框架。","insight":"对在英经营企业的可持续信息准备与跨框架映射具有直接价值。","url":"https://www.gov.uk/government/publications/uk-sustainability-reporting-standards-uk-srs-s1-and-uk-srs-s2","featured":true},
-    {"id":"cn-carbon-plan-2026","type":"政策法规","title":"中国“十五五”碳达峰行动方案","publisher":"中国国务院","date":"2026-07-09","sector":"高排放行业","tags":["碳达峰","非化石能源","2030目标"],"summary":"方案提出到2030年单位GDP二氧化碳排放较2025年下降17%、非化石能源消费占比达到25%等目标。","insight":"是判断中国能源、工业、交通与城乡建设低碳政策方向的年度核心文件。","url":"https://www.gov.cn/zhengce/content/202607/content_7074826.htm","featured":true},
-    {"id":"eudr-tools-2026","type":"政策法规","title":"欧盟更新零毁林法规产品范围与数字工具","publisher":"European Commission","date":"2026-07-13","sector":"企业出海","tags":["EUDR","尽职调查","供应链"],"summary":"欧盟更新零毁林法规覆盖产品清单，并明确提交尽职调查声明的信息系统安排。","insight":"直接影响农林产品及其衍生品进入欧盟市场的溯源、数据与供应商管理。","url":"https://environment.ec.europa.eu/news/commission-updates-product-scope-and-tools-support-eudr-2026-07-13_en","featured":true},
-    {"id":"eu-taxonomy-2020","type":"政策法规","title":"EU Taxonomy Regulation：欧盟可持续经济活动分类框架","publisher":"European Commission","date":"2020-06-22","sector":"绿色金融","tags":["EU Taxonomy","分类标准","绿色投资"],"summary":"欧盟分类法建立判断经济活动是否环境可持续的基础条件，并围绕气候、水、循环经济、污染和生物多样性设定六项目标。","insight":"是研究欧盟绿色金融、企业收入与资本开支对齐度，以及防范漂绿的基础法规入口。","url":"https://finance.ec.europa.eu/sustainable-finance/tools-and-standards/eu-taxonomy-sustainable-activities_en","featured":false},
-    {"id":"eu-csrd-2022","type":"政策法规","title":"Corporate Sustainability Reporting Directive（CSRD）","publisher":"European Commission","date":"2022-12","sector":"企业出海","tags":["CSRD","ESRS","双重重要性"],"summary":"CSRD 扩展欧盟企业可持续报告范围，并要求适用企业依据 ESRS 披露环境和社会风险、机会及其对人和环境的影响。","insight":"适合追踪双重重要性、数字标签和审验要求如何改变在欧企业及其价值链的数据责任。","url":"https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en","featured":true},
-    {"id":"eu-cbam-foundation-2023","type":"政策法规","title":"Carbon Border Adjustment Mechanism（CBAM）制度与实施资料","publisher":"European Commission","date":"2023","sector":"企业出海","tags":["CBAM","隐含排放","高排放产品"],"summary":"欧盟碳边境调节机制覆盖钢铁、铝、水泥、化肥、电力和氢等部门，并逐步把进口产品隐含排放与欧盟碳价连接。","insight":"是出口企业评估产品碳数据、核证责任、供应链减排和欧盟市场成本的核心法规入口。","url":"https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en","featured":true},
-    {"id":"eu-eudr-foundation-2023","type":"政策法规","title":"EU Deforestation Regulation（EUDR）制度说明","publisher":"European Commission","date":"2023","sector":"企业出海","tags":["EUDR","零毁林","供应链溯源"],"summary":"EUDR 要求进入欧盟或从欧盟出口的相关商品能够证明未来自近期毁林土地，并满足尽职调查和可追溯要求。","insight":"适合研究农林产品、橡胶、咖啡、可可等供应链的地理定位数据、供应商审查与市场准入风险。","url":"https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en","featured":true},
-    {"id":"ipcc-ar6-synthesis-2023","type":"白皮书","title":"Climate Change 2023: AR6 Synthesis Report","publisher":"Intergovernmental Panel on Climate Change","date":"2023-03","sector":"高排放行业","tags":["IPCC","气候科学","情景分析"],"summary":"IPCC 第六次评估综合报告汇总气候变化科学、影响与适应、减缓路径，并提供面向政策制定者的统一证据基础。","insight":"适合作为企业气候情景、转型计划、物理风险与净零路径研究的权威科学基准。","url":"https://www.ipcc.ch/report/ar6/syr/","featured":true},
-    {"id":"tnfd-recommendations-2023","type":"白皮书","title":"Recommendations of the Taskforce on Nature-related Financial Disclosures","publisher":"TNFD","date":"2023-09","sector":"新兴行业","tags":["TNFD","自然相关风险","生物多样性"],"summary":"TNFD 最终建议建立自然相关依赖、影响、风险与机会的披露框架，并提供 LEAP 评估方法及行业实施指引。","insight":"可用于将生物多样性、水资源、土地利用等自然议题纳入企业风险管理和资本配置。","url":"https://tnfd.global/wp-content/uploads/2023/08/Recommendations_of_the_Taskforce_on_Nature-related_Financial_Disclosures_September_2023.pdf","featured":true},
-    {"id":"issb-s1-s2-2023","type":"政策法规","title":"IFRS S1 与 IFRS S2：全球可持续与气候披露基准","publisher":"IFRS Foundation / ISSB","date":"2023-06-26","sector":"企业出海","tags":["IFRS S1","IFRS S2","气候披露"],"summary":"ISSB 首次发布 S1 可持续相关财务信息一般要求与 S2 气候相关披露标准，为资本市场建立统一披露语言。","insight":"适合做不同司法辖区披露规则映射，并识别治理、战略、风险管理、指标和目标的数据缺口。","url":"https://www.ifrs.org/news-and-events/news/2023/06/issb-issues-ifrs-s1-ifrs-s2.html/","featured":true},
-    {"id":"tcfd-final-2017","type":"白皮书","title":"Recommendations of the Task Force on Climate-related Financial Disclosures","publisher":"Financial Stability Board / TCFD","date":"2017-06-29","sector":"绿色金融","tags":["TCFD","治理","情景分析"],"summary":"TCFD 最终建议围绕治理、战略、风险管理、指标与目标四大支柱建立一致、可比的气候相关财务披露。","insight":"虽已由 ISSB 承接监测职责，但仍是理解现代气候披露架构和情景分析要求的历史基准。","url":"https://www.fsb.org/2017/06/recommendations-of-the-task-force-on-climate-related-financial-disclosures-2/","featured":false},
-    {"id":"iea-weo-2024","type":"行业报告","title":"World Energy Outlook 2024","publisher":"International Energy Agency","date":"2024-10-16","sector":"新能源","tags":["能源展望","情景模型","能源安全"],"summary":"IEA 年度旗舰报告以多情景分析全球能源需求、供给、安全、排放与经济发展，并纳入数据中心和人工智能带来的电力不确定性。","insight":"适合作为新能源投资、高排放资产转型和长期能源情景研究的宏观基准。","url":"https://www.iea.org/reports/world-energy-outlook-2024","featured":false},
-    {"id":"unep-adaptation-gap-2024","type":"白皮书","title":"Adaptation Gap Report 2024: Come Hell and High Water","publisher":"UN Environment Programme","date":"2024-11-07","sector":"绿色金融","tags":["气候适应","融资缺口","韧性"],"summary":"UNEP 评估全球气候适应规划、实施与融资进展，指出发展中国家的适应资金需求与实际流量之间仍存在巨大缺口。","insight":"适合研究物理气候风险、适应融资、韧性投资和发展中市场政策需求。","url":"https://www.unep.org/resources/adaptation-gap-report-2024","featured":false}
+    {
+      "id": "oecd-just-transition-sentiment-2026",
+      "type": "工作论文",
+      "title": "Taking the temperature on climate change and on just transition policies: Public sentiment in OECD countries",
+      "publisher": "OECD",
+      "date": "2026-08-31",
+      "publishedDate": "2026-08-31",
+      "eventDate": "2026-08-31",
+      "dateNote": "研究发布",
+      "sector": "高排放行业",
+      "tags": [
+        "公正转型",
+        "气候政策",
+        "劳动力",
+        "非同行评审"
+      ],
+      "summary": "OECD 基于 27 个成员国数据评估公众对气候变化与转型政策的态度：超过三分之二受访者表达气候关切，但进一步行动的支持度低于关切度；经济脆弱家庭和排放密集行业劳动者更担忧转型的连带影响。",
+      "insight": "研究提示高排放行业转型方案需要把经济安全、成本分配、补偿机制与透明沟通纳入同一政策设计；该材料属于 OECD 工作论文，不等同于已完成同行评审的期刊论文。",
+      "url": "https://www.oecd.org/en/publications/taking-the-temperature-on-climate-change-and-on-just-transition-policies_96cf0561-en.html",
+      "featured": true
+    },
+    {
+      "id": "iea-key-ai-2026",
+      "type": "行业报告",
+      "title": "Key Questions on Energy and AI",
+      "publisher": "International Energy Agency",
+      "date": "2026",
+      "sector": "人工智能",
+      "tags": [
+        "AI",
+        "数据中心",
+        "能源安全"
+      ],
+      "summary": "基于 2025 年《Energy and AI》继续更新数据中心电力需求、资本开支、供电瓶颈与高耗能 AI 应用趋势。",
+      "insight": "适合研究 AI 基础设施投资、能源约束和电网风险之间的传导关系。",
+      "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
+      "featured": true
+    },
+    {
+      "id": "ec-esrs-2026",
+      "type": "政策法规",
+      "title": "欧盟委员会通过修订版可持续发展报告标准（ESRS）",
+      "publisher": "European Commission",
+      "date": "2026-07-03",
+      "sector": "企业出海",
+      "tags": [
+        "CSRD",
+        "ESRS",
+        "披露"
+      ],
+      "summary": "欧盟委员会采用修订后的 ESRS，并推出面向较小企业的自愿标准，属于 Omnibus I 简化方案的一部分。",
+      "insight": "直接影响在欧经营及处于欧盟企业价值链中的公司披露范围、数据准备与合规节奏。",
+      "url": "https://finance.ec.europa.eu/news/commission-adopts-revised-sustainability-reporting-standards-reduce-administrative-burdens-eu-2026-07-03_en",
+      "featured": true
+    },
+    {
+      "id": "ifrs-taxonomy-2026",
+      "type": "政策法规",
+      "title": "IFRS 可持续披露分类标准更新：温室气体排放修订",
+      "publisher": "IFRS Foundation / ISSB",
+      "date": "2026-07-29",
+      "sector": "高排放行业",
+      "tags": [
+        "ISSB",
+        "温室气体",
+        "数字披露"
+      ],
+      "summary": "ISSB 就反映温室气体排放披露修订的可持续披露分类标准更新公开征求意见。",
+      "insight": "说明可持续信息正在加速走向结构化、机器可读和跨市场可比。",
+      "url": "https://www.ifrs.org/projects/work-plan/ifrs-sustainability-disclosure-taxonomy-update-amendments-ghg-emissions-disclosures/",
+      "featured": true
+    },
+    {
+      "id": "nature-water-metric-2026",
+      "type": "学术论文",
+      "title": "A quantitative metric for industrial water use sustainability for ESG reporting",
+      "publisher": "Nature Water",
+      "date": "2026-02-10",
+      "sector": "高排放行业",
+      "tags": [
+        "水资源",
+        "ESG指标",
+        "漂绿"
+      ],
+      "summary": "研究指出当前企业水资源披露缺乏统一、透明的量化指标，并提出工业用水可持续性度量方法。",
+      "insight": "可用于研究高耗水企业 ESG 指标设计、跨企业比较和漂绿风险。",
+      "url": "https://www.nature.com/articles/s44221-025-00575-9",
+      "featured": false
+    },
+    {
+      "id": "unep-gap-2025",
+      "type": "白皮书",
+      "title": "Emissions Gap Report 2025: Off Target",
+      "publisher": "UN Environment Programme",
+      "date": "2025-11-04",
+      "sector": "高排放行业",
+      "tags": [
+        "减排差距",
+        "NDC",
+        "气候政策"
+      ],
+      "summary": "UNEP 年度科学评估显示，最新国家气候承诺对本世纪升温预期改善有限，当前政策路径仍对应更高气候风险。",
+      "insight": "适合作为企业转型计划、政策情景和气候风险研究的宏观基准。",
+      "url": "https://www.unep.org/resources/emissions-gap-report-2025",
+      "featured": true
+    },
+    {
+      "id": "iea-energy-ai-2025",
+      "type": "行业报告",
+      "title": "Energy and AI",
+      "publisher": "International Energy Agency",
+      "date": "2025-04-10",
+      "sector": "人工智能",
+      "tags": [
+        "AI",
+        "电力需求",
+        "排放"
+      ],
+      "summary": "IEA 综合建模 AI 与能源的双向影响，覆盖数据中心用电、供给结构、能源安全、创新、排放与可负担性。",
+      "insight": "是判断 AI 能源足迹与政策响应的关键基准报告。",
+      "url": "https://www.iea.org/reports/energy-and-ai/",
+      "featured": true
+    },
+    {
+      "id": "nature-clean-dc-2025",
+      "type": "学术论文",
+      "title": "Designing and regulating clean energy data centres",
+      "publisher": "Nature Reviews Clean Technology",
+      "date": "2025-05-09",
+      "sector": "人工智能",
+      "tags": [
+        "数据中心",
+        "清洁能源",
+        "监管"
+      ],
+      "summary": "论文讨论如何通过计算、电力和热能系统协同，使数据中心从能源消费者转向更主动的能源系统参与者。",
+      "insight": "可支持数据中心清洁电力采购、余热利用和监管设计研究。",
+      "url": "https://www.nature.com/articles/s44359-025-00062-0",
+      "featured": false
+    },
+    {
+      "id": "google-ai-impact-2025",
+      "type": "工作论文",
+      "title": "Measuring the environmental impact of delivering AI at Google Scale",
+      "publisher": "arXiv / Google researchers",
+      "date": "2025-08-21",
+      "sector": "人工智能",
+      "tags": [
+        "推理能耗",
+        "水耗",
+        "测量方法"
+      ],
+      "summary": "研究提出覆盖加速器、主机、闲置容量和数据中心开销的 AI 推理全栈环境影响测量方法。",
+      "insight": "提供产业侧实测方法，但结论应结合作者所属机构和适用边界审慎使用。",
+      "url": "https://arxiv.org/abs/2508.15734",
+      "featured": false
+    },
+    {
+      "id": "llm-footprint-2025",
+      "type": "工作论文",
+      "title": "How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference",
+      "publisher": "arXiv",
+      "date": "2025-05-14",
+      "sector": "人工智能",
+      "tags": [
+        "LLM",
+        "能耗基准",
+        "水耗"
+      ],
+      "summary": "研究构建基础设施感知的框架，对多种大模型推理的能源、水与碳足迹进行对比。",
+      "insight": "适合研究模型效率与规模效应，但属于预印本，引用时需标注尚未完成同行评审。",
+      "url": "https://arxiv.org/abs/2505.09598",
+      "featured": false
+    },
+    {
+      "id": "ocean-disclosure-2025",
+      "type": "学术论文",
+      "title": "Identifying and closing gaps in corporate reporting of ocean impacts",
+      "publisher": "Nature Sustainability",
+      "date": "2025-09-08",
+      "sector": "新兴行业",
+      "tags": [
+        "海洋经济",
+        "自然相关披露",
+        "生物多样性"
+      ],
+      "summary": "对八个海洋经济行业中 75 家大型企业报告进行内容分析，发现海洋特定影响的指标与目标仍明显不足。",
+      "insight": "揭示自然相关披露从通用碳指标走向生态系统特定指标的必要性。",
+      "url": "https://www.nature.com/articles/s41893-025-01631-8",
+      "featured": false
+    },
+    {
+      "id": "pollutant-risk-2025",
+      "type": "学术论文",
+      "title": "Integrating Pollutant Registers for Climate Risk Evaluation of Industrial Companies",
+      "publisher": "Scientific Reports",
+      "date": "2025-01-07",
+      "sector": "高排放行业",
+      "tags": [
+        "污染物登记",
+        "气候风险",
+        "工业企业"
+      ],
+      "summary": "研究整合欧洲、北美和澳大利亚污染物登记数据，用于工业企业转型与物理气候风险评估。",
+      "insight": "为高排放企业的大规模、可比较气候风险筛选提供数据方法。",
+      "url": "https://www.nature.com/articles/s41598-024-82533-1",
+      "featured": false
+    },
+    {
+      "id": "oecd-ai-footprint-2022",
+      "type": "政策报告",
+      "title": "Measuring the environmental impacts of AI compute and applications",
+      "publisher": "OECD",
+      "date": "2022-11-15",
+      "sector": "人工智能",
+      "tags": [
+        "AI足迹",
+        "测量标准",
+        "透明度"
+      ],
+      "summary": "OECD 区分 AI 计算与应用的直接和间接环境影响，建议建立测量标准、扩大数据收集并提高透明度。",
+      "insight": "虽非最新，但仍是界定 AI 环境影响边界和研究方法的重要政策基础。",
+      "url": "https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html",
+      "featured": false
+    },
+    {
+      "id": "nature-ai-climate-2025",
+      "type": "学术论文",
+      "title": "Artificial Intelligence-driven approach to climate action and sustainable development",
+      "publisher": "Nature Communications",
+      "date": "2025-01-31",
+      "sector": "人工智能",
+      "tags": [
+        "NDC",
+        "SDG",
+        "机器学习"
+      ],
+      "summary": "研究用机器学习和自然语言处理比较67个国家的自愿国别评估与国家自主贡献，分析气候行动和可持续发展目标的协同。",
+      "insight": "提供使用 AI 进行跨国政策文本比较的可复用研究范式。",
+      "url": "https://www.nature.com/articles/s41467-024-53956-1",
+      "featured": true
+    },
+    {
+      "id": "npj-green-intelligent-2025",
+      "type": "学术论文",
+      "title": "Green and intelligent: the role of AI in the climate transition",
+      "publisher": "npj Climate Action",
+      "date": "2025-06-23",
+      "sector": "人工智能",
+      "tags": [
+        "气候转型",
+        "包容增长",
+        "AI治理"
+      ],
+      "summary": "该开放获取观点文章系统讨论 AI 支持气候行动的机会，以及提高 AI 自身可持续性的政策与设计策略。",
+      "insight": "适合作为 AI 气候效应正负两面分析的理论框架。",
+      "url": "https://www.nature.com/articles/s44168-025-00252-3",
+      "featured": false
+    },
+    {
+      "id": "npj-adaptation-disclosure-2026",
+      "type": "学术论文",
+      "title": "Empirically assessing corporate adaptation and resilience disclosure using AI",
+      "publisher": "npj Climate Action",
+      "date": "2026",
+      "sector": "企业出海",
+      "tags": [
+        "适应力",
+        "企业披露",
+        "大语言模型"
+      ],
+      "summary": "研究以大语言模型评估标普500企业可持续报告，发现适应和韧性相关的风险、指标和目标披露明显不足。",
+      "insight": "提示仅依赖企业可持续报告可能系统性低估物理气候风险。",
+      "url": "https://www.nature.com/articles/s44168-025-00321-7",
+      "featured": true
+    },
+    {
+      "id": "nature-ai-sdg-review-2025",
+      "type": "学术论文",
+      "title": "Artificial intelligence in sustainable development research",
+      "publisher": "Nature Sustainability",
+      "date": "2025-07-21",
+      "sector": "人工智能",
+      "tags": [
+        "系统综述",
+        "SDG",
+        "研究方法"
+      ],
+      "summary": "综述792篇将 AI 用于可持续发展目标研究的同行评审论文，发现先进 AI 方法与深层可持续专业知识的结合仍然有限。",
+      "insight": "可用于识别 AI+可持续发展研究主题、学科分布和方法空白。",
+      "url": "https://www.nature.com/articles/s41893-025-01598-6",
+      "featured": true
+    },
+    {
+      "id": "nature-ai-netzero-2024",
+      "type": "学术评论",
+      "title": "Will AI accelerate or delay the race to net-zero emissions?",
+      "publisher": "Nature",
+      "date": "2024-04-22",
+      "sector": "人工智能",
+      "tags": [
+        "净零",
+        "情景分析",
+        "间接排放"
+      ],
+      "summary": "文章强调 AI 对排放的间接系统效应可能远大于计算本身的直接足迹，需要使用多情景方法评估。",
+      "insight": "为区分 AI 的直接、应用和宏观结构效应提供概念框架。",
+      "url": "https://www.nature.com/articles/d41586-024-01137-x",
+      "featured": false
+    },
+    {
+      "id": "iscience-dc-transparency-2025",
+      "type": "学术论文",
+      "title": "Why transparency matters for sustainable data centers and carbon-neutral AI",
+      "publisher": "iScience",
+      "date": "2025-11-21",
+      "sector": "人工智能",
+      "tags": [
+        "数据中心",
+        "透明度",
+        "碳中和"
+      ],
+      "summary": "开放获取文章讨论运营数据不透明如何限制数据中心减排研究和可持续技术创新。",
+      "insight": "支持研究数据中心强制披露、能效基准和环境信息透明度。",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589004225019662",
+      "featured": false
+    },
+    {
+      "id": "nature-sustainable-ai-2024",
+      "type": "学术论文",
+      "title": "Prioritize environmental sustainability in use of AI and data science methods",
+      "publisher": "Nature Geoscience",
+      "date": "2024-01-26",
+      "sector": "人工智能",
+      "tags": [
+        "科研计算",
+        "可持续设计",
+        "能耗"
+      ],
+      "summary": "文章主张在环境研究使用 AI 与数据科学时同步核算计算资源需求并采用可持续设计原则。",
+      "insight": "适合制定研究项目计算足迹与方法透明度规范。",
+      "url": "https://www.nature.com/articles/s41561-023-01369-y",
+      "featured": false
+    },
+    {
+      "id": "renewable-ai-supplychain-2025",
+      "type": "学术论文",
+      "title": "Enhancing ESG performance through artificial intelligence supply chains in the energy industry",
+      "publisher": "Renewable Energy",
+      "date": "2025-06-01",
+      "sector": "新能源",
+      "tags": [
+        "AI供应链",
+        "创新",
+        "协作"
+      ],
+      "summary": "基于314家能源企业数据，研究 AI 自适应供应链、创新协作能力与 ESG 表现之间的关系。",
+      "insight": "为能源企业将 AI 能力与可持续战略协同提供实证材料。",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0960148125005178",
+      "featured": false
+    },
+    {
+      "id": "nature-soe-ai-esg-2025",
+      "type": "学术论文",
+      "title": "The impact of artificial intelligence-driven ESG performance on sustainable development of central state-owned enterprises",
+      "publisher": "Scientific Reports",
+      "date": "2025-03-12",
+      "sector": "高排放行业",
+      "tags": [
+        "央企",
+        "ESG绩效",
+        "AI应用"
+      ],
+      "summary": "研究使用2016—2022年上市中央企业数据分析 AI 应用、ESG 表现与可持续发展绩效的关联及中介机制。",
+      "insight": "提供中国大型国有企业情境下的实证样本，但因果解释仍应审慎。",
+      "url": "https://www.nature.com/articles/s41598-025-93694-y",
+      "featured": false
+    },
+    {
+      "id": "patterns-dc-footprint-2026",
+      "type": "学术论文",
+      "title": "The carbon and water footprints of data centers and what this could mean for AI",
+      "publisher": "Patterns",
+      "date": "2026",
+      "sector": "人工智能",
+      "tags": [
+        "数据中心",
+        "水足迹",
+        "碳足迹"
+      ],
+      "summary": "开放获取研究梳理数据中心碳与水足迹，并讨论 AI 成为新增用电增长动力后的测量和治理问题。",
+      "insight": "适合建立数据中心能源—碳—水三维评价框架。",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666389925002788",
+      "featured": false
+    },
+    {
+      "id": "green-paradox-ai-2026",
+      "type": "学术论文",
+      "title": "The green paradox: climate, environmental and sustainability implications of AI",
+      "publisher": "Global Environmental Change Advances",
+      "date": "2026",
+      "sector": "人工智能",
+      "tags": [
+        "综述",
+        "电子废物",
+        "资源消耗"
+      ],
+      "summary": "综述 AI 在提高效率和解决环境问题的同时带来的能源、水资源与电子废弃物负担。",
+      "insight": "可用作研究 AI 可持续性反弹效应的综合入口。",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2950138525000178",
+      "featured": false
+    },
+    {
+      "id": "oecd-finance-outlook-2025",
+      "type": "行业报告",
+      "title": "Global Outlook on Financing for Sustainable Development 2025",
+      "publisher": "OECD",
+      "date": "2025",
+      "sector": "绿色金融",
+      "tags": [
+        "可持续融资",
+        "SDG",
+        "漂绿"
+      ],
+      "summary": "报告追踪全球可持续发展融资缺口、公共资金撬动私人资本与可持续分类标准的发展。",
+      "insight": "适合作为绿色金融市场规模和政策缺口的宏观数据来源。",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/global-outlook-on-financing-for-sustainable-development-2025_6748f647/753d5368-en.pdf",
+      "featured": true
+    },
+    {
+      "id": "arxiv-greenwashing-2025",
+      "type": "工作论文",
+      "title": "Towards Robust ESG Analysis Against Greenwashing Risks",
+      "publisher": "arXiv",
+      "date": "2025-02-20",
+      "sector": "企业出海",
+      "tags": [
+        "漂绿",
+        "自然语言处理",
+        "ESG分析"
+      ],
+      "summary": "工作论文提出面向行动与议题的 ESG 文本分析方法，尝试降低误导性可持续声明对自动分析的影响。",
+      "insight": "可作为自动识别企业 ESG 声明与实际行动差异的方法参考；尚未完成同行评审。",
+      "url": "https://arxiv.org/abs/2502.15821",
+      "featured": false
+    },
+    {
+      "id": "iea-investment-2026",
+      "type": "行业报告",
+      "title": "World Energy Investment 2026",
+      "publisher": "International Energy Agency",
+      "date": "2026-05-28",
+      "sector": "新能源",
+      "tags": [
+        "能源投资",
+        "资本流向",
+        "区域数据"
+      ],
+      "summary": "IEA 年度基准报告追踪各类能源项目的资本流向，并提供2026年全年投资估计和区域分析。",
+      "insight": "适合用于检验政策目标是否转化为真实资本开支。",
+      "url": "https://www.iea.org/reports/world-energy-investment-2026",
+      "featured": true
+    },
+    {
+      "id": "eu-ai-energy-roadmap-2026",
+      "type": "政策报告",
+      "title": "Strategic Roadmap for Digitalisation and AI in Energy",
+      "publisher": "European Commission",
+      "date": "2026-06-03",
+      "sector": "人工智能",
+      "tags": [
+        "能源数字化",
+        "AI",
+        "网络安全"
+      ],
+      "summary": "欧盟路线图覆盖能源系统 AI 应用、技术主权、关键基础设施风险和可持续数字化。",
+      "insight": "对能源企业 AI 应用合规、网络安全和跨境技术依赖具有直接参考价值。",
+      "url": "https://energy.ec.europa.eu/news/commission-presents-measures-digitalise-europes-energy-system-while-ensuring-sustainable-2026-06-03_en",
+      "featured": true
+    },
+    {
+      "id": "ifrs-climate-progress-2024",
+      "type": "行业报告",
+      "title": "Progress on Corporate Climate-related Disclosures 2024",
+      "publisher": "IFRS Foundation",
+      "date": "2024-11",
+      "sector": "企业出海",
+      "tags": [
+        "TCFD",
+        "ISSB",
+        "司法辖区"
+      ],
+      "summary": "报告比较多个司法辖区采用气候相关披露规则与保证要求的进度。",
+      "insight": "适合建立跨市场气候披露监管地图和合规时间表。",
+      "url": "https://www.ifrs.org/content/dam/ifrs/supporting-implementation/issb-standards/progress-climate-related-disclosures-2024.pdf",
+      "featured": false
+    },
+    {
+      "id": "uk-srs-2026",
+      "type": "政策法规",
+      "title": "UK Sustainability Reporting Standards S1 and S2",
+      "publisher": "UK Department for Business and Trade",
+      "date": "2026-02-25",
+      "sector": "企业出海",
+      "tags": [
+        "UK SRS",
+        "IFRS S1",
+        "IFRS S2"
+      ],
+      "summary": "英国发布基于 IFRS 可持续披露标准的 S1 一般要求和 S2 气候相关披露框架。",
+      "insight": "对在英经营企业的可持续信息准备与跨框架映射具有直接价值。",
+      "url": "https://www.gov.uk/government/publications/uk-sustainability-reporting-standards-uk-srs-s1-and-uk-srs-s2",
+      "featured": true
+    },
+    {
+      "id": "cn-carbon-plan-2026",
+      "type": "政策法规",
+      "title": "中国“十五五”碳达峰行动方案",
+      "publisher": "中国国务院",
+      "date": "2026-07-09",
+      "sector": "高排放行业",
+      "tags": [
+        "碳达峰",
+        "非化石能源",
+        "2030目标"
+      ],
+      "summary": "方案提出到2030年单位GDP二氧化碳排放较2025年下降17%、非化石能源消费占比达到25%等目标。",
+      "insight": "是判断中国能源、工业、交通与城乡建设低碳政策方向的年度核心文件。",
+      "url": "https://www.gov.cn/zhengce/content/202607/content_7074826.htm",
+      "featured": true
+    },
+    {
+      "id": "eudr-tools-2026",
+      "type": "政策法规",
+      "title": "欧盟更新零毁林法规产品范围与数字工具",
+      "publisher": "European Commission",
+      "date": "2026-07-13",
+      "sector": "企业出海",
+      "tags": [
+        "EUDR",
+        "尽职调查",
+        "供应链"
+      ],
+      "summary": "欧盟更新零毁林法规覆盖产品清单，并明确提交尽职调查声明的信息系统安排。",
+      "insight": "直接影响农林产品及其衍生品进入欧盟市场的溯源、数据与供应商管理。",
+      "url": "https://environment.ec.europa.eu/news/commission-updates-product-scope-and-tools-support-eudr-2026-07-13_en",
+      "featured": true
+    },
+    {
+      "id": "eu-taxonomy-2020",
+      "type": "政策法规",
+      "title": "EU Taxonomy Regulation：欧盟可持续经济活动分类框架",
+      "publisher": "European Commission",
+      "date": "2020-06-22",
+      "sector": "绿色金融",
+      "tags": [
+        "EU Taxonomy",
+        "分类标准",
+        "绿色投资"
+      ],
+      "summary": "欧盟分类法建立判断经济活动是否环境可持续的基础条件，并围绕气候、水、循环经济、污染和生物多样性设定六项目标。",
+      "insight": "是研究欧盟绿色金融、企业收入与资本开支对齐度，以及防范漂绿的基础法规入口。",
+      "url": "https://finance.ec.europa.eu/sustainable-finance/tools-and-standards/eu-taxonomy-sustainable-activities_en",
+      "featured": false
+    },
+    {
+      "id": "eu-csrd-2022",
+      "type": "政策法规",
+      "title": "Corporate Sustainability Reporting Directive（CSRD）",
+      "publisher": "European Commission",
+      "date": "2022-12",
+      "sector": "企业出海",
+      "tags": [
+        "CSRD",
+        "ESRS",
+        "双重重要性"
+      ],
+      "summary": "CSRD 扩展欧盟企业可持续报告范围，并要求适用企业依据 ESRS 披露环境和社会风险、机会及其对人和环境的影响。",
+      "insight": "适合追踪双重重要性、数字标签和审验要求如何改变在欧企业及其价值链的数据责任。",
+      "url": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+      "featured": true
+    },
+    {
+      "id": "eu-cbam-foundation-2023",
+      "type": "政策法规",
+      "title": "Carbon Border Adjustment Mechanism（CBAM）制度与实施资料",
+      "publisher": "European Commission",
+      "date": "2023",
+      "sector": "企业出海",
+      "tags": [
+        "CBAM",
+        "隐含排放",
+        "高排放产品"
+      ],
+      "summary": "欧盟碳边境调节机制覆盖钢铁、铝、水泥、化肥、电力和氢等部门，并逐步把进口产品隐含排放与欧盟碳价连接。",
+      "insight": "是出口企业评估产品碳数据、核证责任、供应链减排和欧盟市场成本的核心法规入口。",
+      "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en",
+      "featured": true
+    },
+    {
+      "id": "eu-eudr-foundation-2023",
+      "type": "政策法规",
+      "title": "EU Deforestation Regulation（EUDR）制度说明",
+      "publisher": "European Commission",
+      "date": "2023",
+      "sector": "企业出海",
+      "tags": [
+        "EUDR",
+        "零毁林",
+        "供应链溯源"
+      ],
+      "summary": "EUDR 要求进入欧盟或从欧盟出口的相关商品能够证明未来自近期毁林土地，并满足尽职调查和可追溯要求。",
+      "insight": "适合研究农林产品、橡胶、咖啡、可可等供应链的地理定位数据、供应商审查与市场准入风险。",
+      "url": "https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en",
+      "featured": true
+    },
+    {
+      "id": "ipcc-ar6-synthesis-2023",
+      "type": "白皮书",
+      "title": "Climate Change 2023: AR6 Synthesis Report",
+      "publisher": "Intergovernmental Panel on Climate Change",
+      "date": "2023-03",
+      "sector": "高排放行业",
+      "tags": [
+        "IPCC",
+        "气候科学",
+        "情景分析"
+      ],
+      "summary": "IPCC 第六次评估综合报告汇总气候变化科学、影响与适应、减缓路径，并提供面向政策制定者的统一证据基础。",
+      "insight": "适合作为企业气候情景、转型计划、物理风险与净零路径研究的权威科学基准。",
+      "url": "https://www.ipcc.ch/report/ar6/syr/",
+      "featured": true
+    },
+    {
+      "id": "tnfd-recommendations-2023",
+      "type": "白皮书",
+      "title": "Recommendations of the Taskforce on Nature-related Financial Disclosures",
+      "publisher": "TNFD",
+      "date": "2023-09",
+      "sector": "新兴行业",
+      "tags": [
+        "TNFD",
+        "自然相关风险",
+        "生物多样性"
+      ],
+      "summary": "TNFD 最终建议建立自然相关依赖、影响、风险与机会的披露框架，并提供 LEAP 评估方法及行业实施指引。",
+      "insight": "可用于将生物多样性、水资源、土地利用等自然议题纳入企业风险管理和资本配置。",
+      "url": "https://tnfd.global/wp-content/uploads/2023/08/Recommendations_of_the_Taskforce_on_Nature-related_Financial_Disclosures_September_2023.pdf",
+      "featured": true
+    },
+    {
+      "id": "issb-s1-s2-2023",
+      "type": "政策法规",
+      "title": "IFRS S1 与 IFRS S2：全球可持续与气候披露基准",
+      "publisher": "IFRS Foundation / ISSB",
+      "date": "2023-06-26",
+      "sector": "企业出海",
+      "tags": [
+        "IFRS S1",
+        "IFRS S2",
+        "气候披露"
+      ],
+      "summary": "ISSB 首次发布 S1 可持续相关财务信息一般要求与 S2 气候相关披露标准，为资本市场建立统一披露语言。",
+      "insight": "适合做不同司法辖区披露规则映射，并识别治理、战略、风险管理、指标和目标的数据缺口。",
+      "url": "https://www.ifrs.org/news-and-events/news/2023/06/issb-issues-ifrs-s1-ifrs-s2.html/",
+      "featured": true
+    },
+    {
+      "id": "tcfd-final-2017",
+      "type": "白皮书",
+      "title": "Recommendations of the Task Force on Climate-related Financial Disclosures",
+      "publisher": "Financial Stability Board / TCFD",
+      "date": "2017-06-29",
+      "sector": "绿色金融",
+      "tags": [
+        "TCFD",
+        "治理",
+        "情景分析"
+      ],
+      "summary": "TCFD 最终建议围绕治理、战略、风险管理、指标与目标四大支柱建立一致、可比的气候相关财务披露。",
+      "insight": "虽已由 ISSB 承接监测职责，但仍是理解现代气候披露架构和情景分析要求的历史基准。",
+      "url": "https://www.fsb.org/2017/06/recommendations-of-the-task-force-on-climate-related-financial-disclosures-2/",
+      "featured": false
+    },
+    {
+      "id": "iea-weo-2024",
+      "type": "行业报告",
+      "title": "World Energy Outlook 2024",
+      "publisher": "International Energy Agency",
+      "date": "2024-10-16",
+      "sector": "新能源",
+      "tags": [
+        "能源展望",
+        "情景模型",
+        "能源安全"
+      ],
+      "summary": "IEA 年度旗舰报告以多情景分析全球能源需求、供给、安全、排放与经济发展，并纳入数据中心和人工智能带来的电力不确定性。",
+      "insight": "适合作为新能源投资、高排放资产转型和长期能源情景研究的宏观基准。",
+      "url": "https://www.iea.org/reports/world-energy-outlook-2024",
+      "featured": false
+    },
+    {
+      "id": "unep-adaptation-gap-2024",
+      "type": "白皮书",
+      "title": "Adaptation Gap Report 2024: Come Hell and High Water",
+      "publisher": "UN Environment Programme",
+      "date": "2024-11-07",
+      "sector": "绿色金融",
+      "tags": [
+        "气候适应",
+        "融资缺口",
+        "韧性"
+      ],
+      "summary": "UNEP 评估全球气候适应规划、实施与融资进展，指出发展中国家的适应资金需求与实际流量之间仍存在巨大缺口。",
+      "insight": "适合研究物理气候风险、适应融资、韧性投资和发展中市场政策需求。",
+      "url": "https://www.unep.org/resources/adaptation-gap-report-2024",
+      "featured": false
+    }
   ]
 }
