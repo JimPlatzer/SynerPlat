@@ -1,0 +1,73 @@
+name: Daily intelligence and GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '20 0 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: synerplat-pages
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  models: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Retrieve and curate daily intelligence
+        if: github.event_name != 'push'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/update-intelligence.mjs
+      - name: Commit verified data changes
+        if: github.event_name != 'push'
+        run: |
+          if git diff --quiet -- public/auto-intelligence.json public/research-library.json; then
+            echo "No data changes to commit"
+          else
+            git config user.name "synerplat-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/auto-intelligence.json public/research-library.json
+            git commit -m "chore(data): daily ESG intelligence update"
+            git push
+          fi
+      - name: Validate production build
+        run: npm run check
+      - name: Export static Pages artifact
+        env:
+          SYNERPLAT_BASE_PATH: /SynerPlat/
+        run: npm run export:static
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: static-dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

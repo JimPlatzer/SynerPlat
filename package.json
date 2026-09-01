@@ -15,8 +15,9 @@
   "scripts": {
     "dev": "vinext dev",
     "build": "vinext build",
+    "export:static": "node scripts/export-static.mjs",
     "start": "vinext start",
-    "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
+    "lint": "eslint . --ignore-pattern dist --ignore-pattern .next --ignore-pattern static-dist",
     "typecheck": "tsc --noEmit",
     "check": "npm run lint && npm run typecheck && npm run build"
   },

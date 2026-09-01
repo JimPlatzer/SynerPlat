@@ -6,7 +6,8 @@ export const monthlyHighlights:Highlight[]=[
   {date:'08.17',title:'加拿大宣布最高100亿加元清洁电力投资与融资支持',summary:'投资组合覆盖Churchill Falls升级、Gull Island水电与输电基础设施，并与关键矿产开发相衔接。',sector:'新能源',source:'Natural Resources Canada',url:'https://www.canada.ca/en/natural-resources-canada/news/2026/08/prime-minister-carney-announces-the-largest-clean-energy-investment-in-north-american-history.html',score:9},
   {date:'08.24',title:'中国原则通过多行业全国碳市场配额方案',summary:'发电、钢铁、水泥与铝冶炼被纳入相关年度配额安排，并强化碳排放数据质量与履约管理。',sector:'高排放行业',source:'中国生态环境部',url:'https://www.mee.gov.cn/ywdt/hjywnews/202608/t20260824_1164432.shtml',score:10},
   {date:'08.27',title:'西班牙拟对数据中心建立能源、水效和数字主权要求',summary:'拟要求新增可再生能源逐小时覆盖至少80%用电，并设置严格能源和水资源效率标准。',sector:'人工智能',source:'西班牙数字化转型部',url:'https://digital.gob.es/comunicacion/notas-prensa/mtdfp/2026/08/el-gobierno-plantea-impulsar-los-centros-de-datos-sostenibles--e',score:9},
-  {date:'08.29',title:'澳大利亚推进气候披露与排放清单数字化发布',summary:'联邦实体和公司将通过统一透明度门户发布气候披露和排放数据，机器可读披露继续扩散。',sector:'企业出海',source:'澳大利亚财政部',url:'https://www.finance.gov.au/government/managing-commonwealth-resources/commonwealth-climate-disclosure-rmg-140/publishing-climate-disclosure',score:8}
+  {date:'08.29',title:'澳大利亚推进气候披露与排放清单数字化发布',summary:'联邦实体和公司将通过统一透明度门户发布气候披露和排放数据，机器可读披露继续扩散。',sector:'企业出海',source:'澳大利亚财政部',url:'https://www.finance.gov.au/government/managing-commonwealth-resources/commonwealth-climate-disclosure-rmg-140/publishing-climate-disclosure',score:8},
+  {date:'08.31',title:'OECD 发布 27 国公正转型公众态度研究',summary:'工作论文显示，气候关切并不会自动转化为政策支持；经济安全、成本分配、补偿机制与透明沟通将直接影响高排放行业转型的社会接受度。',sector:'高排放行业',source:'OECD',url:'https://www.oecd.org/en/publications/taking-the-temperature-on-climate-change-and-on-just-transition-policies_96cf0561-en.html',score:8}
 ];
 
 export const annualHighlights:Highlight[]=[

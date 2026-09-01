@@ -15,6 +15,7 @@ SynerPlat 是一个开源的 ESG 政策、重大动态与研究资料情报网�
 - 权威政策、新闻和学术资料联网搜索入口
 - 本周／本月总结、关键词词云和频率条形图
 - 独立的数据洞察与时间轴页面
+- 每日 GitHub Actions 自动检索、证据筛选、去重、构建与公开发布
 
 > 研究内容用于信息整理，不构成法律、投资或合规意见。日期、摘要与分类在正式引用前仍应回到原始来源核验。
 
@@ -32,7 +33,7 @@ SynerPlat 是一个开源的 ESG 政策、重大动态与研究资料情报网�
 
 ```bash
 git clone https://github.com/JimPlatzer/SynerPlat.git
-cd synerplat-esg-intelligence
+cd SynerPlat
 npm ci
 ```
 
@@ -74,12 +75,14 @@ cp .env.example .env.local
 - `app/intelligence-data.ts` 包含月度和年度重点。
 - 新增资料应保留原始链接、发布机构、日期、资料类型和简要研究价值。
 - 同行评审论文、预印本、政策文件和行业报告应明确区分。
+- `public/auto-intelligence.json` 保存自动任务生成的滚动窗口、摘要与来源健康状态。
+- 自动任务仅处理能够打开原始页面的候选；模型不可用或证据不足时会保留已有数据，不会把搜索摘要直接写入网站。
 
 ## 部署
 
-### 推荐：OpenAI Sites 或 Cloudflare Workers
+### OpenAI Sites 或 Cloudflare Workers
 
-本项目的 `vinext build` 会生成 `dist/server/index.js`，包含 React Server Components 所需的服务端 Worker。因此它不是纯静态网站，GitHub Pages 无法执行该服务端产物；本仓库没有配置会导致功能缺失的 Pages workflow。
+本项目的标准 `vinext build` 会生成包含 React Server Components 的服务端 Worker。OpenAI Sites 或兼容 Cloudflare Workers 的平台可以直接运行这套产物，适合作为完整动态部署。
 
 最简单的完整功能部署方式是 OpenAI Sites。使用 Sites 时，将 [`.openai/hosting.example.json`](.openai/hosting.example.json) 复制为 `.openai/hosting.json`，并填入你自己的项目 ID。该本地配置已被 Git 忽略。
 
@@ -90,7 +93,18 @@ npm ci
 npm run check
 ```
 
-如果未来将应用改造成完全静态导出，再考虑 GitHub Pages；届时还需要处理仓库子路径、客户端路由回退和静态资源 base path。
+### GitHub Pages 无人值守镜像
+
+仓库提供 `.github/workflows/daily-pages.yml`。它每天自动执行以下流程：
+
+1. 从官方 API、政府 Atom feed、Crossref 与 arXiv 获取最近更新；
+2. 打开原始页面验证链接，并使用 GitHub Models 做重大性筛选、中文摘要和分类；
+3. 更新公开 JSON 数据、运行完整构建检查；
+4. 从 Worker 构建生成静态快照并部署到 GitHub Pages。
+
+静态导出脚本会在构建阶段渲染首页与数据页，并将客户端交互和公开 JSON 数据一起封装为 Pages 兼容快照。该流程每天北京时间 08:20 运行，也可在 Actions 页面手动触发。它使用 GitHub Actions 的短期令牌与 `models: read` 权限，不需要把长期 API Key 提交到仓库。GitHub Pages 地址为 <https://jimplatzer.github.io/SynerPlat/>。
+
+自动检索采用失败关闭策略：原始页面无法访问、模型不可用或证据不足时不会写入新条目；任务状态会记录在 `sourceHealth` 中。自动结果适合做研究线索，不替代正式引用前的人工核验。
 
 ## 项目结构
 
@@ -103,10 +117,12 @@ npm run check
 │   ├── layout.tsx            # 元数据与根布局
 │   └── page.tsx              # 首页与主要交互
 ├── public/
+│   ├── auto-intelligence.json # 自动检索生成的滚动情报
 │   ├── research-library.json # 研究资料库
 │   ├── og.png                # 社交分享图
 │   └── favicon.svg
-├── .github/workflows/ci.yml  # 自动构建检查
+├── scripts/                  # 自动检索与静态导出脚本
+├── .github/workflows/        # CI 与每日无人值守发布
 ├── .env.example              # 可选环境变量示例
 ├── LICENSE                   # MIT License
 ├── SECURITY.md               # 安全问题报告方式
