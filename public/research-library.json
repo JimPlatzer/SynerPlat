@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-09-01T04:21:43.601Z",
+  "updatedAt": "2026-09-01T05:15:14.062Z",
   "items": [
+    {
+      "id": "doi-10-1007-s10462-026-11684-6",
+      "type": "学术论文",
+      "title": "Reframing sentiment analysis in the LLM Era: a comprehensive review of methods, evaluation, and sustainability",
+      "publisher": "Springer Science and Business Media LLC",
+      "date": "2026-08-27",
+      "publishedDate": "2026-08-27",
+      "eventDate": "2026-08-27",
+      "dateNote": "论文发表",
+      "sector": "新能源",
+      "tags": [
+        "气候与碳",
+        "披露监管",
+        "同行评审状态待核"
+      ],
+      "summary": "Abstract Sentiment analysis has evolved rapidly from lexicon-based pipelines to transformer and large language model centric systems, expanding its role across domains such as finance, healthcare, crisis monitoring, education, and public opinion analysis while exposing persistent challenges in reproducibility, calibration, fairness, operational reliability,…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.1007/s10462-026-11684-6",
+      "featured": false
+    },
+    {
+      "id": "doi-10-1177-0958305x261475390",
+      "type": "学术论文",
+      "title": "ICT diffusion and cleaner energy transition as catalysts for environmental sustainability in Sub-Saharan Africa",
+      "publisher": "SAGE Publications",
+      "date": "2026-08-25",
+      "publishedDate": "2026-08-25",
+      "eventDate": "2026-08-25",
+      "dateNote": "论文发表",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ],
+      "summary": "Background This study examines the impact of education, information and communication technology (ICT) diffusion, cleaner energy transition (CET), and political stability on environmental sustainability (EVS) in 43 Sub-Saharan African (SSA) countries. The study is motivated by persistent environmental challenges and the growing need to align development with…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.1177/0958305x261475390",
+      "featured": false
+    },
     {
       "id": "oecd-just-transition-sentiment-2026",
       "type": "工作论文",

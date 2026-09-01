@@ -13,18 +13,21 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://jimplatzer.github.io/SynerPlat/'),
   title: 'SynerPlat｜ESG、政策与研究情报平台',
   description: '每日检索可靠新闻、政策、学术论文、白皮书和行业报告，并以可视化方式呈现。',
+  alternates: { canonical: 'https://jimplatzer.github.io/SynerPlat/' },
   openGraph: {
     title: 'SynerPlat｜ESG、政策与研究情报平台',
     description: '每日检索可靠新闻、政策、学术论文、白皮书和行业报告。',
-    images: [{ url: '/og.png', width: 1731, height: 909, alt: 'SynerPlat ESG 与研究情报平台' }],
+    url: 'https://jimplatzer.github.io/SynerPlat/',
+    images: [{ url: 'https://jimplatzer.github.io/SynerPlat/og.png', width: 1731, height: 909, alt: 'SynerPlat ESG 与研究情报平台' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'SynerPlat｜ESG、政策与研究情报平台',
     description: '每日检索可靠新闻、政策、学术论文、白皮书和行业报告。',
-    images: ['/og.png'],
+    images: ['https://jimplatzer.github.io/SynerPlat/og.png'],
   },
 };
 

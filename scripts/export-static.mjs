@@ -57,9 +57,17 @@ server.stderr.on('data',chunk=>{logs+=chunk});
 async function stopServer(){
  if(!server.pid||server.exitCode!==null)return;
  const exited=new Promise(resolve=>server.once('exit',resolve));
- try{grouped?process.kill(-server.pid,'SIGTERM'):server.kill('SIGTERM')}catch{}
+ try{
+  if(grouped)process.kill(-server.pid,'SIGTERM');
+  else server.kill('SIGTERM');
+ }catch{}
  await Promise.race([exited,new Promise(resolve=>setTimeout(resolve,2000))]);
- if(server.exitCode===null){try{grouped?process.kill(-server.pid,'SIGKILL'):server.kill('SIGKILL')}catch{}}
+ if(server.exitCode===null){
+  try{
+   if(grouped)process.kill(-server.pid,'SIGKILL');
+   else server.kill('SIGKILL');
+  }catch{}
+ }
 }
 
 try{

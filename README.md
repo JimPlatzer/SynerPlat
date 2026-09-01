@@ -98,13 +98,13 @@ npm run check
 仓库提供 `.github/workflows/daily-pages.yml`。它每天自动执行以下流程：
 
 1. 从官方 API、政府 Atom feed、Crossref 与 arXiv 获取最近更新；
-2. 打开原始页面验证链接，并使用 GitHub Models 做重大性筛选、中文摘要和分类；
+2. 打开原始页面验证链接，以确定性规则完成重大性筛选和分类；GitHub Models 可用时用于提升中文摘要质量；
 3. 更新公开 JSON 数据、运行完整构建检查；
 4. 从 Worker 构建生成静态快照并部署到 GitHub Pages。
 
 静态导出脚本会在构建阶段渲染首页与数据页，并将客户端交互和公开 JSON 数据一起封装为 Pages 兼容快照。该流程每天北京时间 08:20 运行，也可在 Actions 页面手动触发。它使用 GitHub Actions 的短期令牌与 `models: read` 权限，不需要把长期 API Key 提交到仓库。GitHub Pages 地址为 <https://jimplatzer.github.io/SynerPlat/>。
 
-自动检索采用失败关闭策略：原始页面无法访问、模型不可用或证据不足时不会写入新条目；任务状态会记录在 `sourceHealth` 中。自动结果适合做研究线索，不替代正式引用前的人工核验。
+自动检索采用失败关闭策略：原始页面无法访问或证据不足时不会写入新条目；模型不可用时自动切换到无密钥降级模式，不会中断日期、来源和资料更新。任务状态会记录在 `sourceHealth` 中。Crossref 条目只保留受信出版社的元数据，并标注“同行评审状态待核”；arXiv 条目明确标注为非同行评审预印本。自动结果适合做研究线索，不替代正式引用前的人工核验。
 
 ## 项目结构
 

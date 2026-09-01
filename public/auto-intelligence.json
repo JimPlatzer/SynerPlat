@@ -1,10 +1,140 @@
 {
-  "updatedAt": "2026-09-01T04:21:43.601Z",
+  "updatedAt": "2026-09-01T05:15:14.062Z",
   "weekRange": "2026.08.25—09.01",
   "monthLabel": "2026年9月",
-  "stories": [],
+  "stories": [
+    {
+      "id": "oecd-just-transition-sentiment-2026",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "研究发布",
+      "title": "OECD：气候行动需要同步回应公正转型与经济安全",
+      "summary": "OECD于8月31日发布工作论文，综合27个成员国数据发现，超过三分之二受访者表达气候关切，但对进一步政策行动的支持度低于关切度；经济脆弱家庭与排放密集行业劳动者更担忧转型成本。论文建议通过透明沟通、补偿措施和包容性设计提高政策可接受度。",
+      "score": 8,
+      "publishedDate": "2026.08.31",
+      "eventDate": "2026.08.31",
+      "dateNote": "研究发布",
+      "source": "OECD",
+      "url": "https://www.oecd.org/en/publications/taking-the-temperature-on-climate-change-and-on-just-transition-policies_96cf0561-en.html",
+      "tags": [
+        "公正转型",
+        "气候政策",
+        "转型成本",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "au-climate-disclosure-2026",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "披露",
+      "title": "澳大利亚明确联邦机构气候披露与排放清单的数字化发布要求",
+      "summary": "澳大利亚财政部8月29日发布指引：自2025—26报告期起，联邦实体和公司需要通过透明度门户的数字年度报告工具发布气候披露与排放清单。",
+      "score": 8,
+      "publishedDate": "2026.08.29",
+      "eventDate": "2026.08.29",
+      "dateNote": "发布",
+      "source": "澳大利亚财政部",
+      "url": "https://www.finance.gov.au/government/managing-commonwealth-resources/commonwealth-climate-disclosure-rmg-140/publishing-climate-disclosure",
+      "tags": [
+        "气候披露",
+        "排放清单",
+        "数字报告"
+      ]
+    },
+    {
+      "id": "es-data-centres-2026",
+      "sector": "人工智能",
+      "relevance": "直接 ESG",
+      "event": "征求意见",
+      "title": "西班牙拟对数据中心设置能源、水资源与数字主权硬约束",
+      "summary": "西班牙政府8月27日启动紧急公众咨询，拟要求数据中心达到严格能效和水效标准，并由新增可再生能源逐小时覆盖至少80%的用能；运营主体及相关运营数据还须受欧盟法律约束。",
+      "score": 9,
+      "publishedDate": "2026.08.27",
+      "eventDate": "2026.08.27",
+      "dateNote": "发布",
+      "source": "西班牙数字化转型部",
+      "url": "https://digital.gob.es/comunicacion/notas-prensa/mtdfp/2026/08/el-gobierno-plantea-impulsar-los-centros-de-datos-sostenibles--e",
+      "tags": [
+        "数据中心",
+        "可再生能源",
+        "水效"
+      ]
+    },
+    {
+      "id": "cn-envtech-finance-2026",
+      "sector": "绿色金融",
+      "relevance": "直接 ESG",
+      "event": "政策",
+      "title": "中国五部门推动生态环境科技创新形成多元化投入机制",
+      "summary": "生态环境部等五部门于8月20日成文并公开指导意见，提出形成覆盖基础研究到产业应用、政府到金融机构的投入模式，并要求到2030年丰富政策工具和金融产品体系。",
+      "score": 8,
+      "publishedDate": "2026.08.27",
+      "eventDate": "2026.08.20",
+      "dateNote": "成文",
+      "source": "中国生态环境部",
+      "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk03/202608/t20260827_1164595.html",
+      "tags": [
+        "科技金融",
+        "绿色金融",
+        "成果转化"
+      ]
+    },
+    {
+      "id": "uk-plug-solar-2026",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策生效",
+      "title": "英国正式允许家用即插即用太阳能板进入市场",
+      "summary": "英国政府8月26日发布公告，法律变化自8月27日起生效，即插即用太阳能板可合法购买和使用；合规设备最高800瓦，预计可覆盖普通家庭最高20%的用电。",
+      "score": 8,
+      "publishedDate": "2026.08.26",
+      "eventDate": "2026.08.27",
+      "dateNote": "生效",
+      "source": "英国能源安全与净零部",
+      "url": "https://www.gov.uk/government/news/households-can-save-as-plug-in-solar-panels-come-to-market",
+      "tags": [
+        "分布式光伏",
+        "能源可负担性",
+        "安全标准"
+      ]
+    }
+  ],
   "sectorInsights": [],
-  "summary": null,
+  "summary": {
+    "week": {
+      "label": "本周总结",
+      "title": "过去七日暂无达到重大性门槛的新条目",
+      "range": "2026.08.25—09.01",
+      "copy": "系统已核验 3 个相关候选，但没有条目达到当前重大性门槛。监测会继续每日运行，不会用低重要性信息填充版面。",
+      "words": [
+        [
+          "持续监测",
+          6
+        ],
+        [
+          "来源核验",
+          5
+        ]
+      ]
+    },
+    "month": {
+      "label": "本月总结",
+      "title": "本月滚动监测持续进行",
+      "range": "2026.09.01—09.01",
+      "copy": "自动任务继续核验政策、监管、研究与预印本来源；证据不足或重大性偏低的候选不会写入重大动态。",
+      "words": [
+        [
+          "持续监测",
+          6
+        ],
+        [
+          "来源核验",
+          5
+        ]
+      ]
+    }
+  },
   "monthlyHighlights": [],
   "annualHighlights": [],
   "sourceHealth": [
@@ -20,19 +150,14 @@
     },
     {
       "source": "Crossref",
-      "status": "error",
-      "message": "400 https://api.crossref.org/works?query.bibliographic=ESG+climate+disclosure&filter=from-created-date%3A2026-08-25%2Cuntil-created-date%3A2026-09-01%2Ctype%3Ajournal-article&rows="
+      "status": "ok",
+      "items": 32
     },
     {
       "source": "arXiv",
-      "status": "ok",
-      "items": 40
-    },
-    {
-      "source": "GitHub Models",
       "status": "error",
-      "message": "GitHub Models 410: {\"error\":{\"code\":\"github_models_retirement_brownout\",\"message\":\"GitHub Models is temporarily unavailable as part of a scheduled retirement brownout.\"}}\n"
+      "message": "fetch failed"
     }
   ],
-  "verifiedCandidateCount": 16
+  "verifiedCandidateCount": 3
 }
