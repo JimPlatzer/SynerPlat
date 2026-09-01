@@ -48,10 +48,19 @@ async function rewriteAssets(directory){
  }
 }
 
-const server=spawn('npm',['run','start','--','--port',String(port)],{cwd:root,stdio:['ignore','pipe','pipe']});
+const grouped=process.platform!=='win32';
+const server=spawn('npm',['run','start','--','--port',String(port)],{cwd:root,stdio:['ignore','pipe','pipe'],detached:grouped});
 let logs='';
 server.stdout.on('data',chunk=>{logs+=chunk});
 server.stderr.on('data',chunk=>{logs+=chunk});
+
+async function stopServer(){
+ if(!server.pid||server.exitCode!==null)return;
+ const exited=new Promise(resolve=>server.once('exit',resolve));
+ try{grouped?process.kill(-server.pid,'SIGTERM'):server.kill('SIGTERM')}catch{}
+ await Promise.race([exited,new Promise(resolve=>setTimeout(resolve,2000))]);
+ if(server.exitCode===null){try{grouped?process.kill(-server.pid,'SIGKILL'):server.kill('SIGKILL')}catch{}}
+}
 
 try{
  const origin=`http://127.0.0.1:${port}`;
@@ -72,5 +81,5 @@ try{
  console.error(logs);
  throw error;
 }finally{
- server.kill('SIGTERM');
+ await stopServer();
 }
