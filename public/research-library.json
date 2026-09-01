@@ -1,6 +1,183 @@
 {
-  "updatedAt": "2026-09-01T05:15:14.062Z",
+  "updatedAt": "2026-09-01T05:24:35.824Z",
   "items": [
+    {
+      "id": "arxiv-arxiv-org-abs-2608-30312v1",
+      "type": "工作论文",
+      "title": "Testing SALT Approximations with Numerical Radiative Transfer Code. II. Thermal and Microturbulent Line Broadening",
+      "publisher": "arXiv",
+      "date": "2026-08-31",
+      "publishedDate": "2026-08-31",
+      "eventDate": "2026-08-31",
+      "dateNote": "预印本发布",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Forward models that connect galactic winds to their predicted spectral-line profiles have proved effective for inferring wind properties in controlled settings, but important limitations remain. In particular, many models rely on the Sobolev approximation to solve the radiative transfer equation and neglect line broadening caused by thermal and turbulent mot…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2608.30312v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2608-30262v1",
+      "type": "工作论文",
+      "title": "Multivariate Scientific Data Compression with Learned Cross-Variable Latent Decorrelation and Autoregressive Entropy Modeling",
+      "publisher": "arXiv",
+      "date": "2026-08-31",
+      "publishedDate": "2026-08-31",
+      "eventDate": "2026-08-31",
+      "dateNote": "预印本发布",
+      "sector": "企业出海",
+      "tags": [
+        "气候与碳",
+        "供应链与出海",
+        "预印本·非同行评审"
+      ],
+      "summary": "Scientific simulations generate collections of physical fields with heterogeneous statistics and dependencies, yet learned compressors often encode those fields independently or rely on a shared encoder without explicitly modeling the structure that remains in latent space. We present CAESAR-LDAR, an error-controlled multivariate learned compressor that augm…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2608.30262v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2608-31031v1",
+      "type": "工作论文",
+      "title": "The Auger Radio Infill SKALA Extension (ARISE): Science Case and Instrumentation (ARENA 2026)",
+      "publisher": "arXiv",
+      "date": "2026-08-31",
+      "publishedDate": "2026-08-31",
+      "eventDate": "2026-08-31",
+      "dateNote": "预印本发布",
+      "sector": "新能源",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "The Auger Radio Infill SKALA Extension (ARISE) at the Pierre Auger Observatory in Argentina was deployed in 2025 and measures cosmic-ray air showers in the energy region of the Galactic-to-extragalactic transition. ARISE is comprised of 18 SKALA-2 antennas featuring two polarization channels each, deployed within $100\\,$m of a surface detector station in the…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2608.31031v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2608-30992v1",
+      "type": "工作论文",
+      "title": "Trustless Accountable Data Sharing for Supply Chains: A Reference Architecture and MoreMedDiet Proof-of-Concept",
+      "publisher": "arXiv",
+      "date": "2026-08-31",
+      "publishedDate": "2026-08-31",
+      "eventDate": "2026-08-31",
+      "dateNote": "预印本发布",
+      "sector": "企业出海",
+      "tags": [
+        "披露监管",
+        "供应链与出海",
+        "预印本·非同行评审"
+      ],
+      "summary": "Modern supply chains are increasingly dependent on the exchange of sensitive business data between heterogeneous stakeholders who do not trust each other. %under partial trust. Conventional integration approaches typically rely on centralized intermediaries or require extensive data disclosure, which hinders collaboration, compliance, and innovation. We prop…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2608.30992v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2608-30919v1",
+      "type": "工作论文",
+      "title": "Quantum Dot Colloidosomes as Triggerable Microlasers",
+      "publisher": "arXiv",
+      "date": "2026-08-31",
+      "publishedDate": "2026-08-31",
+      "eventDate": "2026-08-31",
+      "dateNote": "预印本发布",
+      "sector": "高排放行业",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Quantum dot (QD) supraparticle lasers are promising platforms for microscale light sources and photonic labeling, yet their optical properties are set during assembly. Here we introduce QD colloidosomes, liquid-core/solid-shell supraparticles that combine whispering-gallery-mode optical feedback with stimulus-triggered structural collapse. Intact QD colloido…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2608.30919v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2608-30914v1",
+      "type": "工作论文",
+      "title": "Measuring peculiar velocity and tomographic redshift dipole with DESI DR1 catalogs",
+      "publisher": "arXiv",
+      "date": "2026-08-31",
+      "publishedDate": "2026-08-31",
+      "eventDate": "2026-08-31",
+      "dateNote": "预印本发布",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "The so-called ``cosmic dipole tension'' challenges the Cosmological Principle by positing a discrepancy between the Solar System's peculiar velocity inferred from the Cosmic Microwave Background (CMB) dipole and that derived from large-scale structure number-count dipoles. Here we provide a high-precision determination of the kinematic dipole using the redsh…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2608.30914v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2608-30878v1",
+      "type": "工作论文",
+      "title": "Extremes of solar spectral irradiance in the SORCE/XPS record",
+      "publisher": "arXiv",
+      "date": "2026-08-31",
+      "publishedDate": "2026-08-31",
+      "eventDate": "2026-08-31",
+      "dateNote": "预印本发布",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Extreme and rare changes in space mission solar irradiance records are scientifically relevant but difficult to quantify because these records are finite, instrument dependent, and affected by observational gaps and time varying measurement quality. We evaluated extreme daily logarithmic changes in the band integrated 0.1-7.0 nm irradiance measured by photod…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2608.30878v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2608-30822v1",
+      "type": "工作论文",
+      "title": "Towards Site-Selective Fabrication of Near-Infrared Emitters in hBN",
+      "publisher": "arXiv",
+      "date": "2026-08-31",
+      "publishedDate": "2026-08-31",
+      "eventDate": "2026-08-31",
+      "dateNote": "预印本发布",
+      "sector": "新能源",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Spatial control of near-infrared (NIR) emission from hexagonal boron nitride (hBN) would facilitate coupling atomic-scale light sources to photonic structures, yet oxygen-related NIR emitters are generally formed at stochastic locations. Here, we combine single-shot femtosecond laser writing with annealing in an oxygen-rich environment to bias NIR activation…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2608.30822v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2608-30790v1",
+      "type": "工作论文",
+      "title": "Fine structure of the M-center in Si",
+      "publisher": "arXiv",
+      "date": "2026-08-31",
+      "publishedDate": "2026-08-31",
+      "eventDate": "2026-08-31",
+      "dateNote": "预印本发布",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Color centers in silicon offer great possibilities for scalable quantum technologies. The M-center, proposed to originate from a carbon-hydrogen complex, offers telecommunications-band emission and a paramagnetic ground state similar to the T-center. Here, we report on photoluminescence lines in the vicinity of the M-center and investigate their properties,…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2608.30790v1",
+      "featured": false
+    },
     {
       "id": "doi-10-1007-s10462-026-11684-6",
       "type": "学术论文",

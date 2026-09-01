@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T05:15:14.062Z",
+  "updatedAt": "2026-09-01T05:24:35.824Z",
   "weekRange": "2026.08.25—09.01",
   "monthLabel": "2026年9月",
   "stories": [
@@ -106,7 +106,7 @@
       "label": "本周总结",
       "title": "过去七日暂无达到重大性门槛的新条目",
       "range": "2026.08.25—09.01",
-      "copy": "系统已核验 3 个相关候选，但没有条目达到当前重大性门槛。监测会继续每日运行，不会用低重要性信息填充版面。",
+      "copy": "系统已核验 17 个相关候选，但没有条目达到当前重大性门槛。监测会继续每日运行，不会用低重要性信息填充版面。",
       "words": [
         [
           "持续监测",
@@ -155,9 +155,14 @@
     },
     {
       "source": "arXiv",
+      "status": "ok",
+      "items": 40
+    },
+    {
+      "source": "GitHub Models",
       "status": "error",
-      "message": "fetch failed"
+      "message": "GitHub Models 410: {\"error\":{\"code\":\"github_models_retirement_brownout\",\"message\":\"GitHub Models is temporarily unavailable as part of a scheduled retirement brownout.\"}}\n"
     }
   ],
-  "verifiedCandidateCount": 3
+  "verifiedCandidateCount": 17
 }
