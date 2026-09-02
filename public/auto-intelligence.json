@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T04:38:32.745Z",
+  "updatedAt": "2026-09-02T02:04:10.391Z",
   "weekRange": "2026.08.26—09.02",
   "monthLabel": "2026年9月",
   "stories": [
@@ -238,61 +238,6 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-01592v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Fermionic Dark Matter Absorption and the High-Energy Event in LUX-ZEPLIN",
-      "summary": "The LUX-ZEPLIN (LZ) experiment has reported a single candidate event in the high-energy nuclear recoil window $248\\pm32.5\\ \\mathrm{keV}_{\\mathrm{nr}}$ with an exposure of $2.80\\ \\mathrm{ton}\\cdot\\mathrm{yr}$, while the low-energy spectrum remains consistent with background expectations. We demonstrate that this excess can be naturally explained by the neutra…",
-      "score": 7,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01592v1",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01568v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Enabling gravitational-wave astronomy with spin-precessing black holes on generic orbits",
-      "summary": "Binary black holes (BBHs) formed in dense stellar environments or in hierarchical triples can coalesce on eccentric orbits and carry spins of arbitrary orientation, leaving distinctive imprints on their gravitational-wave (GW) emission. We present SEOBNRv6EPHM: the first generic-orbit, spin-precessing model in the effective-one-body SEOBNR family, whose wave…",
-      "score": 7,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01568v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01328v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Multiphase Reactive Transport in a Heterogeneous Flow Field: Channel Formation in Hydrocarbon-Bearing Carbonate Rock",
-      "summary": "Carbon capture, utilization and storage (CCUS) is a key approach for reducing anthropogenic CO2 emissions. Currently the vast majority of CO2 stored is injected into depleted hydrocarbon reservoirs. Reactive transport in hydrocarbon-bearing carbonate reservoirs is controlled not only by the balance between reactant delivery and surface reaction, but also by…",
-      "score": 7,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01328v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
       "id": "doi-10-1007-s10462-026-11684-6",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -312,129 +257,60 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-01586v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "The JWST Emission Line Survey (JELS): A narrow-band determination of the H$α$ Luminosity Function and Cosmic Star Formation into the Epoch of Reionization",
-      "summary": "The recent star-formation activity in galaxies can be optimally traced by the H$α$ emission line, with the resulting H$α$ luminosity function (LF) at a given epoch providing a reliable probe of cosmic star formation. We present the first narrow-band determined H$α$ LF into the Epoch of Reionization (EoR) at $z\\sim6.1$, using 39 H$α$ emitters selected from th…",
-      "score": 6,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01586v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01339v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Integrating Traffic Noise Emission Modelling into Variable Speed Limit Control",
-      "summary": "Road traffic noise remains a major environmental challenge, yet most speed management strategies are static and do not respond to short-term variations in traffic noise emissions. Although variable speed limit (VSL) systems are widely deployed for safety and congestion mitigation, traffic noise is rarely treated as an explicit operational control objective.…",
-      "score": 6,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01339v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01265v1",
+      "id": "doi-10-1007-s44274-026-00972-1",
       "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "AGN X-ray coronae at high luminosity: A broadband study of RBS 229 and PG 1407+265",
-      "summary": "Context. The X-ray emission of active galactic nuclei (AGNs) is commonly interpreted as arising from Comptonisation in a hot corona above the accretion disc. A prominent soft X-ray excess is also observed in many sources and is often explained by a warm Comptonising layer. Aims. We investigate the X-ray-emitting coronae of the luminous radio-quiet quasars PG…",
-      "score": 6,
+      "event": "学术研究",
+      "title": "Asymmetric impacts of green finance development and energy innovation and climate change on United States renewable energy consumption",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
       "publishedDate": "2026.09.01",
       "eventDate": "2026.09.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01265v1",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s44274-026-00972-1",
       "tags": [
+        "能源转型",
         "气候与碳",
-        "预印本·非同行评审"
+        "同行评审状态待核"
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-01247v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "A Non-Isothermal Viscoplastic Constitutive Model for Clay Slip Surfaces",
-      "summary": "Clayey slip surfaces control the reactivation and long-term deformation of slow-moving landslides and may experience thermal fluctuations from climate, seasonal ground-temperature changes, or subsurface heat sources. Experiments show that residual shear strength depends on temperature and shearing rate, yet most numerical approaches use temperature-independe…",
-      "score": 6,
+      "id": "uk-smart-contingent-contracts-research-2026",
+      "sector": "新能源",
+      "relevance": "间接 ESG",
+      "event": "政策研究",
+      "title": "英国发布非居民智能电表合同沟通研究与供应商工具包",
+      "summary": "英国能源安全与净零部9月1日发布定性研究、技术附件和能源供应商工具包，为2027年9月起面向小企业和公共部门场所实施智能电表条件合同做准备。该材料属于政策实施沟通证据，暂作为早期观察而非重大政策变化。",
+      "score": 5,
       "publishedDate": "2026.09.01",
       "eventDate": "2026.09.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01247v1",
+      "dateNote": "研究发布",
+      "source": "UK Department for Energy Security and Net Zero",
+      "url": "https://www.gov.uk/government/publications/communicating-the-rollout-of-smart-contingent-contracts-to-non-domestic-customers",
       "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
+        "智能电表",
+        "能源合同",
+        "小企业",
+        "政策沟通"
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-01203v1",
+      "id": "doi-10-1007-s43621-026-04523-9",
       "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Angular correlations and polarization in $Z$+jet production at the LHC",
-      "summary": "Precision studies at the LHC increasingly require theoretical control over QCD radiation beyond fixed-order perturbation theory, particularly in final states characterised by large separations in rapidity. High-energy logarithms can generate corrections at the ten-percent level even for electroweak-scale observables, as recently observed in Higgs production,…",
-      "score": 6,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01203v1",
+      "event": "学术研究",
+      "title": "How institutional quality shapes the impact of renewable energy adoption on eco-economic sustainability in Asia",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.08.30",
+      "eventDate": "2026.08.30",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04523-9",
       "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01191v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Low-threshold vortex lasing in three-dimensional cavities via flatband bound states in the continuum",
-      "summary": "Bound states in the continuum (BICs) offer a robust route toward high-Q resonators and topological structured-light generation. While optically pumped BIC lasers have advanced significantly, realizing electrically pumped vortex lasers remains challenging due to conflicting requirements for optical confinement and carrier injection. Here, we demonstrate an el…",
-      "score": 6,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01191v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01177v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Josephson interferometry in an Oppenheimer--Snyder-like scale-dependent black-hole spacetime",
-      "summary": "We develop a covariant framework for Josephson transport, superconducting interference, and shunt noise in the scale-dependent exterior generated by an Oppenheimer--Snyder-like collapse. Static Josephson frequencies and transported currents referred to Killing time acquire one lapse factor, whereas power acquires two. For a junction comoving with the collaps…",
-      "score": 6,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01177v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
+        "能源转型",
+        "同行评审状态待核"
       ]
     }
   ],
@@ -503,7 +379,8 @@
       "date": "2026-09-01",
       "terms": [
         "新能源",
-        "政策监管"
+        "政策监管",
+        "碳与排放"
       ]
     },
     {
@@ -546,146 +423,6 @@
       "date": "2026-09-01",
       "terms": [
         "新能源"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01592v1",
-      "date": "2026-09-01",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01568v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "能源效率",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01328v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01586v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "政策监管",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01339v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01265v1",
-      "date": "2026-09-01",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01247v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01203v1",
-      "date": "2026-09-01",
-      "terms": [
-        "新能源",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01191v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "能源效率",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01177v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01052v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "政策监管",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-00990v1",
-      "date": "2026-09-01",
-      "terms": [
-        "新能源",
-        "碳与排放",
-        "绿色金融"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-00989v1",
-      "date": "2026-09-01",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "碳与排放",
-        "自然与生物多样性"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-00962v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-00902v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "能源效率",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-00899v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "政策监管",
-        "能源效率",
-        "碳与排放"
       ]
     },
     {
@@ -843,48 +580,76 @@
   "sectorInsights": [
     [
       "高排放行业",
-      "过去七日新增 1 条已核验线索，重点条目按重大性和原始来源可靠度排序。",
+      "船用柴油机NOx程序修订生效，北爱尔兰清洁空气战略进入咨询；污染控制从信息披露进一步走向设备认证、燃料标准与执行流程。",
+      4,
+      "→"
+    ],
+    [
+      "企业出海",
+      "CBAM核查机构注册开放后，出口企业的排放数据准备需要开始对接核查资格、系统访问与后续核查报告要求。",
+      2,
+      "→"
+    ],
+    [
+      "新能源",
+      "电动车电驱系统型式批准进入新过渡节点，英国同步发布智能电表合同沟通研究，技术合规与用户转化成为并行信号。",
+      2,
+      "→"
+    ],
+    [
+      "自然与适应",
+      "欧盟首轮国家自然恢复计划把2030目标、2040/2050路径与公共及私人融资衔接，自然风险进入国家执行方案阶段。",
       1,
+      "→"
+    ],
+    [
+      "人工智能",
+      "新研究线索继续关注AI在气候韧性与可持续方法中的应用，但论文方法、全文范围和同行评审状态仍需逐篇复核。",
+      2,
       "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "高排放行业成为过去七日的主要新增信号",
+      "title": "自然恢复、CBAM核查与污染控制同时进入执行节点",
       "range": "2026.08.26—09.02",
-      "copy": "过去7天当前保留 11 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "copy": "过去7天保留11条达到主门槛的重大动态，并展示5条已核验新增观察。新增信号集中在欧盟自然恢复国家计划、CBAM核查注册、空气与船舶排放控制及电动车认证；词频同时纳入同期研究资料，正式引用前仍应打开原文复核。",
       "words": [
         [
-          "高排放行业",
+          "政策监管",
           10
         ],
         [
-          "政策监管",
-          9
-        ],
-        [
-          "碳与排放",
-          9
-        ],
-        [
-          "新能源",
+          "高排放行业",
           7
         ],
         [
-          "可再生能源",
-          5
+          "新能源",
+          6
         ],
         [
           "企业出海",
-          4
+          6
         ],
         [
-          "能源效率",
-          4
+          "可再生能源",
+          6
         ],
         [
           "污染防治",
+          5
+        ],
+        [
+          "人工智能",
+          4
+        ],
+        [
+          "气候披露",
+          4
+        ],
+        [
+          "气候适应",
           4
         ],
         [
@@ -892,24 +657,8 @@
           4
         ],
         [
-          "人工智能",
-          3
-        ],
-        [
-          "气候披露",
-          3
-        ],
-        [
-          "气候适应",
-          3
-        ],
-        [
-          "自然与生物多样性",
-          3
-        ],
-        [
           "自然与适应",
-          3
+          4
         ],
         [
           "供应链与出海",
@@ -936,80 +685,88 @@
           3
         ],
         [
+          "碳与排放",
+          3
+        ],
+        [
+          "自然与生物多样性",
+          3
+        ],
+        [
           "气候风险",
-          2
+          3
+        ],
+        [
+          "能源效率",
+          3
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
-      "title": "过去一个月滚动资料持续聚焦高排放行业",
+      "title": "跨境排放证据、自然恢复融资与能源转型持续并行",
       "range": "2026.08.03—09.02",
-      "copy": "过去30天词频基于 45 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "copy": "过去30天词频基于29条去重后的重大动态、新增观察、月度重点与研究资料生成。政策监管仍是最稳定的共同主题，新能源、高排放行业、企业出海与气候适应构成第二层持续信号。",
       "words": [
         [
-          "高排放行业",
-          10
-        ],
-        [
           "政策监管",
-          9
-        ],
-        [
-          "碳与排放",
-          9
+          10
         ],
         [
           "新能源",
           7
         ],
         [
+          "高排放行业",
+          7
+        ],
+        [
+          "企业出海",
+          5
+        ],
+        [
           "可再生能源",
           5
         ],
         [
-          "企业出海",
-          4
-        ],
-        [
-          "绿色金融",
-          4
-        ],
-        [
-          "能源效率",
-          4
-        ],
-        [
           "气候适应",
-          4
+          5
         ],
         [
           "污染防治",
+          5
+        ],
+        [
+          "绿色金融",
+          5
+        ],
+        [
+          "自然与适应",
+          5
+        ],
+        [
+          "人工智能",
+          4
+        ],
+        [
+          "数字化与数据",
+          4
+        ],
+        [
+          "气候披露",
+          4
+        ],
+        [
+          "水资源",
+          4
+        ],
+        [
+          "碳与排放",
           4
         ],
         [
           "自然与生物多样性",
           4
-        ],
-        [
-          "自然与适应",
-          4
-        ],
-        [
-          "人工智能",
-          3
-        ],
-        [
-          "数字化与数据",
-          3
-        ],
-        [
-          "气候披露",
-          3
-        ],
-        [
-          "水资源",
-          3
         ],
         [
           "供应链与出海",
@@ -1033,19 +790,23 @@
         ],
         [
           "关键矿产",
-          2
+          3
         ],
         [
           "干旱与土地",
-          2
+          3
         ],
         [
           "气候风险",
-          2
+          3
         ],
         [
           "电力系统",
-          2
+          3
+        ],
+        [
+          "能源效率",
+          3
         ]
       ]
     }
@@ -1066,20 +827,15 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 37
+      "items": 36
     },
     {
       "source": "arXiv",
-      "status": "ok",
-      "items": 40
-    },
-    {
-      "source": "GitHub Models",
       "status": "error",
-      "message": "GitHub Models 410: {\"error\":{\"code\":\"github_models_retirement_brownout\",\"message\":\"GitHub Models is temporarily unavailable as part of a scheduled retirement brownout.\"}}\n"
+      "message": "fetch failed"
     }
   ],
-  "verifiedCandidateCount": 21,
+  "verifiedCandidateCount": 5,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
