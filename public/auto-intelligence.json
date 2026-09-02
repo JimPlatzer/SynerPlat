@@ -1,8 +1,108 @@
 {
-  "updatedAt": "2026-09-01T09:02:02.242Z",
-  "weekRange": "2026.08.25—09.01",
+  "updatedAt": "2026-09-02T02:04:10.391Z",
+  "weekRange": "2026.08.26—09.02",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "eu-national-restoration-plans-2026",
+      "sector": "自然与适应",
+      "relevance": "直接 ESG",
+      "event": "政策实施",
+      "title": "欧盟成员国提交首轮国家自然恢复计划草案",
+      "summary": "欧盟成员国于9月1日向欧盟委员会提交国家自然恢复计划草案，说明到2030年的恢复目标，并展望2040年和2050年行动。计划需要协调水、气候、农业、林业、海洋和渔业政策，并列明融资安排；欧委会与欧洲环境署将审查草案，最终计划预计在一年内完成。",
+      "score": 9,
+      "publishedDate": "2026.09.01",
+      "eventDate": "2026.09.01",
+      "dateNote": "提交草案",
+      "source": "European Commission",
+      "url": "https://environment.ec.europa.eu/news/eu-countries-submit-draft-plans-restoring-nature-2026-09-01_en",
+      "tags": [
+        "自然恢复",
+        "生物多样性",
+        "气候适应",
+        "公共与私人融资"
+      ]
+    },
+    {
+      "id": "eu-cbam-verifier-registry-access-2026",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "监管实施",
+      "title": "欧盟CBAM核查机构注册通道正式开放",
+      "summary": "欧盟委员会8月28日发布核查机构准入指引，注册申请自9月1日起通过CBAM Registry的O3CI门户办理。经认可的核查机构可连接非欧盟装置运营商、审阅排放数据和证明材料，并从2027年起签发供进口商使用的核查报告，CBAM由申报准备进一步进入核证执行阶段。",
+      "score": 9,
+      "publishedDate": "2026.08.28",
+      "eventDate": "2026.09.01",
+      "dateNote": "开放注册",
+      "source": "European Commission",
+      "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-registry_en",
+      "tags": [
+        "CBAM",
+        "排放核查",
+        "非欧盟运营商",
+        "跨境合规"
+      ]
+    },
+    {
+      "id": "imo-nox-code-amendments-effective-2026",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "政策生效",
+      "title": "国际海事组织船用柴油机氮氧化物控制程序修订生效",
+      "summary": "IMO海洋环境保护委员会通过的NOx技术规则修订于9月1日生效，更新船用柴油机氮氧化物排放控制程序。英国政府确认相关国际海事污染规则通过本国海事法规衔接实施，航运企业需要同步核对发动机合规、燃料与排放记录。",
+      "score": 8,
+      "publishedDate": "2025.12.16",
+      "eventDate": "2026.09.01",
+      "dateNote": "生效",
+      "source": "UK Department for Transport / IMO",
+      "url": "https://www.gov.uk/government/speeches/changes-to-international-maritime-law--2",
+      "tags": [
+        "航运",
+        "氮氧化物",
+        "MARPOL",
+        "排放监管"
+      ]
+    },
+    {
+      "id": "ni-draft-clean-air-strategy-2026",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "征求意见",
+      "title": "北爱尔兰就2032清洁空气战略草案启动咨询",
+      "summary": "北爱尔兰农业、环境与乡村事务部9月1日启动为期八周的清洁空气战略咨询，提出升级监测、把空气质量纳入交通规划并收紧燃料和家用燃烧设备标准。咨询将于10月27日结束，直接关联公共健康、污染控制与弱势群体健康不平等。",
+      "score": 7,
+      "publishedDate": "2026.09.01",
+      "eventDate": "2026.09.01",
+      "dateNote": "启动咨询",
+      "source": "Northern Ireland DAERA",
+      "url": "https://www.daera-ni.gov.uk/news/muir-launches-consultation-draft-northern-ireland-clean-air-strategy",
+      "tags": [
+        "空气质量",
+        "污染防治",
+        "公共健康",
+        "健康公平"
+      ]
+    },
+    {
+      "id": "unece-ev-type-approval-transition-2026",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "监管生效",
+      "title": "联合国电动车电驱系统04系列型式批准过渡节点生效",
+      "summary": "联合国第100号法规的04系列修订过渡条款自9月1日起进入新阶段：适用该法规的缔约方可不再接受在该日期后首次签发、仍依据更早系列修订的型式批准。整车、电池和高压系统供应商需要核对出口车型批准版本及目标市场接受安排。",
+      "score": 7,
+      "publishedDate": "2026.08.17",
+      "eventDate": "2026.09.01",
+      "dateNote": "过渡规定生效",
+      "source": "EUR-Lex / UNECE",
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/1695/oj/eng/pdf",
+      "tags": [
+        "电动车",
+        "动力电池",
+        "型式批准",
+        "出口合规"
+      ]
+    },
     {
       "id": "oecd-just-transition-sentiment-2026",
       "sector": "高排放行业",
@@ -81,23 +181,6 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-news-new-air-quality-alerts-service-launched",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "New air quality alerts service launched",
-      "summary": "New opt-in alerts will warn people when air pollution is high, or expected to be high, in their local area",
-      "score": 6,
-      "publishedDate": "2026.08.26",
-      "eventDate": "2026.08.26",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/new-air-quality-alerts-service-launched",
-      "tags": [
-        "政策法规"
-      ]
-    },
-    {
       "id": "uk-plug-solar-2026",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -115,9 +198,45 @@
         "能源可负担性",
         "安全标准"
       ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-new-air-quality-alerts-service-launched",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "New air quality alerts service launched",
+      "summary": "New opt-in alerts will warn people when air pollution is high, or expected to be high, in their local area",
+      "score": 6,
+      "publishedDate": "2026.08.26",
+      "eventDate": "2026.08.26",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/new-air-quality-alerts-service-launched",
+      "tags": [
+        "政策法规"
+      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-1016-j-cacint-2026-100461",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Advancing climate resilience through artificial intelligence: A comprehensive review across urban and climate-sensitive sectors in Morocco",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.09.01",
+      "eventDate": "2026.09.01",
+      "dateNote": "论文发表",
+      "source": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.cacint.2026.100461",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "doi-10-1007-s10462-026-11684-6",
       "sector": "新能源",
@@ -138,21 +257,42 @@
       ]
     },
     {
-      "id": "doi-10-1177-0958305x261475390",
+      "id": "doi-10-1007-s44274-026-00972-1",
       "sector": "新能源",
       "relevance": "直接 ESG",
       "event": "学术研究",
-      "title": "ICT diffusion and cleaner energy transition as catalysts for environmental sustainability in Sub-Saharan Africa",
-      "summary": "Background This study examines the impact of education, information and communication technology (ICT) diffusion, cleaner energy transition (CET), and political stability on environmental sustainability (EVS) in 43 Sub-Saharan African (SSA) countries. The study is motivated by persistent environmental challenges and the growing need to align development with…",
-      "score": 7,
-      "publishedDate": "2026.08.25",
-      "eventDate": "2026.08.25",
+      "title": "Asymmetric impacts of green finance development and energy innovation and climate change on United States renewable energy consumption",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.01",
+      "eventDate": "2026.09.01",
       "dateNote": "论文发表",
-      "source": "SAGE Publications",
-      "url": "https://doi.org/10.1177/0958305x261475390",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s44274-026-00972-1",
       "tags": [
         "能源转型",
+        "气候与碳",
         "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "uk-smart-contingent-contracts-research-2026",
+      "sector": "新能源",
+      "relevance": "间接 ESG",
+      "event": "政策研究",
+      "title": "英国发布非居民智能电表合同沟通研究与供应商工具包",
+      "summary": "英国能源安全与净零部9月1日发布定性研究、技术附件和能源供应商工具包，为2027年9月起面向小企业和公共部门场所实施智能电表条件合同做准备。该材料属于政策实施沟通证据，暂作为早期观察而非重大政策变化。",
+      "score": 5,
+      "publishedDate": "2026.09.01",
+      "eventDate": "2026.09.01",
+      "dateNote": "研究发布",
+      "source": "UK Department for Energy Security and Net Zero",
+      "url": "https://www.gov.uk/government/publications/communicating-the-rollout-of-smart-contingent-contracts-to-non-domestic-customers",
+      "tags": [
+        "智能电表",
+        "能源合同",
+        "小企业",
+        "政策沟通"
       ]
     },
     {
@@ -175,6 +315,116 @@
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1016-j-cacint-2026-100461",
+      "date": "2026-09-01",
+      "terms": [
+        "人工智能",
+        "气候适应"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s44274-026-00972-1",
+      "date": "2026-09-01",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "气候风险",
+        "绿色金融"
+      ]
+    },
+    {
+      "id": "period-environment-ec-europa-eu-news-eu-countries-submit-draft-plans-restoring-",
+      "date": "2026-09-01",
+      "terms": [
+        "自然与适应",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "period-taxation-customs-ec-europa-eu-carbon-border-adjustment-mechanism-cbam-re",
+      "date": "2026-09-01",
+      "terms": [
+        "企业出海"
+      ]
+    },
+    {
+      "id": "period-www-gov-uk-government-speeches-changes-to-international-maritime-law-2",
+      "date": "2026-09-01",
+      "terms": [
+        "高排放行业"
+      ]
+    },
+    {
+      "id": "period-www-daera-ni-gov-uk-news-muir-launches-consultation-draft-northern-irela",
+      "date": "2026-09-01",
+      "terms": [
+        "高排放行业",
+        "政策监管",
+        "污染防治"
+      ]
+    },
+    {
+      "id": "ec-nature-restoration-plans-2026",
+      "date": "2026-09-01",
+      "terms": [
+        "自然与适应",
+        "政策监管",
+        "自然与生物多样性",
+        "气候适应"
+      ]
+    },
+    {
+      "id": "uk-smart-contingent-contracts-research-2026",
+      "date": "2026-09-01",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "碳与排放"
+      ]
+    },
+    {
+      "id": "eu-national-restoration-plans-2026",
+      "date": "2026-09-01",
+      "terms": [
+        "自然与适应",
+        "政策监管",
+        "自然与生物多样性",
+        "气候适应"
+      ]
+    },
+    {
+      "id": "eu-cbam-verifier-registry-access-2026",
+      "date": "2026-09-01",
+      "terms": [
+        "企业出海",
+        "供应链与出海"
+      ]
+    },
+    {
+      "id": "imo-nox-code-amendments-effective-2026",
+      "date": "2026-09-01",
+      "terms": [
+        "高排放行业",
+        "政策监管",
+        "污染防治"
+      ]
+    },
+    {
+      "id": "ni-draft-clean-air-strategy-2026",
+      "date": "2026-09-01",
+      "terms": [
+        "高排放行业",
+        "污染防治"
+      ]
+    },
+    {
+      "id": "unece-ev-type-approval-transition-2026",
+      "date": "2026-09-01",
+      "terms": [
+        "新能源"
+      ]
+    },
     {
       "id": "oecd-just-transition-sentiment-2026",
       "date": "2026-08-31",
@@ -222,6 +472,14 @@
       ]
     },
     {
+      "id": "ec-cbam-verifier-registry-guide-2026",
+      "date": "2026-08-28",
+      "terms": [
+        "企业出海",
+        "供应链与出海"
+      ]
+    },
+    {
       "id": "doi-10-1007-s10462-026-11684-6",
       "date": "2026-08-27",
       "terms": [
@@ -262,6 +520,15 @@
       ]
     },
     {
+      "id": "uk-plug-solar-2026",
+      "date": "2026-08-27",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "可再生能源"
+      ]
+    },
+    {
       "id": "govuk-www-gov-uk-government-news-new-air-quality-alerts-service-launched",
       "date": "2026-08-26",
       "terms": [
@@ -270,24 +537,11 @@
       ]
     },
     {
-      "id": "uk-plug-solar-2026",
-      "date": "2026-08-26",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源"
-      ]
-    },
-    {
       "id": "doi-10-1177-0958305x261475390",
       "date": "2026-08-25",
       "terms": [
         "新能源",
-        "政策监管",
-        "可再生能源",
-        "能源转型",
-        "数字化与数据",
-        "绿色金融"
+        "能源转型"
       ]
     },
     {
@@ -326,72 +580,108 @@
   "sectorInsights": [
     [
       "高排放行业",
-      "过去七日新增 1 条已核验线索，重点条目按重大性和原始来源可靠度排序。",
+      "船用柴油机NOx程序修订生效，北爱尔兰清洁空气战略进入咨询；污染控制从信息披露进一步走向设备认证、燃料标准与执行流程。",
+      4,
+      "→"
+    ],
+    [
+      "企业出海",
+      "CBAM核查机构注册开放后，出口企业的排放数据准备需要开始对接核查资格、系统访问与后续核查报告要求。",
+      2,
+      "→"
+    ],
+    [
+      "新能源",
+      "电动车电驱系统型式批准进入新过渡节点，英国同步发布智能电表合同沟通研究，技术合规与用户转化成为并行信号。",
+      2,
+      "→"
+    ],
+    [
+      "自然与适应",
+      "欧盟首轮国家自然恢复计划把2030目标、2040/2050路径与公共及私人融资衔接，自然风险进入国家执行方案阶段。",
       1,
+      "→"
+    ],
+    [
+      "人工智能",
+      "新研究线索继续关注AI在气候韧性与可持续方法中的应用，但论文方法、全文范围和同行评审状态仍需逐篇复核。",
+      2,
       "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "高排放行业成为过去七日的主要新增信号",
-      "range": "2026.08.25—09.01",
-      "copy": "过去7天当前保留 6 条达到主门槛的重大动态，并展示 3 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "自然恢复、CBAM核查与污染控制同时进入执行节点",
+      "range": "2026.08.26—09.02",
+      "copy": "过去7天保留11条达到主门槛的重大动态，并展示5条已核验新增观察。新增信号集中在欧盟自然恢复国家计划、CBAM核查注册、空气与船舶排放控制及电动车认证；词频同时纳入同期研究资料，正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
           10
         ],
         [
-          "可再生能源",
-          9
-        ],
-        [
-          "新能源",
+          "高排放行业",
           7
         ],
         [
-          "数字化与数据",
+          "新能源",
           6
-        ],
-        [
-          "气候披露",
-          6
-        ],
-        [
-          "绿色金融",
-          6
-        ],
-        [
-          "高排放行业",
-          6
-        ],
-        [
-          "人工智能",
-          5
         ],
         [
           "企业出海",
-          5
+          6
         ],
         [
-          "公正转型",
-          5
-        ],
-        [
-          "工作论文",
-          5
-        ],
-        [
-          "数据中心",
-          5
-        ],
-        [
-          "水资源",
-          5
+          "可再生能源",
+          6
         ],
         [
           "污染防治",
+          5
+        ],
+        [
+          "人工智能",
+          4
+        ],
+        [
+          "气候披露",
+          4
+        ],
+        [
+          "气候适应",
+          4
+        ],
+        [
+          "绿色金融",
+          4
+        ],
+        [
+          "自然与适应",
+          4
+        ],
+        [
+          "供应链与出海",
+          3
+        ],
+        [
+          "公正转型",
+          3
+        ],
+        [
+          "工作论文",
+          3
+        ],
+        [
+          "数字化与数据",
+          3
+        ],
+        [
+          "数据中心",
+          3
+        ],
+        [
+          "水资源",
           3
         ],
         [
@@ -399,39 +689,31 @@
           3
         ],
         [
-          "能源效率",
+          "自然与生物多样性",
           3
         ],
         [
-          "能源转型",
+          "气候风险",
+          3
+        ],
+        [
+          "能源效率",
           3
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
-      "title": "过去一个月滚动资料持续聚焦高排放行业",
-      "range": "2026.08.02—09.01",
-      "copy": "过去30天词频基于 15 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "title": "跨境排放证据、自然恢复融资与能源转型持续并行",
+      "range": "2026.08.03—09.02",
+      "copy": "过去30天词频基于29条去重后的重大动态、新增观察、月度重点与研究资料生成。政策监管仍是最稳定的共同主题，新能源、高排放行业、企业出海与气候适应构成第二层持续信号。",
       "words": [
         [
           "政策监管",
           10
         ],
         [
-          "可再生能源",
-          8
-        ],
-        [
           "新能源",
-          8
-        ],
-        [
-          "数字化与数据",
-          7
-        ],
-        [
-          "绿色金融",
           7
         ],
         [
@@ -439,11 +721,27 @@
           7
         ],
         [
-          "气候披露",
+          "企业出海",
           5
         ],
         [
-          "水资源",
+          "可再生能源",
+          5
+        ],
+        [
+          "气候适应",
+          5
+        ],
+        [
+          "污染防治",
+          5
+        ],
+        [
+          "绿色金融",
+          5
+        ],
+        [
+          "自然与适应",
           5
         ],
         [
@@ -451,19 +749,15 @@
           4
         ],
         [
-          "企业出海",
+          "数字化与数据",
           4
         ],
         [
-          "公正转型",
+          "气候披露",
           4
         ],
         [
-          "工作论文",
-          4
-        ],
-        [
-          "数据中心",
+          "水资源",
           4
         ],
         [
@@ -471,8 +765,28 @@
           4
         ],
         [
-          "能源转型",
+          "自然与生物多样性",
           4
+        ],
+        [
+          "供应链与出海",
+          3
+        ],
+        [
+          "公正转型",
+          3
+        ],
+        [
+          "工作论文",
+          3
+        ],
+        [
+          "数据中心",
+          3
+        ],
+        [
+          "能源转型",
+          3
         ],
         [
           "关键矿产",
@@ -483,11 +797,7 @@
           3
         ],
         [
-          "气候适应",
-          3
-        ],
-        [
-          "污染防治",
+          "气候风险",
           3
         ],
         [
@@ -496,14 +806,6 @@
         ],
         [
           "能源效率",
-          3
-        ],
-        [
-          "自然与生物多样性",
-          3
-        ],
-        [
-          "自然与适应",
           3
         ]
       ]
@@ -520,12 +822,12 @@
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 38
+      "items": 37
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 32
+      "items": 36
     },
     {
       "source": "arXiv",
@@ -533,7 +835,7 @@
       "message": "fetch failed"
     }
   ],
-  "verifiedCandidateCount": 4,
+  "verifiedCandidateCount": 5,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

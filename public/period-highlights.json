@@ -1,12 +1,9 @@
 {
   "monthlyHighlights": [
-    {"date":"08.01","title":"中国可再生能源消费最低比重制度正式施行","summary":"制度将可再生能源消费最低比重与电力消纳责任相衔接，进一步压实重点用能行业和各地区的绿电消费责任。","sector":"新能源","source":"国家发展改革委","url":"https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202606/t20260612_1405837_ext.html","score":9},
-    {"date":"08.14","title":"欧盟推动土地、水资源与干旱韧性进入国际议程","summary":"欧盟在UNCCD COP17前提出加强退化土地恢复、抗旱能力和水资源保护，气候适应与自然风险进一步进入政策核心。","sector":"自然与适应","source":"European Commission","url":"https://environment.ec.europa.eu/news/eu-calls-global-action-make-land-and-water-more-resilient-drought-and-desertification-intensify-2026-08-14_en","score":7},
-    {"date":"08.17","title":"加拿大宣布最高100亿加元清洁电力投资与融资支持","summary":"投资组合覆盖Churchill Falls升级、Gull Island水电与输电基础设施，并与关键矿产开发相衔接。","sector":"新能源","source":"Natural Resources Canada","url":"https://www.canada.ca/en/natural-resources-canada/news/2026/08/prime-minister-carney-announces-the-largest-clean-energy-investment-in-north-american-history.html","score":9},
-    {"date":"08.24","title":"中国原则通过多行业全国碳市场配额方案","summary":"发电、钢铁、水泥与铝冶炼被纳入相关年度配额安排，并强化碳排放数据质量与履约管理。","sector":"高排放行业","source":"中国生态环境部","url":"https://www.mee.gov.cn/ywdt/hjywnews/202608/t20260824_1164432.shtml","score":10},
-    {"date":"08.27","title":"西班牙拟对数据中心建立能源、水效和数字主权要求","summary":"拟要求新增可再生能源逐小时覆盖至少80%用电，并设置严格能源和水资源效率标准。","sector":"人工智能","source":"西班牙数字化转型部","url":"https://digital.gob.es/comunicacion/notas-prensa/mtdfp/2026/08/el-gobierno-plantea-impulsar-los-centros-de-datos-sostenibles--e","score":9},
-    {"date":"08.29","title":"澳大利亚推进气候披露与排放清单数字化发布","summary":"联邦实体和公司将通过统一透明度门户发布气候披露和排放数据，机器可读披露继续扩散。","sector":"企业出海","source":"澳大利亚财政部","url":"https://www.finance.gov.au/government/managing-commonwealth-resources/commonwealth-climate-disclosure-rmg-140/publishing-climate-disclosure","score":8},
-    {"date":"08.31","title":"OECD 发布 27 国公正转型公众态度研究","summary":"工作论文显示，气候关切并不会自动转化为政策支持；经济安全、成本分配、补偿机制与透明沟通将直接影响高排放行业转型的社会接受度。","sector":"高排放行业","source":"OECD","url":"https://www.oecd.org/en/publications/taking-the-temperature-on-climate-change-and-on-just-transition-policies_96cf0561-en.html","score":8}
+    {"date":"09.01","title":"欧盟成员国提交首轮国家自然恢复计划草案","summary":"欧盟自然恢复法进入国家执行阶段，成员国计划需覆盖至2030年的措施，并对2040和2050作出战略概览，同时说明与气候、农业和融资政策的衔接。","sector":"自然与适应","source":"European Commission","url":"https://environment.ec.europa.eu/news/eu-countries-submit-draft-plans-restoring-nature-2026-09-01_en","score":9},
+    {"date":"09.01","title":"欧盟CBAM核查机构注册通道正式开放","summary":"CBAM注册系统开始接收核查机构申请，标志着进口产品隐含排放的第三方核查由规则准备转入执行准备。","sector":"企业出海","source":"European Commission","url":"https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-registry_en","score":9},
+    {"date":"09.01","title":"国际海事组织船用柴油机氮氧化物控制程序修订生效","summary":"NOx Technical Code修订正式生效，涉及船用柴油机排放控制与认证程序，航运和相关设备企业需核查技术文件与合规流程。","sector":"高排放行业","source":"UK Government / IMO","url":"https://www.gov.uk/government/speeches/changes-to-international-maritime-law--2","score":8},
+    {"date":"09.01","title":"北爱尔兰就2032清洁空气战略草案启动咨询","summary":"战略草案覆盖监测、交通规划、固体燃料与家用燃烧设备标准，并将空气污染造成的健康不平等纳入政策设计。","sector":"高排放行业","source":"Northern Ireland DAERA","url":"https://www.daera-ni.gov.uk/news/muir-launches-consultation-draft-northern-ireland-clean-air-strategy","score":7}
   ],
   "annualHighlights": [
     {"date":"02.25","title":"英国发布UK SRS S1与S2可持续披露标准","summary":"英国基于IFRS S1与S2建立本地可持续和气候披露基准，跨市场披露趋同继续推进。","sector":"企业出海","source":"UK Government","url":"https://www.gov.uk/government/publications/uk-sustainability-reporting-standards-uk-srs-s1-and-uk-srs-s2","score":9},
@@ -18,6 +15,9 @@
     {"date":"07.09","title":"中国发布“十五五”碳达峰行动方案","summary":"提出到2030年单位GDP二氧化碳排放较2025年下降17%、非化石能源消费占比达到25%等目标。","sector":"高排放行业","source":"中国国务院","url":"https://www.gov.cn/zhengce/content/202607/content_7074826.htm","score":10},
     {"date":"07.13","title":"欧盟更新零毁林法规产品范围与数字工具","summary":"法规实施配套进一步明确，相关企业需要准备产品溯源、地理位置与尽职调查声明数据。","sector":"企业出海","source":"European Commission","url":"https://environment.ec.europa.eu/news/commission-updates-product-scope-and-tools-support-eudr-2026-07-13_en","score":9},
     {"date":"07.27","title":"欧盟明确AI Act中的资源绩效与能耗披露方向","summary":"通用AI模型提供者需要披露能源消耗，系统性风险模型还需评估能源效率。","sector":"人工智能","source":"European Commission","url":"https://digital-strategy.ec.europa.eu/en/faqs/navigating-ai-act","score":9},
-    {"date":"08.24","title":"中国全国碳市场配额方案扩展至关键工业行业","summary":"钢铁、水泥与铝冶炼的配额、核定和履约安排成为年度高排放行业核心政策信号。","sector":"高排放行业","source":"中国生态环境部","url":"https://www.mee.gov.cn/ywdt/hjywnews/202608/t20260824_1164432.shtml","score":10}
+    {"date":"08.24","title":"中国全国碳市场配额方案扩展至关键工业行业","summary":"钢铁、水泥与铝冶炼的配额、核定和履约安排成为年度高排放行业核心政策信号。","sector":"高排放行业","source":"中国生态环境部","url":"https://www.mee.gov.cn/ywdt/hjywnews/202608/t20260824_1164432.shtml","score":10},
+    {"date":"09.01","title":"欧盟自然恢复法进入国家实施计划阶段","summary":"成员国首轮计划把自然恢复目标转化为国家措施、资金安排和跨政策协同，是自然风险从披露议题走向执行约束的重要节点。","sector":"自然与适应","source":"European Commission","url":"https://environment.ec.europa.eu/news/eu-countries-submit-draft-plans-restoring-nature-2026-09-01_en","score":9},
+    {"date":"09.01","title":"欧盟CBAM核查基础设施进入运营准备阶段","summary":"核查机构注册通道开放后，跨境企业需要把排放数据、核查资格和2027年起的报告提交安排纳入合规流程。","sector":"企业出海","source":"European Commission","url":"https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-registry_en","score":9},
+    {"date":"09.01","title":"国际海事组织船用柴油机氮氧化物控制程序修订生效","summary":"国际航运排放控制程序更新进入生效期，影响船舶、发动机制造与相关技术认证链条。","sector":"高排放行业","source":"UK Government / IMO","url":"https://www.gov.uk/government/speeches/changes-to-international-maritime-law--2","score":8}
   ]
 }

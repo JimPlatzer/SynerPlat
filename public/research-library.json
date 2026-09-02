@@ -1,6 +1,174 @@
 {
-  "updatedAt": "2026-09-01T09:02:02.242Z",
+  "updatedAt": "2026-09-02T02:04:10.391Z",
   "items": [
+    {
+      "id": "ec-nature-restoration-plans-2026",
+      "type": "政策法规",
+      "title": "EU countries submit draft plans on restoring nature",
+      "publisher": "European Commission",
+      "date": "2026-09-01",
+      "publishedDate": "2026-09-01",
+      "eventDate": "2026-09-01",
+      "dateNote": "成员国提交草案",
+      "sector": "自然与适应",
+      "tags": [
+        "自然恢复",
+        "生物多样性",
+        "气候适应",
+        "政策实施"
+      ],
+      "summary": "欧盟成员国开始提交国家自然恢复计划草案，说明到2030年的目标以及2040年、2050年行动路径，并需要协调水、气候、农业、林业、海洋与渔业政策。",
+      "insight": "是跟踪欧盟自然恢复法规从立法进入国家执行和融资安排阶段的关键入口，适合研究自然相关政策、土地使用及价值链风险。",
+      "url": "https://environment.ec.europa.eu/news/eu-countries-submit-draft-plans-restoring-nature-2026-09-01_en",
+      "featured": true
+    },
+    {
+      "id": "ec-cbam-verifier-registry-guide-2026",
+      "type": "政策法规",
+      "title": "CBAM Registry guidance for accredited verifiers",
+      "publisher": "European Commission",
+      "date": "2026-08-28",
+      "publishedDate": "2026-08-28",
+      "eventDate": "2026-09-01",
+      "dateNote": "核查机构注册开放",
+      "sector": "企业出海",
+      "tags": [
+        "CBAM",
+        "排放核查",
+        "注册程序",
+        "跨境合规"
+      ],
+      "summary": "欧盟委员会发布经认可CBAM核查机构的注册与访问指引，并自9月1日起通过O3CI门户受理注册申请。核查机构将审阅非欧盟装置运营商的排放数据和证明材料。",
+      "insight": "将CBAM合规要求落实为身份、认可、系统访问和核查报告流程，是高排放产品出口企业准备实际排放核证的重要操作资料。",
+      "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-registry_en",
+      "featured": true
+    },
+    {
+      "id": "uk-smart-contingent-contracts-research-2026",
+      "type": "政策报告",
+      "title": "Communicating the rollout of smart-contingent contracts to non-domestic customers",
+      "publisher": "UK Department for Energy Security and Net Zero",
+      "date": "2026-09-01",
+      "publishedDate": "2026-09-01",
+      "eventDate": "2026-09-01",
+      "dateNote": "研究与工具包发布",
+      "sector": "新能源",
+      "tags": [
+        "智能电表",
+        "能源合同",
+        "政策沟通",
+        "小企业"
+      ],
+      "summary": "英国政府发布定性信息测试研究、技术附件及能源供应商沟通工具包，为2027年面向小企业和公共部门场所实施智能电表条件合同提供证据基础。",
+      "insight": "适合研究能源政策从规则制定到用户沟通和供应商执行的转化过程，也可作为行为研究与政策沟通方法资料。",
+      "url": "https://www.gov.uk/government/publications/communicating-the-rollout-of-smart-contingent-contracts-to-non-domestic-customers",
+      "featured": false
+    },
+    {
+      "id": "doi-10-1016-j-cacint-2026-100461",
+      "type": "学术论文",
+      "title": "Advancing climate resilience through artificial intelligence: A comprehensive review across urban and climate-sensitive sectors in Morocco",
+      "publisher": "Elsevier BV",
+      "date": "2026-09-01",
+      "publishedDate": "2026-09-01",
+      "eventDate": "2026-09-01",
+      "dateNote": "论文发表",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "气候韧性",
+        "城市",
+        "同行评审状态待核"
+      ],
+      "summary": "该综述聚焦人工智能在摩洛哥城市及气候敏感行业中的韧性应用，原始DOI元数据与链接已核验，正式引用前仍需确认全文范围和同行评审状态。",
+      "insight": "为研究AI如何服务气候适应提供区域性综述线索，同时提示避免将技术能力直接等同于已实现的韧性效果。",
+      "url": "https://doi.org/10.1016/j.cacint.2026.100461",
+      "featured": false
+    },
+    {
+      "id": "doi-10-1007-s44274-026-00972-1",
+      "type": "学术论文",
+      "title": "Asymmetric impacts of green finance development and energy innovation and climate change on United States renewable energy consumption",
+      "publisher": "Springer Science and Business Media LLC",
+      "date": "2026-09-01",
+      "publishedDate": "2026-09-01",
+      "eventDate": "2026-09-01",
+      "dateNote": "论文发表",
+      "sector": "新能源",
+      "tags": [
+        "绿色金融",
+        "能源创新",
+        "可再生能源",
+        "同行评审状态待核"
+      ],
+      "summary": "论文研究绿色金融发展、能源创新与气候变化对美国可再生能源消费的非对称影响。当前收录基于Crossref元数据与可访问DOI，正式引用前需核验全文方法和同行评审状态。",
+      "insight": "可作为绿色金融与能源转型传导关系的计量研究线索，但不应在未阅读全文前直接引用因果结论。",
+      "url": "https://doi.org/10.1007/s44274-026-00972-1",
+      "featured": false
+    },
+    {
+      "id": "oecd-rbc-due-diligence-guidance-2018",
+      "type": "白皮书",
+      "title": "OECD Due Diligence Guidance for Responsible Business Conduct",
+      "publisher": "OECD",
+      "date": "2018-02-01",
+      "publishedDate": "2018-02-01",
+      "eventDate": "2018-02-01",
+      "dateNote": "指南发布",
+      "sector": "企业出海",
+      "tags": [
+        "尽职调查",
+        "人权",
+        "环境",
+        "负责任商业行为"
+      ],
+      "summary": "OECD为企业实施负责任商业行为尽职调查提供通用框架，覆盖劳动者、人权、环境、反贿赂、消费者和公司治理等潜在不利影响。",
+      "insight": "是供应链ESG尽职调查研究的基础制度文本，可用于理解后续欧盟和各国强制尽职调查规则所采用的风险识别、预防、减缓与补救逻辑。",
+      "url": "https://www.oecd.org/en/publications/oecd-due-diligence-guidance-for-responsible-business-conduct_15f5f4b3-en.html",
+      "featured": true
+    },
+    {
+      "id": "un-guiding-principles-business-human-rights-2011",
+      "type": "白皮书",
+      "title": "Guiding Principles on Business and Human Rights",
+      "publisher": "United Nations Human Rights Office",
+      "date": "2011",
+      "publishedDate": "2011",
+      "eventDate": "2011",
+      "dateNote": "联合国原则发布",
+      "sector": "高风险行业",
+      "tags": [
+        "商业与人权",
+        "保护尊重补救",
+        "供应链",
+        "申诉机制"
+      ],
+      "summary": "联合国《商业与人权指导原则》确立国家保护义务、企业尊重人权责任以及受影响者获得补救的三支柱框架。",
+      "insight": "是企业人权政策、供应链风险识别、申诉机制和补救责任研究的基础原文，应与行业指南及所在地法律结合使用。",
+      "url": "https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf",
+      "featured": true
+    },
+    {
+      "id": "ghg-protocol-corporate-standard-2004",
+      "type": "白皮书",
+      "title": "GHG Protocol Corporate Accounting and Reporting Standard — Revised Edition",
+      "publisher": "GHG Protocol / WRI / WBCSD",
+      "date": "2004-03",
+      "publishedDate": "2004-03",
+      "eventDate": "2004-03",
+      "dateNote": "修订版发布",
+      "sector": "高排放行业",
+      "tags": [
+        "温室气体核算",
+        "范围一",
+        "范围二",
+        "企业盘查"
+      ],
+      "summary": "GHG Protocol企业标准为组织层面的温室气体排放清单提供核算与报告原则、组织边界和运营边界方法，是企业排放管理与大量披露制度的基础方法文本。",
+      "insight": "适合用作核对企业碳盘查口径的历史基准；使用时还应结合2013年修订、Scope 2指引及正在推进的新版标准工作。",
+      "url": "https://ghgprotocol.org/corporate-standard",
+      "featured": true
+    },
     {
       "id": "doi-10-1007-s10462-026-11684-6",
       "type": "学术论文",
