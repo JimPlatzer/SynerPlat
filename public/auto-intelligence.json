@@ -1,8 +1,68 @@
 {
-  "updatedAt": "2026-09-03T04:36:47.746Z",
+  "updatedAt": "2026-09-03T11:57:12.456Z",
   "weekRange": "2026.08.27—09.03",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "uk-invasive-mosquito-east-london-2026",
+      "sector": "高风险行业",
+      "relevance": "直接 ESG",
+      "event": "风险监测",
+      "title": "英国首次确认埃及伊蚊在境内繁殖并启动强化监测",
+      "summary": "英国卫生安全局9月3日确认在东伦敦首次发现埃及伊蚊在英国繁殖，并已采取局部控制、强化诱捕和持续监测。官方评估当前公众风险很低、该物种尚未在英国建立种群，但指出气候变暖可能增加外来蚊媒输入与存活机会。",
+      "score": 7,
+      "publishedDate": "2026.09.03",
+      "eventDate": "2026.09.03",
+      "dateNote": "监测结果发布",
+      "source": "UK Health Security Agency",
+      "url": "https://www.gov.uk/government/news/invasive-mosquito-species-detected-in-east-london",
+      "tags": [
+        "气候适应",
+        "公共卫生",
+        "生物安全",
+        "风险监测"
+      ]
+    },
+    {
+      "id": "uk-waste-crime-heatmaps-2026",
+      "sector": "高风险行业",
+      "relevance": "直接 ESG",
+      "event": "执法与数据",
+      "title": "英国发布废弃物犯罪热力图并强化全国执法",
+      "summary": "英国环境署9月2日发布覆盖英格兰的废弃物犯罪热力图，数据显示2025年共收到10,238起相关报告。政府同时宣布增加前线执法人员、使用无人机并加强地方政府与警方协作，计划把最高定额罚款由300英镑提高至5,000英镑；新的数字化废弃物追踪制度将自2026年10月起实施。",
+      "score": 9,
+      "publishedDate": "2026.09.02",
+      "eventDate": "2026.09.02",
+      "dateNote": "数据与执法措施发布",
+      "source": "UK Environment Agency / DEFRA",
+      "url": "https://www.gov.uk/government/news/rogue-waste-gangs-exposed-as-heat-maps-reveal-englands-illegal-dumping-hotspots",
+      "tags": [
+        "废弃物犯罪",
+        "污染防治",
+        "环境执法",
+        "数字追踪"
+      ]
+    },
+    {
+      "id": "uk-public-control-taskforces-2026",
+      "sector": "公用事业",
+      "relevance": "间接 ESG",
+      "event": "政策协调",
+      "title": "英国设立跨政府工作组研究水、能源、交通与住房的公共控制改革",
+      "summary": "英国首相9月2日宣布设立三个跨政府工作组，围绕住房、水务、能源与交通的公共控制、市场改革、可负担性和问责展开工作。该安排把关键基础设施治理、生活成本与社区更新纳入同一政策协调框架，后续制度设计可能影响相关行业的所有权、监管与投资逻辑。",
+      "score": 7,
+      "publishedDate": "2026.09.02",
+      "eventDate": "2026.09.02",
+      "dateNote": "工作组成立",
+      "source": "UK Cabinet Office",
+      "url": "https://www.gov.uk/government/news/prime-minister-puts-public-control-community-regeneration-and-cost-of-living-at-the-heart-of-plans-to-rewire-britain",
+      "tags": [
+        "公共服务",
+        "能源治理",
+        "水务",
+        "交通"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-uk-backed-programme-supports-sustainable-live",
       "sector": "绿色金融",
@@ -219,6 +279,26 @@
   ],
   "watchlist": [
     {
+      "id": "doi-10-1007-s40518-026-00292-1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "大规模热储能能否利用可再生能源引发的批发电价波动",
+      "summary": "该开放获取综述比较热储能与电化学储能在日本电力市场情景中的经济性，指出热储能的容量配置灵活性和热惯性可能在部分场景中形成优势。结论属于模型与情景分析，应用到具体市场前仍需核对成本、价格与系统边界。",
+      "score": 7,
+      "publishedDate": "2026.09.03",
+      "eventDate": "2026.09.03",
+      "dateNote": "同行评审论文发表",
+      "source": "Springer Nature",
+      "url": "https://doi.org/10.1007/s40518-026-00292-1",
+      "tags": [
+        "热储能",
+        "批发电价",
+        "可再生能源",
+        "同行评审"
+      ]
+    },
+    {
       "id": "doi-10-1057-s41310-026-00417-4",
       "sector": "绿色金融",
       "relevance": "直接 ESG",
@@ -236,22 +316,83 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-02825v1",
-      "sector": "新能源",
+      "id": "doi-10-1186-s13705-026-00605-8",
+      "sector": "绿色金融",
       "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Charged black-hole binary radiation at second post-Newtonian order",
-      "summary": "In this work, we build on Ref.~[Phys.~Rev.~D 112, 124060 (2025)], where we derived the dynamics of an electrically charged binary system at second post-Newtonian (2PN) order, by extending the analysis, at the same PN accuracy, to the associated emission of electromagnetic and gravitational radiation. We focus on non-spinning binaries that evolve quasi-adiaba…",
+      "event": "学术研究",
+      "title": "金融科技、绿色能源与自然资源如何影响BRICS-11碳排放",
+      "summary": "这篇开放获取研究使用1990—2023年BRICS-11面板数据，检验金融科技、绿色能源和自然资源与二氧化碳排放的长期关系，并采用CS-ARDL与AMG等方法处理横截面依赖。研究结论可作为绿色金融传导机制线索，但跨国因果解释仍需结合模型假设审慎使用。",
       "score": 7,
       "publishedDate": "2026.09.02",
       "eventDate": "2026.09.02",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.02825v1",
+      "dateNote": "同行评审论文发表",
+      "source": "Springer Nature",
+      "url": "https://doi.org/10.1186/s13705-026-00605-8",
       "tags": [
-        "气候与碳",
-        "自然与生物多样性",
-        "预印本·非同行评审"
+        "金融科技",
+        "绿色能源",
+        "BRICS-11",
+        "同行评审"
+      ]
+    },
+    {
+      "id": "doi-10-3390-su18179005",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术线索",
+      "title": "中国新能源电池关键矿产需求与回收替代路径研究",
+      "summary": "研究以动态物质流、存量驱动和情景分析估算中国新能源电池关键矿产需求至2060年的变化，并讨论回收对原生矿产需求的替代潜力。当前收录已核验DOI元数据，正式引用前仍需核对全文与同行评审状态。",
+      "score": 7,
+      "publishedDate": "2026.09.02",
+      "eventDate": "2026.09.02",
+      "dateNote": "论文元数据发布",
+      "source": "MDPI",
+      "url": "https://doi.org/10.3390/su18179005",
+      "tags": [
+        "关键矿产",
+        "动力电池",
+        "循环经济",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-3390-su18178992",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术线索",
+      "title": "面向工业5.0的人本人工智能治理框架研究",
+      "summary": "文章以综合性文献回顾提出人本人工智能治理框架，把透明度、问责、员工参与与可持续绩效纳入工业5.0讨论。该框架尚未完成经验验证，当前收录基于已核验DOI元数据，适合作为研究设计线索而非成熟实证结论。",
+      "score": 7,
+      "publishedDate": "2026.09.02",
+      "eventDate": "2026.09.02",
+      "dateNote": "论文元数据发布",
+      "source": "MDPI",
+      "url": "https://doi.org/10.3390/su18178992",
+      "tags": [
+        "人工智能治理",
+        "工业5.0",
+        "人本治理",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-3390-su18178995",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "学术线索",
+      "title": "ESG委员会设立与企业环境处罚关系研究",
+      "summary": "研究基于2010—2023年中国A股公司数据，使用交错双重差分检验ESG委员会设立与环境处罚之间的关系，并提出绿色创新和内部控制等传导机制。当前收录已核验DOI元数据，因果识别与稳健性仍应结合全文复核。",
+      "score": 7,
+      "publishedDate": "2026.09.02",
+      "eventDate": "2026.09.02",
+      "dateNote": "论文元数据发布",
+      "source": "MDPI",
+      "url": "https://doi.org/10.3390/su18178995",
+      "tags": [
+        "ESG委员会",
+        "环境处罚",
+        "绿色创新",
+        "同行评审状态待核"
       ]
     },
     {
@@ -271,43 +412,6 @@
         "人工智能",
         "气候与碳",
         "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01592v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Fermionic Dark Matter Absorption and the High-Energy Event in LUX-ZEPLIN",
-      "summary": "The LUX-ZEPLIN (LZ) experiment has reported a single candidate event in the high-energy nuclear recoil window $248\\pm32.5\\ \\mathrm{keV}_{\\mathrm{nr}}$ with an exposure of $2.80\\ \\mathrm{ton}\\cdot\\mathrm{yr}$, while the low-energy spectrum remains consistent with background expectations. We demonstrate that this excess can be naturally explained by the neutra…",
-      "score": 7,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01592v1",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01568v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Enabling gravitational-wave astronomy with spin-precessing black holes on generic orbits",
-      "summary": "Binary black holes (BBHs) formed in dense stellar environments or in hierarchical triples can coalesce on eccentric orbits and carry spins of arbitrary orientation, leaving distinctive imprints on their gravitational-wave (GW) emission. We present SEOBNRv6EPHM: the first generic-orbit, spin-precessing model in the effective-one-body SEOBNR family, whose wave…",
-      "score": 7,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01568v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
       ]
     },
     {
@@ -348,178 +452,183 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-02853v1",
+      "id": "uk-ai-cough-surveillance-2026",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "公共卫生研究",
+      "title": "英国研究探索用AI睡眠数据提前一周预警流感与新冠",
+      "summary": "英国卫生安全局介绍一项medRxiv预印本研究：研究团队使用经过聚合与隐私保护的睡眠应用咳嗽数据，探索对呼吸道疾病活动的提前预警。初步结果显示部分指标可领先流感和新冠实验室数据约一周；该研究尚未经过同行评审，且作者披露了与数据提供方有关的利益关系。",
+      "score": 6,
+      "publishedDate": "2026.09.03",
+      "eventDate": "2026.09.03",
+      "dateNote": "政府研究说明发布",
+      "source": "UK Health Security Agency",
+      "url": "https://www.gov.uk/government/news/ai-sleep-data-could-provide-one-week-early-warning-of-flu-and-covid-19",
+      "tags": [
+        "人工智能",
+        "公共卫生",
+        "隐私保护",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-01339v1",
       "sector": "高排放行业",
       "relevance": "直接 ESG",
       "event": "工作论文",
-      "title": "LHAASO-WCDA observed a $\\sim$ 5 days TeV-delayed flaring event in blazar 1ES 1959+650",
-      "summary": "We report a day-scale hard lag between GeV and TeV $γ$-ray emission from the HBL 1ES~1959+650 in early 2024. Since the LHAASO-WCDA real-time monitoring system began operation in late 2023, multiple TeV flares from this source have been triggered, including the 1st trigger flare on 2024 February 9. A Bayesian-block analysis of the WCDA light curve identifies…",
+      "title": "Integrating Traffic Noise Emission Modelling into Variable Speed Limit Control",
+      "summary": "Road traffic noise remains a major environmental challenge, yet most speed management strategies are static and do not respond to short-term variations in traffic noise emissions. Although variable speed limit (VSL) systems are widely deployed for safety and congestion mitigation, traffic noise is rarely treated as an explicit operational control objective.…",
       "score": 6,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
+      "publishedDate": "2026.09.01",
+      "eventDate": "2026.09.01",
       "dateNote": "预印本发布",
       "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.02853v1",
+      "url": "http://arxiv.org/abs/2609.01339v1",
       "tags": [
         "气候与碳",
         "预印本·非同行评审"
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-02677v1",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Eliciting ESG Preferences for Reinforcement Learning-Based Portfolio Optimization",
-      "summary": "Modern portfolio management increasingly demands a balance between traditional risk-adjusted returns and strict Environmental, Social, and Governance (ESG) mandates. Current Reinforcement Learning (RL) approaches typically optimize for a single ESG provider, neglecting the significant divergence in rating methodologies across the industry and the unintuitive…",
-      "score": 6,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.02677v1",
-      "tags": [
-        "自然与生物多样性",
-        "供应链与出海",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02667v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Feeding The Little Monster: An Accreting Intermediate-Mass Black Hole In A Minor Merger Secondary Galaxy",
-      "summary": "We report the discovery of a luminous supersoft X-ray source associated with the secondary galaxy in a 10:1 minor merger at $z$=0.216. We identified the system in the 3D-HST survey and observed it serendipitously in more than 100 Chandra observations, providing a combined exposure of 6.6 Msec. The secondary galaxy ($\\log$ (M$_*$/M$_\\odot$)=8.24) exhibits X-r…",
-      "score": 6,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.02667v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02658v1",
+      "id": "doi-10-1007-s44274-026-00972-1",
       "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "The Neutral Atomic Hydrogen in the solar neighborhood (NeAtHood) project I. Ghost in the shell: Neutral atomic hydrogen in the extended Orion nebula",
-      "summary": "The Orion Nebula is the nearest site of ongoing and recent high-mass star formation. It is a unique laboratory for studying the mass, energy, and momentum input from high-mass stars. We present 21-centimeter emission line observations that resolve for the first time the neutral atomic hydrogen (HI) gas in the extended Orion nebula (EON) at a resolution of on…",
-      "score": 6,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.02658v1",
+      "event": "学术研究",
+      "title": "Asymmetric impacts of green finance development and energy innovation and climate change on United States renewable energy consumption",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.01",
+      "eventDate": "2026.09.01",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s44274-026-00972-1",
       "tags": [
         "能源转型",
         "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02648v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Can diffuse X-rays be important in driving photoionisation in molecular clouds?",
-      "summary": "The ionisation balance in molecular clouds is regulated by several ionising sources, including cosmic rays, X-rays, and ultraviolet radiation. Their relative importance depends on the local physical conditions and on the shielding column density. We compute the contribution of the large-scale diffuse X-ray radiation field to the ionisation in molecular cloud…",
-      "score": 6,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.02648v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
+        "同行评审状态待核"
       ]
     }
   ],
   "keywordEvents": [
     {
-      "id": "arxiv-arxiv-org-abs-2609-02825v1",
+      "id": "period-www-gov-uk-government-news-invasive-mosquito-species-detected-in-east-lo",
+      "date": "2026-09-03",
+      "terms": [
+        "高风险行业"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s40518-026-00292-1",
+      "date": "2026-09-03",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "电力系统"
+      ]
+    },
+    {
+      "id": "uk-invasive-mosquito-east-london-2026",
+      "date": "2026-09-03",
+      "terms": [
+        "高风险行业",
+        "气候适应"
+      ]
+    },
+    {
+      "id": "uk-ai-cough-surveillance-2026",
+      "date": "2026-09-03",
+      "terms": [
+        "人工智能",
+        "气候披露",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "period-www-gov-uk-government-news-rogue-waste-gangs-exposed-as-heat-maps-reveal",
+      "date": "2026-09-02",
+      "terms": [
+        "高风险行业",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "period-www-gov-uk-government-news-prime-minister-puts-public-control-community-",
+      "date": "2026-09-02",
+      "terms": [
+        "公用事业",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "uk-waste-crime-heat-maps-2026",
+      "date": "2026-09-02",
+      "terms": [
+        "高风险行业",
+        "气候披露",
+        "污染防治"
+      ]
+    },
+    {
+      "id": "doi-10-1186-s13705-026-00605-8",
+      "date": "2026-09-02",
+      "terms": [
+        "绿色金融",
+        "碳与排放"
+      ]
+    },
+    {
+      "id": "doi-10-3390-su18179005",
       "date": "2026-09-02",
       "terms": [
         "新能源",
-        "碳与排放",
-        "自然与生物多样性",
+        "关键矿产",
         "学术研究"
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-02853v1",
+      "id": "doi-10-3390-su18178992",
       "date": "2026-09-02",
       "terms": [
-        "高排放行业",
-        "碳与排放"
+        "人工智能",
+        "学术研究"
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-02677v1",
-      "date": "2026-09-02",
-      "terms": [
-        "企业出海",
-        "供应链与出海",
-        "自然与生物多样性"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02667v1",
+      "id": "doi-10-3390-su18178995",
       "date": "2026-09-02",
       "terms": [
         "高排放行业",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "uk-waste-crime-heatmaps-2026",
+      "date": "2026-09-02",
+      "terms": [
+        "高风险行业",
         "政策监管",
-        "碳与排放"
+        "数字化与数据",
+        "污染防治"
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-02658v1",
+      "id": "uk-public-control-taskforces-2026",
       "date": "2026-09-02",
       "terms": [
-        "新能源",
+        "公用事业",
         "政策监管",
-        "可再生能源",
-        "碳与排放"
+        "绿色金融"
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-02648v1",
+      "id": "uk-honduras-sustainable-livestock-2026",
       "date": "2026-09-02",
       "terms": [
-        "高排放行业",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02574v1",
-      "date": "2026-09-02",
-      "terms": [
-        "高排放行业",
+        "农业与自然",
         "政策监管",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02555v1",
-      "date": "2026-09-02",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "碳与排放",
-        "自然与生物多样性"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02313v1",
-      "date": "2026-09-02",
-      "terms": [
-        "新能源",
-        "碳与排放"
+        "气候披露",
+        "气候适应",
+        "绿色金融"
       ]
     },
     {
@@ -535,23 +644,6 @@
       "terms": [
         "绿色金融",
         "数字化与数据"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02287v1",
-      "date": "2026-09-02",
-      "terms": [
-        "新能源",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02167v1",
-      "date": "2026-09-02",
-      "terms": [
-        "高排放行业",
-        "能源效率",
-        "碳与排放"
       ]
     },
     {
@@ -664,35 +756,7 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-01592v1",
-      "date": "2026-09-01",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "能源转型",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01568v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "碳与排放",
-        "工作论文"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2609-01328v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "碳与排放",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01586v1",
       "date": "2026-09-01",
       "terms": [
         "高排放行业",
@@ -707,112 +771,6 @@
         "高排放行业",
         "碳与排放",
         "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01265v1",
-      "date": "2026-09-01",
-      "terms": [
-        "新能源",
-        "碳与排放",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01247v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01203v1",
-      "date": "2026-09-01",
-      "terms": [
-        "新能源",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01191v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01177v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01052v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "政策监管",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-00990v1",
-      "date": "2026-09-01",
-      "terms": [
-        "新能源",
-        "碳与排放",
-        "绿色金融"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-00989v1",
-      "date": "2026-09-01",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "碳与排放",
-        "自然与生物多样性"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-00962v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-00902v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "能源效率",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-00899v1",
-      "date": "2026-09-01",
-      "terms": [
-        "高排放行业",
-        "政策监管",
-        "能源效率",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01912v1",
-      "date": "2026-09-01",
-      "terms": [
-        "人工智能",
-        "数据中心",
-        "电力系统",
-        "碳与排放"
       ]
     },
     {
@@ -874,7 +832,7 @@
       "date": "2026-08-27",
       "terms": [
         "新能源",
-        "碳与排放",
+        "政策监管",
         "气候披露",
         "绿色金融"
       ]
@@ -969,37 +927,57 @@
   ],
   "sectorInsights": [
     [
+      "高排放行业",
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
+      "→"
+    ],
+    [
+      "企业出海",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
+      "→"
+    ],
+    [
+      "新能源",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
+      "→"
+    ],
+    [
       "绿色金融",
-      "过去七日新增 1 条已核验线索，重点条目按重大性和原始来源可靠度排序。",
-      1,
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
+      "→"
+    ],
+    [
+      "高风险行业",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
       "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "绿色金融成为过去七日的主要新增信号",
+      "title": "高排放行业、企业出海、新能源构成过去七日的主要行业信号",
       "range": "2026.08.27—09.03",
-      "copy": "过去7天当前保留 11 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "copy": "过去7天当前保留 14 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "碳与排放",
+          "政策监管",
           10
         ],
         [
           "高排放行业",
-          9
-        ],
-        [
-          "政策监管",
-          7
+          6
         ],
         [
           "新能源",
-          7
+          6
         ],
         [
-          "工作论文",
+          "绿色金融",
           6
         ],
         [
@@ -1007,47 +985,43 @@
           5
         ],
         [
+          "气候披露",
+          5
+        ],
+        [
+          "人工智能",
+          4
+        ],
+        [
           "企业出海",
           4
         ],
         [
-          "绿色金融",
+          "工作论文",
           4
-        ],
-        [
-          "自然与生物多样性",
-          4
-        ],
-        [
-          "人工智能",
-          3
-        ],
-        [
-          "能源效率",
-          3
-        ],
-        [
-          "供应链与出海",
-          3
-        ],
-        [
-          "数字化与数据",
-          3
-        ],
-        [
-          "数据中心",
-          3
-        ],
-        [
-          "气候披露",
-          3
         ],
         [
           "气候适应",
-          3
+          4
         ],
         [
           "污染防治",
+          4
+        ],
+        [
+          "高风险行业",
+          4
+        ],
+        [
+          "数字化与数据",
+          4
+        ],
+        [
+          "学术研究",
+          3
+        ],
+        [
+          "碳与排放",
           3
         ],
         [
@@ -1055,7 +1029,19 @@
           3
         ],
         [
+          "供应链与出海",
+          3
+        ],
+        [
           "公正转型",
+          3
+        ],
+        [
+          "公用事业",
+          3
+        ],
+        [
+          "数据中心",
           3
         ],
         [
@@ -1063,7 +1049,15 @@
           3
         ],
         [
-          "学术研究",
+          "自然与生物多样性",
+          3
+        ],
+        [
+          "关键矿产",
+          2
+        ],
+        [
+          "农业与自然",
           2
         ],
         [
@@ -1075,35 +1069,31 @@
           2
         ],
         [
-          "能源转型",
+          "能源效率",
           2
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
-      "title": "过去一个月滚动资料持续聚焦绿色金融",
+      "title": "过去30天政策、产业与研究信号持续滚动更新",
       "range": "2026.08.04—09.03",
-      "copy": "过去30天词频基于 59 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "copy": "过去30天词频基于 47 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
-          "碳与排放",
+          "政策监管",
           10
         ],
         [
           "高排放行业",
-          10
-        ],
-        [
-          "新能源",
-          8
-        ],
-        [
-          "政策监管",
           7
         ],
         [
-          "工作论文",
+          "新能源",
+          6
+        ],
+        [
+          "绿色金融",
           6
         ],
         [
@@ -1111,11 +1101,19 @@
           5
         ],
         [
-          "绿色金融",
-          4
+          "气候披露",
+          5
         ],
         [
-          "自然与生物多样性",
+          "气候适应",
+          5
+        ],
+        [
+          "污染防治",
+          5
+        ],
+        [
+          "人工智能",
           4
         ],
         [
@@ -1123,39 +1121,27 @@
           4
         ],
         [
-          "人工智能",
-          3
+          "工作论文",
+          4
         ],
         [
           "数字化与数据",
-          3
+          4
         ],
         [
-          "气候适应",
-          3
+          "高风险行业",
+          4
         ],
         [
-          "污染防治",
-          3
-        ],
-        [
-          "能源效率",
-          3
+          "碳与排放",
+          4
         ],
         [
           "自然与适应",
-          3
+          4
         ],
         [
-          "供应链与出海",
-          3
-        ],
-        [
-          "数据中心",
-          3
-        ],
-        [
-          "气候披露",
+          "学术研究",
           3
         ],
         [
@@ -1163,7 +1149,11 @@
           3
         ],
         [
-          "能源转型",
+          "自然与生物多样性",
+          3
+        ],
+        [
+          "供应链与出海",
           3
         ],
         [
@@ -1171,15 +1161,27 @@
           3
         ],
         [
-          "电力系统",
+          "公用事业",
           3
         ],
         [
           "关键矿产",
-          2
+          3
         ],
         [
-          "学术研究",
+          "数据中心",
+          3
+        ],
+        [
+          "电力系统",
+          3
+        ],
+        [
+          "能源转型",
+          3
+        ],
+        [
+          "农业与自然",
           2
         ],
         [
@@ -1188,6 +1190,10 @@
         ],
         [
           "气候风险",
+          2
+        ],
+        [
+          "能源效率",
           2
         ]
       ]
@@ -1199,12 +1205,12 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 5
+      "items": 6
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 36
+      "items": 37
     },
     {
       "source": "Crossref",
@@ -1215,14 +1221,9 @@
       "source": "arXiv",
       "status": "ok",
       "items": 40
-    },
-    {
-      "source": "GitHub Models",
-      "status": "error",
-      "message": "GitHub Models 410: {\"error\":{\"code\":\"github_models_retirement_brownout\",\"message\":\"GitHub Models is temporarily unavailable as part of a scheduled retirement brownout.\"}}\n"
     }
   ],
-  "verifiedCandidateCount": 17,
+  "verifiedCandidateCount": 4,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

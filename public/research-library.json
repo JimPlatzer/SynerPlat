@@ -1,219 +1,155 @@
 {
-  "updatedAt": "2026-09-03T04:36:47.746Z",
+  "updatedAt": "2026-09-03T11:57:12.456Z",
   "items": [
     {
-      "id": "arxiv-arxiv-org-abs-2609-02825v1",
-      "type": "工作论文",
-      "title": "Charged black-hole binary radiation at second post-Newtonian order",
-      "publisher": "arXiv",
+      "id": "uk-waste-crime-heat-maps-2026",
+      "type": "政策报告",
+      "title": "Waste crime reporting in England: heat maps",
+      "publisher": "UK Environment Agency",
       "date": "2026-09-02",
       "publishedDate": "2026-09-02",
       "eventDate": "2026-09-02",
-      "dateNote": "预印本发布",
+      "dateNote": "官方数据发布；统计期为2025年1月1日至12月31日",
+      "sector": "高风险行业",
+      "tags": [
+        "废弃物犯罪",
+        "环境执法",
+        "污染防治",
+        "官方数据"
+      ],
+      "summary": "英国环境署发布英格兰废弃物犯罪报告热力图，以2025年10,238起报告为基础呈现非法倾倒、无资质经营、垃圾焚烧和可疑车辆等事件的空间分布。",
+      "insight": "这是研究英国废弃物犯罪地域分布、执法资源配置和数字追踪政策效果的原始官方数据入口；使用时应注意数据反映的是报告事件而非全部真实发生量。",
+      "url": "https://www.gov.uk/government/publications/waste-crime-reporting-in-england-heat-maps",
+      "featured": true
+    },
+    {
+      "id": "medrxiv-10-64898-2026-07-20-26357937",
+      "type": "工作论文",
+      "title": "Nocturnal cough as a syndromic surveillance signal for respiratory illness in England",
+      "publisher": "medRxiv",
+      "date": "2026-07-20",
+      "publishedDate": "2026-07-20",
+      "eventDate": "2026-09-03",
+      "dateNote": "预印本发布；英国卫生安全局于9月3日发布研究说明",
+      "sector": "人工智能",
+      "tags": [
+        "公共卫生",
+        "数字监测",
+        "隐私保护",
+        "预印本·非同行评审"
+      ],
+      "summary": "研究使用2023年1月至2026年1月经过聚合与隐私保护的睡眠应用咳嗽数据，评估其作为英格兰呼吸道疾病综合监测信号的可行性，并报告对部分流感与新冠指标约一周的领先关系。",
+      "insight": "可作为非传统数字数据用于公共卫生早期预警的方法案例；尚未同行评审，且作者中包含数据提供方员工，引用时应同时披露不确定性与利益关系。",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.07.20.26357937v1",
+      "featured": false
+    },
+    {
+      "id": "doi-10-1007-s40518-026-00292-1",
+      "type": "学术论文",
+      "title": "Can Large-Scale Thermal Energy Storage Exploit the Effects of Renewable Generation on Wholesale Electricity Prices?",
+      "publisher": "Springer Nature",
+      "date": "2026-09-03",
+      "publishedDate": "2026-09-03",
+      "eventDate": "2026-09-03",
+      "dateNote": "同行评审论文发表",
       "sector": "新能源",
       "tags": [
-        "气候与碳",
-        "自然与生物多样性",
-        "预印本·非同行评审"
+        "热储能",
+        "批发电价",
+        "可再生能源",
+        "同行评审",
+        "开放获取"
       ],
-      "summary": "In this work, we build on Ref.~[Phys.~Rev.~D 112, 124060 (2025)], where we derived the dynamics of an electrically charged binary system at second post-Newtonian (2PN) order, by extending the analysis, at the same PN accuracy, to the associated emission of electromagnetic and gravitational radiation. We focus on non-spinning binaries that evolve quasi-adiaba…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.02825v1",
+      "summary": "文章比较大规模热储能与电化学储能利用可再生能源引发批发电价波动的能力，并结合日本电力价格情景讨论容量配置、热惯性与经济性。",
+      "insight": "可用于研究储能技术选择如何受到市场价格结构和终端热需求约束；将结论外推至其他市场前需重估价格、成本和系统边界。",
+      "url": "https://doi.org/10.1007/s40518-026-00292-1",
       "featured": false
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-02853v1",
-      "type": "工作论文",
-      "title": "LHAASO-WCDA observed a $\\sim$ 5 days TeV-delayed flaring event in blazar 1ES 1959+650",
-      "publisher": "arXiv",
+      "id": "doi-10-1186-s13705-026-00605-8",
+      "type": "学术论文",
+      "title": "Driving the green transition: the impact of Fintech, green energy and natural resources on lowering CO2 emissions in the BRICS-11 countries",
+      "publisher": "Springer Nature",
       "date": "2026-09-02",
       "publishedDate": "2026-09-02",
       "eventDate": "2026-09-02",
-      "dateNote": "预印本发布",
-      "sector": "高排放行业",
+      "dateNote": "同行评审论文发表",
+      "sector": "绿色金融",
       "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
+        "金融科技",
+        "绿色能源",
+        "BRICS-11",
+        "碳排放",
+        "同行评审",
+        "开放获取"
       ],
-      "summary": "We report a day-scale hard lag between GeV and TeV $γ$-ray emission from the HBL 1ES~1959+650 in early 2024. Since the LHAASO-WCDA real-time monitoring system began operation in late 2023, multiple TeV flares from this source have been triggered, including the 1st trigger flare on 2024 February 9. A Bayesian-block analysis of the WCDA light curve identifies…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.02853v1",
+      "summary": "研究使用1990—2023年BRICS-11面板数据与CS-ARDL、AMG等方法，分析金融科技、绿色能源、自然资源与二氧化碳排放之间的长期关系。",
+      "insight": "适合作为绿色金融和数字金融影响能源转型的跨国计量证据线索；政策引用时仍应核对变量构造、横截面依赖处理和因果边界。",
+      "url": "https://doi.org/10.1186/s13705-026-00605-8",
       "featured": false
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-02677v1",
-      "type": "工作论文",
-      "title": "Eliciting ESG Preferences for Reinforcement Learning-Based Portfolio Optimization",
-      "publisher": "arXiv",
+      "id": "doi-10-3390-su18179005",
+      "type": "学术论文",
+      "title": "Critical Mineral Demand and Recycling Substitution Pathways for New Energy Batteries in China",
+      "publisher": "MDPI",
       "date": "2026-09-02",
       "publishedDate": "2026-09-02",
       "eventDate": "2026-09-02",
-      "dateNote": "预印本发布",
-      "sector": "企业出海",
-      "tags": [
-        "自然与生物多样性",
-        "供应链与出海",
-        "预印本·非同行评审"
-      ],
-      "summary": "Modern portfolio management increasingly demands a balance between traditional risk-adjusted returns and strict Environmental, Social, and Governance (ESG) mandates. Current Reinforcement Learning (RL) approaches typically optimize for a single ESG provider, neglecting the significant divergence in rating methodologies across the industry and the unintuitive…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.02677v1",
-      "featured": false
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02667v1",
-      "type": "工作论文",
-      "title": "Feeding The Little Monster: An Accreting Intermediate-Mass Black Hole In A Minor Merger Secondary Galaxy",
-      "publisher": "arXiv",
-      "date": "2026-09-02",
-      "publishedDate": "2026-09-02",
-      "eventDate": "2026-09-02",
-      "dateNote": "预印本发布",
-      "sector": "高排放行业",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ],
-      "summary": "We report the discovery of a luminous supersoft X-ray source associated with the secondary galaxy in a 10:1 minor merger at $z$=0.216. We identified the system in the 3D-HST survey and observed it serendipitously in more than 100 Chandra observations, providing a combined exposure of 6.6 Msec. The secondary galaxy ($\\log$ (M$_*$/M$_\\odot$)=8.24) exhibits X-r…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.02667v1",
-      "featured": false
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02658v1",
-      "type": "工作论文",
-      "title": "The Neutral Atomic Hydrogen in the solar neighborhood (NeAtHood) project I. Ghost in the shell: Neutral atomic hydrogen in the extended Orion nebula",
-      "publisher": "arXiv",
-      "date": "2026-09-02",
-      "publishedDate": "2026-09-02",
-      "eventDate": "2026-09-02",
-      "dateNote": "预印本发布",
+      "dateNote": "Crossref元数据发布；同行评审状态待核",
       "sector": "新能源",
       "tags": [
-        "能源转型",
-        "气候与碳",
-        "预印本·非同行评审"
+        "关键矿产",
+        "动力电池",
+        "循环经济",
+        "同行评审状态待核"
       ],
-      "summary": "The Orion Nebula is the nearest site of ongoing and recent high-mass star formation. It is a unique laboratory for studying the mass, energy, and momentum input from high-mass stars. We present 21-centimeter emission line observations that resolve for the first time the neutral atomic hydrogen (HI) gas in the extended Orion nebula (EON) at a resolution of on…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.02658v1",
+      "summary": "研究以动态物质流、存量驱动和情景分析估算中国新能源电池关键矿产需求至2060年的变化，并讨论回收对原生矿产需求的替代潜力。",
+      "insight": "可作为电池材料安全、回收政策和循环经济情景研究线索；全文及同行评审状态完成复核前，不宜直接采用具体预测值。",
+      "url": "https://doi.org/10.3390/su18179005",
       "featured": false
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-02648v1",
-      "type": "工作论文",
-      "title": "Can diffuse X-rays be important in driving photoionisation in molecular clouds?",
-      "publisher": "arXiv",
+      "id": "doi-10-3390-su18178992",
+      "type": "学术论文",
+      "title": "Human-Centric Artificial Intelligence Governance for Industry 5.0",
+      "publisher": "MDPI",
       "date": "2026-09-02",
       "publishedDate": "2026-09-02",
       "eventDate": "2026-09-02",
-      "dateNote": "预印本发布",
+      "dateNote": "Crossref元数据发布；同行评审状态待核",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能治理",
+        "工业5.0",
+        "人本治理",
+        "同行评审状态待核"
+      ],
+      "summary": "文章通过综合性文献回顾提出人本人工智能治理框架，把透明度、问责、员工参与和可持续绩效纳入工业5.0讨论。",
+      "insight": "适合作为企业AI治理框架和研究假设来源；作者明确指出框架尚未经验验证，因此不应把概念关系表述为已证实效果。",
+      "url": "https://doi.org/10.3390/su18178992",
+      "featured": false
+    },
+    {
+      "id": "doi-10-3390-su18178995",
+      "type": "学术论文",
+      "title": "ESG Committees and Corporate Environmental Penalties: Evidence from China",
+      "publisher": "MDPI",
+      "date": "2026-09-02",
+      "publishedDate": "2026-09-02",
+      "eventDate": "2026-09-02",
+      "dateNote": "Crossref元数据发布；同行评审状态待核",
       "sector": "高排放行业",
       "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
+        "ESG委员会",
+        "环境处罚",
+        "绿色创新",
+        "内部控制",
+        "同行评审状态待核"
       ],
-      "summary": "The ionisation balance in molecular clouds is regulated by several ionising sources, including cosmic rays, X-rays, and ultraviolet radiation. Their relative importance depends on the local physical conditions and on the shielding column density. We compute the contribution of the large-scale diffuse X-ray radiation field to the ionisation in molecular cloud…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.02648v1",
-      "featured": false
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02574v1",
-      "type": "工作论文",
-      "title": "3.5-meter Segmented-Mirror Robotic Space Telescope Mission White Paper II. Key Scientific Mission: Wide-Field Cosmology and Galaxy Evolution",
-      "publisher": "arXiv",
-      "date": "2026-09-02",
-      "publishedDate": "2026-09-02",
-      "eventDate": "2026-09-02",
-      "dateNote": "预印本发布",
-      "sector": "高排放行业",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ],
-      "summary": "The 3.5-meter Segmented-Mirror Robotic Space Telescope uses an image slicer for all spectroscopic observations. The planning baseline uses $R \\simeq 1000$ for the wide survey and retains selectable $R \\simeq 5000$ bands for precision line measurements. The central science case is a dense emission-line galaxy redshift survey for baryon acoustic oscillations a…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.02574v1",
-      "featured": false
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02555v1",
-      "type": "工作论文",
-      "title": "Solar Soft X-ray Coronal Dimming in a Failed Eruption Associated with Plasma Cooling",
-      "publisher": "arXiv",
-      "date": "2026-09-02",
-      "publishedDate": "2026-09-02",
-      "eventDate": "2026-09-02",
-      "dateNote": "预印本发布",
-      "sector": "新能源",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "自然与生物多样性",
-        "预印本·非同行评审"
-      ],
-      "summary": "Coronal dimmings are observed as sudden and localized reductions in the extreme-ultraviolet and X-ray emission of the solar corona. Traditionally, significant dimmings of spectral lines formed at temperatures of 1-2 MK are regarded as indicators of coronal mass ejections (CMEs), reflecting the density depletion caused by plasma escaping into interplanetary s…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.02555v1",
-      "featured": false
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-02313v1",
-      "type": "工作论文",
-      "title": "Redshift Spectroscopy as a Probe of Regular Black Holes, Black Bounces, and Scalar-Hair Compact Objects",
-      "publisher": "arXiv",
-      "date": "2026-09-02",
-      "publishedDate": "2026-09-02",
-      "eventDate": "2026-09-02",
-      "dateNote": "预印本发布",
-      "sector": "新能源",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ],
-      "summary": "Motivated by [Phys. Rev. D. 107, 064019 (2023)], we develop a unified and model-independent framework for the spectroscopy of photon frequency shifts in generic static, spherically symmetric spacetimes. Working with a line element characterized by three arbitrary radial metric functions, we derive exact expressions for the conserved quantities of massive and…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.02313v1",
-      "featured": false
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01592v1",
-      "type": "工作论文",
-      "title": "Fermionic Dark Matter Absorption and the High-Energy Event in LUX-ZEPLIN",
-      "publisher": "arXiv",
-      "date": "2026-09-01",
-      "publishedDate": "2026-09-01",
-      "eventDate": "2026-09-01",
-      "dateNote": "预印本发布",
-      "sector": "新能源",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "预印本·非同行评审"
-      ],
-      "summary": "The LUX-ZEPLIN (LZ) experiment has reported a single candidate event in the high-energy nuclear recoil window $248\\pm32.5\\ \\mathrm{keV}_{\\mathrm{nr}}$ with an exposure of $2.80\\ \\mathrm{ton}\\cdot\\mathrm{yr}$, while the low-energy spectrum remains consistent with background expectations. We demonstrate that this excess can be naturally explained by the neutra…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.01592v1",
-      "featured": false
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01568v1",
-      "type": "工作论文",
-      "title": "Enabling gravitational-wave astronomy with spin-precessing black holes on generic orbits",
-      "publisher": "arXiv",
-      "date": "2026-09-01",
-      "publishedDate": "2026-09-01",
-      "eventDate": "2026-09-01",
-      "dateNote": "预印本发布",
-      "sector": "高排放行业",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ],
-      "summary": "Binary black holes (BBHs) formed in dense stellar environments or in hierarchical triples can coalesce on eccentric orbits and carry spins of arbitrary orientation, leaving distinctive imprints on their gravitational-wave (GW) emission. We present SEOBNRv6EPHM: the first generic-orbit, spin-precessing model in the effective-one-body SEOBNR family, whose wave…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.01568v1",
+      "summary": "研究使用2010—2023年中国A股公司数据和交错双重差分，检验ESG委员会设立与环境处罚之间的关系，并讨论绿色创新及内部控制的传导作用。",
+      "insight": "可用于企业ESG治理结构与监管结果关系的研究设计；正式引用因果结论前应核查样本选择、平行趋势、机制检验与稳健性。",
+      "url": "https://doi.org/10.3390/su18178995",
       "featured": false
     },
     {
@@ -236,25 +172,6 @@
       "featured": false
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-01586v1",
-      "type": "工作论文",
-      "title": "The JWST Emission Line Survey (JELS): A narrow-band determination of the H$α$ Luminosity Function and Cosmic Star Formation into the Epoch of Reionization",
-      "publisher": "arXiv",
-      "date": "2026-09-01",
-      "publishedDate": "2026-09-01",
-      "eventDate": "2026-09-01",
-      "dateNote": "预印本发布",
-      "sector": "高排放行业",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ],
-      "summary": "The recent star-formation activity in galaxies can be optimally traced by the H$α$ emission line, with the resulting H$α$ luminosity function (LF) at a given epoch providing a reliable probe of cosmic star formation. We present the first narrow-band determined H$α$ LF into the Epoch of Reionization (EoR) at $z\\sim6.1$, using 39 H$α$ emitters selected from th…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.01586v1",
-      "featured": false
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2609-01339v1",
       "type": "工作论文",
       "title": "Integrating Traffic Noise Emission Modelling into Variable Speed Limit Control",
@@ -271,82 +188,6 @@
       "summary": "Road traffic noise remains a major environmental challenge, yet most speed management strategies are static and do not respond to short-term variations in traffic noise emissions. Although variable speed limit (VSL) systems are widely deployed for safety and congestion mitigation, traffic noise is rarely treated as an explicit operational control objective.…",
       "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
       "url": "http://arxiv.org/abs/2609.01339v1",
-      "featured": false
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01265v1",
-      "type": "工作论文",
-      "title": "AGN X-ray coronae at high luminosity: A broadband study of RBS 229 and PG 1407+265",
-      "publisher": "arXiv",
-      "date": "2026-09-01",
-      "publishedDate": "2026-09-01",
-      "eventDate": "2026-09-01",
-      "dateNote": "预印本发布",
-      "sector": "新能源",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ],
-      "summary": "Context. The X-ray emission of active galactic nuclei (AGNs) is commonly interpreted as arising from Comptonisation in a hot corona above the accretion disc. A prominent soft X-ray excess is also observed in many sources and is often explained by a warm Comptonising layer. Aims. We investigate the X-ray-emitting coronae of the luminous radio-quiet quasars PG…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.01265v1",
-      "featured": false
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01247v1",
-      "type": "工作论文",
-      "title": "A Non-Isothermal Viscoplastic Constitutive Model for Clay Slip Surfaces",
-      "publisher": "arXiv",
-      "date": "2026-09-01",
-      "publishedDate": "2026-09-01",
-      "eventDate": "2026-09-01",
-      "dateNote": "预印本发布",
-      "sector": "高排放行业",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ],
-      "summary": "Clayey slip surfaces control the reactivation and long-term deformation of slow-moving landslides and may experience thermal fluctuations from climate, seasonal ground-temperature changes, or subsurface heat sources. Experiments show that residual shear strength depends on temperature and shearing rate, yet most numerical approaches use temperature-independe…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.01247v1",
-      "featured": false
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01203v1",
-      "type": "工作论文",
-      "title": "Angular correlations and polarization in $Z$+jet production at the LHC",
-      "publisher": "arXiv",
-      "date": "2026-09-01",
-      "publishedDate": "2026-09-01",
-      "eventDate": "2026-09-01",
-      "dateNote": "预印本发布",
-      "sector": "新能源",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ],
-      "summary": "Precision studies at the LHC increasingly require theoretical control over QCD radiation beyond fixed-order perturbation theory, particularly in final states characterised by large separations in rapidity. High-energy logarithms can generate corrections at the ten-percent level even for electroweak-scale observables, as recently observed in Higgs production,…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.01203v1",
-      "featured": false
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01191v1",
-      "type": "工作论文",
-      "title": "Low-threshold vortex lasing in three-dimensional cavities via flatband bound states in the continuum",
-      "publisher": "arXiv",
-      "date": "2026-09-01",
-      "publishedDate": "2026-09-01",
-      "eventDate": "2026-09-01",
-      "dateNote": "预印本发布",
-      "sector": "高排放行业",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ],
-      "summary": "Bound states in the continuum (BICs) offer a robust route toward high-Q resonators and topological structured-light generation. While optically pumped BIC lasers have advanced significantly, realizing electrically pumped vortex lasers remains challenging due to conflicting requirements for optical confinement and carrier injection. Here, we demonstrate an el…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.01191v1",
       "featured": false
     },
     {
@@ -714,23 +555,6 @@
       "featured": false
     },
     {
-      "id": "llm-footprint-2025",
-      "type": "工作论文",
-      "title": "How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference",
-      "publisher": "arXiv",
-      "date": "2025-05-14",
-      "sector": "人工智能",
-      "tags": [
-        "LLM",
-        "能耗基准",
-        "水耗"
-      ],
-      "summary": "研究构建基础设施感知的框架，对多种大模型推理的能源、水与碳足迹进行对比。",
-      "insight": "适合研究模型效率与规模效应，但属于预印本，引用时需标注尚未完成同行评审。",
-      "url": "https://arxiv.org/abs/2505.09598",
-      "featured": false
-    },
-    {
       "id": "ocean-disclosure-2025",
       "type": "学术论文",
       "title": "Identifying and closing gaps in corporate reporting of ocean impacts",
@@ -984,23 +808,6 @@
       "insight": "适合作为绿色金融市场规模和政策缺口的宏观数据来源。",
       "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/global-outlook-on-financing-for-sustainable-development-2025_6748f647/753d5368-en.pdf",
       "featured": true
-    },
-    {
-      "id": "arxiv-greenwashing-2025",
-      "type": "工作论文",
-      "title": "Towards Robust ESG Analysis Against Greenwashing Risks",
-      "publisher": "arXiv",
-      "date": "2025-02-20",
-      "sector": "企业出海",
-      "tags": [
-        "漂绿",
-        "自然语言处理",
-        "ESG分析"
-      ],
-      "summary": "工作论文提出面向行动与议题的 ESG 文本分析方法，尝试降低误导性可持续声明对自动分析的影响。",
-      "insight": "可作为自动识别企业 ESG 声明与实际行动差异的方法参考；尚未完成同行评审。",
-      "url": "https://arxiv.org/abs/2502.15821",
-      "featured": false
     },
     {
       "id": "iea-investment-2026",

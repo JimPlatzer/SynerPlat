@@ -1,11 +1,15 @@
 {
   "monthlyHighlights": [
+    {"date":"09.03","title":"英国首次确认埃及伊蚊在境内繁殖并强化监测","summary":"英国卫生安全局确认东伦敦监测到埃及伊蚊繁殖，当前公众风险很低，但气候变暖可能提高外来蚊媒输入与存活风险。","sector":"高风险行业","source":"UK Health Security Agency","url":"https://www.gov.uk/government/news/invasive-mosquito-species-detected-in-east-london","score":7},
+    {"date":"09.02","title":"英国发布废弃物犯罪热力图并强化全国执法","summary":"英格兰2025年废弃物犯罪报告达10,238起；政府将热力图、增配执法人员、无人机、跨部门协作和数字追踪纳入全国治理方案。","sector":"高风险行业","source":"UK Environment Agency / DEFRA","url":"https://www.gov.uk/government/news/rogue-waste-gangs-exposed-as-heat-maps-reveal-englands-illegal-dumping-hotspots","score":9},
+    {"date":"09.02","title":"英国启动关键公共服务公共控制改革工作组","summary":"三个跨政府工作组将水务、能源、交通、住房的所有权、市场改革、可负担性与问责纳入统一政策审视。","sector":"公用事业","source":"UK Cabinet Office","url":"https://www.gov.uk/government/news/prime-minister-puts-public-control-community-regeneration-and-cost-of-living-at-the-heart-of-plans-to-rewire-britain","score":7},
     {"date":"09.01","title":"欧盟成员国提交首轮国家自然恢复计划草案","summary":"欧盟自然恢复法进入国家执行阶段，成员国计划需覆盖至2030年的措施，并对2040和2050作出战略概览，同时说明与气候、农业和融资政策的衔接。","sector":"自然与适应","source":"European Commission","url":"https://environment.ec.europa.eu/news/eu-countries-submit-draft-plans-restoring-nature-2026-09-01_en","score":9},
     {"date":"09.01","title":"欧盟CBAM核查机构注册通道正式开放","summary":"CBAM注册系统开始接收核查机构申请，标志着进口产品隐含排放的第三方核查由规则准备转入执行准备。","sector":"企业出海","source":"European Commission","url":"https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-registry_en","score":9},
     {"date":"09.01","title":"国际海事组织船用柴油机氮氧化物控制程序修订生效","summary":"NOx Technical Code修订正式生效，涉及船用柴油机排放控制与认证程序，航运和相关设备企业需核查技术文件与合规流程。","sector":"高排放行业","source":"UK Government / IMO","url":"https://www.gov.uk/government/speeches/changes-to-international-maritime-law--2","score":8},
     {"date":"09.01","title":"北爱尔兰就2032清洁空气战略草案启动咨询","summary":"战略草案覆盖监测、交通规划、固体燃料与家用燃烧设备标准，并将空气污染造成的健康不平等纳入政策设计。","sector":"高排放行业","source":"Northern Ireland DAERA","url":"https://www.daera-ni.gov.uk/news/muir-launches-consultation-draft-northern-ireland-clean-air-strategy","score":7}
   ],
   "annualHighlights": [
+    {"date":"09.02","title":"英国废弃物犯罪治理进入数据驱动执法阶段","summary":"全国热力图、跨部门执法、显著提高罚款上限和2026年10月数字废弃物追踪共同构成制度性治理升级。","sector":"高风险行业","source":"UK Environment Agency / DEFRA","url":"https://www.gov.uk/government/news/rogue-waste-gangs-exposed-as-heat-maps-reveal-englands-illegal-dumping-hotspots","score":9},
     {"date":"02.25","title":"英国发布UK SRS S1与S2可持续披露标准","summary":"英国基于IFRS S1与S2建立本地可持续和气候披露基准，跨市场披露趋同继续推进。","sector":"企业出海","source":"UK Government","url":"https://www.gov.uk/government/publications/uk-sustainability-reporting-standards-uk-srs-s1-and-uk-srs-s2","score":9},
     {"date":"05.28","title":"IEA发布《World Energy Investment 2026》","summary":"报告提供2026年能源投资估计及区域资本流向，是观察清洁能源投资是否兑现的重要基准。","sector":"新能源","source":"IEA","url":"https://www.iea.org/reports/world-energy-investment-2026","score":8},
     {"date":"05.29","title":"美国SEC提出撤销联邦气候披露规则","summary":"SEC提出撤销2024年通过的上市公司气候相关披露要求，使美国联邦路径与多个采用ISSB基准的市场出现明显分化。","sector":"企业出海","source":"US SEC","url":"https://www.sec.gov/rules-regulations/2026/05/s7-2026-19","score":9},

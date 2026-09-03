@@ -17,6 +17,8 @@ const inWindow=(item,start=weekStart,end=endDate)=>sourceDate(item)<=end&&(sourc
 const esgPattern=/\b(esg|climate|carbon|emission|renewable|clean energy|energy transition|data cent(?:er|re)|artificial intelligence|biodiversity|deforestation|sustainab|green finance|transition plan|supply chain|human rights|pollution|water risk|critical mineral|net[ -]?zero)\b/i;
 const highImpactPattern=/regulation|rule|directive|standard|disclosure|mandatory|ban|permit|effective|final rule|investment|billion|framework|taxonomy|report|working paper|peer.review/i;
 const trustedPublisherPattern=/Elsevier|Springer|Wiley|SAGE|Oxford University Press|Cambridge University Press|Taylor & Francis|IEEE|Association for Computing Machinery|Nature Portfolio|American Chemical Society|Royal Society|Frontiers Media|MDPI/i;
+const arxivFalsePositivePattern=/astronom|astrophys|cosmolog|black[ -]?hole|gravitational.wave|particle physics|nuclear recoil|\bLHC\b|quasar|cosmic star formation|Josephson|vortex laser|stellar|galax/i;
+const arxivEsgPattern=/climate change|carbon capture|\bCCUS\b|CO2 emissions?|renewable energy|energy transition|sustainab|pollution|environmental|traffic noise|biodiversity|circular economy|green finance|net[ -]?zero|decarbon/i;
 
 function isoDate(date){return date.toISOString().slice(0,10)}
 function dotDate(value){return String(value||'').replaceAll('-','.')}
@@ -28,7 +30,11 @@ function dateParts(value){if(!value)return '';const date=new Date(value);return 
 function uniqueByUrl(items){const seen=new Set();return items.filter(item=>{const key=(item.url||item.title).toLowerCase().replace(/\/$/,'');if(!key||seen.has(key))return false;seen.add(key);return true})}
 function heuristicScore(item){let score=4;if(['Federal Register','GOV.UK'].includes(item.source))score+=2;if(item.source==='Crossref')score+=1;if(highImpactPattern.test(`${item.title} ${item.summary}`))score+=2;if(/effective|final rule|mandatory|billion|cross-sector|systemic/i.test(`${item.title} ${item.summary}`))score+=1;return Math.min(10,score)}
 function sectorFor(text){if(/artificial intelligence|\bai\b|data cent/i.test(text))return '人工智能';if(/renewable|solar|wind|battery|hydrogen|electricity|grid|energy/i.test(text))return '新能源';if(/disclosure|supply chain|trade|border|export|deforestation/i.test(text))return '企业出海';if(/finance|investment|bank|insurance|taxonomy/i.test(text))return '绿色金融';if(/steel|cement|aluminium|oil|gas|coal|chemical|emission|pollution/i.test(text))return '高排放行业';return '新兴行业'}
-function trustedCandidate(item){return item.source!=='Crossref'||trustedPublisherPattern.test(item.publisher)}
+function meaningfulEsgNexus(item){
+ const isArxiv=item?.source==='arXiv'||item?.publisher==='arXiv';if(!isArxiv)return true;
+ const text=`${item.title||''} ${item.summary||''}`;return arxivEsgPattern.test(text)&&!arxivFalsePositivePattern.test(text);
+}
+function trustedCandidate(item){if(item.sourceType==='preprint'&&!meaningfulEsgNexus(item))return false;return item.source!=='Crossref'||trustedPublisherPattern.test(item.publisher)}
 function excerpt(value,limit=360){const clean=decode(value);return clean.length>limit?`${clean.slice(0,limit).trim()}…`:clean}
 function tagsFor(item){
  const text=`${item.title} ${item.summary}`;const tags=[];
@@ -143,21 +149,26 @@ async function main(){
  try{const model=await runModel(verified);if(model){const curated=normalizeModel(model,verified,previous);normalized={stories:curated.stories.length?curated.stories:normalized.stories,resources:curated.resources.length?curated.resources:normalized.resources,sectorInsights:curated.sectorInsights.length?curated.sectorInsights:normalized.sectorInsights,summary:curated.summary||normalized.summary,monthlyHighlights:curated.monthlyHighlights.length?curated.monthlyHighlights:normalized.monthlyHighlights,annualHighlights:curated.annualHighlights.length?curated.annualHighlights:normalized.annualHighlights}}}catch(error){sourceHealth.push({source:'GitHub Models',status:'error',message:String(error.message||error).slice(0,180)})}
  const previousRecent=(previous.stories||[]).filter(item=>inWindow(item)&&Number(item.score)>=materialityThreshold.policy);
  const stories=uniqueByUrl([...normalized.stories,...previousRecent]).sort((a,b)=>activityDate(b).localeCompare(activityDate(a))||Number(b.score)-Number(a.score)).slice(0,16);
- const storyUrls=new Set(stories.map(item=>item.url));const previousWatchlist=(previous.watchlist||[]).filter(item=>inWindow(item));
+ const finalSectorCounts=new Map();for(const story of stories)finalSectorCounts.set(story.sector,(finalSectorCounts.get(story.sector)||0)+1);
+ const finalSectors=[...finalSectorCounts.entries()].sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0]));
+ const finalSectorInsights=finalSectors.slice(0,5).map(([name,count])=>[name,`过去七日保留 ${count} 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。`,count,'→']);
+ const storyUrls=new Set(stories.map(item=>item.url));const previousWatchlist=(previous.watchlist||[]).filter(item=>inWindow(item)&&meaningfulEsgNexus(item));
  const newWatchlist=verified.filter(item=>inWindow(item)).map(storyFromCandidate);
  const watchlist=uniqueByUrl([...newWatchlist,...previousWatchlist]).filter(item=>!storyUrls.has(item.url)).sort((a,b)=>Number(b.score)-Number(a.score)||activityDate(b).localeCompare(activityDate(a))).slice(0,12);
- const existingUrls=new Set((library.items||[]).map(item=>item.url));const newResources=normalized.resources.filter(item=>!existingUrls.has(item.url));
+ const cleanedLibrary=(library.items||[]).filter(item=>meaningfulEsgNexus(item));
+ const existingUrls=new Set(cleanedLibrary.map(item=>item.url));const newResources=normalized.resources.filter(item=>!existingUrls.has(item.url)&&meaningfulEsgNexus(item));
  const updatedAt=new Date().toISOString();const weekRange=`${dotDate(weekStart)}—${dotDate(endDate).slice(5)}`;
- const previousKeywordEvents=(previous.keywordEvents||[]).filter(item=>item.date>=rollingMonthStart&&item.date<=endDate);
+ const allowedArxivIds=new Set([...stories,...watchlist,...newResources,...cleanedLibrary].filter(meaningfulEsgNexus).map(item=>item.id));
+ const previousKeywordEvents=(previous.keywordEvents||[]).filter(item=>item.date>=rollingMonthStart&&item.date<=endDate&&(!String(item.id).startsWith('arxiv-')||allowedArxivIds.has(item.id)));
  const periodKeywordEvents=(periods.monthlyHighlights||[]).map(item=>({id:`period-${idFor(item.url||item.title)}`,date:`${endDate.slice(0,4)}-${String(item.date).replaceAll('.','-')}`,terms:keywordTerms(item)}));
- const libraryKeywordEvents=[...newResources,...(library.items||[])].map(item=>({id:item.id,date:String(item.publishedDate||item.date||'').replaceAll('.','-').slice(0,10),terms:keywordTerms(item)}));
+ const libraryKeywordEvents=[...newResources,...cleanedLibrary].map(item=>({id:item.id,date:String(item.publishedDate||item.date||'').replaceAll('.','-').slice(0,10),terms:keywordTerms(item)}));
  const visibleKeywordEvents=[...stories,...watchlist].map(item=>({id:item.id,date:activityDate(item),terms:keywordTerms(item)}));
  const candidateKeywordEvents=verified.map(item=>({id:item.candidateId,date:activityDate(item),terms:keywordTerms(item)}));
  const keywordMap=new Map([...previousKeywordEvents,...periodKeywordEvents,...libraryKeywordEvents,...visibleKeywordEvents,...candidateKeywordEvents].filter(item=>item.id&&item.date>=rollingMonthStart&&item.date<=endDate).map(item=>[item.id,item]));
  const keywordEvents=[...keywordMap.values()].sort((a,b)=>b.date.localeCompare(a.date));const weekWords=keywordWords(keywordEvents.filter(item=>item.date>=weekStart));const monthWords=keywordWords(keywordEvents);
- const summaryBase=normalized.summary||previous.summary;const summary=summaryBase?{week:{...summaryBase.week,label:'过去一周总结',range:weekRange,copy:`过去7天当前保留 ${stories.length} 条达到主门槛的重大动态，并展示 ${watchlist.length} 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。`,words:weekWords.length?weekWords:summaryBase.week.words},month:{...summaryBase.month,label:'过去一个月总结',range:`${dotDate(rollingMonthStart)}—${dotDate(endDate).slice(5)}`,copy:`过去30天词频基于 ${keywordEvents.length} 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。`,words:monthWords.length?monthWords:summaryBase.month.words}}:summaryBase;
- const auto={updatedAt,weekRange,monthLabel:`${endDate.slice(0,4)}年${Number(endDate.slice(5,7))}月`,stories,watchlist,keywordEvents,sectorInsights:normalized.sectorInsights.length?normalized.sectorInsights:previous.sectorInsights||[],summary,monthlyHighlights:uniqueByUrl([...normalized.monthlyHighlights,...(previous.monthlyHighlights||[])]).slice(0,20),annualHighlights:uniqueByUrl([...normalized.annualHighlights,...(previous.annualHighlights||[])]).slice(0,30),sourceHealth,verifiedCandidateCount:verified.length,materialityThreshold};
- library.updatedAt=updatedAt;library.items=[...newResources,...library.items];
+ const summaryBase=normalized.summary||previous.summary;const topSectorNames=finalSectors.slice(0,3).map(([name])=>name).join('、');const summary=summaryBase?{week:{...summaryBase.week,label:'过去一周总结',title:stories.length?`${topSectorNames}构成过去七日的主要行业信号`:'过去七日暂无达到重大性门槛的新条目',range:weekRange,copy:`过去7天当前保留 ${stories.length} 条达到主门槛的重大动态，并展示 ${watchlist.length} 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。`,words:weekWords.length?weekWords:summaryBase.week.words},month:{...summaryBase.month,label:'过去一个月总结',title:'过去30天政策、产业与研究信号持续滚动更新',range:`${dotDate(rollingMonthStart)}—${dotDate(endDate).slice(5)}`,copy:`过去30天词频基于 ${keywordEvents.length} 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。`,words:monthWords.length?monthWords:summaryBase.month.words}}:summaryBase;
+ const auto={updatedAt,weekRange,monthLabel:`${endDate.slice(0,4)}年${Number(endDate.slice(5,7))}月`,stories,watchlist,keywordEvents,sectorInsights:finalSectorInsights.length?finalSectorInsights:previous.sectorInsights||[],summary,monthlyHighlights:uniqueByUrl([...normalized.monthlyHighlights,...(previous.monthlyHighlights||[])]).slice(0,20),annualHighlights:uniqueByUrl([...normalized.annualHighlights,...(previous.annualHighlights||[])]).slice(0,30),sourceHealth,verifiedCandidateCount:verified.length,materialityThreshold};
+ library.updatedAt=updatedAt;library.items=[...newResources,...cleanedLibrary];
  await writeFile(autoPath,JSON.stringify(auto,null,2)+'\n');
  await writeFile(libraryPath,JSON.stringify(library,null,2)+'\n');
  console.log(`Verified ${verified.length} candidates; selected ${stories.length} stories; added ${newResources.length} library items.`);
