@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T01:42:08.744Z",
+  "updatedAt": "2026-09-04T04:41:41.265Z",
   "weekRange": "2026.08.28—09.04",
   "monthLabel": "2026年9月",
   "stories": [
@@ -456,6 +456,45 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2609-03716v1",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "工作论文",
+      "title": "Artificial Intelligence for Energy Optimization in Data Centers",
+      "summary": "Data centers are increasingly optimized by artificial intelligence and, at the same time, increasingly loaded by it. The literature treats these as two unrelated problems: control studies model workload as an exogenous arrival process, while sustainability studies model infrastructure as a fixed multiplier. We screen roughly 194 papers retrieved through a do…",
+      "score": 6,
+      "publishedDate": "2026.09.03",
+      "eventDate": "2026.09.03",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.03716v1",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "披露监管",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-03270v1",
+      "sector": "绿色金融",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Carbon-aware Resource Management for Latency-Sensitive Cloud Computing Environments: A Taxonomy and Future Directions",
+      "summary": "Proliferation of cloud-based latency-sensitive workloads requires infrastructures tuned to their workload-specific latency constraints. Today, they shape the cloud from a generalized computing platform to diverse workload-specific cloud environments. As the demand for latency-sensitive workloads increases, cloud service providers continue to scale their infr…",
+      "score": 6,
+      "publishedDate": "2026.09.03",
+      "eventDate": "2026.09.03",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.03270v1",
+      "tags": [
+        "气候与碳",
+        "披露监管",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "uk-ai-cough-surveillance-2026",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -491,43 +530,6 @@
       "tags": [
         "气候与碳",
         "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s44274-026-00972-1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Asymmetric impacts of green finance development and energy innovation and climate change on United States renewable energy consumption",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s44274-026-00972-1",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04523-9",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "How institutional quality shapes the impact of renewable energy adoption on eco-economic sustainability in Asia",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.08.30",
-      "eventDate": "2026.08.30",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04523-9",
-      "tags": [
-        "能源转型",
-        "同行评审状态待核"
       ]
     }
   ],
@@ -612,6 +614,27 @@
         "人工智能",
         "可再生能源",
         "电力系统"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-03716v1",
+      "date": "2026-09-03",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "数据中心",
+        "碳与排放",
+        "气候披露",
+        "水资源"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-03270v1",
+      "date": "2026-09-03",
+      "terms": [
+        "绿色金融",
+        "能源效率",
+        "碳与排放"
       ]
     },
     {
@@ -1060,15 +1083,15 @@
           10
         ],
         [
+          "绿色金融",
+          7
+        ],
+        [
           "高排放行业",
           7
         ],
         [
           "新能源",
-          6
-        ],
-        [
-          "绿色金融",
           6
         ],
         [
@@ -1084,6 +1107,14 @@
           5
         ],
         [
+          "气候披露",
+          5
+        ],
+        [
+          "碳与排放",
+          5
+        ],
+        [
           "企业出海",
           5
         ],
@@ -1096,19 +1127,11 @@
           5
         ],
         [
-          "气候披露",
-          5
-        ],
-        [
           "污染防治",
           5
         ],
         [
           "数字化与数据",
-          4
-        ],
-        [
-          "碳与排放",
           4
         ],
         [
@@ -1154,6 +1177,18 @@
         [
           "农业与自然",
           3
+        ],
+        [
+          "数据中心",
+          3
+        ],
+        [
+          "水资源",
+          3
+        ],
+        [
+          "能源效率",
+          3
         ]
       ]
     },
@@ -1161,7 +1196,7 @@
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
       "range": "2026.08.05—09.04",
-      "copy": "过去30天词频基于 55 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "copy": "过去30天词频基于 57 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1173,11 +1208,15 @@
         ],
         [
           "绿色金融",
-          6
+          7
         ],
         [
           "高排放行业",
           6
+        ],
+        [
+          "人工智能",
+          5
         ],
         [
           "可再生能源",
@@ -1188,16 +1227,16 @@
           5
         ],
         [
-          "人工智能",
+          "气候披露",
+          5
+        ],
+        [
+          "碳与排放",
           5
         ],
         [
           "高风险行业",
           5
-        ],
-        [
-          "气候披露",
-          4
         ],
         [
           "污染防治",
@@ -1216,7 +1255,7 @@
           4
         ],
         [
-          "碳与排放",
+          "水资源",
           4
         ],
         [
@@ -1232,11 +1271,11 @@
           3
         ],
         [
-          "气候风险",
+          "数据中心",
           3
         ],
         [
-          "水资源",
+          "气候风险",
           3
         ],
         [
@@ -1260,11 +1299,11 @@
           3
         ],
         [
-          "数据中心",
+          "气候与适应",
           3
         ],
         [
-          "气候与适应",
+          "能源效率",
           3
         ],
         [
@@ -1277,10 +1316,6 @@
         ],
         [
           "干旱与土地",
-          2
-        ],
-        [
-          "能源效率",
           2
         ]
       ]
@@ -1318,9 +1353,14 @@
       "source": "arXiv",
       "status": "ok",
       "items": 40
+    },
+    {
+      "source": "GitHub Models",
+      "status": "error",
+      "message": "GitHub Models 410: {\"error\":{\"code\":\"github_models_retirement_brownout\",\"message\":\"GitHub Models is temporarily unavailable as part of a scheduled retirement brownout.\"}}\n"
     }
   ],
-  "verifiedCandidateCount": 5,
+  "verifiedCandidateCount": 7,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
