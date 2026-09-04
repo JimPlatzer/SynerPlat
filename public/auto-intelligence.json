@@ -1,8 +1,68 @@
 {
-  "updatedAt": "2026-09-03T11:57:12.456Z",
-  "weekRange": "2026.08.27—09.03",
+  "updatedAt": "2026-09-04T01:42:08.744Z",
+  "weekRange": "2026.08.28—09.04",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "cn-mee-environmental-benchmarks-plan-2026",
+      "sector": "高风险行业",
+      "relevance": "直接 ESG",
+      "event": "制度推进",
+      "title": "生态环境部原则通过2026—2030年生态环境基准工作方案",
+      "summary": "生态环境部9月3日召开部常务会议，审议并原则通过《生态环境基准工作方案（2026—2030年）》和《射线装置分类办法（修订草案）》。会议要求建立生态环境基准技术方法体系、完善国家数据库并强化实际应用，同时推进射线装置分类与信息化管理；当前属于部门审议节点，正式文本和实施安排仍待后续发布。",
+      "score": 8,
+      "publishedDate": "2026.09.03",
+      "eventDate": "2026.09.03",
+      "dateNote": "部常务会议原则通过",
+      "source": "中国生态环境部",
+      "url": "https://www.mee.gov.cn/ywdt/hjywnews/202609/t20260903_1165072.shtml",
+      "tags": [
+        "环境基准",
+        "风险治理",
+        "辐射安全",
+        "环境数据"
+      ]
+    },
+    {
+      "id": "cn-nea-new-power-grid-deployment-2026",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "基础设施部署",
+      "title": "国家能源局部署“十五五”新型电网建设重点任务",
+      "summary": "国家能源局9月1日召开新型电网建设工作部署会，相关内容于9月3日发布。会议称“十五五”期间电力需求预计年均增长约5%，并部署主配微协同电网、人工智能+、柔性构网、智能调控、长时储能、新能源并网消纳和算电协同等任务，同时要求加快重大输电工程核准建设并支持民营企业参与。",
+      "score": 8,
+      "publishedDate": "2026.09.03",
+      "eventDate": "2026.09.01",
+      "dateNote": "工作部署会召开",
+      "source": "中国国家能源局 / 国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/fzggw/wld/wanghongzhi/zyhd/202609/t20260903_1407392.html",
+      "tags": [
+        "新型电网",
+        "长时储能",
+        "人工智能",
+        "算电协同"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-investment-boost-for-climate-action-and-fores",
+      "sector": "绿色金融",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "英国拟以4亿英镑贷款投资热带森林永久基金",
+      "summary": "英国能源安全与净零部9月3日宣布，拟以贷款而非赠款方式向热带森林永久基金投资4亿英镑，并寻求参与基金监督机制。该投资仍取决于治理与运营安排最终确定、常规尽职调查及政府条件满足；基金设计拟用投资回报偿还投资者，并按绩效奖励保护热带森林的国家，而非要求森林国家偿还贷款。",
+      "score": 8,
+      "publishedDate": "2026.09.03",
+      "eventDate": "2026.09.03",
+      "dateNote": "投资意向发布；尚待尽调与条件满足",
+      "source": "UK Department for Energy Security and Net Zero",
+      "url": "https://www.gov.uk/government/news/investment-boost-for-climate-action-and-forest-protection",
+      "tags": [
+        "气候融资",
+        "森林保护",
+        "结果导向融资",
+        "条件性投资"
+      ]
+    },
     {
       "id": "uk-invasive-mosquito-east-london-2026",
       "sector": "高风险行业",
@@ -21,6 +81,26 @@
         "公共卫生",
         "生物安全",
         "风险监测"
+      ]
+    },
+    {
+      "id": "unep-limiting-overshoot-2026",
+      "sector": "气候与适应",
+      "relevance": "直接 ESG",
+      "event": "权威报告",
+      "title": "UNEP发布《限制超调》报告：减缓与适应必须同步推进",
+      "summary": "联合国环境规划署9月2日发布《Limiting Overshoot》报告，指出在当前政策与近期路径下，全球升温超过1.5°C已被广泛评估为难以避免；报告把“超调—峰值—下降”视为降低风险并争取回到1.5°C以下的最佳剩余路径。峰值越高、持续越久，人员、生态系统、临界点与适应上限风险越大，因此需要同步加速减排、适应和审慎治理的二氧化碳移除。",
+      "score": 10,
+      "publishedDate": "2026.09.02",
+      "eventDate": "2026.09.02",
+      "dateNote": "报告发布",
+      "source": "UN Environment Programme",
+      "url": "https://www.unep.org/resources/limiting-overshoot-navigating-exceedance",
+      "tags": [
+        "1.5°C超调",
+        "气候适应",
+        "净负排放",
+        "气候风险"
       ]
     },
     {
@@ -218,63 +298,6 @@
         "排放清单",
         "数字报告"
       ]
-    },
-    {
-      "id": "es-data-centres-2026",
-      "sector": "人工智能",
-      "relevance": "直接 ESG",
-      "event": "征求意见",
-      "title": "西班牙拟对数据中心设置能源、水资源与数字主权硬约束",
-      "summary": "西班牙政府8月27日启动紧急公众咨询，拟要求数据中心达到严格能效和水效标准，并由新增可再生能源逐小时覆盖至少80%的用能；运营主体及相关运营数据还须受欧盟法律约束。",
-      "score": 9,
-      "publishedDate": "2026.08.27",
-      "eventDate": "2026.08.27",
-      "dateNote": "发布",
-      "source": "西班牙数字化转型部",
-      "url": "https://digital.gob.es/comunicacion/notas-prensa/mtdfp/2026/08/el-gobierno-plantea-impulsar-los-centros-de-datos-sostenibles--e",
-      "tags": [
-        "数据中心",
-        "可再生能源",
-        "水效"
-      ]
-    },
-    {
-      "id": "cn-envtech-finance-2026",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "政策",
-      "title": "中国五部门推动生态环境科技创新形成多元化投入机制",
-      "summary": "生态环境部等五部门于8月20日成文并公开指导意见，提出形成覆盖基础研究到产业应用、政府到金融机构的投入模式，并要求到2030年丰富政策工具和金融产品体系。",
-      "score": 8,
-      "publishedDate": "2026.08.27",
-      "eventDate": "2026.08.20",
-      "dateNote": "成文",
-      "source": "中国生态环境部",
-      "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk03/202608/t20260827_1164595.html",
-      "tags": [
-        "科技金融",
-        "绿色金融",
-        "成果转化"
-      ]
-    },
-    {
-      "id": "uk-plug-solar-2026",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策生效",
-      "title": "英国正式允许家用即插即用太阳能板进入市场",
-      "summary": "英国政府8月26日发布公告，法律变化自8月27日起生效，即插即用太阳能板可合法购买和使用；合规设备最高800瓦，预计可覆盖普通家庭最高20%的用电。",
-      "score": 8,
-      "publishedDate": "2026.08.26",
-      "eventDate": "2026.08.27",
-      "dateNote": "生效",
-      "source": "英国能源安全与净零部",
-      "url": "https://www.gov.uk/government/news/households-can-save-as-plug-in-solar-panels-come-to-market",
-      "tags": [
-        "分布式光伏",
-        "能源可负担性",
-        "安全标准"
-      ]
     }
   ],
   "watchlist": [
@@ -433,25 +456,6 @@
       ]
     },
     {
-      "id": "doi-10-1007-s10462-026-11684-6",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Reframing sentiment analysis in the LLM Era: a comprehensive review of methods, evaluation, and sustainability",
-      "summary": "Abstract Sentiment analysis has evolved rapidly from lexicon-based pipelines to transformer and large language model centric systems, expanding its role across domains such as finance, healthcare, crisis monitoring, education, and public opinion analysis while exposing persistent challenges in reproducibility, calibration, fairness, operational reliability,…",
-      "score": 7,
-      "publishedDate": "2026.08.27",
-      "eventDate": "2026.08.27",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s10462-026-11684-6",
-      "tags": [
-        "气候与碳",
-        "披露监管",
-        "同行评审状态待核"
-      ]
-    },
-    {
       "id": "uk-ai-cough-surveillance-2026",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -507,6 +511,24 @@
         "气候与碳",
         "同行评审状态待核"
       ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04523-9",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "How institutional quality shapes the impact of renewable energy adoption on eco-economic sustainability in Asia",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.08.30",
+      "eventDate": "2026.08.30",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04523-9",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ]
     }
   ],
   "keywordEvents": [
@@ -541,6 +563,55 @@
         "人工智能",
         "气候披露",
         "工作论文"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-investment-boost-for-climate-action-and-fores",
+      "date": "2026-09-03",
+      "terms": [
+        "绿色金融"
+      ]
+    },
+    {
+      "id": "period-www-mee-gov-cn-ywdt-hjywnews-202609-t20260903-1165072-shtml",
+      "date": "2026-09-03",
+      "terms": [
+        "高风险行业",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "period-www-ndrc-gov-cn-fzggw-wld-wanghongzhi-zyhd-202609-t20260903-1407392-html",
+      "date": "2026-09-03",
+      "terms": [
+        "新能源",
+        "人工智能",
+        "可再生能源",
+        "电力系统"
+      ]
+    },
+    {
+      "id": "period-www-gov-uk-government-news-investment-boost-for-climate-action-and-fores",
+      "date": "2026-09-03",
+      "terms": [
+        "绿色金融"
+      ]
+    },
+    {
+      "id": "cn-mee-environmental-benchmarks-plan-2026",
+      "date": "2026-09-03",
+      "terms": [
+        "高风险行业"
+      ]
+    },
+    {
+      "id": "cn-nea-new-power-grid-deployment-2026",
+      "date": "2026-09-03",
+      "terms": [
+        "新能源",
+        "人工智能",
+        "可再生能源",
+        "电力系统"
       ]
     },
     {
@@ -644,6 +715,26 @@
       "terms": [
         "绿色金融",
         "数字化与数据"
+      ]
+    },
+    {
+      "id": "period-www-unep-org-resources-limiting-overshoot-navigating-exceedance",
+      "date": "2026-09-02",
+      "terms": [
+        "气候与适应",
+        "气候风险",
+        "气候适应"
+      ]
+    },
+    {
+      "id": "unep-limiting-overshoot-2026",
+      "date": "2026-09-02",
+      "terms": [
+        "气候与适应",
+        "政策监管",
+        "气候风险",
+        "碳与排放",
+        "气候适应"
       ]
     },
     {
@@ -933,6 +1024,12 @@
       "→"
     ],
     [
+      "高风险行业",
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
+      "→"
+    ],
+    [
       "企业出海",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
@@ -949,136 +1046,14 @@
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
-    ],
-    [
-      "高风险行业",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
-      "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "高排放行业、企业出海、新能源构成过去七日的主要行业信号",
-      "range": "2026.08.27—09.03",
-      "copy": "过去7天当前保留 14 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
-      "words": [
-        [
-          "政策监管",
-          10
-        ],
-        [
-          "高排放行业",
-          6
-        ],
-        [
-          "新能源",
-          6
-        ],
-        [
-          "绿色金融",
-          6
-        ],
-        [
-          "可再生能源",
-          5
-        ],
-        [
-          "气候披露",
-          5
-        ],
-        [
-          "人工智能",
-          4
-        ],
-        [
-          "企业出海",
-          4
-        ],
-        [
-          "工作论文",
-          4
-        ],
-        [
-          "气候适应",
-          4
-        ],
-        [
-          "污染防治",
-          4
-        ],
-        [
-          "高风险行业",
-          4
-        ],
-        [
-          "数字化与数据",
-          4
-        ],
-        [
-          "学术研究",
-          3
-        ],
-        [
-          "碳与排放",
-          3
-        ],
-        [
-          "自然与适应",
-          3
-        ],
-        [
-          "供应链与出海",
-          3
-        ],
-        [
-          "公正转型",
-          3
-        ],
-        [
-          "公用事业",
-          3
-        ],
-        [
-          "数据中心",
-          3
-        ],
-        [
-          "水资源",
-          3
-        ],
-        [
-          "自然与生物多样性",
-          3
-        ],
-        [
-          "关键矿产",
-          2
-        ],
-        [
-          "农业与自然",
-          2
-        ],
-        [
-          "气候风险",
-          2
-        ],
-        [
-          "电力系统",
-          2
-        ],
-        [
-          "能源效率",
-          2
-        ]
-      ]
-    },
-    "month": {
-      "label": "过去一个月总结",
-      "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.04—09.03",
-      "copy": "过去30天词频基于 47 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "title": "高排放行业、高风险行业、企业出海构成过去七日的主要行业信号",
+      "range": "2026.08.28—09.04",
+      "copy": "过去7天当前保留 15 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
@@ -1097,7 +1072,27 @@
           6
         ],
         [
+          "气候适应",
+          6
+        ],
+        [
+          "高风险行业",
+          6
+        ],
+        [
+          "人工智能",
+          5
+        ],
+        [
+          "企业出海",
+          5
+        ],
+        [
           "可再生能源",
+          5
+        ],
+        [
+          "工作论文",
           5
         ],
         [
@@ -1105,15 +1100,107 @@
           5
         ],
         [
-          "气候适应",
-          5
-        ],
-        [
           "污染防治",
           5
         ],
         [
+          "数字化与数据",
+          4
+        ],
+        [
+          "碳与排放",
+          4
+        ],
+        [
+          "学术研究",
+          4
+        ],
+        [
+          "气候风险",
+          4
+        ],
+        [
+          "电力系统",
+          4
+        ],
+        [
+          "自然与适应",
+          4
+        ],
+        [
+          "供应链与出海",
+          3
+        ],
+        [
+          "公正转型",
+          3
+        ],
+        [
+          "公用事业",
+          3
+        ],
+        [
+          "气候与适应",
+          3
+        ],
+        [
+          "自然与生物多样性",
+          3
+        ],
+        [
+          "关键矿产",
+          3
+        ],
+        [
+          "农业与自然",
+          3
+        ]
+      ]
+    },
+    "month": {
+      "label": "过去一个月总结",
+      "title": "过去30天政策、产业与研究信号持续滚动更新",
+      "range": "2026.08.05—09.04",
+      "copy": "过去30天词频基于 55 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "words": [
+        [
+          "政策监管",
+          10
+        ],
+        [
+          "新能源",
+          7
+        ],
+        [
+          "绿色金融",
+          6
+        ],
+        [
+          "高排放行业",
+          6
+        ],
+        [
+          "可再生能源",
+          5
+        ],
+        [
+          "气候适应",
+          5
+        ],
+        [
           "人工智能",
+          5
+        ],
+        [
+          "高风险行业",
+          5
+        ],
+        [
+          "气候披露",
+          4
+        ],
+        [
+          "污染防治",
           4
         ],
         [
@@ -1129,11 +1216,11 @@
           4
         ],
         [
-          "高风险行业",
+          "碳与排放",
           4
         ],
         [
-          "碳与排放",
+          "电力系统",
           4
         ],
         [
@@ -1142,6 +1229,10 @@
         ],
         [
           "学术研究",
+          3
+        ],
+        [
+          "气候风险",
           3
         ],
         [
@@ -1173,7 +1264,7 @@
           3
         ],
         [
-          "电力系统",
+          "气候与适应",
           3
         ],
         [
@@ -1189,33 +1280,39 @@
           2
         ],
         [
-          "气候风险",
-          2
-        ],
-        [
           "能源效率",
           2
         ]
       ]
     }
   },
-  "monthlyHighlights": [],
+  "monthlyHighlights": [
+    {
+      "date": "09.03",
+      "title": "Investment boost for climate action and forest protection",
+      "summary": "The UK has announced its intention to invest £400 million into the Tropical Forests Forever Facility (TFFF).",
+      "sector": "绿色金融",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/investment-boost-for-climate-action-and-forest-protection",
+      "score": 8
+    }
+  ],
   "annualHighlights": [],
   "sourceHealth": [
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 6
+      "items": 5
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 37
+      "items": 36
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 39
+      "items": 38
     },
     {
       "source": "arXiv",
@@ -1223,7 +1320,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 4,
+  "verifiedCandidateCount": 5,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

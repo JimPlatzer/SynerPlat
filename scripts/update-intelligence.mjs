@@ -148,7 +148,7 @@ async function main(){
  const verified=await verifyCandidates(candidates);let normalized=fallbackEditorial(verified,previous);
  try{const model=await runModel(verified);if(model){const curated=normalizeModel(model,verified,previous);normalized={stories:curated.stories.length?curated.stories:normalized.stories,resources:curated.resources.length?curated.resources:normalized.resources,sectorInsights:curated.sectorInsights.length?curated.sectorInsights:normalized.sectorInsights,summary:curated.summary||normalized.summary,monthlyHighlights:curated.monthlyHighlights.length?curated.monthlyHighlights:normalized.monthlyHighlights,annualHighlights:curated.annualHighlights.length?curated.annualHighlights:normalized.annualHighlights}}}catch(error){sourceHealth.push({source:'GitHub Models',status:'error',message:String(error.message||error).slice(0,180)})}
  const previousRecent=(previous.stories||[]).filter(item=>inWindow(item)&&Number(item.score)>=materialityThreshold.policy);
- const stories=uniqueByUrl([...normalized.stories,...previousRecent]).sort((a,b)=>activityDate(b).localeCompare(activityDate(a))||Number(b.score)-Number(a.score)).slice(0,16);
+ const stories=uniqueByUrl([...previousRecent,...normalized.stories]).sort((a,b)=>activityDate(b).localeCompare(activityDate(a))||Number(b.score)-Number(a.score)).slice(0,16);
  const finalSectorCounts=new Map();for(const story of stories)finalSectorCounts.set(story.sector,(finalSectorCounts.get(story.sector)||0)+1);
  const finalSectors=[...finalSectorCounts.entries()].sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0]));
  const finalSectorInsights=finalSectors.slice(0,5).map(([name,count])=>[name,`过去七日保留 ${count} 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。`,count,'→']);

@@ -1,5 +1,9 @@
 {
   "monthlyHighlights": [
+    {"date":"09.03","title":"生态环境部原则通过2026—2030年生态环境基准工作方案","summary":"部门审议节点明确将建设生态环境基准技术方法体系、国家数据库与制度化管理格局，并同步推进射线装置分类和信息化监管。","sector":"高风险行业","source":"中国生态环境部","url":"https://www.mee.gov.cn/ywdt/hjywnews/202609/t20260903_1165072.shtml","score":8},
+    {"date":"09.03","title":"国家能源局部署“十五五”新型电网建设重点任务","summary":"部署覆盖主配微协同电网、人工智能+、柔性构网、长时储能、新能源消纳、算电协同及重大输电工程建设。","sector":"新能源","source":"中国国家能源局 / 国家发展改革委","url":"https://www.ndrc.gov.cn/fzggw/wld/wanghongzhi/zyhd/202609/t20260903_1407392.html","score":8},
+    {"date":"09.03","title":"英国拟以4亿英镑贷款投资热带森林永久基金","summary":"英国拟以贷款和绩效回报机制支持热带森林保护，但投资仍以基金治理安排、尽调和条件满足为前提。","sector":"绿色金融","source":"UK Department for Energy Security and Net Zero","url":"https://www.gov.uk/government/news/investment-boost-for-climate-action-and-forest-protection","score":8},
+    {"date":"09.02","title":"UNEP发布《限制超调》全球气候风险报告","summary":"报告认为跨越1.5°C已难以避免，峰值越高、持续越久，人员、生态系统、临界点与适应上限风险越大，减缓与适应必须同步推进。","sector":"气候与适应","source":"UN Environment Programme","url":"https://www.unep.org/resources/limiting-overshoot-navigating-exceedance","score":10},
     {"date":"09.03","title":"英国首次确认埃及伊蚊在境内繁殖并强化监测","summary":"英国卫生安全局确认东伦敦监测到埃及伊蚊繁殖，当前公众风险很低，但气候变暖可能提高外来蚊媒输入与存活风险。","sector":"高风险行业","source":"UK Health Security Agency","url":"https://www.gov.uk/government/news/invasive-mosquito-species-detected-in-east-london","score":7},
     {"date":"09.02","title":"英国发布废弃物犯罪热力图并强化全国执法","summary":"英格兰2025年废弃物犯罪报告达10,238起；政府将热力图、增配执法人员、无人机、跨部门协作和数字追踪纳入全国治理方案。","sector":"高风险行业","source":"UK Environment Agency / DEFRA","url":"https://www.gov.uk/government/news/rogue-waste-gangs-exposed-as-heat-maps-reveal-englands-illegal-dumping-hotspots","score":9},
     {"date":"09.02","title":"英国启动关键公共服务公共控制改革工作组","summary":"三个跨政府工作组将水务、能源、交通、住房的所有权、市场改革、可负担性与问责纳入统一政策审视。","sector":"公用事业","source":"UK Cabinet Office","url":"https://www.gov.uk/government/news/prime-minister-puts-public-control-community-regeneration-and-cost-of-living-at-the-heart-of-plans-to-rewire-britain","score":7},
@@ -9,6 +13,7 @@
     {"date":"09.01","title":"北爱尔兰就2032清洁空气战略草案启动咨询","summary":"战略草案覆盖监测、交通规划、固体燃料与家用燃烧设备标准，并将空气污染造成的健康不平等纳入政策设计。","sector":"高排放行业","source":"Northern Ireland DAERA","url":"https://www.daera-ni.gov.uk/news/muir-launches-consultation-draft-northern-ireland-clean-air-strategy","score":7}
   ],
   "annualHighlights": [
+    {"date":"09.02","title":"UNEP将1.5°C超调纳入全球气候风险与治理基线","summary":"《Limiting Overshoot》把超调幅度、持续时间、适应上限和审慎治理的二氧化碳移除纳入统一路径框架，成为企业情景分析与政策研究的重要新基线。","sector":"气候与适应","source":"UN Environment Programme","url":"https://www.unep.org/resources/limiting-overshoot-navigating-exceedance","score":10},
     {"date":"09.02","title":"英国废弃物犯罪治理进入数据驱动执法阶段","summary":"全国热力图、跨部门执法、显著提高罚款上限和2026年10月数字废弃物追踪共同构成制度性治理升级。","sector":"高风险行业","source":"UK Environment Agency / DEFRA","url":"https://www.gov.uk/government/news/rogue-waste-gangs-exposed-as-heat-maps-reveal-englands-illegal-dumping-hotspots","score":9},
     {"date":"02.25","title":"英国发布UK SRS S1与S2可持续披露标准","summary":"英国基于IFRS S1与S2建立本地可持续和气候披露基准，跨市场披露趋同继续推进。","sector":"企业出海","source":"UK Government","url":"https://www.gov.uk/government/publications/uk-sustainability-reporting-standards-uk-srs-s1-and-uk-srs-s2","score":9},
     {"date":"05.28","title":"IEA发布《World Energy Investment 2026》","summary":"报告提供2026年能源投资估计及区域资本流向，是观察清洁能源投资是否兑现的重要基准。","sector":"新能源","source":"IEA","url":"https://www.iea.org/reports/world-energy-investment-2026","score":8},

@@ -1,6 +1,92 @@
 {
-  "updatedAt": "2026-09-03T11:57:12.456Z",
+  "updatedAt": "2026-09-04T01:42:08.744Z",
   "items": [
+    {
+      "id": "cn-mee-environmental-benchmarks-plan-2026",
+      "type": "政策法规",
+      "title": "生态环境部召开部常务会议审议生态环境基准工作方案与射线装置分类办法",
+      "publisher": "中国生态环境部",
+      "date": "2026-09-03",
+      "publishedDate": "2026-09-03",
+      "eventDate": "2026-09-03",
+      "dateNote": "部常务会议原则通过；正式文本待发布",
+      "sector": "高风险行业",
+      "tags": [
+        "环境基准",
+        "辐射安全",
+        "风险治理",
+        "环境数据"
+      ],
+      "summary": "生态环境部常务会议原则通过《生态环境基准工作方案（2026—2030年）》和《射线装置分类办法（修订草案）》，并提出建立技术方法体系、完善国家数据库及加强射线装置信息化分类管理。",
+      "insight": "这是制度形成过程中的权威审议记录，可用于跟踪环境质量基准、风险评估与辐射安全监管方向；在正式文件公布前，不应把会议要求表述为已经生效的具体义务。",
+      "url": "https://www.mee.gov.cn/ywdt/hjywnews/202609/t20260903_1165072.shtml",
+      "featured": true
+    },
+    {
+      "id": "cn-nea-new-power-grid-deployment-2026",
+      "type": "政策报告",
+      "title": "国家能源局召开新型电网建设工作部署会",
+      "publisher": "中国国家能源局 / 国家发展改革委",
+      "date": "2026-09-03",
+      "publishedDate": "2026-09-03",
+      "eventDate": "2026-09-01",
+      "dateNote": "9月1日召开工作部署会，9月3日发布",
+      "sector": "新能源",
+      "tags": [
+        "新型电网",
+        "长时储能",
+        "人工智能",
+        "新能源消纳",
+        "算电协同"
+      ],
+      "summary": "国家能源局部署“十五五”新型电网建设，覆盖主配微协同架构、人工智能+、柔性构网、智能调控、长时储能、新能源并网消纳、算电协同及重大输电工程建设。",
+      "insight": "该材料提供未来电网投资与技术路线的官方方向信号，适合研究新能源消纳、数据中心用能和电网资本开支；具体项目规模与时间表仍需等待后续规划和核准文件。",
+      "url": "https://www.ndrc.gov.cn/fzggw/wld/wanghongzhi/zyhd/202609/t20260903_1407392.html",
+      "featured": true
+    },
+    {
+      "id": "unep-limiting-overshoot-2026",
+      "type": "行业报告",
+      "title": "Limiting Overshoot - Navigating exceedance of 1.5°C and pathways towards return",
+      "publisher": "UN Environment Programme",
+      "date": "2026-09-02",
+      "publishedDate": "2026-09-02",
+      "eventDate": "2026-09-02",
+      "dateNote": "报告发布",
+      "sector": "气候与适应",
+      "tags": [
+        "1.5°C超调",
+        "气候适应",
+        "减缓",
+        "净负排放",
+        "系统性风险"
+      ],
+      "summary": "UNEP报告评估全球升温超过1.5°C后的风险、限制峰值升温并推动温度回落的减缓路径，以及适应和发展策略如何随超调、峰值与下降阶段调整。",
+      "insight": "报告把超调持续时间和峰值幅度与不可逆风险、适应上限及治理公平直接联系，适合作为气候情景、转型计划、韧性投资与二氧化碳移除治理研究的权威基线。",
+      "url": "https://www.unep.org/resources/limiting-overshoot-navigating-exceedance",
+      "featured": true
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-investment-boost-for-climate-action-and-fores",
+      "type": "政策报告",
+      "title": "Investment boost for climate action and forest protection",
+      "publisher": "UK Department for Energy Security and Net Zero",
+      "date": "2026-09-03",
+      "publishedDate": "2026-09-03",
+      "eventDate": "2026-09-03",
+      "dateNote": "投资意向发布；尚待治理安排、尽调与条件满足",
+      "sector": "绿色金融",
+      "tags": [
+        "气候融资",
+        "森林保护",
+        "结果导向融资",
+        "条件性投资"
+      ],
+      "summary": "英国拟以4亿英镑贷款投资热带森林永久基金，并寻求参与基金监督机制。基金计划用投资回报偿还投资者，同时按绩效奖励保护热带森林的国家。",
+      "insight": "这是以贷款和绩效支付替代传统赠款的气候融资案例；投资尚未最终完成，研究或引用时必须保留尽调、治理安排和条件满足等前提。",
+      "url": "https://www.gov.uk/government/news/investment-boost-for-climate-action-and-forest-protection",
+      "featured": false
+    },
     {
       "id": "uk-waste-crime-heat-maps-2026",
       "type": "政策报告",
