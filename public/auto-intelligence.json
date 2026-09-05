@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-04T04:41:41.265Z",
-  "weekRange": "2026.08.28—09.04",
+  "updatedAt": "2026-09-05T04:34:09.866Z",
+  "weekRange": "2026.08.29—09.05",
   "monthLabel": "2026年9月",
   "stories": [
     {
@@ -476,25 +476,6 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-03270v1",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Carbon-aware Resource Management for Latency-Sensitive Cloud Computing Environments: A Taxonomy and Future Directions",
-      "summary": "Proliferation of cloud-based latency-sensitive workloads requires infrastructures tuned to their workload-specific latency constraints. Today, they shape the cloud from a generalized computing platform to diverse workload-specific cloud environments. As the demand for latency-sensitive workloads increases, cloud service providers continue to scale their infr…",
-      "score": 6,
-      "publishedDate": "2026.09.03",
-      "eventDate": "2026.09.03",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.03270v1",
-      "tags": [
-        "气候与碳",
-        "披露监管",
-        "预印本·非同行评审"
-      ]
-    },
-    {
       "id": "uk-ai-cough-surveillance-2026",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -530,6 +511,25 @@
       "tags": [
         "气候与碳",
         "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s44274-026-00972-1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Asymmetric impacts of green finance development and energy innovation and climate change on United States renewable energy consumption",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.01",
+      "eventDate": "2026.09.01",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s44274-026-00972-1",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "同行评审状态待核"
       ]
     }
   ],
@@ -623,18 +623,8 @@
         "人工智能",
         "政策监管",
         "数据中心",
-        "碳与排放",
         "气候披露",
-        "水资源"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-03270v1",
-      "date": "2026-09-03",
-      "terms": [
-        "绿色金融",
-        "能源效率",
-        "碳与排放"
+        "工作论文"
       ]
     },
     {
@@ -1075,7 +1065,7 @@
     "week": {
       "label": "过去一周总结",
       "title": "高排放行业、高风险行业、企业出海构成过去七日的主要行业信号",
-      "range": "2026.08.28—09.04",
+      "range": "2026.08.29—09.05",
       "copy": "过去7天当前保留 15 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1083,15 +1073,15 @@
           10
         ],
         [
-          "绿色金融",
-          7
-        ],
-        [
           "高排放行业",
           7
         ],
         [
           "新能源",
+          6
+        ],
+        [
+          "绿色金融",
           6
         ],
         [
@@ -1107,15 +1097,11 @@
           5
         ],
         [
+          "工作论文",
+          5
+        ],
+        [
           "气候披露",
-          5
-        ],
-        [
-          "碳与排放",
-          5
-        ],
-        [
-          "企业出海",
           5
         ],
         [
@@ -1123,15 +1109,19 @@
           5
         ],
         [
-          "工作论文",
-          5
-        ],
-        [
           "污染防治",
           5
         ],
         [
+          "企业出海",
+          4
+        ],
+        [
           "数字化与数据",
+          4
+        ],
+        [
+          "碳与排放",
           4
         ],
         [
@@ -1151,10 +1141,6 @@
           4
         ],
         [
-          "供应链与出海",
-          3
-        ],
-        [
           "公正转型",
           3
         ],
@@ -1168,6 +1154,10 @@
         ],
         [
           "自然与生物多样性",
+          3
+        ],
+        [
+          "供应链与出海",
           3
         ],
         [
@@ -1181,22 +1171,14 @@
         [
           "数据中心",
           3
-        ],
-        [
-          "水资源",
-          3
-        ],
-        [
-          "能源效率",
-          3
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.05—09.04",
-      "copy": "过去30天词频基于 57 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.06—09.05",
+      "copy": "过去30天词频基于 56 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1208,7 +1190,7 @@
         ],
         [
           "绿色金融",
-          7
+          6
         ],
         [
           "高排放行业",
@@ -1231,12 +1213,12 @@
           5
         ],
         [
-          "碳与排放",
+          "高风险行业",
           5
         ],
         [
-          "高风险行业",
-          5
+          "工作论文",
+          4
         ],
         [
           "污染防治",
@@ -1247,15 +1229,11 @@
           4
         ],
         [
-          "工作论文",
-          4
-        ],
-        [
           "数字化与数据",
           4
         ],
         [
-          "水资源",
+          "碳与排放",
           4
         ],
         [
@@ -1276,6 +1254,10 @@
         ],
         [
           "气候风险",
+          3
+        ],
+        [
+          "水资源",
           3
         ],
         [
@@ -1300,10 +1282,6 @@
         ],
         [
           "气候与适应",
-          3
-        ],
-        [
-          "能源效率",
           3
         ],
         [
@@ -1316,6 +1294,10 @@
         ],
         [
           "干旱与土地",
+          2
+        ],
+        [
+          "能源效率",
           2
         ]
       ]
@@ -1337,22 +1319,22 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 5
+      "items": 6
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 36
+      "items": 40
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 38
+      "items": 35
     },
     {
       "source": "arXiv",
-      "status": "ok",
-      "items": 40
+      "status": "error",
+      "message": "The operation was aborted due to timeout"
     },
     {
       "source": "GitHub Models",
@@ -1360,7 +1342,7 @@
       "message": "GitHub Models 410: {\"error\":{\"code\":\"github_models_retirement_brownout\",\"message\":\"GitHub Models is temporarily unavailable as part of a scheduled retirement brownout.\"}}\n"
     }
   ],
-  "verifiedCandidateCount": 7,
+  "verifiedCandidateCount": 5,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
