@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-06T04:43:07.134Z",
-  "weekRange": "2026.08.30—09.06",
+  "updatedAt": "2026-09-07T04:46:47.103Z",
+  "weekRange": "2026.08.31—09.07",
   "monthLabel": "2026年9月",
   "stories": [
     {
@@ -283,6 +283,42 @@
   ],
   "watchlist": [
     {
+      "id": "arxiv-arxiv-org-abs-2609-04906v1",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Methane Detection On Board Satellites from Unorthorectified Imagery",
+      "summary": "As a potent greenhouse gas, methane is a major driver of climate change. Its effective mitigation relies on timely detection. Conventional detection methods rely on orthorectification to correct geometric distortions and matched filters to enhance plume signals, which are steps designed for ground processing and poorly suited to onboard execution. We introdu…",
+      "score": 7,
+      "publishedDate": "2026.09.04",
+      "eventDate": "2026.09.04",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.04906v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-04632v1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Impact of extremely high temperature on future photovoltaic power potential over East Asia",
+      "summary": "As global warming intensifies, the frequency and intensity of extremely high temperatures are expected to increase. This will impact the production of photovoltaics (PVs), which are increasingly adopted as an effective alternative to replace fossil fuel-based energy sources and reduce CO2 emissions. Furthermore, extremely high temperature days account for a…",
+      "score": 7,
+      "publishedDate": "2026.09.04",
+      "eventDate": "2026.09.04",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.04632v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "doi-10-1007-s40518-026-00292-1",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -437,6 +473,24 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2609-05359v1",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Disentangling Internal and Forced Climate Variability with Convolutional Neural Networks using Multivariate Fields",
+      "summary": "Long-term climate data exhibit variations composed of internal and forced components. Internal variability arises from natural processes that could occur within a stable climate. Forced variability, on the other hand, reflects climate changes induced, for example, by anthropogenic greenhouse gas and aerosol emissions. Accurately distinguishing between these…",
+      "score": 6,
+      "publishedDate": "2026.09.04",
+      "eventDate": "2026.09.04",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.05359v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2609-03716v1",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -455,71 +509,54 @@
         "披露监管",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-03270v1",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Carbon-aware Resource Management for Latency-Sensitive Cloud Computing Environments: A Taxonomy and Future Directions",
-      "summary": "Proliferation of cloud-based latency-sensitive workloads requires infrastructures tuned to their workload-specific latency constraints. Today, they shape the cloud from a generalized computing platform to diverse workload-specific cloud environments. As the demand for latency-sensitive workloads increases, cloud service providers continue to scale their infr…",
-      "score": 6,
-      "publishedDate": "2026.09.03",
-      "eventDate": "2026.09.03",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.03270v1",
-      "tags": [
-        "气候与碳",
-        "披露监管",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "uk-ai-cough-surveillance-2026",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "公共卫生研究",
-      "title": "英国研究探索用AI睡眠数据提前一周预警流感与新冠",
-      "summary": "英国卫生安全局介绍一项medRxiv预印本研究：研究团队使用经过聚合与隐私保护的睡眠应用咳嗽数据，探索对呼吸道疾病活动的提前预警。初步结果显示部分指标可领先流感和新冠实验室数据约一周；该研究尚未经过同行评审，且作者披露了与数据提供方有关的利益关系。",
-      "score": 6,
-      "publishedDate": "2026.09.03",
-      "eventDate": "2026.09.03",
-      "dateNote": "政府研究说明发布",
-      "source": "UK Health Security Agency",
-      "url": "https://www.gov.uk/government/news/ai-sleep-data-could-provide-one-week-early-warning-of-flu-and-covid-19",
-      "tags": [
-        "人工智能",
-        "公共卫生",
-        "隐私保护",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01339v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Integrating Traffic Noise Emission Modelling into Variable Speed Limit Control",
-      "summary": "Road traffic noise remains a major environmental challenge, yet most speed management strategies are static and do not respond to short-term variations in traffic noise emissions. Although variable speed limit (VSL) systems are widely deployed for safety and congestion mitigation, traffic noise is rarely treated as an explicit operational control objective.…",
-      "score": 6,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01339v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s43621-026-04570-2",
+      "date": "2026-09-06",
+      "terms": [
+        "新能源",
+        "可再生能源"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04645-0",
+      "date": "2026-09-06",
+      "terms": [
+        "人工智能"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-04568-w",
       "date": "2026-09-05",
       "terms": [
         "人工智能"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-04906v1",
+      "date": "2026-09-04",
+      "terms": [
+        "高排放行业",
+        "气候风险"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-04632v1",
+      "date": "2026-09-04",
+      "terms": [
+        "新能源",
+        "碳与排放"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-05359v1",
+      "date": "2026-09-04",
+      "terms": [
+        "高排放行业",
+        "气候风险",
+        "碳与排放"
       ]
     },
     {
@@ -611,18 +648,8 @@
         "人工智能",
         "政策监管",
         "数据中心",
-        "碳与排放",
         "气候披露",
-        "水资源"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-03270v1",
-      "date": "2026-09-03",
-      "terms": [
-        "绿色金融",
-        "能源效率",
-        "碳与排放"
+        "工作论文"
       ]
     },
     {
@@ -1063,7 +1090,7 @@
     "week": {
       "label": "过去一周总结",
       "title": "高排放行业、高风险行业、新能源构成过去七日的主要行业信号",
-      "range": "2026.08.30—09.06",
+      "range": "2026.08.31—09.07",
       "copy": "过去7天当前保留 14 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1071,19 +1098,19 @@
           10
         ],
         [
-          "绿色金融",
-          7
-        ],
-        [
           "高排放行业",
-          7
+          8
         ],
         [
           "新能源",
-          6
+          7
         ],
         [
           "人工智能",
+          6
+        ],
+        [
+          "绿色金融",
           6
         ],
         [
@@ -1095,6 +1122,10 @@
           6
         ],
         [
+          "工作论文",
+          5
+        ],
+        [
           "碳与排放",
           5
         ],
@@ -1103,7 +1134,7 @@
           5
         ],
         [
-          "工作论文",
+          "气候风险",
           5
         ],
         [
@@ -1116,10 +1147,6 @@
         ],
         [
           "学术研究",
-          4
-        ],
-        [
-          "气候风险",
           4
         ],
         [
@@ -1169,22 +1196,14 @@
         [
           "数据中心",
           3
-        ],
-        [
-          "水资源",
-          3
-        ],
-        [
-          "能源效率",
-          3
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.07—09.06",
-      "copy": "过去30天词频基于 58 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.08—09.07",
+      "copy": "过去30天词频基于 62 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1195,16 +1214,16 @@
           7
         ],
         [
-          "绿色金融",
+          "高排放行业",
           7
         ],
         [
-          "高排放行业",
+          "绿色金融",
           6
         ],
         [
           "人工智能",
-          5
+          6
         ],
         [
           "可再生能源",
@@ -1227,6 +1246,10 @@
           5
         ],
         [
+          "工作论文",
+          4
+        ],
+        [
           "污染防治",
           4
         ],
@@ -1235,15 +1258,11 @@
           4
         ],
         [
-          "工作论文",
-          4
-        ],
-        [
           "数字化与数据",
           4
         ],
         [
-          "水资源",
+          "气候风险",
           4
         ],
         [
@@ -1263,7 +1282,7 @@
           3
         ],
         [
-          "气候风险",
+          "水资源",
           3
         ],
         [
@@ -1288,10 +1307,6 @@
         ],
         [
           "气候与适应",
-          3
-        ],
-        [
-          "能源效率",
           3
         ],
         [
@@ -1304,6 +1319,10 @@
         ],
         [
           "干旱与土地",
+          2
+        ],
+        [
+          "能源效率",
           2
         ]
       ]
@@ -1330,12 +1349,12 @@
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 40
+      "items": 41
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 36
+      "items": 35
     },
     {
       "source": "arXiv",
@@ -1348,7 +1367,7 @@
       "message": "GitHub Models 410: {\"error\":{\"code\":\"github_models_retirement_brownout\",\"message\":\"GitHub Models is temporarily unavailable as part of a scheduled retirement brownout.\"}}\n"
     }
   ],
-  "verifiedCandidateCount": 8,
+  "verifiedCandidateCount": 10,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
