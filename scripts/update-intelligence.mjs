@@ -19,6 +19,8 @@ const highImpactPattern=/regulation|rule|directive|standard|disclosure|mandatory
 const trustedPublisherPattern=/Elsevier|Springer|Wiley|SAGE|Oxford University Press|Cambridge University Press|Taylor & Francis|IEEE|Association for Computing Machinery|Nature Portfolio|American Chemical Society|Royal Society|Frontiers Media|MDPI/i;
 const arxivFalsePositivePattern=/astronom|astrophys|cosmolog|black[ -]?hole|gravitational.wave|particle physics|nuclear recoil|\bLHC\b|quasar|cosmic star formation|Josephson|vortex laser|stellar|galax/i;
 const arxivEsgPattern=/climate change|carbon capture|\bCCUS\b|CO2 emissions?|renewable energy|energy transition|sustainab|pollution|environmental|traffic noise|biodiversity|circular economy|green finance|net[ -]?zero|decarbon/i;
+const genericDiplomaticStatementPattern=/UN Human Rights Council|Interactive Dialogue|Fact-Finding Mission|Joint Statement on (?:Sri Lanka|Sudan)/i;
+const businessHumanRightsNexusPattern=/business|company|corporat|industry|supply chain|forced labo(?:u)?r|worker|workplace|trade|export|mining|energy|technology|artificial intelligence|\bAI\b/i;
 
 function isoDate(date){return date.toISOString().slice(0,10)}
 function dotDate(value){return String(value||'').replaceAll('-','.')}
@@ -27,14 +29,16 @@ function tag(block,name){const match=block.match(new RegExp(`<${name}(?:\\s[^>]*
 function link(block){const href=block.match(/<link[^>]+href=["']([^"']+)["']/i)?.[1];return href||tag(block,'link')}
 function idFor(value){return String(value).toLowerCase().replace(/^https?:\/\//,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,72)}
 function dateParts(value){if(!value)return '';const date=new Date(value);return Number.isNaN(date.valueOf())?'':isoDate(date)}
-function uniqueByUrl(items){const seen=new Set();return items.filter(item=>{const key=(item.url||item.title).toLowerCase().replace(/\/$/,'');if(!key||seen.has(key))return false;seen.add(key);return true})}
+function uniqueByUrl(items){const seenUrls=new Set();const seenIds=new Set();return items.filter(item=>{const key=(item.url||item.title).toLowerCase().replace(/\/$/,'');const id=String(item.id||item.candidateId||'');if(!key||seenUrls.has(key)||id&&seenIds.has(id))return false;seenUrls.add(key);if(id)seenIds.add(id);return true})}
 function heuristicScore(item){let score=4;if(['Federal Register','GOV.UK'].includes(item.source))score+=2;if(item.source==='Crossref')score+=1;if(highImpactPattern.test(`${item.title} ${item.summary}`))score+=2;if(/effective|final rule|mandatory|billion|cross-sector|systemic/i.test(`${item.title} ${item.summary}`))score+=1;return Math.min(10,score)}
 function sectorFor(text){if(/artificial intelligence|\bai\b|data cent/i.test(text))return '人工智能';if(/renewable|solar|wind|battery|hydrogen|electricity|grid|energy/i.test(text))return '新能源';if(/disclosure|supply chain|trade|border|export|deforestation/i.test(text))return '企业出海';if(/finance|investment|bank|insurance|taxonomy/i.test(text))return '绿色金融';if(/steel|cement|aluminium|oil|gas|coal|chemical|emission|pollution/i.test(text))return '高排放行业';return '新兴行业'}
 function meaningfulEsgNexus(item){
+ const text=`${item.title||''} ${item.summary||''}`;
+ if(genericDiplomaticStatementPattern.test(text)&&!businessHumanRightsNexusPattern.test(text))return false;
  const isArxiv=item?.source==='arXiv'||item?.publisher==='arXiv';if(!isArxiv)return true;
- const text=`${item.title||''} ${item.summary||''}`;return arxivEsgPattern.test(text)&&!arxivFalsePositivePattern.test(text);
+ return arxivEsgPattern.test(text)&&!arxivFalsePositivePattern.test(text);
 }
-function trustedCandidate(item){if(item.sourceType==='preprint'&&!meaningfulEsgNexus(item))return false;return item.source!=='Crossref'||trustedPublisherPattern.test(item.publisher)}
+function trustedCandidate(item){if(!meaningfulEsgNexus(item))return false;return item.source!=='Crossref'||trustedPublisherPattern.test(item.publisher)}
 function excerpt(value,limit=360){const clean=decode(value);return clean.length>limit?`${clean.slice(0,limit).trim()}…`:clean}
 function tagsFor(item){
  const text=`${item.title} ${item.summary}`;const tags=[];
@@ -147,16 +151,16 @@ async function main(){
  for(const [name,collector] of collectors){try{const rows=await collector();candidates.push(...rows);sourceHealth.push({source:name,status:'ok',items:rows.length})}catch(error){sourceHealth.push({source:name,status:'error',message:String(error.message||error).slice(0,180)})}}
  const verified=await verifyCandidates(candidates);let normalized=fallbackEditorial(verified,previous);
  try{const model=await runModel(verified);if(model){const curated=normalizeModel(model,verified,previous);normalized={stories:curated.stories.length?curated.stories:normalized.stories,resources:curated.resources.length?curated.resources:normalized.resources,sectorInsights:curated.sectorInsights.length?curated.sectorInsights:normalized.sectorInsights,summary:curated.summary||normalized.summary,monthlyHighlights:curated.monthlyHighlights.length?curated.monthlyHighlights:normalized.monthlyHighlights,annualHighlights:curated.annualHighlights.length?curated.annualHighlights:normalized.annualHighlights}}}catch(error){sourceHealth.push({source:'GitHub Models',status:'error',message:String(error.message||error).slice(0,180)})}
- const previousRecent=(previous.stories||[]).filter(item=>inWindow(item)&&Number(item.score)>=materialityThreshold.policy);
+ const previousRecent=(previous.stories||[]).filter(item=>inWindow(item)&&Number(item.score)>=materialityThreshold.policy&&meaningfulEsgNexus(item));
  const stories=uniqueByUrl([...previousRecent,...normalized.stories]).sort((a,b)=>activityDate(b).localeCompare(activityDate(a))||Number(b.score)-Number(a.score)).slice(0,16);
  const finalSectorCounts=new Map();for(const story of stories)finalSectorCounts.set(story.sector,(finalSectorCounts.get(story.sector)||0)+1);
  const finalSectors=[...finalSectorCounts.entries()].sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0]));
  const finalSectorInsights=finalSectors.slice(0,5).map(([name,count])=>[name,`过去七日保留 ${count} 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。`,count,'→']);
  const storyUrls=new Set(stories.map(item=>item.url));const previousWatchlist=(previous.watchlist||[]).filter(item=>inWindow(item)&&meaningfulEsgNexus(item));
  const newWatchlist=verified.filter(item=>inWindow(item)).map(storyFromCandidate);
- const watchlist=uniqueByUrl([...newWatchlist,...previousWatchlist]).filter(item=>!storyUrls.has(item.url)).sort((a,b)=>Number(b.score)-Number(a.score)||activityDate(b).localeCompare(activityDate(a))).slice(0,12);
+ const watchlist=uniqueByUrl([...previousWatchlist,...newWatchlist]).filter(item=>!storyUrls.has(item.url)).sort((a,b)=>Number(b.score)-Number(a.score)||activityDate(b).localeCompare(activityDate(a))).slice(0,12);
  const cleanedLibrary=(library.items||[]).filter(item=>meaningfulEsgNexus(item));
- const existingUrls=new Set(cleanedLibrary.map(item=>item.url));const newResources=normalized.resources.filter(item=>!existingUrls.has(item.url)&&meaningfulEsgNexus(item));
+ const existingUrls=new Set(cleanedLibrary.map(item=>item.url));const existingIds=new Set(cleanedLibrary.map(item=>item.id));const newResources=normalized.resources.filter(item=>!existingUrls.has(item.url)&&!existingIds.has(item.id)&&meaningfulEsgNexus(item));
  const updatedAt=new Date().toISOString();const weekRange=`${dotDate(weekStart)}—${dotDate(endDate).slice(5)}`;
  const allowedArxivIds=new Set([...stories,...watchlist,...newResources,...cleanedLibrary].filter(meaningfulEsgNexus).map(item=>item.id));
  const previousKeywordEvents=(previous.keywordEvents||[]).filter(item=>item.date>=rollingMonthStart&&item.date<=endDate&&(!String(item.id).startsWith('arxiv-')||allowedArxivIds.has(item.id)));

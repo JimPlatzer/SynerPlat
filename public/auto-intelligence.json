@@ -1,75 +1,206 @@
 {
-  "updatedAt": "2026-09-09T04:46:25.595Z",
+  "updatedAt": "2026-09-09T14:13:03.757Z",
   "weekRange": "2026.09.02—09.09",
   "monthLabel": "2026年9月",
   "stories": [
     {
-      "id": "govuk-www-gov-uk-government-speeches-un-human-rights-council-63-joint-statemen",
+      "id": "fr-2026-18370",
+      "sector": "企业出海",
+      "relevance": "间接 ESG",
+      "event": "监管征询",
+      "title": "美国能源部就电网设备、境外实体与供应链安全启动征询",
+      "summary": "美国能源部9月9日发布信息征询，以落实8月26日关于保障大电网安全的行政令。征询覆盖受管制设备与交易、境外实体和外国产电网设备风险、软件与远程访问、许可与预审、国内替代产能及对可靠性、安全和小型企业的影响；书面意见拟在刊登后30天内提交，并将于9月16日举行线上会议。",
+      "score": 8,
+      "publishedDate": "2026.09.09",
+      "eventDate": "2026.09.09",
+      "dateNote": "信息征询发布",
+      "source": "U.S. Department of Energy / Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18370/securing-the-united-states-bulk-power-system",
+      "tags": [
+        "电网安全",
+        "供应链与出海",
+        "境外实体",
+        "关键基础设施"
+      ]
+    },
+    {
+      "id": "eu-agri-food-innovation-strategy-2026",
       "sector": "新兴行业",
       "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "UN Human Rights Council 63: Joint Statement on Sri Lanka",
-      "summary": "Joint Statement on Sri Lanka. Delivered by the UK's Human Rights Ambassador, Eleanor Sanders.",
-      "score": 6,
+      "event": "战略发布",
+      "title": "欧盟发布农业食品研发创新战略，统筹 AgRI 2040 与 Food 2040",
+      "summary": "欧盟委员会9月8日通过面向竞争力、韧性与可持续农业、林业、农村和食品系统的研发创新战略，把AgRI 2040与Food 2040纳入统一框架。六项共同优先方向覆盖粮食安全、自然资源与循环利用、公平和全球合作，并将人工智能、机器人、零污染与资源效率纳入2028—2034年地平线欧洲及相关竞争力基金的部署方向。",
+      "score": 9,
       "publishedDate": "2026.09.08",
       "eventDate": "2026.09.08",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/speeches/un-human-rights-council-63-joint-statement-on-sri-lanka",
+      "dateNote": "欧盟委员会通过战略文件",
+      "source": "European Commission",
+      "url": "https://agriculture.ec.europa.eu/media/news/commission-launches-agri-food-innovation-strategy-2026-09-08_en",
       "tags": [
-        "政策法规"
+        "农业食品",
+        "自然资源",
+        "循环经济",
+        "人工智能"
+      ]
+    },
+    {
+      "id": "eu-neuro-ai-governance-statement-2026",
+      "sector": "人工智能",
+      "relevance": "直接 ESG",
+      "event": "治理建议",
+      "title": "欧盟伦理专家组提出 Neuro-AI 基础设施治理框架",
+      "summary": "欧盟科学与新技术伦理小组9月8日发布《Governing Neuro-AI》声明，建议把监管视角从单一设备和隐私扩展至神经数据收集、处理和再利用的整套基础设施。建议包括强化神经数据及推断保护、负责任开发脑基础模型、限制高影响场景中的不当控制、建立公共利益治理能力，并对现有欧盟规则开展针对性适用性评估。",
+      "score": 8,
+      "publishedDate": "2026.09.08",
+      "eventDate": "2026.09.08",
+      "dateNote": "伦理治理声明发布",
+      "source": "European Commission / European Group on Ethics",
+      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/experts-call-new-approach-neuro-ai-governance-2026-09-08_en",
+      "tags": [
+        "人工智能治理",
+        "神经数据",
+        "基本权利",
+        "数据隐私"
       ]
     },
     {
       "id": "govuk-www-gov-uk-government-speeches-minister-mccluskey-speech-on-ai-for-clean",
       "sector": "人工智能",
       "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Minister McCluskey speech on AI for clean energy vision",
-      "summary": "Minister for Local Energy and Jobs Martin McCluskey delivered a speech at the Google for Startups Accelerator: Europe event in London on 8 September.",
-      "score": 6,
+      "event": "政策路线",
+      "title": "英国发布清洁能源AI愿景并启动意见征集",
+      "summary": "英国政府9月8日发布清洁能源AI愿景并就AI如何提高效率、降低成本和强化能源安全征求意见，所得反馈将为计划于明年发布的《能源领域AI战略》奠定基础。政府同时发布电网AI部署独立评估，并把更好的数据、从试点到规模部署的路径、可信治理和技能能力列为当前四项关键障碍。",
+      "score": 8,
       "publishedDate": "2026.09.08",
       "eventDate": "2026.09.08",
-      "dateNote": "发布",
-      "source": "UK Government",
+      "dateNote": "愿景与意见征集发布",
+      "source": "UK Department for Energy Security and Net Zero",
       "url": "https://www.gov.uk/government/speeches/minister-mccluskey-speech-on-ai-for-clean-energy-vision",
       "tags": [
         "人工智能",
-        "政策法规"
+        "电网",
+        "能源安全",
+        "可信治理"
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-speeches-un-human-rights-council-63-uk-statement-f",
-      "sector": "新兴行业",
+      "id": "eu-finland-paper-workers-egf-2026",
+      "sector": "高排放行业",
       "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "UN Human Rights Council 63: UK Statement for the Interactive Dialogue with the UN Fact-Finding Mission for Sudan",
-      "summary": "UK Statement for the Interactive Dialogue with the UN Fact-Finding Mission for Sudan. Delivered by the UK's Permanent Representative to the WTO and UN, Kumar Iyer.",
-      "score": 6,
-      "publishedDate": "2026.09.07",
-      "eventDate": "2026.09.07",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/speeches/un-human-rights-council-63-uk-statement-for-the-interactive-dialogue-with-the-un-fact-finding-mission-for-sudan",
+      "event": "公正转型融资",
+      "title": "欧盟拟动用全球化调整基金支持芬兰造纸业失业劳动者转型",
+      "summary": "欧盟委员会9月8日提议动用110万欧元全球化调整基金，为芬兰四家造纸企业的351名被裁劳动者提供求职、培训、流动和创业支持，方案总成本180万欧元。提案仍需欧洲议会和理事会批准；措施还包括以AI试点识别当地岗位与技能需求，体现高排放和资源密集行业调整中的劳动者转型安排。",
+      "score": 7,
+      "publishedDate": "2026.09.08",
+      "eventDate": "2026.09.08",
+      "dateNote": "欧盟委员会提出资金动员方案；尚待批准",
+      "source": "European Commission",
+      "url": "https://employment-social-affairs.ec.europa.eu/news/commission-proposes-eur11-million-european-globalisation-adjustment-fund-support-dismissed-paper-2026-09-08_en",
       "tags": [
-        "政策法规"
+        "公正转型",
+        "劳动与技能",
+        "造纸行业",
+        "人工智能"
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-speeches-un-human-rights-council-63-joint-statemen",
-      "sector": "新兴行业",
+      "id": "unep-hidden-assets-clean-air-2026",
+      "sector": "高排放行业",
       "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "UN Human Rights Council 63: Joint Statement for the Interactive Dialogue on the UN Fact-Finding Mission for Sudan",
-      "summary": "Joint Statement for the Interactive Dialogue on the UN Fact-Finding Mission for Sudan. Delivered by the UK's Permanent Representative to the WTO and UN, Kumar Iyer.",
-      "score": 6,
+      "event": "权威报告",
+      "title": "UNEP：气候与清洁空气协同行动每投入1美元可产生约15美元收益",
+      "summary": "UNEP与气候和清洁空气联盟9月7日发布首份全球综合经济评估，测算同步实施25项气候与空气污染措施，每投入1美元可产生约15美元市场与非市场收益；即使不计非市场福利，回报仍约为4比1。报告称每拖延一年将损失每年逾1.5万亿美元收益，并建议把能源、工业、交通、农业、居民用能和废弃物治理纳入协同规划、执法与融资。",
+      "score": 10,
       "publishedDate": "2026.09.07",
       "eventDate": "2026.09.07",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/speeches/un-human-rights-council-63-joint-statement-for-the-interactive-dialogue-on-the-un-fact-finding-mission-for-sudan",
+      "dateNote": "报告发布",
+      "source": "UN Environment Programme / Climate and Clean Air Coalition",
+      "url": "https://www.unep.org/news-and-stories/press-release/un-every-us1-invested-climate-and-clean-air-action-can-return-us15",
       "tags": [
-        "政策法规"
+        "空气质量",
+        "气候经济学",
+        "甲烷",
+        "污染防治"
+      ]
+    },
+    {
+      "id": "eu-yara-sluiskil-industrial-ccs-2026",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "项目投运",
+      "title": "欧洲最大商业工业碳捕集与封存设施投入运行",
+      "summary": "欧盟委员会9月7日确认，荷兰Yara Sluiskil氨与化肥工厂的商业CCS设施开始运行，预计每年捕集并液化最多80万吨二氧化碳，经船运至挪威Northern Lights设施永久封存。项目预计15年封存约1200万吨二氧化碳，是欧盟—挪威跨境碳管理基础设施和高排放行业减排的重要落地案例。",
+      "score": 9,
+      "publishedDate": "2026.09.07",
+      "eventDate": "2026.09.07",
+      "dateNote": "设施投运",
+      "source": "European Commission",
+      "url": "https://energy.ec.europa.eu/news/commission-inaugurates-europes-largest-industrial-carbon-capture-and-storage-facility-netherlands-2026-09-07_en",
+      "tags": [
+        "CCS",
+        "氨与化肥",
+        "跨境运输",
+        "工业减排"
+      ]
+    },
+    {
+      "id": "eib-elia-energy-island-green-credit-2026",
+      "sector": "绿色金融",
+      "relevance": "直接 ESG",
+      "event": "绿色融资",
+      "title": "欧洲投资银行向比利时能源岛提供10亿欧元绿色信贷",
+      "summary": "欧洲投资银行9月7日宣布向Elia Transmission Belgium提供10亿欧元绿色信贷，用于Princess Elisabeth能源岛第二阶段，这是EIB在比荷卢地区规模最大的能源基础设施贷款。资金将支持海上高压变电、变压器和陆上连接，释放新的海上风电并为未来英比互联线创造条件；首笔提款已于7月底完成。",
+      "score": 8,
+      "publishedDate": "2026.09.07",
+      "eventDate": "2026.09.07",
+      "dateNote": "融资公告发布；首笔提款已于7月底完成",
+      "source": "European Investment Bank",
+      "url": "https://www.eib.org/en/press/news/news-elia-transmission-belgium-obtient-une-facilite-de-credit-verte-de-eur1-milliard-de-la-banque-europeenne-d-investissement-pour-son-projet-de-l-ile-princesse-elisabeth",
+      "tags": [
+        "绿色信贷",
+        "海上风电",
+        "电网互联",
+        "能源安全"
+      ]
+    },
+    {
+      "id": "cn-digital-green-synergy-plan-2026",
+      "sector": "人工智能",
+      "relevance": "直接 ESG",
+      "event": "政策发布",
+      "title": "中国发布2026—2030年数字化绿色化协同转型实施方案",
+      "summary": "中央网信办等七部门9月4日发布实施方案，提出到2030年显著提升算力设施和5G基站能效，并推动重点算力设施可再生电力消费达到所在省份消纳责任权重。方案要求构建生成式AI全生命周期资源消耗评估体系，指导服务提供商主动披露大模型资源利用情况，同时推进碳排放、产品碳足迹、环境和能源数据互联。",
+      "score": 10,
+      "publishedDate": "2026.09.04",
+      "eventDate": "2026.09.04",
+      "dateNote": "七部门方案发布",
+      "source": "中央网信办等七部门",
+      "url": "https://www.cac.gov.cn/2026-09/04/c_1790271981772781.htm",
+      "tags": [
+        "绿色人工智能",
+        "算力能效",
+        "资源消耗披露",
+        "产品碳足迹"
+      ]
+    },
+    {
+      "id": "g20-innovation-ministerial-statement-2026",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "国际政策协调",
+      "title": "G20创新部长就AI标准、技能与产业供应链形成联合成果",
+      "summary": "G20创新部长9月2日在美国北卡罗来纳州形成联合声明，英国政府于9月4日发布原文。成果覆盖新兴技术创新政策框架、AI繁荣目标与契约、AI知识产权、以AI支持标准制定及AI标准，以及产业创新、投资与供应链；对跨境AI治理和技术企业出海具有直接政策信号。",
+      "score": 8,
+      "publishedDate": "2026.09.04",
+      "eventDate": "2026.09.02",
+      "dateNote": "9月2日部长会议形成声明，9月4日发布",
+      "source": "G20 / UK Department for Business and Trade",
+      "url": "https://www.gov.uk/government/publications/g20-innovation-ministerial-statement-2-september-2026",
+      "tags": [
+        "人工智能治理",
+        "技术标准",
+        "技能转型",
+        "供应链与出海"
       ]
     },
     {
@@ -191,62 +322,47 @@
         "环境执法",
         "数字追踪"
       ]
-    },
-    {
-      "id": "uk-public-control-taskforces-2026",
-      "sector": "公用事业",
-      "relevance": "间接 ESG",
-      "event": "政策协调",
-      "title": "英国设立跨政府工作组研究水、能源、交通与住房的公共控制改革",
-      "summary": "英国首相9月2日宣布设立三个跨政府工作组，围绕住房、水务、能源与交通的公共控制、市场改革、可负担性和问责展开工作。该安排把关键基础设施治理、生活成本与社区更新纳入同一政策协调框架，后续制度设计可能影响相关行业的所有权、监管与投资逻辑。",
-      "score": 7,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
-      "dateNote": "工作组成立",
-      "source": "UK Cabinet Office",
-      "url": "https://www.gov.uk/government/news/prime-minister-puts-public-control-community-regeneration-and-cost-of-living-at-the-heart-of-plans-to-rewire-britain",
-      "tags": [
-        "公共服务",
-        "能源治理",
-        "水务",
-        "交通"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-uk-backed-programme-supports-sustainable-live",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "UK-backed programme supports sustainable livestock farming in Honduras",
-      "summary": "The UK-funded Mitigation Action Facility (MAF) is helping livestock producers in Honduras access green finance and adopt more sustainable farming practices.",
-      "score": 6,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/uk-backed-programme-supports-sustainable-livestock-farming-in-honduras",
-      "tags": [
-        "政策法规"
-      ]
     }
   ],
   "watchlist": [
     {
+      "id": "doi-10-1007-s43621-026-04516-8",
+      "sector": "绿色金融",
+      "relevance": "直接 ESG",
+      "event": "同行评审研究",
+      "title": "Evaluating sustainability credibility in financial institutions using ESG talk and ESG action indicators",
+      "summary": "这项开放获取同行评审研究用Refinitiv指标分别构建金融机构的“ESG表述”和“ESG行动”评估层，检验两者的一致性。研究发现强调披露与治理的信号型评价并不总与侧重可观察结果的行动型评价一致；该方法衡量的是两类指标组合的对齐，而不是逐项核验企业陈述是否真实兑现。",
+      "score": 7,
+      "publishedDate": "2026.09.09",
+      "eventDate": "2026.09.09",
+      "dateNote": "同行评审早期版本发表",
+      "source": "Springer Nature",
+      "url": "https://link.springer.com/article/10.1007/s43621-026-04516-8",
+      "tags": [
+        "ESG可信度",
+        "绿色金融",
+        "披露与行动",
+        "同行评审"
+      ]
+    },
+    {
       "id": "doi-10-1057-s41310-026-00416-5",
       "sector": "企业出海",
       "relevance": "直接 ESG",
-      "event": "学术研究",
+      "event": "同行评审研究",
       "title": "Does boardroom diversity improve ESG disclosures? Moderating role of ESG-skilled corporate boards in India",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "summary": "这项同行评审研究分析印度NSE 500中149家公司2013—2023年数据，发现董事会多样性只有在董事会具备ESG技能时才与更好的ESG披露显著相关；缺少相关技能时未观察到显著影响。结论提示企业与投资者不能仅以多样性构成替代对董事专业能力和披露质量的核验。",
       "score": 7,
       "publishedDate": "2026.09.08",
       "eventDate": "2026.09.08",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1057/s41310-026-00416-5",
+      "dateNote": "同行评审论文发表",
+      "source": "Springer Nature",
+      "url": "https://link.springer.com/article/10.1057/s41310-026-00416-5",
       "tags": [
+        "董事会多样性",
+        "ESG技能",
         "披露监管",
-        "同行评审状态待核"
+        "同行评审"
       ]
     },
     {
@@ -403,6 +519,26 @@
       ]
     },
     {
+      "id": "eu-oil-supply-security-watch-2026",
+      "sector": "高排放行业",
+      "relevance": "间接 ESG",
+      "event": "市场与供应监测",
+      "title": "欧盟确认当前无石油供应短缺，但中东局势或继续收紧柴油与航煤市场",
+      "summary": "欧盟委员会、成员国、IEA、能源共同体、北约和行业代表9月8日评估认为，欧盟当前商业与应急库存充足，炼厂增产和替代进口仍能满足柴油与航煤需求。该结论不是长期安全保证：中东冲突和秋冬季需求可能在未来数周至数月继续推高波动并收紧市场。",
+      "score": 6,
+      "publishedDate": "2026.09.08",
+      "eventDate": "2026.09.08",
+      "dateNote": "欧盟石油协调组会议与评估发布",
+      "source": "European Commission Directorate-General for Energy",
+      "url": "https://energy.ec.europa.eu/news/oil-coordination-group-no-immediate-security-oil-supply-concerns-eu-2026-09-08_en",
+      "tags": [
+        "石油供应",
+        "能源安全",
+        "柴油与航煤",
+        "地缘风险"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2609-08383v1",
       "sector": "高排放行业",
       "relevance": "直接 ESG",
@@ -418,41 +554,6 @@
       "tags": [
         "气候与碳",
         "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s11135-026-03090-5",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Artificial intelligence, economic complexity, and clean energy productivity as drivers of SDG-7 progress and ESG uncertainty",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.09.09",
-      "eventDate": "2026.09.09",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s11135-026-03090-5",
-      "tags": [
-        "人工智能",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04516-8",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Evaluating sustainability credibility in financial institutions using ESG talk and ESG action indicators",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.09.09",
-      "eventDate": "2026.09.09",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04516-8",
-      "tags": [
-        "同行评审状态待核"
       ]
     }
   ],
@@ -470,6 +571,24 @@
       "date": "2026-09-09",
       "terms": [
         "新兴行业"
+      ]
+    },
+    {
+      "id": "fr-2026-18370",
+      "date": "2026-09-09",
+      "terms": [
+        "新能源",
+        "数字化与数据",
+        "供应链与出海"
+      ]
+    },
+    {
+      "id": "period-www-federalregister-gov-documents-2026-09-09-2026-18370-securing-the-uni",
+      "date": "2026-09-09",
+      "terms": [
+        "企业出海",
+        "电力系统",
+        "供应链与出海"
       ]
     },
     {
@@ -494,8 +613,7 @@
         "能源效率",
         "气候风险",
         "碳与排放",
-        "干旱与土地",
-        "水资源"
+        "工作论文"
       ]
     },
     {
@@ -515,17 +633,117 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-speeches-un-human-rights-council-63-uk-statement-f",
-      "date": "2026-09-07",
+      "id": "govuk-www-gov-uk-government-speeches-un-human-rights-council-63-joint-statemen",
+      "date": "2026-09-08",
       "terms": [
         "新兴行业"
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-speeches-un-human-rights-council-63-joint-statemen",
+      "id": "period-agriculture-ec-europa-eu-media-news-commission-launches-agri-food-innova",
+      "date": "2026-09-08",
+      "terms": [
+        "新兴行业",
+        "人工智能"
+      ]
+    },
+    {
+      "id": "period-research-and-innovation-ec-europa-eu-news-all-research-and-innovation-ne",
+      "date": "2026-09-08",
+      "terms": [
+        "人工智能"
+      ]
+    },
+    {
+      "id": "eu-agri-food-innovation-strategy-2026",
+      "date": "2026-09-08",
+      "terms": [
+        "新兴行业",
+        "人工智能",
+        "气候适应",
+        "污染防治"
+      ]
+    },
+    {
+      "id": "eu-neuro-ai-governance-statement-2026",
+      "date": "2026-09-08",
+      "terms": [
+        "人工智能",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "eu-finland-paper-workers-egf-2026",
+      "date": "2026-09-08",
+      "terms": [
+        "高排放行业",
+        "人工智能",
+        "公正转型"
+      ]
+    },
+    {
+      "id": "eu-oil-supply-security-watch-2026",
+      "date": "2026-09-08",
+      "terms": [
+        "高排放行业"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-un-human-rights-council-63-uk-statement-f",
       "date": "2026-09-07",
       "terms": [
-        "新兴行业"
+        "新兴行业",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "period-www-unep-org-news-and-stories-press-release-un-every-us1-invested-climat",
+      "date": "2026-09-07",
+      "terms": [
+        "高排放行业"
+      ]
+    },
+    {
+      "id": "period-energy-ec-europa-eu-news-commission-inaugurates-europes-largest-industri",
+      "date": "2026-09-07",
+      "terms": [
+        "高排放行业",
+        "供应链与出海"
+      ]
+    },
+    {
+      "id": "period-www-eib-org-en-press-news-news-elia-transmission-belgium-obtient-une-fac",
+      "date": "2026-09-07",
+      "terms": [
+        "绿色金融",
+        "可再生能源",
+        "电力系统"
+      ]
+    },
+    {
+      "id": "unep-hidden-assets-clean-air-2026",
+      "date": "2026-09-07",
+      "terms": [
+        "高排放行业",
+        "污染防治"
+      ]
+    },
+    {
+      "id": "eu-yara-sluiskil-industrial-ccs-2026",
+      "date": "2026-09-07",
+      "terms": [
+        "高排放行业",
+        "碳与排放",
+        "供应链与出海"
+      ]
+    },
+    {
+      "id": "eib-elia-energy-island-green-credit-2026",
+      "date": "2026-09-07",
+      "terms": [
+        "绿色金融",
+        "可再生能源",
+        "电力系统"
       ]
     },
     {
@@ -579,6 +797,89 @@
       ]
     },
     {
+      "id": "period-www-cac-gov-cn-2026-09-04-c-1790271981772781-htm",
+      "date": "2026-09-04",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "数据中心",
+        "电力系统",
+        "能源效率",
+        "气候披露",
+        "数字化与数据"
+      ]
+    },
+    {
+      "id": "period-www-gov-uk-government-publications-g20-innovation-ministerial-statement-",
+      "date": "2026-09-04",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "供应链与出海",
+        "绿色金融"
+      ]
+    },
+    {
+      "id": "cn-digital-green-synergy-plan-2026",
+      "date": "2026-09-04",
+      "terms": [
+        "人工智能",
+        "数据中心",
+        "电力系统",
+        "能源效率",
+        "碳与排放",
+        "气候披露",
+        "数字化与数据"
+      ]
+    },
+    {
+      "id": "g20-innovation-ministerial-statement-2026",
+      "date": "2026-09-04",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "供应链与出海",
+        "绿色金融"
+      ]
+    },
+    {
+      "id": "doi-10-1038-s41467-026-77364-9",
+      "date": "2026-09-04",
+      "terms": [
+        "高排放行业",
+        "可再生能源",
+        "电力系统",
+        "能源效率"
+      ]
+    },
+    {
+      "id": "doi-10-1038-s44406-026-00043-7",
+      "date": "2026-09-04",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "电力系统",
+        "气候风险",
+        "干旱与土地"
+      ]
+    },
+    {
+      "id": "doi-10-1186-s13705-026-00604-9",
+      "date": "2026-09-04",
+      "terms": [
+        "高排放行业",
+        "政策监管",
+        "碳与排放"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s13132-026-03492-8",
+      "date": "2026-09-04",
+      "terms": [
+        "人工智能"
+      ]
+    },
+    {
       "id": "period-www-gov-uk-government-news-invasive-mosquito-species-detected-in-east-lo",
       "date": "2026-09-03",
       "terms": [
@@ -615,7 +916,9 @@
       "id": "govuk-www-gov-uk-government-news-investment-boost-for-climate-action-and-fores",
       "date": "2026-09-03",
       "terms": [
-        "绿色金融"
+        "绿色金融",
+        "政策监管",
+        "碳与排放"
       ]
     },
     {
@@ -1104,7 +1407,13 @@
   ],
   "sectorInsights": [
     [
-      "新兴行业",
+      "人工智能",
+      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      4,
+      "→"
+    ],
+    [
+      "高排放行业",
       "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       3,
       "→"
@@ -1122,13 +1431,7 @@
       "→"
     ],
     [
-      "人工智能",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
-      "→"
-    ],
-    [
-      "公用事业",
+      "企业出海",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
@@ -1137,9 +1440,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新兴行业、高风险行业、绿色金融构成过去七日的主要行业信号",
+      "title": "人工智能、高排放行业、高风险行业构成过去七日的主要行业信号",
       "range": "2026.09.02—09.09",
-      "copy": "过去7天当前保留 12 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "copy": "过去7天当前保留 16 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "人工智能",
@@ -1147,78 +1450,62 @@
         ],
         [
           "政策监管",
-          10
-        ],
-        [
-          "绿色金融",
           9
         ],
         [
-          "新能源",
-          8
+          "绿色金融",
+          7
         ],
         [
-          "高风险行业",
-          8
+          "高排放行业",
+          7
+        ],
+        [
+          "电力系统",
+          6
         ],
         [
           "碳与排放",
-          7
+          6
         ],
         [
           "可再生能源",
           6
         ],
         [
-          "工作论文",
+          "新能源",
           6
+        ],
+        [
+          "供应链与出海",
+          5
         ],
         [
           "气候披露",
-          6
+          5
+        ],
+        [
+          "高风险行业",
+          5
+        ],
+        [
+          "工作论文",
+          5
         ],
         [
           "气候风险",
-          6
-        ],
-        [
-          "气候适应",
-          6
-        ],
-        [
-          "高排放行业",
-          6
-        ],
-        [
-          "学术研究",
           5
-        ],
-        [
-          "新兴行业",
-          5
-        ],
-        [
-          "电力系统",
-          5
-        ],
-        [
-          "能源转型",
-          5
-        ],
-        [
-          "公用事业",
-          4
         ],
         [
           "数字化与数据",
           4
         ],
         [
-          "气候与适应",
+          "新兴行业",
           4
         ],
         [
-          "污染防治",
+          "气候适应",
           4
         ],
         [
@@ -1226,23 +1513,11 @@
           4
         ],
         [
-          "企业出海",
-          3
+          "污染防治",
+          4
         ],
         [
-          "供应链与出海",
-          3
-        ],
-        [
-          "关键矿产",
-          3
-        ],
-        [
-          "农业与自然",
-          3
-        ],
-        [
-          "干旱与土地",
+          "学术研究",
           3
         ],
         [
@@ -1250,8 +1525,36 @@
           3
         ],
         [
-          "水资源",
+          "能源转型",
           3
+        ],
+        [
+          "企业出海",
+          3
+        ],
+        [
+          "公用事业",
+          3
+        ],
+        [
+          "气候与适应",
+          3
+        ],
+        [
+          "公正转型",
+          2
+        ],
+        [
+          "关键矿产",
+          2
+        ],
+        [
+          "农业与自然",
+          2
+        ],
+        [
+          "干旱与土地",
+          2
         ]
       ]
     },
@@ -1259,18 +1562,22 @@
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
       "range": "2026.08.10—09.09",
-      "copy": "过去30天词频基于 73 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "copy": "过去30天词频基于 95 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
           10
         ],
         [
-          "新能源",
+          "人工智能",
           8
         ],
         [
           "高排放行业",
+          8
+        ],
+        [
+          "新能源",
           7
         ],
         [
@@ -1278,19 +1585,15 @@
           7
         ],
         [
-          "人工智能",
-          6
-        ],
-        [
           "可再生能源",
           6
         ],
         [
           "碳与排放",
-          5
+          6
         ],
         [
-          "工作论文",
+          "电力系统",
           5
         ],
         [
@@ -1298,11 +1601,31 @@
           5
         ],
         [
+          "供应链与出海",
+          4
+        ],
+        [
+          "工作论文",
+          4
+        ],
+        [
           "气候适应",
-          5
+          4
+        ],
+        [
+          "数字化与数据",
+          4
         ],
         [
           "气候风险",
+          4
+        ],
+        [
+          "污染防治",
+          4
+        ],
+        [
+          "企业出海",
           4
         ],
         [
@@ -1314,35 +1637,11 @@
           4
         ],
         [
-          "企业出海",
-          4
-        ],
-        [
-          "污染防治",
+          "能源效率",
           4
         ],
         [
           "学术研究",
-          4
-        ],
-        [
-          "数字化与数据",
-          4
-        ],
-        [
-          "水资源",
-          3
-        ],
-        [
-          "电力系统",
-          3
-        ],
-        [
-          "自然与适应",
-          3
-        ],
-        [
-          "供应链与出海",
           3
         ],
         [
@@ -1354,15 +1653,19 @@
           3
         ],
         [
-          "能源效率",
-          3
-        ],
-        [
-          "自然与生物多样性",
+          "自然与适应",
           3
         ],
         [
           "公正转型",
+          3
+        ],
+        [
+          "水资源",
+          3
+        ],
+        [
+          "自然与生物多样性",
           3
         ],
         [
@@ -1400,12 +1703,12 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 4
+      "items": 6
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 47
+      "items": 48
     },
     {
       "source": "Crossref",
@@ -1416,14 +1719,9 @@
       "source": "arXiv",
       "status": "ok",
       "items": 40
-    },
-    {
-      "source": "GitHub Models",
-      "status": "error",
-      "message": "GitHub Models 410: {\"error\":{\"code\":\"github_models_retirement_brownout\",\"message\":\"GitHub Models is temporarily unavailable as part of a scheduled retirement brownout.\"}}\n"
     }
   ],
-  "verifiedCandidateCount": 14,
+  "verifiedCandidateCount": 9,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

@@ -13,7 +13,6 @@ concurrency:
 
 permissions:
   contents: write
-  models: read
   pages: write
   id-token: write
 
@@ -33,8 +32,6 @@ jobs:
         run: npm ci
       - name: Retrieve and curate daily intelligence
         if: github.event_name != 'push'
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
         run: node scripts/update-intelligence.mjs
       - name: Commit verified data changes
         if: github.event_name != 'push'
