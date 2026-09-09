@@ -1,8 +1,43 @@
 {
-  "updatedAt": "2026-09-08T04:41:36.744Z",
-  "weekRange": "2026.09.01—09.08",
+  "updatedAt": "2026-09-09T04:46:25.595Z",
+  "weekRange": "2026.09.02—09.09",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-speeches-un-human-rights-council-63-joint-statemen",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "UN Human Rights Council 63: Joint Statement on Sri Lanka",
+      "summary": "Joint Statement on Sri Lanka. Delivered by the UK's Human Rights Ambassador, Eleanor Sanders.",
+      "score": 6,
+      "publishedDate": "2026.09.08",
+      "eventDate": "2026.09.08",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/speeches/un-human-rights-council-63-joint-statement-on-sri-lanka",
+      "tags": [
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-minister-mccluskey-speech-on-ai-for-clean",
+      "sector": "人工智能",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Minister McCluskey speech on AI for clean energy vision",
+      "summary": "Minister for Local Energy and Jobs Martin McCluskey delivered a speech at the Google for Startups Accelerator: Europe event in London on 8 September.",
+      "score": 6,
+      "publishedDate": "2026.09.08",
+      "eventDate": "2026.09.08",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/speeches/minister-mccluskey-speech-on-ai-for-clean-energy-vision",
+      "tags": [
+        "人工智能",
+        "政策法规"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-speeches-un-human-rights-council-63-uk-statement-f",
       "sector": "新兴行业",
@@ -193,109 +228,27 @@
       "tags": [
         "政策法规"
       ]
-    },
-    {
-      "id": "eu-national-restoration-plans-2026",
-      "sector": "自然与适应",
-      "relevance": "直接 ESG",
-      "event": "政策实施",
-      "title": "欧盟成员国提交首轮国家自然恢复计划草案",
-      "summary": "欧盟成员国于9月1日向欧盟委员会提交国家自然恢复计划草案，说明到2030年的恢复目标，并展望2040年和2050年行动。计划需要协调水、气候、农业、林业、海洋和渔业政策，并列明融资安排；欧委会与欧洲环境署将审查草案，最终计划预计在一年内完成。",
-      "score": 9,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "提交草案",
-      "source": "European Commission",
-      "url": "https://environment.ec.europa.eu/news/eu-countries-submit-draft-plans-restoring-nature-2026-09-01_en",
-      "tags": [
-        "自然恢复",
-        "生物多样性",
-        "气候适应",
-        "公共与私人融资"
-      ]
-    },
-    {
-      "id": "eu-cbam-verifier-registry-access-2026",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "监管实施",
-      "title": "欧盟CBAM核查机构注册通道正式开放",
-      "summary": "欧盟委员会8月28日发布核查机构准入指引，注册申请自9月1日起通过CBAM Registry的O3CI门户办理。经认可的核查机构可连接非欧盟装置运营商、审阅排放数据和证明材料，并从2027年起签发供进口商使用的核查报告，CBAM由申报准备进一步进入核证执行阶段。",
-      "score": 9,
-      "publishedDate": "2026.08.28",
-      "eventDate": "2026.09.01",
-      "dateNote": "开放注册",
-      "source": "European Commission",
-      "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-registry_en",
-      "tags": [
-        "CBAM",
-        "排放核查",
-        "非欧盟运营商",
-        "跨境合规"
-      ]
-    },
-    {
-      "id": "imo-nox-code-amendments-effective-2026",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "政策生效",
-      "title": "国际海事组织船用柴油机氮氧化物控制程序修订生效",
-      "summary": "IMO海洋环境保护委员会通过的NOx技术规则修订于9月1日生效，更新船用柴油机氮氧化物排放控制程序。英国政府确认相关国际海事污染规则通过本国海事法规衔接实施，航运企业需要同步核对发动机合规、燃料与排放记录。",
-      "score": 8,
-      "publishedDate": "2025.12.16",
-      "eventDate": "2026.09.01",
-      "dateNote": "生效",
-      "source": "UK Department for Transport / IMO",
-      "url": "https://www.gov.uk/government/speeches/changes-to-international-maritime-law--2",
-      "tags": [
-        "航运",
-        "氮氧化物",
-        "MARPOL",
-        "排放监管"
-      ]
-    },
-    {
-      "id": "ni-draft-clean-air-strategy-2026",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "征求意见",
-      "title": "北爱尔兰就2032清洁空气战略草案启动咨询",
-      "summary": "北爱尔兰农业、环境与乡村事务部9月1日启动为期八周的清洁空气战略咨询，提出升级监测、把空气质量纳入交通规划并收紧燃料和家用燃烧设备标准。咨询将于10月27日结束，直接关联公共健康、污染控制与弱势群体健康不平等。",
-      "score": 7,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "启动咨询",
-      "source": "Northern Ireland DAERA",
-      "url": "https://www.daera-ni.gov.uk/news/muir-launches-consultation-draft-northern-ireland-clean-air-strategy",
-      "tags": [
-        "空气质量",
-        "污染防治",
-        "公共健康",
-        "健康公平"
-      ]
-    },
-    {
-      "id": "unece-ev-type-approval-transition-2026",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "监管生效",
-      "title": "联合国电动车电驱系统04系列型式批准过渡节点生效",
-      "summary": "联合国第100号法规的04系列修订过渡条款自9月1日起进入新阶段：适用该法规的缔约方可不再接受在该日期后首次签发、仍依据更早系列修订的型式批准。整车、电池和高压系统供应商需要核对出口车型批准版本及目标市场接受安排。",
-      "score": 7,
-      "publishedDate": "2026.08.17",
-      "eventDate": "2026.09.01",
-      "dateNote": "过渡规定生效",
-      "source": "EUR-Lex / UNECE",
-      "url": "https://eur-lex.europa.eu/eli/reg/2026/1695/oj/eng/pdf",
-      "tags": [
-        "电动车",
-        "动力电池",
-        "型式批准",
-        "出口合规"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-1057-s41310-026-00416-5",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Does boardroom diversity improve ESG disclosures? Moderating role of ESG-skilled corporate boards in India",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.09.08",
+      "eventDate": "2026.09.08",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1057/s41310-026-00416-5",
+      "tags": [
+        "披露监管",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "arxiv-arxiv-org-abs-2609-04906v1",
       "sector": "高排放行业",
@@ -450,82 +403,75 @@
       ]
     },
     {
-      "id": "doi-10-1016-j-eneco-2026-109592",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Financing the low-carbon transition: Do energy transition investments improve ESG performance?",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 7,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "论文发表",
-      "source": "Elsevier BV",
-      "url": "https://doi.org/10.1016/j.eneco.2026.109592",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1016-j-ecmx-2026-102279",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "A climate-responsive decision-support framework for renewable energy planning in green residential buildings",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 7,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "论文发表",
-      "source": "Elsevier BV",
-      "url": "https://doi.org/10.1016/j.ecmx.2026.102279",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1016-j-cacint-2026-100461",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Advancing climate resilience through artificial intelligence: A comprehensive review across urban and climate-sensitive sectors in Morocco",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 7,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
-      "dateNote": "论文发表",
-      "source": "Elsevier BV",
-      "url": "https://doi.org/10.1016/j.cacint.2026.100461",
-      "tags": [
-        "人工智能",
-        "气候与碳",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-01328v1",
+      "id": "arxiv-arxiv-org-abs-2609-08383v1",
       "sector": "高排放行业",
       "relevance": "直接 ESG",
       "event": "工作论文",
-      "title": "Multiphase Reactive Transport in a Heterogeneous Flow Field: Channel Formation in Hydrocarbon-Bearing Carbonate Rock",
-      "summary": "Carbon capture, utilization and storage (CCUS) is a key approach for reducing anthropogenic CO2 emissions. Currently the vast majority of CO2 stored is injected into depleted hydrocarbon reservoirs. Reactive transport in hydrocarbon-bearing carbonate reservoirs is controlled not only by the balance between reactant delivery and surface reaction, but also by…",
-      "score": 7,
-      "publishedDate": "2026.09.01",
-      "eventDate": "2026.09.01",
+      "title": "GCMagicc v1: a fast generative emulator for multivariate climate-impact ensembles",
+      "summary": "Projecting the impacts of climate change requires large ensembles of climate variables that match historical observations, align with the warming ranges assessed by the IPCC, and can efficiently run new future emissions scenarios, including the newest generation of climate model scenarios (CMIP7) and pathways consistent with countries' Paris Agreement pledge…",
+      "score": 6,
+      "publishedDate": "2026.09.08",
+      "eventDate": "2026.09.08",
       "dateNote": "预印本发布",
       "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.01328v1",
+      "url": "http://arxiv.org/abs/2609.08383v1",
       "tags": [
         "气候与碳",
         "预印本·非同行评审"
       ]
+    },
+    {
+      "id": "doi-10-1007-s11135-026-03090-5",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Artificial intelligence, economic complexity, and clean energy productivity as drivers of SDG-7 progress and ESG uncertainty",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.09",
+      "eventDate": "2026.09.09",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s11135-026-03090-5",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04516-8",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Evaluating sustainability credibility in financial institutions using ESG talk and ESG action indicators",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.09",
+      "eventDate": "2026.09.09",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04516-8",
+      "tags": [
+        "同行评审状态待核"
+      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s11135-026-03090-5",
+      "date": "2026-09-09",
+      "terms": [
+        "人工智能",
+        "能源转型"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04516-8",
+      "date": "2026-09-09",
+      "terms": [
+        "新兴行业"
+      ]
+    },
     {
       "id": "doi-10-1186-s43093-026-00970-y",
       "date": "2026-09-08",
@@ -538,6 +484,34 @@
         "碳与排放",
         "供应链与出海",
         "绿色金融"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-08383v1",
+      "date": "2026-09-08",
+      "terms": [
+        "高排放行业",
+        "能源效率",
+        "气候风险",
+        "碳与排放",
+        "干旱与土地",
+        "水资源"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-minister-mccluskey-speech-on-ai-for-clean",
+      "date": "2026-09-08",
+      "terms": [
+        "人工智能",
+        "能源转型"
+      ]
+    },
+    {
+      "id": "doi-10-1057-s41310-026-00416-5",
+      "date": "2026-09-08",
+      "terms": [
+        "企业出海",
+        "气候披露"
       ]
     },
     {
@@ -581,7 +555,8 @@
       "date": "2026-09-04",
       "terms": [
         "高排放行业",
-        "气候风险"
+        "气候风险",
+        "工作论文"
       ]
     },
     {
@@ -589,7 +564,8 @@
       "date": "2026-09-04",
       "terms": [
         "新能源",
-        "碳与排放"
+        "碳与排放",
+        "工作论文"
       ]
     },
     {
@@ -598,7 +574,8 @@
       "terms": [
         "高排放行业",
         "气候风险",
-        "碳与排放"
+        "碳与排放",
+        "工作论文"
       ]
     },
     {
@@ -822,7 +799,8 @@
       "date": "2026-09-01",
       "terms": [
         "人工智能",
-        "气候适应"
+        "气候适应",
+        "学术研究"
       ]
     },
     {
@@ -1126,21 +1104,15 @@
   ],
   "sectorInsights": [
     [
-      "高风险行业",
+      "新兴行业",
       "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       3,
       "→"
     ],
     [
-      "新兴行业",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
-      "→"
-    ],
-    [
-      "新能源",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
+      "高风险行业",
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
       "→"
     ],
     [
@@ -1150,45 +1122,63 @@
       "→"
     ],
     [
-      "高排放行业",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
+      "人工智能",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
+      "→"
+    ],
+    [
+      "公用事业",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
       "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "高风险行业、新兴行业、新能源构成过去七日的主要行业信号",
-      "range": "2026.09.01—09.08",
-      "copy": "过去7天当前保留 15 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新兴行业、高风险行业、绿色金融构成过去七日的主要行业信号",
+      "range": "2026.09.02—09.09",
+      "copy": "过去7天当前保留 12 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
+        [
+          "人工智能",
+          10
+        ],
         [
           "政策监管",
           10
         ],
         [
-          "新能源",
+          "绿色金融",
           9
         ],
         [
-          "绿色金融",
-          7
+          "新能源",
+          8
         ],
         [
-          "高排放行业",
-          7
-        ],
-        [
-          "人工智能",
-          6
+          "高风险行业",
+          8
         ],
         [
           "碳与排放",
-          6
+          7
         ],
         [
           "可再生能源",
+          6
+        ],
+        [
+          "工作论文",
+          6
+        ],
+        [
+          "气候披露",
+          6
+        ],
+        [
+          "气候风险",
           6
         ],
         [
@@ -1196,39 +1186,43 @@
           6
         ],
         [
-          "高风险行业",
+          "高排放行业",
           6
         ],
         [
-          "气候风险",
-          5
-        ],
-        [
-          "污染防治",
-          5
-        ],
-        [
           "学术研究",
-          4
+          5
         ],
         [
-          "工作论文",
-          4
-        ],
-        [
-          "气候披露",
-          4
+          "新兴行业",
+          5
         ],
         [
           "电力系统",
-          4
+          5
         ],
         [
           "能源转型",
+          5
+        ],
+        [
+          "公用事业",
           4
         ],
         [
-          "自然与适应",
+          "数字化与数据",
+          4
+        ],
+        [
+          "气候与适应",
+          4
+        ],
+        [
+          "污染防治",
+          4
+        ],
+        [
+          "能源效率",
           4
         ],
         [
@@ -1237,26 +1231,6 @@
         ],
         [
           "供应链与出海",
-          3
-        ],
-        [
-          "公用事业",
-          3
-        ],
-        [
-          "数字化与数据",
-          3
-        ],
-        [
-          "新兴行业",
-          3
-        ],
-        [
-          "气候与适应",
-          3
-        ],
-        [
-          "自然与生物多样性",
           3
         ],
         [
@@ -1268,11 +1242,15 @@
           3
         ],
         [
+          "干旱与土地",
+          3
+        ],
+        [
           "数据中心",
           3
         ],
         [
-          "能源效率",
+          "水资源",
           3
         ]
       ]
@@ -1280,8 +1258,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.09—09.08",
-      "copy": "过去30天词频基于 68 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.10—09.09",
+      "copy": "过去30天词频基于 73 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1292,23 +1270,31 @@
           8
         ],
         [
+          "高排放行业",
+          7
+        ],
+        [
           "绿色金融",
           7
         ],
         [
-          "高排放行业",
-          7
+          "人工智能",
+          6
         ],
         [
           "可再生能源",
           6
         ],
         [
-          "人工智能",
+          "碳与排放",
           5
         ],
         [
-          "碳与排放",
+          "工作论文",
+          5
+        ],
+        [
+          "气候披露",
           5
         ],
         [
@@ -1316,31 +1302,7 @@
           5
         ],
         [
-          "气候披露",
-          4
-        ],
-        [
-          "高风险行业",
-          4
-        ],
-        [
           "气候风险",
-          4
-        ],
-        [
-          "污染防治",
-          4
-        ],
-        [
-          "企业出海",
-          4
-        ],
-        [
-          "工作论文",
-          4
-        ],
-        [
-          "数字化与数据",
           4
         ],
         [
@@ -1348,7 +1310,27 @@
           4
         ],
         [
+          "高风险行业",
+          4
+        ],
+        [
+          "企业出海",
+          4
+        ],
+        [
+          "污染防治",
+          4
+        ],
+        [
           "学术研究",
+          4
+        ],
+        [
+          "数字化与数据",
+          4
+        ],
+        [
+          "水资源",
           3
         ],
         [
@@ -1368,7 +1350,11 @@
           3
         ],
         [
-          "水资源",
+          "新兴行业",
+          3
+        ],
+        [
+          "能源效率",
           3
         ],
         [
@@ -1388,20 +1374,12 @@
           3
         ],
         [
-          "新兴行业",
+          "干旱与土地",
           3
         ],
         [
           "气候与适应",
           3
-        ],
-        [
-          "能源效率",
-          3
-        ],
-        [
-          "农业与自然",
-          2
         ]
       ]
     }
@@ -1422,17 +1400,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 7
+      "items": 4
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 45
+      "items": 47
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 32
+      "items": 30
     },
     {
       "source": "arXiv",
