@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-09-10T04:46:46.238Z",
+  "updatedAt": "2026-09-10T06:13:01.787Z",
   "items": [
+    {
+      "id": "uk-ai-healthcare-regulation-report-2026",
+      "type": "政策报告",
+      "title": "National Commission into the Regulation of AI in Healthcare: Recommendations for a future regulatory framework",
+      "publisher": "UK National Commission into the Regulation of AI in Healthcare / MHRA",
+      "date": "2026-09-10",
+      "publishedDate": "2026-09-10",
+      "eventDate": "2026-09-10",
+      "dateNote": "委员会建议报告发布；政府正式回应待后续公布",
+      "sector": "人工智能",
+      "tags": [
+        "医疗AI",
+        "全生命周期监管",
+        "患者安全",
+        "真实世界监测",
+        "人类监督"
+      ],
+      "summary": "报告建议把医疗AI监管从一次性上市前审批转向分阶段授权和全生命周期保证，强化真实世界证据、持续监测、责任分配、透明度与患者参与。",
+      "insight": "这是英国医疗AI监管改革的权威咨询基线，但建议尚未转化为最终法规；研究或合规引用时应继续跟踪政府和MHRA的正式回应。",
+      "url": "https://www.gov.uk/government/publications/national-commission-into-the-regulation-of-ai-in-healthcare-recommendations-for-a-future-regulatory-framework/national-commission-into-the-regulation-of-ai-in-healthcare-recommendations-for-a-future-regulatory-framework",
+      "featured": true
+    },
+    {
+      "id": "health-foundation-public-ai-health-regulation-2026",
+      "type": "行业报告",
+      "title": "The public’s views on the regulation of AI in health care",
+      "publisher": "The Health Foundation",
+      "date": "2026-09-10",
+      "publishedDate": "2026-09-10",
+      "eventDate": "2026-09-10",
+      "dateNote": "MHRA 9月10日公告确认同日发布；资料页仅显示2026年9月",
+      "sector": "人工智能",
+      "tags": [
+        "医疗AI",
+        "公众信任",
+        "患者安全",
+        "公平",
+        "人类监督"
+      ],
+      "summary": "报告结合英国年度公众态度调查和公众审议研究，归纳公众对医疗AI监管的优先事项；支持使用AI的前提集中在准确性、强保障、人类监督、问责和不扩大不平等。",
+      "insight": "可与英国医疗AI监管委员会建议配套使用，为监管合法性、风险沟通与患者参与研究提供需求侧证据；引用样本与方法时应查看完整报告。",
+      "url": "https://www.health.org.uk/reports-and-analysis/reports/the-publics-views-on-the-regulation-of-ai-in-health-care",
+      "featured": true
+    },
+    {
+      "id": "eu-public-procurement-act-com-2026-590",
+      "type": "政策法规",
+      "title": "COM(2026) 590 — Proposal for a regulation on public contracts and concessions",
+      "publisher": "European Commission · Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs",
+      "date": "2026-09-09",
+      "publishedDate": "2026-09-09",
+      "eventDate": "2026-09-09",
+      "dateNote": "欧盟委员会通过并发布立法提案；尚未生效",
+      "sector": "企业出海",
+      "tags": [
+        "公共采购",
+        "绿色采购",
+        "社会标准",
+        "供应链韧性",
+        "欧洲偏好"
+      ],
+      "summary": "COM(2026) 590拟以单一直接适用条例重构欧盟公共合同、公用事业与特许经营采购框架，并把数字化、环境与社会、创新、安全和韧性考量纳入采购制度。",
+      "insight": "对参与欧盟公共采购的跨境供应商具有制度性影响；应结合后续议会与理事会修订跟踪可持续性标准、欧洲偏好条件和数字化数据要求。",
+      "url": "https://single-market-economy.ec.europa.eu/publications/proposal-regulation-public-contracts-and-concessions_en",
+      "featured": true
+    },
+    {
+      "id": "eu-affordable-housing-act-proposal-2026-library",
+      "type": "政策法规",
+      "title": "Affordable Housing Act — Proposal for a Regulation",
+      "publisher": "European Commission · Directorate-General for Energy and Housing",
+      "date": "2026-09-09",
+      "publishedDate": "2026-09-09",
+      "eventDate": "2026-09-09",
+      "dateNote": "立法提案发布；尚待欧洲议会和理事会审议",
+      "sector": "社会与住房",
+      "tags": [
+        "可负担住房",
+        "社会议题",
+        "城市治理",
+        "短期租赁",
+        "比例原则"
+      ],
+      "summary": "提案为识别欧盟住房压力地区和评估地方干预措施建立共同框架，覆盖短期租赁、第二住宅和长期空置等可能影响住房可负担性与可获得性的用途。",
+      "insight": "这是住房社会议题进入欧盟单一市场监管框架的重要立法节点；应与同日发布的委员会建议、影响评估和后续立法谈判一并使用。",
+      "url": "https://housing.ec.europa.eu/document/35c4d242-60cb-408e-8a96-6ddf8ad18a70_en",
+      "featured": true
+    },
+    {
+      "id": "eu-innovation-act-com-2026-567",
+      "type": "政策法规",
+      "title": "COM(2026) 567 — European Innovation Act",
+      "publisher": "European Commission · Directorate-General for Research and Innovation",
+      "date": "2026-09-09",
+      "publishedDate": "2026-09-09",
+      "eventDate": "2026-09-09",
+      "dateNote": "欧盟委员会通过并发布立法提案；尚未生效",
+      "sector": "新兴行业",
+      "tags": [
+        "研发采购",
+        "知识产权融资",
+        "监管沙盒",
+        "深科技",
+        "跨境扩张"
+      ],
+      "summary": "COM(2026) 567拟建立欧盟统一的研发与预商业采购框架，并授权欧盟知识产权局建设知识产权估值、融资支持与交易基础设施。",
+      "insight": "提案可能改变深科技和突破性技术企业的首批客户、知识产权抵押融资与跨境扩张路径；其环境与社会影响主要通过创新部署和战略产业政策间接传导。",
+      "url": "https://research-and-innovation.ec.europa.eu/document/download/961e80de-b6a0-4c34-9b2f-b66ea0bb7ee1_en?filename=comm-2026-567-proposal.pdf",
+      "featured": true
+    },
     {
       "id": "arxiv-arxiv-org-abs-2609-10489v1",
       "type": "工作论文",

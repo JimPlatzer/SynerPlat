@@ -1,5 +1,41 @@
 {
   "monthlyHighlights": [
+    {
+      "date": "09.10",
+      "title": "英国提出医疗AI全生命周期监管框架",
+      "summary": "独立委员会建议以分阶段授权、真实世界持续监测、公开安全信息和更强执法权替代以一次性上市前审批为主的模式；政府与MHRA正式回应仍待公布。",
+      "sector": "人工智能",
+      "source": "UK National Commission into the Regulation of AI in Healthcare / MHRA",
+      "url": "https://www.gov.uk/government/publications/national-commission-into-the-regulation-of-ai-in-healthcare-recommendations-for-a-future-regulatory-framework/national-commission-into-the-regulation-of-ai-in-healthcare-recommendations-for-a-future-regulatory-framework",
+      "score": 9
+    },
+    {
+      "date": "09.09",
+      "title": "欧盟《公共采购法案》提案纳入绿色、社会与韧性标准",
+      "summary": "COM(2026) 590拟以单一条例整合公共采购规则，并引入环境、社会、创新、韧性及特定战略领域的欧洲偏好，直接影响跨境供应商准入与采购合规。",
+      "sector": "企业出海",
+      "source": "European Commission · DG GROW",
+      "url": "https://single-market-economy.ec.europa.eu/publications/proposal-regulation-public-contracts-and-concessions_en",
+      "score": 10
+    },
+    {
+      "date": "09.09",
+      "title": "欧盟提出《可负担住房法案》与配套建议",
+      "summary": "提案建立识别住房压力地区和论证地方干预措施的共同框架，覆盖短租、第二住宅和空置住房，并通过配套建议推动增加可负担住房供给。",
+      "sector": "社会与住房",
+      "source": "European Commission · DG Energy and Housing",
+      "url": "https://housing.ec.europa.eu/whats-new/news/new-eu-proposal-and-recommendation-help-authorities-tackle-housing-crisis-2026-09-09_en",
+      "score": 9
+    },
+    {
+      "date": "09.09",
+      "title": "欧盟提出《欧洲创新法案》",
+      "summary": "COM(2026) 567拟统一研发采购，并建立知识产权估值、融资支持和交易基础设施，可能重塑深科技企业在欧盟的首批客户、融资和跨境规模化路径。",
+      "sector": "新兴行业",
+      "source": "European Commission · DG Research and Innovation",
+      "url": "https://research-and-innovation.ec.europa.eu/strategy/support-policy-making/shaping-eu-research-and-innovation-policy/european-innovation-act_en",
+      "score": 8
+    },
     {"date":"09.09","title":"美国能源部就大电网设备与境外供应链安全启动征询","summary":"征询覆盖受管制设备和交易、境外实体、软件与远程访问、许可预审、国内替代产能及可靠性影响，可能影响电网设备和服务供应商的美国市场准入。","sector":"企业出海","source":"U.S. Department of Energy / Federal Register","url":"https://www.federalregister.gov/documents/2026/09/09/2026-18370/securing-the-united-states-bulk-power-system","score":8},
     {"date":"09.08","title":"欧盟发布农业食品研发创新战略","summary":"AgRI 2040与Food 2040将竞争力、粮食安全、自然资源与循环利用、公平、人工智能和全球合作纳入统一研发及市场部署框架。","sector":"新兴行业","source":"European Commission","url":"https://agriculture.ec.europa.eu/media/news/commission-launches-agri-food-innovation-strategy-2026-09-08_en","score":9},
     {"date":"09.08","title":"欧盟伦理专家组提出Neuro-AI基础设施治理框架","summary":"声明建议强化神经数据及推断保护、负责任开发脑基础模型、限制高影响场景中的不当控制，并评估欧盟现行规则的适用性。","sector":"人工智能","source":"European Commission / European Group on Ethics","url":"https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/experts-call-new-approach-neuro-ai-governance-2026-09-08_en","score":8},
@@ -18,6 +54,42 @@
     {"date":"09.01","title":"国际海事组织船用柴油机氮氧化物控制程序修订生效","summary":"NOx Technical Code修订正式生效，涉及船用柴油机排放控制与认证程序，航运和相关设备企业需核查技术文件与合规流程。","sector":"高排放行业","source":"UK Government / IMO","url":"https://www.gov.uk/government/speeches/changes-to-international-maritime-law--2","score":8}
   ],
   "annualHighlights": [
+    {
+      "date": "09.09",
+      "title": "欧盟以单一条例重构公共采购并嵌入可持续与韧性要求",
+      "summary": "《公共采购法案》提案覆盖约占欧盟GDP 15%的市场，把绿色、社会、数字化、供应链韧性和战略领域欧洲偏好纳入跨行业采购框架。",
+      "sector": "企业出海",
+      "source": "European Commission · DG GROW",
+      "url": "https://single-market-economy.ec.europa.eu/publications/proposal-regulation-public-contracts-and-concessions_en",
+      "score": 10
+    },
+    {
+      "date": "09.10",
+      "title": "英国医疗AI监管建议转向全生命周期持续保证",
+      "summary": "权威委员会把分阶段授权、真实世界证据、持续监测、患者知情与强化执法纳入统一框架，为高风险行业AI治理提供可跨市场比较的监管样本。",
+      "sector": "人工智能",
+      "source": "UK National Commission into the Regulation of AI in Healthcare / MHRA",
+      "url": "https://www.gov.uk/government/publications/national-commission-into-the-regulation-of-ai-in-healthcare-recommendations-for-a-future-regulatory-framework/national-commission-into-the-regulation-of-ai-in-healthcare-recommendations-for-a-future-regulatory-framework",
+      "score": 9
+    },
+    {
+      "date": "09.09",
+      "title": "欧盟把住房可负担性纳入共同市场干预框架",
+      "summary": "《可负担住房法案》提案首次为住房压力识别、短租和空置住房干预建立共同方法，并配套推动可负担、社会与学生住房供给。",
+      "sector": "社会与住房",
+      "source": "European Commission · DG Energy and Housing",
+      "url": "https://housing.ec.europa.eu/document/35c4d242-60cb-408e-8a96-6ddf8ad18a70_en",
+      "score": 9
+    },
+    {
+      "date": "09.09",
+      "title": "欧盟统一研发采购与知识产权融资基础设施",
+      "summary": "《欧洲创新法案》提案通过研发采购、知识产权估值与交易市场打通研究成果规模化路径，并与监管沙盒和关键技术战略自主衔接。",
+      "sector": "新兴行业",
+      "source": "European Commission · DG Research and Innovation",
+      "url": "https://research-and-innovation.ec.europa.eu/strategy/support-policy-making/shaping-eu-research-and-innovation-policy/european-innovation-act_en",
+      "score": 8
+    },
     {"date":"09.07","title":"UNEP建立气候与清洁空气协同行动的全球经济评估基线","summary":"《Hidden assets》把气候、空气质量、健康和经济收益纳入跨部门评估，量化25项措施的收益成本比与延迟行动代价。","sector":"高排放行业","source":"UN Environment Programme / Climate and Clean Air Coalition","url":"https://wedocs.unep.org/items/7199c3ce-6bb2-4bbb-a579-305b804c4922","score":10},
     {"date":"09.07","title":"欧洲跨境工业CCS基础设施进入商业运行阶段","summary":"Yara Sluiskil与Northern Lights连接后，化肥和氨生产的二氧化碳可跨境运输并永久封存，构成欧盟工业碳管理的重要落地节点。","sector":"高排放行业","source":"European Commission","url":"https://energy.ec.europa.eu/news/commission-inaugurates-europes-largest-industrial-carbon-capture-and-storage-facility-netherlands-2026-09-07_en","score":9},
     {"date":"09.08","title":"欧盟以AgRI 2040与Food 2040统筹农业食品创新资金方向","summary":"新战略把可持续性、韧性、自然资源、循环利用、公平和数字技术纳入2028—2034年相关研发与市场部署框架。","sector":"新兴行业","source":"European Commission","url":"https://agriculture.ec.europa.eu/media/news/commission-launches-agri-food-innovation-strategy-2026-09-08_en","score":9},
