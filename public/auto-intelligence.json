@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-09T14:13:03.757Z",
-  "weekRange": "2026.09.02—09.09",
+  "updatedAt": "2026-09-10T04:46:46.238Z",
+  "weekRange": "2026.09.03—09.10",
   "monthLabel": "2026年9月",
   "stories": [
     {
@@ -282,46 +282,6 @@
         "生物安全",
         "风险监测"
       ]
-    },
-    {
-      "id": "unep-limiting-overshoot-2026",
-      "sector": "气候与适应",
-      "relevance": "直接 ESG",
-      "event": "权威报告",
-      "title": "UNEP发布《限制超调》报告：减缓与适应必须同步推进",
-      "summary": "联合国环境规划署9月2日发布《Limiting Overshoot》报告，指出在当前政策与近期路径下，全球升温超过1.5°C已被广泛评估为难以避免；报告把“超调—峰值—下降”视为降低风险并争取回到1.5°C以下的最佳剩余路径。峰值越高、持续越久，人员、生态系统、临界点与适应上限风险越大，因此需要同步加速减排、适应和审慎治理的二氧化碳移除。",
-      "score": 10,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
-      "dateNote": "报告发布",
-      "source": "UN Environment Programme",
-      "url": "https://www.unep.org/resources/limiting-overshoot-navigating-exceedance",
-      "tags": [
-        "1.5°C超调",
-        "气候适应",
-        "净负排放",
-        "气候风险"
-      ]
-    },
-    {
-      "id": "uk-waste-crime-heatmaps-2026",
-      "sector": "高风险行业",
-      "relevance": "直接 ESG",
-      "event": "执法与数据",
-      "title": "英国发布废弃物犯罪热力图并强化全国执法",
-      "summary": "英国环境署9月2日发布覆盖英格兰的废弃物犯罪热力图，数据显示2025年共收到10,238起相关报告。政府同时宣布增加前线执法人员、使用无人机并加强地方政府与警方协作，计划把最高定额罚款由300英镑提高至5,000英镑；新的数字化废弃物追踪制度将自2026年10月起实施。",
-      "score": 9,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
-      "dateNote": "数据与执法措施发布",
-      "source": "UK Environment Agency / DEFRA",
-      "url": "https://www.gov.uk/government/news/rogue-waste-gangs-exposed-as-heat-maps-reveal-englands-illegal-dumping-hotspots",
-      "tags": [
-        "废弃物犯罪",
-        "污染防治",
-        "环境执法",
-        "数字追踪"
-      ]
     }
   ],
   "watchlist": [
@@ -422,100 +382,40 @@
       ]
     },
     {
-      "id": "doi-10-1057-s41310-026-00417-4",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Can digital banks be truly green? ESG challenges in emerging markets",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 7,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1057/s41310-026-00417-4",
-      "tags": [
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1186-s13705-026-00605-8",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "金融科技、绿色能源与自然资源如何影响BRICS-11碳排放",
-      "summary": "这篇开放获取研究使用1990—2023年BRICS-11面板数据，检验金融科技、绿色能源和自然资源与二氧化碳排放的长期关系，并采用CS-ARDL与AMG等方法处理横截面依赖。研究结论可作为绿色金融传导机制线索，但跨国因果解释仍需结合模型假设审慎使用。",
-      "score": 7,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
-      "dateNote": "同行评审论文发表",
-      "source": "Springer Nature",
-      "url": "https://doi.org/10.1186/s13705-026-00605-8",
-      "tags": [
-        "金融科技",
-        "绿色能源",
-        "BRICS-11",
-        "同行评审"
-      ]
-    },
-    {
-      "id": "doi-10-3390-su18179005",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术线索",
-      "title": "中国新能源电池关键矿产需求与回收替代路径研究",
-      "summary": "研究以动态物质流、存量驱动和情景分析估算中国新能源电池关键矿产需求至2060年的变化，并讨论回收对原生矿产需求的替代潜力。当前收录已核验DOI元数据，正式引用前仍需核对全文与同行评审状态。",
-      "score": 7,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
-      "dateNote": "论文元数据发布",
-      "source": "MDPI",
-      "url": "https://doi.org/10.3390/su18179005",
-      "tags": [
-        "关键矿产",
-        "动力电池",
-        "循环经济",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-3390-su18178992",
+      "id": "arxiv-arxiv-org-abs-2609-10489v1",
       "sector": "人工智能",
       "relevance": "间接 ESG",
-      "event": "学术线索",
-      "title": "面向工业5.0的人本人工智能治理框架研究",
-      "summary": "文章以综合性文献回顾提出人本人工智能治理框架，把透明度、问责、员工参与与可持续绩效纳入工业5.0讨论。该框架尚未完成经验验证，当前收录基于已核验DOI元数据，适合作为研究设计线索而非成熟实证结论。",
-      "score": 7,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
-      "dateNote": "论文元数据发布",
-      "source": "MDPI",
-      "url": "https://doi.org/10.3390/su18178992",
+      "event": "工作论文",
+      "title": "Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework",
+      "summary": "AI literacy provides foundational competencies that support ethical, transparent, and sustainable technological development, although higher-order capabilities such as governance, critical evaluation, and strategic decision-making extend beyond basic literacy into advanced levels of AI competency. This study positions AI literacy as a governance capacity tha…",
+      "score": 6,
+      "publishedDate": "2026.09.09",
+      "eventDate": "2026.09.09",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.10489v1",
       "tags": [
-        "人工智能治理",
-        "工业5.0",
-        "人本治理",
-        "同行评审状态待核"
+        "人工智能",
+        "披露监管",
+        "预印本·非同行评审"
       ]
     },
     {
-      "id": "doi-10-3390-su18178995",
-      "sector": "高排放行业",
+      "id": "arxiv-arxiv-org-abs-2609-10473v1",
+      "sector": "新兴行业",
       "relevance": "直接 ESG",
-      "event": "学术线索",
-      "title": "ESG委员会设立与企业环境处罚关系研究",
-      "summary": "研究基于2010—2023年中国A股公司数据，使用交错双重差分检验ESG委员会设立与环境处罚之间的关系，并提出绿色创新和内部控制等传导机制。当前收录已核验DOI元数据，因果识别与稳健性仍应结合全文复核。",
-      "score": 7,
-      "publishedDate": "2026.09.02",
-      "eventDate": "2026.09.02",
-      "dateNote": "论文元数据发布",
-      "source": "MDPI",
-      "url": "https://doi.org/10.3390/su18178995",
+      "event": "工作论文",
+      "title": "Assessing flood-conditioned power dependency of urban rail transit and its effects on resilience under climate change",
+      "summary": "Urban rail transit (URT) faces increasing flood risk while relying on traction power systems whose failures can trigger cascading disruption. Existing studies on URT flood resilience often oversimplify power dependency by overlooking traction power redundancy and rarely consider flood-conditioned cascading impacts, providing limited insight into how flood-in…",
+      "score": 6,
+      "publishedDate": "2026.09.09",
+      "eventDate": "2026.09.09",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.10473v1",
       "tags": [
-        "ESG委员会",
-        "环境处罚",
-        "绿色创新",
-        "同行评审状态待核"
+        "气候与碳",
+        "预印本·非同行评审"
       ]
     },
     {
@@ -555,6 +455,62 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
+    },
+    {
+      "id": "doi-10-1007-s11135-026-03090-5",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Artificial intelligence, economic complexity, and clean energy productivity as drivers of SDG-7 progress and ESG uncertainty",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.09",
+      "eventDate": "2026.09.09",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s11135-026-03090-5",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1186-s43093-026-00970-y",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Renewable energy transition, financial development, and financial inclusion effects on environmental sustainability in developing economies",
+      "summary": "Abstract The transition to low-carbon development remains a central challenge for developing economies, particularly in the context of uneven financial access and ongoing structural transformation. This study examines the dynamic and heterogeneous relationships between renewable energy transition, financial development, financial inclusion, and environmental…",
+      "score": 5,
+      "publishedDate": "2026.09.08",
+      "eventDate": "2026.09.08",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1186/s43093-026-00970-y",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "供应链与出海",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04570-2",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Financial development, renewable energy, resource depletion, and energy security risk in D-8 countries",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.06",
+      "eventDate": "2026.09.06",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04570-2",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ]
     }
   ],
   "keywordEvents": [
@@ -589,6 +545,24 @@
         "企业出海",
         "电力系统",
         "供应链与出海"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-10489v1",
+      "date": "2026-09-09",
+      "terms": [
+        "人工智能",
+        "绿色金融"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-10473v1",
+      "date": "2026-09-09",
+      "terms": [
+        "新兴行业",
+        "气候风险",
+        "气候适应",
+        "水资源"
       ]
     },
     {
@@ -1012,24 +986,21 @@
       "date": "2026-09-02",
       "terms": [
         "新能源",
-        "关键矿产",
-        "学术研究"
+        "关键矿产"
       ]
     },
     {
       "id": "doi-10-3390-su18178992",
       "date": "2026-09-02",
       "terms": [
-        "人工智能",
-        "学术研究"
+        "人工智能"
       ]
     },
     {
       "id": "doi-10-3390-su18178995",
       "date": "2026-09-02",
       "terms": [
-        "高排放行业",
-        "学术研究"
+        "高排放行业"
       ]
     },
     {
@@ -1091,9 +1062,6 @@
       "date": "2026-09-02",
       "terms": [
         "气候与适应",
-        "政策监管",
-        "气候风险",
-        "碳与排放",
         "气候适应"
       ]
     },
@@ -1419,13 +1387,13 @@
       "→"
     ],
     [
-      "高风险行业",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
+      "绿色金融",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
       "→"
     ],
     [
-      "绿色金融",
+      "高风险行业",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
@@ -1440,32 +1408,24 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "人工智能、高排放行业、高风险行业构成过去七日的主要行业信号",
-      "range": "2026.09.02—09.09",
-      "copy": "过去7天当前保留 16 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "人工智能、高排放行业、绿色金融构成过去七日的主要行业信号",
+      "range": "2026.09.03—09.10",
+      "copy": "过去7天当前保留 14 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "人工智能",
           10
         ],
         [
-          "政策监管",
-          9
-        ],
-        [
-          "绿色金融",
-          7
-        ],
-        [
           "高排放行业",
           7
         ],
         [
-          "电力系统",
+          "政策监管",
           6
         ],
         [
-          "碳与排放",
+          "电力系统",
           6
         ],
         [
@@ -1474,18 +1434,18 @@
         ],
         [
           "新能源",
-          6
+          5
+        ],
+        [
+          "碳与排放",
+          5
+        ],
+        [
+          "绿色金融",
+          5
         ],
         [
           "供应链与出海",
-          5
-        ],
-        [
-          "气候披露",
-          5
-        ],
-        [
-          "高风险行业",
           5
         ],
         [
@@ -1493,19 +1453,15 @@
           5
         ],
         [
-          "气候风险",
+          "新兴行业",
           5
         ],
         [
-          "数字化与数据",
+          "气候披露",
           4
         ],
         [
-          "新兴行业",
-          4
-        ],
-        [
-          "气候适应",
+          "气候风险",
           4
         ],
         [
@@ -1513,15 +1469,19 @@
           4
         ],
         [
-          "污染防治",
+          "高风险行业",
           4
         ],
         [
-          "学术研究",
+          "数字化与数据",
           3
         ],
         [
           "数据中心",
+          3
+        ],
+        [
+          "气候适应",
           3
         ],
         [
@@ -1533,11 +1493,7 @@
           3
         ],
         [
-          "公用事业",
-          3
-        ],
-        [
-          "气候与适应",
+          "污染防治",
           3
         ],
         [
@@ -1545,15 +1501,11 @@
           2
         ],
         [
-          "关键矿产",
-          2
-        ],
-        [
-          "农业与自然",
-          2
-        ],
-        [
           "干旱与土地",
+          2
+        ],
+        [
+          "水资源",
           2
         ]
       ]
@@ -1561,8 +1513,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.10—09.09",
-      "copy": "过去30天词频基于 95 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.11—09.10",
+      "copy": "过去30天词频基于 97 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1578,7 +1530,7 @@
         ],
         [
           "新能源",
-          7
+          8
         ],
         [
           "绿色金融",
@@ -1601,15 +1553,15 @@
           5
         ],
         [
+          "气候适应",
+          5
+        ],
+        [
           "供应链与出海",
           4
         ],
         [
           "工作论文",
-          4
-        ],
-        [
-          "气候适应",
           4
         ],
         [
@@ -1637,19 +1589,19 @@
           4
         ],
         [
-          "能源效率",
+          "新兴行业",
           4
         ],
         [
-          "学术研究",
-          3
+          "能源效率",
+          4
         ],
         [
           "数据中心",
           3
         ],
         [
-          "新兴行业",
+          "水资源",
           3
         ],
         [
@@ -1658,10 +1610,6 @@
         ],
         [
           "公正转型",
-          3
-        ],
-        [
-          "水资源",
           3
         ],
         [
@@ -1674,6 +1622,10 @@
         ],
         [
           "关键矿产",
+          3
+        ],
+        [
+          "学术研究",
           3
         ],
         [
@@ -1708,12 +1660,12 @@
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 48
+      "items": 46
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 30
+      "items": 28
     },
     {
       "source": "arXiv",
@@ -1721,7 +1673,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 9,
+  "verifiedCandidateCount": 11,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

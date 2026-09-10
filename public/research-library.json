@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-09-09T14:13:03.757Z",
+  "updatedAt": "2026-09-10T04:46:46.238Z",
   "items": [
+    {
+      "id": "arxiv-arxiv-org-abs-2609-10489v1",
+      "type": "工作论文",
+      "title": "Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework",
+      "publisher": "arXiv",
+      "date": "2026-09-09",
+      "publishedDate": "2026-09-09",
+      "eventDate": "2026-09-09",
+      "dateNote": "预印本发布",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "披露监管",
+        "预印本·非同行评审"
+      ],
+      "summary": "AI literacy provides foundational competencies that support ethical, transparent, and sustainable technological development, although higher-order capabilities such as governance, critical evaluation, and strategic decision-making extend beyond basic literacy into advanced levels of AI competency. This study positions AI literacy as a governance capacity tha…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2609.10489v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-10473v1",
+      "type": "工作论文",
+      "title": "Assessing flood-conditioned power dependency of urban rail transit and its effects on resilience under climate change",
+      "publisher": "arXiv",
+      "date": "2026-09-09",
+      "publishedDate": "2026-09-09",
+      "eventDate": "2026-09-09",
+      "dateNote": "预印本发布",
+      "sector": "新兴行业",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Urban rail transit (URT) faces increasing flood risk while relying on traction power systems whose failures can trigger cascading disruption. Existing studies on URT flood resilience often oversimplify power dependency by overlooking traction power redundancy and rarely consider flood-conditioned cascading impacts, providing limited insight into how flood-in…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2609.10473v1",
+      "featured": false
+    },
     {
       "id": "doi-10-1007-s43621-026-04516-8",
       "type": "学术论文",
@@ -275,7 +314,13 @@
       "eventDate": "2011",
       "dateNote": "2011年发布；原始页面未列具体发布日期",
       "sector": "企业出海",
-      "tags": ["Scope 3", "价值链排放", "温室气体核算", "供应链", "历史版本"],
+      "tags": [
+        "Scope 3",
+        "价值链排放",
+        "温室气体核算",
+        "供应链",
+        "历史版本"
+      ],
       "summary": "标准提供适用于各行业的价值链温室气体核算与报告方法，把企业运营边界以外的上游和下游活动划分为15类Scope 3活动。",
       "insight": "这是企业价值链排放核算的基础性历史版本；标准面向单个企业跨期比较，并不直接支持企业之间未经调整的横向比较。",
       "url": "https://ghgprotocol.org/corporate-value-chain-scope-3-standard",
@@ -291,7 +336,13 @@
       "eventDate": "2019-07",
       "dateNote": "ACL 2019同行评审会议论文",
       "sector": "人工智能",
-      "tags": ["AI能耗", "碳足迹", "自然语言处理", "研究公平", "同行评审"],
+      "tags": [
+        "AI能耗",
+        "碳足迹",
+        "自然语言处理",
+        "研究公平",
+        "同行评审"
+      ],
       "summary": "论文量化当时多类NLP模型训练的近似财务与环境成本，并提出降低成本、提高研究公平性和改进报告的建议。",
       "insight": "这是一篇把AI训练能耗与研究政策联系起来的早期代表性文献；其具体硬件与排放估计已具有年代局限，但问题框架仍具研究价值。",
       "url": "https://aclanthology.org/P19-1355/",
@@ -307,7 +358,13 @@
       "eventDate": "2020-11",
       "dateNote": "同行评审论文发表",
       "sector": "人工智能",
-      "tags": ["AI能耗", "碳核算", "标准化报告", "机器学习", "同行评审"],
+      "tags": [
+        "AI能耗",
+        "碳核算",
+        "标准化报告",
+        "机器学习",
+        "同行评审"
+      ],
       "summary": "论文提出实时跟踪机器学习实验能耗与碳排放、生成标准化附录的框架，并以强化学习算法能效排行榜展示其应用。",
       "insight": "适合作为AI环境足迹研究的方法学基线，强调只有在硬件、运行时间、电力来源和碳强度等信息可追溯时，模型能耗比较才有意义。",
       "url": "https://jmlr.org/papers/v21/20-312.html",
