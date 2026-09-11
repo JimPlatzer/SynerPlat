@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-11T04:44:52.222Z",
+  "updatedAt": "2026-09-11T07:15:26.763Z",
   "items": [
+    {
+      "id": "enisa-cra-single-reporting-platform-faq-2026",
+      "type": "政策指南",
+      "title": "Cyber Resilience Act Single Reporting Platform: Frequently Asked Questions",
+      "publisher": "European Union Agency for Cybersecurity (ENISA)",
+      "date": "2026-09-10",
+      "publishedDate": "2026-09-10",
+      "eventDate": "2026-09-11",
+      "dateNote": "FAQ于9月10日更新；单一报告平台和强制报告义务于9月11日启用",
+      "sector": "人工智能",
+      "tags": [
+        "网络安全治理",
+        "欧盟监管",
+        "强制报告",
+        "企业出海"
+      ],
+      "summary": "ENISA就《网络韧性法》单一报告平台提供操作性问答，说明适用主体、24小时预警、72小时通知、最终报告、第三方组件漏洞及平台接入等要求。",
+      "insight": "可用于研究数字产品企业在欧盟的漏洞披露责任、事件响应时限和跨境合规流程；与法规原文配套使用。",
+      "url": "https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/frequently-asked-questions",
+      "featured": true
+    },
+    {
+      "id": "eu-regulation-2024-2847-cyber-resilience-act",
+      "type": "政策法规",
+      "title": "Regulation (EU) 2024/2847 on horizontal cybersecurity requirements for products with digital elements (Cyber Resilience Act)",
+      "publisher": "European Parliament and Council / EUR-Lex",
+      "date": "2024-11-20",
+      "publishedDate": "2024-11-20",
+      "eventDate": "2026-09-11",
+      "dateNote": "法规原文发布于2024年11月20日；第14条报告义务于2026年9月11日开始适用",
+      "sector": "人工智能",
+      "tags": [
+        "网络安全治理",
+        "欧盟监管",
+        "产品安全",
+        "企业出海"
+      ],
+      "summary": "欧盟对含数字元素产品建立横向网络安全要求。第14条要求制造商通报已被主动利用的漏洞和影响产品安全的严重事件；相关报告义务自2026年9月11日起适用，法规其他主要要求自2027年12月11日起适用。",
+      "insight": "研究欧盟数字产品全生命周期治理、供应链责任与事件披露制度的核心法律原文。",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng",
+      "featured": true
+    },
     {
       "id": "doi-10-1186-s43093-026-00986-4",
       "type": "学术论文",
