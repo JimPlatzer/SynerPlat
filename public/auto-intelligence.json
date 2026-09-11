@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-10T06:13:01.787Z",
-  "weekRange": "2026.09.03—09.10",
+  "updatedAt": "2026-09-11T04:44:52.222Z",
+  "weekRange": "2026.09.04—09.11",
   "monthLabel": "2026年9月",
   "stories": [
     {
@@ -287,49 +287,28 @@
         "技能转型",
         "供应链与出海"
       ]
-    },
-    {
-      "id": "cn-mee-environmental-benchmarks-plan-2026",
-      "sector": "高风险行业",
-      "relevance": "直接 ESG",
-      "event": "制度推进",
-      "title": "生态环境部原则通过2026—2030年生态环境基准工作方案",
-      "summary": "生态环境部9月3日召开部常务会议，审议并原则通过《生态环境基准工作方案（2026—2030年）》和《射线装置分类办法（修订草案）》。会议要求建立生态环境基准技术方法体系、完善国家数据库并强化实际应用，同时推进射线装置分类与信息化管理；当前属于部门审议节点，正式文本和实施安排仍待后续发布。",
-      "score": 8,
-      "publishedDate": "2026.09.03",
-      "eventDate": "2026.09.03",
-      "dateNote": "部常务会议原则通过",
-      "source": "中国生态环境部",
-      "url": "https://www.mee.gov.cn/ywdt/hjywnews/202609/t20260903_1165072.shtml",
-      "tags": [
-        "环境基准",
-        "风险治理",
-        "辐射安全",
-        "环境数据"
-      ]
-    },
-    {
-      "id": "cn-nea-new-power-grid-deployment-2026",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "基础设施部署",
-      "title": "国家能源局部署“十五五”新型电网建设重点任务",
-      "summary": "国家能源局9月1日召开新型电网建设工作部署会，相关内容于9月3日发布。会议称“十五五”期间电力需求预计年均增长约5%，并部署主配微协同电网、人工智能+、柔性构网、智能调控、长时储能、新能源并网消纳和算电协同等任务，同时要求加快重大输电工程核准建设并支持民营企业参与。",
-      "score": 8,
-      "publishedDate": "2026.09.03",
-      "eventDate": "2026.09.01",
-      "dateNote": "工作部署会召开",
-      "source": "中国国家能源局 / 国家发展改革委",
-      "url": "https://www.ndrc.gov.cn/fzggw/wld/wanghongzhi/zyhd/202609/t20260903_1407392.html",
-      "tags": [
-        "新型电网",
-        "长时储能",
-        "人工智能",
-        "算电协同"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-1186-s43093-026-00986-4",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Artificial intelligence, accountability, and sustainability disclosure: a socio-technical analysis of Islamic financial institutions in Saudi Arabia",
+      "summary": "Abstract This study examines sustainability disclosure practices in Saudi Islamic financial institutions through a comparative assessment of manual content analysis, artificial intelligence (AI)-assisted semantic evaluation. Drawing upon a hybrid environmental, social, governance (ESG)–Shariah framework, the study evaluates disclosure quality across five dim…",
+      "score": 7,
+      "publishedDate": "2026.09.10",
+      "eventDate": "2026.09.10",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1186/s43093-026-00986-4",
+      "tags": [
+        "人工智能",
+        "披露监管",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-04516-8",
       "sector": "绿色金融",
@@ -407,23 +386,22 @@
       ]
     },
     {
-      "id": "doi-10-1007-s40518-026-00292-1",
+      "id": "arxiv-arxiv-org-abs-2609-11639v1",
       "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "大规模热储能能否利用可再生能源引发的批发电价波动",
-      "summary": "该开放获取综述比较热储能与电化学储能在日本电力市场情景中的经济性，指出热储能的容量配置灵活性和热惯性可能在部分场景中形成优势。结论属于模型与情景分析，应用到具体市场前仍需核对成本、价格与系统边界。",
-      "score": 7,
-      "publishedDate": "2026.09.03",
-      "eventDate": "2026.09.03",
-      "dateNote": "同行评审论文发表",
-      "source": "Springer Nature",
-      "url": "https://doi.org/10.1007/s40518-026-00292-1",
+      "event": "工作论文",
+      "title": "LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics",
+      "summary": "The energy transition is reshaping residential electricity consumption through the increasing adoption of distributed generation, electrified appliances, and demand-response programs. Understanding these evolving behaviors requires access to granular smart-meter data for applications such as load forecasting, appliance detection, and demand-side flexibility…",
+      "score": 6,
+      "publishedDate": "2026.09.10",
+      "eventDate": "2026.09.10",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.11639v1",
       "tags": [
-        "热储能",
-        "批发电价",
-        "可再生能源",
-        "同行评审"
+        "能源转型",
+        "供应链与出海",
+        "预印本·非同行评审"
       ]
     },
     {
@@ -538,26 +516,6 @@
         "人工智能",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "doi-10-1186-s43093-026-00970-y",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Renewable energy transition, financial development, and financial inclusion effects on environmental sustainability in developing economies",
-      "summary": "Abstract The transition to low-carbon development remains a central challenge for developing economies, particularly in the context of uneven financial access and ongoing structural transformation. This study examines the dynamic and heterogeneous relationships between renewable energy transition, financial development, financial inclusion, and environmental…",
-      "score": 5,
-      "publishedDate": "2026.09.08",
-      "eventDate": "2026.09.08",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1186/s43093-026-00970-y",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "供应链与出海",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
@@ -583,6 +541,35 @@
       "terms": [
         "人工智能",
         "政策监管"
+      ]
+    },
+    {
+      "id": "period-www-gov-uk-government-publications-national-commission-into-the-regulati",
+      "date": "2026-09-10",
+      "terms": [
+        "人工智能",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "doi-10-1186-s43093-026-00986-4",
+      "date": "2026-09-10",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "气候披露",
+        "绿色金融"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-11639v1",
+      "date": "2026-09-10",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "能源转型",
+        "电力系统",
+        "供应链与出海"
       ]
     },
     {
@@ -701,6 +688,30 @@
         "政策监管",
         "人工智能",
         "能源转型"
+      ]
+    },
+    {
+      "id": "period-single-market-economy-ec-europa-eu-publications-proposal-regulation-publ",
+      "date": "2026-09-09",
+      "terms": [
+        "企业出海",
+        "供应链与出海",
+        "气候适应"
+      ]
+    },
+    {
+      "id": "period-housing-ec-europa-eu-whats-new-news-new-eu-proposal-and-recommendation-h",
+      "date": "2026-09-09",
+      "terms": [
+        "社会与住房"
+      ]
+    },
+    {
+      "id": "period-research-and-innovation-ec-europa-eu-strategy-support-policy-making-shap",
+      "date": "2026-09-09",
+      "terms": [
+        "新兴行业",
+        "供应链与出海"
       ]
     },
     {
@@ -1512,31 +1523,31 @@
   "sectorInsights": [
     [
       "人工智能",
-      "英国医疗AI建议把监管推进到分阶段授权和全生命周期监测，欧盟Neuro-AI声明、中国绿色AI方案与英国AI清洁能源征询则分别强化数据权利、资源披露和关键基础设施治理。",
+      "过去七日保留 5 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       5,
       "→"
     ],
     [
       "高排放行业",
-      "UNEP把清洁空气与气候行动转化为可比较的收益成本信号，欧洲工业CCS进入商业运行，显示高排放行业正在同时面对投资论证和真实减排基础设施落地。",
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       3,
       "→"
     ],
     [
       "企业出海",
-      "欧盟公共采购提案引入可持续、韧性与欧洲偏好，美国能源部同步审视大电网设备的境外实体和远程访问风险，市场准入正与供应链安全加速绑定。",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
     ],
     [
       "新兴行业",
-      "欧洲创新法案与农业食品创新战略把研发采购、知识产权融资、监管沙盒和自然资源议题连接起来，深科技与农业科技的公共需求侧支持正在制度化。",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
     ],
     [
-      "新能源",
-      "能源信号集中在电网投资、工业CCS和AI能源系统协同；APEC能源工作组已把“人工智能+能源”列为区域讨论重点，但正式承诺仍待部长会议成果文本。",
+      "社会与住房",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
     ]
@@ -1544,9 +1555,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "监管工具正从披露要求延伸到采购、住房与高风险AI全生命周期治理",
-      "range": "2026.09.03—09.10",
-      "copy": "过去7天保留16条达到主门槛的重大动态和12条已核验新增观察。欧盟同日提出公共采购、可负担住房和创新三项跨行业立法框架，英国医疗AI建议则强化分阶段授权、真实世界监测与患者知情；这些文件目前多处于提案或建议阶段，正式引用与行动前仍应打开原文并跟踪后续生效状态。",
+      "title": "人工智能、高排放行业、企业出海构成过去七日的主要行业信号",
+      "range": "2026.09.04—09.11",
+      "copy": "过去7天当前保留 14 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "人工智能",
@@ -1554,22 +1565,22 @@
         ],
         [
           "政策监管",
-          9
+          10
         ],
         [
           "供应链与出海",
-          6
+          7
         ],
         [
           "高排放行业",
           6
         ],
         [
-          "电力系统",
+          "新兴行业",
           5
         ],
         [
-          "可再生能源",
+          "电力系统",
           5
         ],
         [
@@ -1577,15 +1588,15 @@
           5
         ],
         [
-          "工作论文",
-          5
-        ],
-        [
-          "新兴行业",
-          5
-        ],
-        [
           "碳与排放",
+          5
+        ],
+        [
+          "可再生能源",
+          4
+        ],
+        [
+          "工作论文",
           4
         ],
         [
@@ -1593,11 +1604,15 @@
           4
         ],
         [
-          "气候披露",
+          "企业出海",
           4
         ],
         [
           "数字化与数据",
+          4
+        ],
+        [
+          "气候披露",
           4
         ],
         [
@@ -1613,15 +1628,11 @@
           4
         ],
         [
-          "企业出海",
-          3
-        ],
-        [
           "能源转型",
-          3
+          4
         ],
         [
-          "高风险行业",
+          "社会与住房",
           3
         ],
         [
@@ -1630,10 +1641,6 @@
         ],
         [
           "污染防治",
-          3
-        ],
-        [
-          "社会与住房",
           3
         ],
         [
@@ -1648,9 +1655,9 @@
     },
     "month": {
       "label": "过去一个月总结",
-      "title": "过去30天监管焦点从碳与自然议题扩展到AI、采购和供应链准入",
-      "range": "2026.08.11—09.10",
-      "copy": "过去30天词频基于107条去重后的重大动态、新增观察、月度重点与研究资料生成。政策监管和人工智能保持最高频，高排放、新能源、绿色金融与供应链议题持续交叉，显示ESG要求正更直接地进入基础设施、公共采购、融资和跨境市场准入。",
+      "title": "过去30天政策、产业与研究信号持续滚动更新",
+      "range": "2026.08.12—09.11",
+      "copy": "过去30天词频基于 113 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1661,11 +1668,11 @@
           8
         ],
         [
-          "高排放行业",
-          7
+          "新能源",
+          6
         ],
         [
-          "新能源",
+          "高排放行业",
           6
         ],
         [
@@ -1673,24 +1680,16 @@
           6
         ],
         [
-          "可再生能源",
+          "供应链与出海",
           5
         ],
         [
-          "供应链与出海",
+          "可再生能源",
           5
         ],
         [
           "气候适应",
           5
-        ],
-        [
-          "碳与排放",
-          5
-        ],
-        [
-          "工作论文",
-          4
         ],
         [
           "气候披露",
@@ -1701,7 +1700,11 @@
           4
         ],
         [
-          "数字化与数据",
+          "碳与排放",
+          4
+        ],
+        [
+          "工作论文",
           4
         ],
         [
@@ -1709,7 +1712,15 @@
           4
         ],
         [
+          "数字化与数据",
+          4
+        ],
+        [
           "新兴行业",
+          4
+        ],
+        [
+          "能源转型",
           4
         ],
         [
@@ -1718,10 +1729,6 @@
         ],
         [
           "污染防治",
-          4
-        ],
-        [
-          "能源转型",
           4
         ],
         [
@@ -1749,6 +1756,10 @@
           3
         ],
         [
+          "社会与住房",
+          3
+        ],
+        [
           "自然与生物多样性",
           3
         ],
@@ -1766,10 +1777,6 @@
         ],
         [
           "干旱与土地",
-          2
-        ],
-        [
-          "气候与适应",
           2
         ]
       ]
@@ -1791,17 +1798,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 6
+      "items": 7
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 46
+      "items": 45
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 28
+      "items": 30
     },
     {
       "source": "arXiv",
@@ -1809,7 +1816,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 9,
+  "verifiedCandidateCount": 11,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

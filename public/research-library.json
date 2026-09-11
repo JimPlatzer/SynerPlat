@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-09-10T06:13:01.787Z",
+  "updatedAt": "2026-09-11T04:44:52.222Z",
   "items": [
+    {
+      "id": "doi-10-1186-s43093-026-00986-4",
+      "type": "学术论文",
+      "title": "Artificial intelligence, accountability, and sustainability disclosure: a socio-technical analysis of Islamic financial institutions in Saudi Arabia",
+      "publisher": "Springer Science and Business Media LLC",
+      "date": "2026-09-10",
+      "publishedDate": "2026-09-10",
+      "eventDate": "2026-09-10",
+      "dateNote": "论文发表",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "披露监管",
+        "同行评审状态待核"
+      ],
+      "summary": "Abstract This study examines sustainability disclosure practices in Saudi Islamic financial institutions through a comparative assessment of manual content analysis, artificial intelligence (AI)-assisted semantic evaluation. Drawing upon a hybrid environmental, social, governance (ESG)–Shariah framework, the study evaluates disclosure quality across five dim…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.1186/s43093-026-00986-4",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-11639v1",
+      "type": "工作论文",
+      "title": "LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics",
+      "publisher": "arXiv",
+      "date": "2026-09-10",
+      "publishedDate": "2026-09-10",
+      "eventDate": "2026-09-10",
+      "dateNote": "预印本发布",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "供应链与出海",
+        "预印本·非同行评审"
+      ],
+      "summary": "The energy transition is reshaping residential electricity consumption through the increasing adoption of distributed generation, electrified appliances, and demand-response programs. Understanding these evolving behaviors requires access to granular smart-meter data for applications such as load forecasting, appliance detection, and demand-side flexibility…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2609.11639v1",
+      "featured": false
+    },
     {
       "id": "uk-ai-healthcare-regulation-report-2026",
       "type": "政策报告",
