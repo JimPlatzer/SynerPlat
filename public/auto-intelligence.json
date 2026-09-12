@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-09-12T04:39:07.801Z",
+  "updatedAt": "2026-09-12T09:41:03.808Z",
   "weekRange": "2026.09.05—09.12",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "apec-energy-ministers-ai-energy-policy-2026",
+      "sector": "人工智能",
+      "relevance": "直接 ESG",
+      "event": "国际政策协调",
+      "title": "APEC能源部长通过AI与能源双向赋能政策建议并设立专项任务组",
+      "summary": "APEC能源部长9月11日通过联合声明及三项共识成果，其中《人工智能与能源双向赋能政策建议（2026—2030）》要求能源工作组设立专项任务组，并倡议统筹算力与能源基础设施、提高AI计算能效、加强网络安全和数据保护、兼顾当地能源可负担性。文件同时支持可持续关键矿产供应链和跨境能源贸易，但属于自愿、非约束性政策工具。",
+      "score": 9,
+      "publishedDate": "2026.09.11",
+      "eventDate": "2026.09.11",
+      "dateNote": "部长级联合声明及三项自愿、非约束性共识成果发布",
+      "source": "Asia-Pacific Economic Cooperation (APEC)",
+      "url": "https://www.apec.org/meeting-papers/sectoral-ministerial-meetings/energy/2026-apec-energy-ministerial-meeting",
+      "tags": [
+        "人工智能+能源",
+        "数据中心",
+        "能源安全",
+        "供应链韧性",
+        "可再生能源"
+      ]
+    },
     {
       "id": "eu-cra-reporting-obligations-effective-2026",
       "sector": "人工智能",
@@ -22,40 +43,6 @@
         "产品安全",
         "强制报告",
         "企业出海"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-responsible-technology-and-resilience-aga",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Responsible technology and resilience against hybrid threats: UK statement to the 32nd OSCE Economic and Environmental Forum",
-      "summary": "Ambassador Holland highlights responsible governance and multistakeholder cooperation are essential to harness frontier technologies while protecting human rights and public trust. The OSCE must strengthen early warning, add…",
-      "score": 6,
-      "publishedDate": "2026.09.11",
-      "eventDate": "2026.09.11",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/speeches/responsible-technology-and-resilience-against-hybrid-threats-uk-statement-to-the-32nd-osce-economic-and-environmental-forum",
-      "tags": [
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-the-united-kingdom-will-work-through-this",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "The United Kingdom will work through this Council to combat terrorism in all its forms: UK statement at the UN Security Council",
-      "summary": "Statement by Chris Elmore MP, Minister for the Americas, Multilateral, and Human Rights, at the UN Security Council meeting on threats to international peace and security caused by terrorist acts.",
-      "score": 6,
-      "publishedDate": "2026.09.11",
-      "eventDate": "2026.09.11",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/speeches/the-united-kingdom-will-work-through-this-council-to-combat-terrorism-in-all-its-forms-uk-statement-at-the-un-security-council",
-      "tags": [
-        "政策法规"
       ]
     },
     {
@@ -306,6 +293,27 @@
   ],
   "watchlist": [
     {
+      "id": "doi-10-1007-s10462-026-11690-8",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "同行评审研究",
+      "title": "Artificial intelligence for weather and climate: a survey of methods, benchmarks, and scientific machine learning challenges",
+      "summary": "综述按物理归纳偏置梳理卷积网络、图神经网络、Transformer、神经算子与生成模型，并系统讨论表示学习、基础模型、不确定性量化和因果发现。作者重点识别RMSE平滑偏差、ERA5训练—评估循环、基准过拟合、气候非平稳下分布漂移和物理一致性等评估风险。",
+      "score": 7,
+      "publishedDate": "2026.09.11",
+      "eventDate": "2026.09.11",
+      "dateNote": "开放获取同行评审论文在线发表；当前为可引用的早期版本，后续将替换为最终记录版",
+      "source": "Artificial Intelligence Review / Springer Nature",
+      "url": "https://link.springer.com/article/10.1007/s10462-026-11690-8",
+      "tags": [
+        "天气与气候",
+        "科学机器学习",
+        "不确定性量化",
+        "基准设计",
+        "同行评审"
+      ]
+    },
+    {
       "id": "doi-10-1186-s43093-026-00986-4",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -330,18 +338,19 @@
       "relevance": "直接 ESG",
       "event": "同行评审研究",
       "title": "Evaluating sustainability credibility in financial institutions using ESG talk and ESG action indicators",
-      "summary": "这项开放获取同行评审研究用Refinitiv指标分别构建金融机构的“ESG表述”和“ESG行动”评估层，检验两者的一致性。研究发现强调披露与治理的信号型评价并不总与侧重可观察结果的行动型评价一致；该方法衡量的是两类指标组合的对齐，而不是逐项核验企业陈述是否真实兑现。",
+      "summary": "研究用Refinitiv指标分别构建金融机构的ESG表述与ESG行动层，评估信号型披露与结果型表现的一致程度，并发现两类评价之间存在持续差异。",
       "score": 7,
       "publishedDate": "2026.09.09",
       "eventDate": "2026.09.09",
       "dateNote": "同行评审早期版本发表",
-      "source": "Springer Nature",
+      "source": "Springer Nature · Discover Sustainability",
       "url": "https://link.springer.com/article/10.1007/s43621-026-04516-8",
       "tags": [
         "ESG可信度",
-        "绿色金融",
+        "金融机构",
         "披露与行动",
-        "同行评审"
+        "同行评审",
+        "开放获取"
       ]
     },
     {
@@ -350,17 +359,18 @@
       "relevance": "直接 ESG",
       "event": "同行评审研究",
       "title": "Does boardroom diversity improve ESG disclosures? Moderating role of ESG-skilled corporate boards in India",
-      "summary": "这项同行评审研究分析印度NSE 500中149家公司2013—2023年数据，发现董事会多样性只有在董事会具备ESG技能时才与更好的ESG披露显著相关；缺少相关技能时未观察到显著影响。结论提示企业与投资者不能仅以多样性构成替代对董事专业能力和披露质量的核验。",
+      "summary": "研究分析印度NSE 500中149家公司2013—2023年样本，发现董事会多样性仅在具有ESG技能董事的情况下与更好的ESG披露显著相关。",
       "score": 7,
       "publishedDate": "2026.09.08",
       "eventDate": "2026.09.08",
       "dateNote": "同行评审论文发表",
-      "source": "Springer Nature",
+      "source": "Springer Nature · International Journal of Disclosure and Governance",
       "url": "https://link.springer.com/article/10.1057/s41310-026-00416-5",
       "tags": [
         "董事会多样性",
         "ESG技能",
-        "披露监管",
+        "公司治理",
+        "ESG披露",
         "同行评审"
       ]
     },
@@ -498,42 +508,21 @@
       ]
     },
     {
-      "id": "doi-10-1007-s10462-026-11690-8",
+      "id": "doi-10-1007-s11135-026-03090-5",
       "sector": "人工智能",
       "relevance": "间接 ESG",
       "event": "学术研究",
-      "title": "Artificial intelligence for weather and climate: a survey of methods, benchmarks, and scientific machine learning challenges",
+      "title": "Artificial intelligence, economic complexity, and clean energy productivity as drivers of SDG-7 progress and ESG uncertainty",
       "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
       "score": 5,
-      "publishedDate": "2026.09.11",
-      "eventDate": "2026.09.11",
+      "publishedDate": "2026.09.09",
+      "eventDate": "2026.09.09",
       "dateNote": "论文发表",
       "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s10462-026-11690-8",
+      "url": "https://doi.org/10.1007/s11135-026-03090-5",
       "tags": [
         "人工智能",
-        "气候与碳",
         "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "china-apec-energy-working-group-72-2026",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策观察",
-      "title": "APEC能源工作组讨论“人工智能+能源”与区域协同治理",
-      "summary": "APEC能源工作组第72次会议9月8日在北京召开，约200名代表交流能源政策并审议第16次能源部长会议成果文件草案，议题包括高质量能源普遍服务、人工智能+能源和亚太能源协同治理。当前仍处于机制性会议与成果文件准备阶段，具体政策承诺有待部长会议正式文本确认。",
-      "score": 5,
-      "publishedDate": "2026.09.09",
-      "eventDate": "2026.09.08",
-      "dateNote": "会议9月8日召开，国家能源局9月9日发布消息",
-      "source": "中国国家能源局",
-      "url": "https://www.nea.gov.cn/20260909/7c30888544ee458bb86d358640bbb498/c.html",
-      "tags": [
-        "APEC",
-        "人工智能+能源",
-        "能源转型",
-        "区域合作"
       ]
     }
   ],
@@ -575,24 +564,61 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-speeches-responsible-technology-and-resilience-aga",
-      "date": "2026-09-11",
-      "terms": [
-        "新兴行业"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-the-united-kingdom-will-work-through-this",
-      "date": "2026-09-11",
-      "terms": [
-        "新兴行业"
-      ]
-    },
-    {
       "id": "doi-10-1007-s10462-026-11690-8",
       "date": "2026-09-11",
       "terms": [
         "人工智能"
+      ]
+    },
+    {
+      "id": "period-www-apec-org-meeting-papers-sectoral-ministerial-meetings-energy-2026-ap",
+      "date": "2026-09-11",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "网络安全",
+        "数据中心",
+        "能源效率",
+        "供应链与出海"
+      ]
+    },
+    {
+      "id": "apec-energy-ministerial-joint-statement-2026",
+      "date": "2026-09-11",
+      "terms": [
+        "新能源",
+        "人工智能",
+        "数据中心",
+        "可再生能源",
+        "电力系统",
+        "供应链与出海",
+        "关键矿产"
+      ]
+    },
+    {
+      "id": "apec-ai-energy-policy-recommendations-2026-2030",
+      "date": "2026-09-11",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "网络安全",
+        "数据中心",
+        "电力系统",
+        "能源效率"
+      ]
+    },
+    {
+      "id": "apec-energy-ministers-ai-energy-policy-2026",
+      "date": "2026-09-11",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "网络安全",
+        "数据中心",
+        "可再生能源",
+        "能源效率",
+        "供应链与出海",
+        "关键矿产"
       ]
     },
     {
@@ -642,10 +668,10 @@
       "date": "2026-09-10",
       "terms": [
         "新能源",
-        "政策监管",
         "能源转型",
         "电力系统",
-        "供应链与出海"
+        "供应链与出海",
+        "工作论文"
       ]
     },
     {
@@ -798,20 +824,6 @@
       ]
     },
     {
-      "id": "doi-10-1186-s43093-026-00970-y",
-      "date": "2026-09-08",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源",
-        "能源转型",
-        "能源效率",
-        "碳与排放",
-        "供应链与出海",
-        "绿色金融"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2609-08383v1",
       "date": "2026-09-08",
       "terms": [
@@ -837,13 +849,6 @@
       "terms": [
         "企业出海",
         "气候披露"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-un-human-rights-council-63-joint-statemen",
-      "date": "2026-09-08",
-      "terms": [
-        "新兴行业"
       ]
     },
     {
@@ -895,11 +900,17 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-speeches-un-human-rights-council-63-uk-statement-f",
-      "date": "2026-09-07",
+      "id": "doi-10-1186-s43093-026-00970-y",
+      "date": "2026-09-08",
       "terms": [
-        "新兴行业",
-        "政策监管"
+        "新能源",
+        "政策监管",
+        "可再生能源",
+        "能源转型",
+        "能源效率",
+        "碳与排放",
+        "供应链与出海",
+        "绿色金融"
       ]
     },
     {
@@ -1261,21 +1272,6 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-news-uk-backed-programme-supports-sustainable-live",
-      "date": "2026-09-02",
-      "terms": [
-        "绿色金融"
-      ]
-    },
-    {
-      "id": "doi-10-1057-s41310-026-00417-4",
-      "date": "2026-09-02",
-      "terms": [
-        "绿色金融",
-        "数字化与数据"
-      ]
-    },
-    {
       "id": "period-www-unep-org-resources-limiting-overshoot-navigating-exceedance",
       "date": "2026-09-02",
       "terms": [
@@ -1422,33 +1418,6 @@
       ]
     },
     {
-      "id": "doi-10-1016-j-eneco-2026-109592",
-      "date": "2026-09-01",
-      "terms": [
-        "新能源",
-        "能源转型",
-        "碳与排放",
-        "绿色金融"
-      ]
-    },
-    {
-      "id": "doi-10-1016-j-ecmx-2026-102279",
-      "date": "2026-09-01",
-      "terms": [
-        "新能源",
-        "可再生能源"
-      ]
-    },
-    {
-      "id": "doi-10-1016-j-egycc-2026-100274",
-      "date": "2026-09-01",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "能源转型"
-      ]
-    },
-    {
       "id": "oecd-just-transition-sentiment-2026",
       "date": "2026-08-31",
       "terms": [
@@ -1466,14 +1435,6 @@
         "政策监管",
         "公正转型",
         "工作论文"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04523-9",
-      "date": "2026-08-30",
-      "terms": [
-        "新能源",
-        "可再生能源"
       ]
     },
     {
@@ -1552,14 +1513,6 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-news-new-air-quality-alerts-service-launched",
-      "date": "2026-08-26",
-      "terms": [
-        "高排放行业",
-        "污染防治"
-      ]
-    },
-    {
       "id": "doi-10-1177-0958305x261475390",
       "date": "2026-08-25",
       "terms": [
@@ -1603,14 +1556,8 @@
   "sectorInsights": [
     [
       "人工智能",
-      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      4,
-      "→"
-    ],
-    [
-      "新兴行业",
-      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      4,
+      "过去七日保留 5 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      5,
       "→"
     ],
     [
@@ -1626,6 +1573,12 @@
       "→"
     ],
     [
+      "新兴行业",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
+      "→"
+    ],
+    [
       "社会与住房",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
@@ -1635,9 +1588,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "人工智能、新兴行业、高排放行业构成过去七日的主要行业信号",
+      "title": "人工智能、高排放行业、企业出海构成过去七日的主要行业信号",
       "range": "2026.09.05—09.12",
-      "copy": "过去7天当前保留 15 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "copy": "过去7天当前保留 14 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "人工智能",
@@ -1645,7 +1598,7 @@
         ],
         [
           "政策监管",
-          10
+          9
         ],
         [
           "供应链与出海",
@@ -1653,26 +1606,14 @@
         ],
         [
           "新兴行业",
-          7
+          5
         ],
         [
           "高排放行业",
           5
         ],
         [
-          "企业出海",
-          4
-        ],
-        [
-          "新能源",
-          4
-        ],
-        [
           "电力系统",
-          4
-        ],
-        [
-          "绿色金融",
           4
         ],
         [
@@ -1680,11 +1621,39 @@
           4
         ],
         [
-          "能源转型",
+          "新能源",
+          4
+        ],
+        [
+          "网络安全",
+          4
+        ],
+        [
+          "企业出海",
+          4
+        ],
+        [
+          "绿色金融",
+          4
+        ],
+        [
+          "能源效率",
           4
         ],
         [
           "工作论文",
+          3
+        ],
+        [
+          "数据中心",
+          3
+        ],
+        [
+          "能源转型",
+          3
+        ],
+        [
+          "关键矿产",
           3
         ],
         [
@@ -1708,23 +1677,11 @@
           3
         ],
         [
-          "网络安全",
-          3
-        ],
-        [
           "污染防治",
           3
         ],
         [
-          "能源效率",
-          3
-        ],
-        [
           "公正转型",
-          2
-        ],
-        [
-          "关键矿产",
           2
         ],
         [
@@ -1737,7 +1694,7 @@
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
       "range": "2026.08.13—09.12",
-      "copy": "过去30天词频基于 121 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "copy": "过去30天词频基于 114 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1745,22 +1702,22 @@
         ],
         [
           "人工智能",
-          8
+          9
         ],
         [
           "高排放行业",
           6
         ],
         [
-          "新能源",
+          "供应链与出海",
           6
         ],
         [
-          "绿色金融",
+          "新能源",
           5
         ],
         [
-          "供应链与出海",
+          "绿色金融",
           5
         ],
         [
@@ -1769,10 +1726,10 @@
         ],
         [
           "电力系统",
-          4
+          5
         ],
         [
-          "新兴行业",
+          "工作论文",
           4
         ],
         [
@@ -1780,15 +1737,7 @@
           4
         ],
         [
-          "工作论文",
-          4
-        ],
-        [
           "企业出海",
-          4
-        ],
-        [
-          "数字化与数据",
           4
         ],
         [
@@ -1796,8 +1745,24 @@
           4
         ],
         [
+          "数字化与数据",
+          4
+        ],
+        [
+          "数据中心",
+          4
+        ],
+        [
           "气候风险",
           4
+        ],
+        [
+          "能源效率",
+          4
+        ],
+        [
+          "新兴行业",
+          3
         ],
         [
           "气候适应",
@@ -1808,19 +1773,19 @@
           3
         ],
         [
-          "能源转型",
-          3
-        ],
-        [
           "高风险行业",
           3
         ],
         [
-          "能源效率",
+          "网络安全",
           3
         ],
         [
-          "数据中心",
+          "能源转型",
+          3
+        ],
+        [
+          "关键矿产",
           3
         ],
         [
@@ -1832,19 +1797,11 @@
           3
         ],
         [
-          "关键矿产",
-          3
-        ],
-        [
           "水资源",
           3
         ],
         [
           "社会与住房",
-          3
-        ],
-        [
-          "网络安全",
           3
         ],
         [
@@ -1896,7 +1853,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 14,
+  "verifiedCandidateCount": 11,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

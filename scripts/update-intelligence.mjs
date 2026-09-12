@@ -19,8 +19,9 @@ const highImpactPattern=/regulation|rule|directive|standard|disclosure|mandatory
 const trustedPublisherPattern=/Elsevier|Springer|Wiley|SAGE|Oxford University Press|Cambridge University Press|Taylor & Francis|IEEE|Association for Computing Machinery|Nature Portfolio|American Chemical Society|Royal Society|Frontiers Media|MDPI/i;
 const arxivFalsePositivePattern=/astronom|astrophys|cosmolog|black[ -]?hole|gravitational.wave|particle physics|nuclear recoil|\bLHC\b|quasar|cosmic star formation|Josephson|vortex laser|stellar|galax/i;
 const arxivEsgPattern=/climate change|carbon capture|\bCCUS\b|CO2 emissions?|renewable energy|energy transition|sustainab|pollution|environmental|traffic noise|biodiversity|circular economy|green finance|net[ -]?zero|decarbon/i;
-const genericDiplomaticStatementPattern=/UN Human Rights Council|Interactive Dialogue|Fact-Finding Mission|Joint Statement on (?:Sri Lanka|Sudan)/i;
+const genericDiplomaticStatementPattern=/UN Human Rights Council|UN Security Council|Interactive Dialogue|Fact-Finding Mission|Joint Statement on (?:Sri Lanka|Sudan)|terror(?:ism|ist)|OSCE Economic and Environmental Forum|UK statement (?:at|to) (?:the )?(?:UN|OSCE)/i;
 const businessHumanRightsNexusPattern=/business|company|corporat|industry|supply chain|forced labo(?:u)?r|worker|workplace|trade|export|mining|energy|technology|artificial intelligence|\bAI\b/i;
+const concretePolicyActionPattern=/adopt|endorse|establish|launch|publish|policy|regulation|law|rule|standard|funding|investment|agreement|initiative|programme|program|sanction|guidance|recommendation|company|industry|supply chain|disclosure|renewable|energy transition/i;
 
 function isoDate(date){return date.toISOString().slice(0,10)}
 function dotDate(value){return String(value||'').replaceAll('-','.')}
@@ -34,7 +35,7 @@ function heuristicScore(item){let score=4;if(['Federal Register','GOV.UK'].inclu
 function sectorFor(text){if(/artificial intelligence|\bai\b|data cent/i.test(text))return '人工智能';if(/renewable|solar|wind|battery|hydrogen|electricity|grid|energy/i.test(text))return '新能源';if(/disclosure|supply chain|trade|border|export|deforestation/i.test(text))return '企业出海';if(/finance|investment|bank|insurance|taxonomy/i.test(text))return '绿色金融';if(/steel|cement|aluminium|oil|gas|coal|chemical|emission|pollution/i.test(text))return '高排放行业';return '新兴行业'}
 function meaningfulEsgNexus(item){
  const text=`${item.title||''} ${item.summary||''}`;
- if(genericDiplomaticStatementPattern.test(text)&&!businessHumanRightsNexusPattern.test(text))return false;
+ if(genericDiplomaticStatementPattern.test(text)&&(!businessHumanRightsNexusPattern.test(text)||!concretePolicyActionPattern.test(text)))return false;
  const isArxiv=item?.source==='arXiv'||item?.publisher==='arXiv';if(!isArxiv)return true;
  return arxivEsgPattern.test(text)&&!arxivFalsePositivePattern.test(text);
 }
@@ -156,14 +157,16 @@ async function main(){
  const finalSectorCounts=new Map();for(const story of stories)finalSectorCounts.set(story.sector,(finalSectorCounts.get(story.sector)||0)+1);
  const finalSectors=[...finalSectorCounts.entries()].sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0]));
  const finalSectorInsights=finalSectors.slice(0,5).map(([name,count])=>[name,`过去七日保留 ${count} 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。`,count,'→']);
+ const cleanedLibrary=(library.items||[]).filter(item=>meaningfulEsgNexus(item));
+ const reviewedLibraryById=new Map(cleanedLibrary.filter(item=>(item.tags||[]).includes('同行评审')).map(item=>[item.id,item]));
  const storyUrls=new Set(stories.map(item=>item.url));const previousWatchlist=(previous.watchlist||[]).filter(item=>inWindow(item)&&meaningfulEsgNexus(item));
  const newWatchlist=verified.filter(item=>inWindow(item)).map(storyFromCandidate);
- const watchlist=uniqueByUrl([...previousWatchlist,...newWatchlist]).filter(item=>!storyUrls.has(item.url)).sort((a,b)=>Number(b.score)-Number(a.score)||activityDate(b).localeCompare(activityDate(a))).slice(0,12);
- const cleanedLibrary=(library.items||[]).filter(item=>meaningfulEsgNexus(item));
+ const watchlist=uniqueByUrl([...previousWatchlist,...newWatchlist]).filter(item=>!storyUrls.has(item.url)).map(item=>{const reviewed=reviewedLibraryById.get(item.id);return reviewed?{...item,event:'同行评审研究',summary:reviewed.summary||item.summary,score:Math.max(7,Number(item.score)||0),dateNote:reviewed.dateNote||item.dateNote,source:reviewed.publisher||item.source,url:reviewed.url||item.url,tags:Array.from(new Set([...(reviewed.tags||[]),'同行评审'])).slice(0,5)}:item}).sort((a,b)=>Number(b.score)-Number(a.score)||activityDate(b).localeCompare(activityDate(a))).slice(0,12);
  const existingUrls=new Set(cleanedLibrary.map(item=>item.url));const existingIds=new Set(cleanedLibrary.map(item=>item.id));const newResources=normalized.resources.filter(item=>!existingUrls.has(item.url)&&!existingIds.has(item.id)&&meaningfulEsgNexus(item));
  const updatedAt=new Date().toISOString();const weekRange=`${dotDate(weekStart)}—${dotDate(endDate).slice(5)}`;
- const allowedArxivIds=new Set([...stories,...watchlist,...newResources,...cleanedLibrary].filter(meaningfulEsgNexus).map(item=>item.id));
- const previousKeywordEvents=(previous.keywordEvents||[]).filter(item=>item.date>=rollingMonthStart&&item.date<=endDate&&(!String(item.id).startsWith('arxiv-')||allowedArxivIds.has(item.id)));
+ const allowedCandidateIds=new Set([...stories,...watchlist,...newResources,...cleanedLibrary].filter(meaningfulEsgNexus).map(item=>item.id));
+ const automatedCandidateId=/^(?:govuk-|fr-|doi-|arxiv-)/;
+ const previousKeywordEvents=(previous.keywordEvents||[]).filter(item=>item.date>=rollingMonthStart&&item.date<=endDate&&(!automatedCandidateId.test(String(item.id))||allowedCandidateIds.has(item.id)));
  const periodKeywordEvents=(periods.monthlyHighlights||[]).map(item=>({id:`period-${idFor(item.url||item.title)}`,date:`${endDate.slice(0,4)}-${String(item.date).replaceAll('.','-')}`,terms:keywordTerms(item)}));
  const libraryKeywordEvents=[...newResources,...cleanedLibrary].map(item=>({id:item.id,date:String(item.publishedDate||item.date||'').replaceAll('.','-').slice(0,10),terms:keywordTerms(item)}));
  const visibleKeywordEvents=[...stories,...watchlist].map(item=>({id:item.id,date:activityDate(item),terms:keywordTerms(item)}));

@@ -1,6 +1,71 @@
 {
-  "updatedAt": "2026-09-12T04:39:07.801Z",
+  "updatedAt": "2026-09-12T09:41:03.808Z",
   "items": [
+    {
+      "id": "doi-10-1007-s10462-026-11690-8",
+      "type": "学术论文",
+      "title": "Artificial intelligence for weather and climate: a survey of methods, benchmarks, and scientific machine learning challenges",
+      "publisher": "Artificial Intelligence Review / Springer Nature",
+      "date": "2026-09-11",
+      "publishedDate": "2026-09-11",
+      "eventDate": "2026-09-11",
+      "dateNote": "开放获取同行评审论文在线发表；当前为可引用的早期版本，后续将替换为最终记录版",
+      "sector": "人工智能",
+      "tags": [
+        "天气与气候",
+        "科学机器学习",
+        "不确定性量化",
+        "基准设计",
+        "同行评审"
+      ],
+      "summary": "综述按物理归纳偏置梳理卷积网络、图神经网络、Transformer、神经算子与生成模型，并系统讨论表示学习、基础模型、不确定性量化和因果发现。作者重点识别RMSE平滑偏差、ERA5训练—评估循环、基准过拟合、气候非平稳下分布漂移和物理一致性等评估风险。",
+      "insight": "适合作为研究气候AI模型选择、验证方法与可信部署的最新方法综述；引用结论时需区分天气预测与长期气候投影。",
+      "url": "https://link.springer.com/article/10.1007/s10462-026-11690-8",
+      "featured": false
+    },
+    {
+      "id": "apec-energy-ministerial-joint-statement-2026",
+      "type": "政策报告",
+      "title": "2026 APEC Energy Ministerial Meeting Joint Statement",
+      "publisher": "Asia-Pacific Economic Cooperation (APEC)",
+      "date": "2026-09-11",
+      "publishedDate": "2026-09-11",
+      "eventDate": "2026-09-11",
+      "dateNote": "第16次APEC能源部长会议闭幕并发布联合声明",
+      "sector": "新能源",
+      "tags": [
+        "能源安全",
+        "人工智能+能源",
+        "供应链韧性",
+        "可再生能源"
+      ],
+      "summary": "APEC能源部长围绕高质量能源普惠、AI与能源双向赋能和能源安全协同形成联合声明，支持建立AI与能源专项任务组，并鼓励算力—能源协同、数字电网、关键基础设施韧性及可持续关键矿产供应链合作。",
+      "insight": "亚太21个经济体能源政策协调的最新部长级基线；文本明确为自愿、非约束性合作框架。",
+      "url": "https://www.apec.org/meeting-papers/sectoral-ministerial-meetings/energy/2026-apec-energy-ministerial-meeting",
+      "featured": true
+    },
+    {
+      "id": "apec-ai-energy-policy-recommendations-2026-2030",
+      "type": "政策指南",
+      "title": "APEC Policy Recommendations on the Mutual Enhancement Between AI and Energy in the Asia-Pacific (2026–2030)",
+      "publisher": "Asia-Pacific Economic Cooperation (APEC)",
+      "date": "2026-09-11",
+      "publishedDate": "2026-09-11",
+      "eventDate": "2026-09-11",
+      "dateNote": "APEC能源部长通过自愿、非约束性政策建议",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能+能源",
+        "数据中心",
+        "能源效率",
+        "网络安全",
+        "消费者保护"
+      ],
+      "summary": "政策建议覆盖算力设施与能源规划协同、AI计算能效和用能监测、零及低排放电力、AI赋能电网、网络安全与数据保护、标准合作、贸易便利化和当地能源可负担性。",
+      "insight": "可用于研究AI基础设施能源治理、跨境技术合作和数据中心外部性管理；执行由APEC能源工作组及新设专项任务组跟踪。",
+      "url": "https://www.apec.org/meeting-papers/sectoral-ministerial-meetings/energy/2026-apec-energy-ministerial-meeting/apec-policy-recommendations-on-the-mutual-enhancement-between-ai-and-energy-in-the-asia-pacific-%282026-2030%29",
+      "featured": true
+    },
     {
       "id": "enisa-cra-single-reporting-platform-faq-2026",
       "type": "政策指南",

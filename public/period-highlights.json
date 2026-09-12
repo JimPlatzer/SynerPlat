@@ -2,6 +2,15 @@
   "monthlyHighlights": [
     {
       "date": "09.11",
+      "title": "APEC通过AI与能源双向赋能政策建议并设立专项任务组",
+      "summary": "亚太能源部长级共识首次以2026—2030政策建议统筹算力与能源基础设施、计算能效、网络安全、消费者可负担性及跨境供应链合作，文本为自愿、非约束性。",
+      "sector": "人工智能",
+      "source": "Asia-Pacific Economic Cooperation (APEC)",
+      "url": "https://www.apec.org/meeting-papers/sectoral-ministerial-meetings/energy/2026-apec-energy-ministerial-meeting",
+      "score": 9
+    },
+    {
+      "date": "09.11",
       "title": "欧盟《网络韧性法》强制漏洞与事件报告义务生效",
       "summary": "数字产品制造商须通过单一平台在知悉已被主动利用漏洞或严重安全事件后24小时内预警、72小时内完整通知，并按情形提交最终报告。",
       "sector": "人工智能",
@@ -63,6 +72,15 @@
     {"date":"09.01","title":"国际海事组织船用柴油机氮氧化物控制程序修订生效","summary":"NOx Technical Code修订正式生效，涉及船用柴油机排放控制与认证程序，航运和相关设备企业需核查技术文件与合规流程。","sector":"高排放行业","source":"UK Government / IMO","url":"https://www.gov.uk/government/speeches/changes-to-international-maritime-law--2","score":8}
   ],
   "annualHighlights": [
+    {
+      "date": "09.11",
+      "title": "APEC建立AI—能源协同治理的部长级区域框架",
+      "summary": "21个APEC经济体通过联合声明和三项共识成果，把算力用能、AI赋能电网、能源安全、供应链韧性与消费者可负担性纳入同一自愿合作框架，并设立专项任务组。",
+      "sector": "人工智能",
+      "source": "Asia-Pacific Economic Cooperation (APEC)",
+      "url": "https://www.apec.org/meeting-papers/sectoral-ministerial-meetings/energy/2026-apec-energy-ministerial-meeting",
+      "score": 9
+    },
     {
       "date": "09.11",
       "title": "欧盟数字产品网络安全强制报告制度进入执行阶段",
