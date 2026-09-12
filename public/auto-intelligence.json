@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-11T07:15:26.763Z",
-  "weekRange": "2026.09.04—09.11",
+  "updatedAt": "2026-09-12T04:39:07.801Z",
+  "weekRange": "2026.09.05—09.12",
   "monthLabel": "2026年9月",
   "stories": [
     {
@@ -22,6 +22,40 @@
         "产品安全",
         "强制报告",
         "企业出海"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-responsible-technology-and-resilience-aga",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Responsible technology and resilience against hybrid threats: UK statement to the 32nd OSCE Economic and Environmental Forum",
+      "summary": "Ambassador Holland highlights responsible governance and multistakeholder cooperation are essential to harness frontier technologies while protecting human rights and public trust. The OSCE must strengthen early warning, add…",
+      "score": 6,
+      "publishedDate": "2026.09.11",
+      "eventDate": "2026.09.11",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/speeches/responsible-technology-and-resilience-against-hybrid-threats-uk-statement-to-the-32nd-osce-economic-and-environmental-forum",
+      "tags": [
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-the-united-kingdom-will-work-through-this",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "The United Kingdom will work through this Council to combat terrorism in all its forms: UK statement at the UN Security Council",
+      "summary": "Statement by Chris Elmore MP, Minister for the Americas, Multilateral, and Human Rights, at the UN Security Council meeting on threats to international peace and security caused by terrorist acts.",
+      "score": 6,
+      "publishedDate": "2026.09.11",
+      "eventDate": "2026.09.11",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/speeches/the-united-kingdom-will-work-through-this-council-to-combat-terrorism-in-all-its-forms-uk-statement-at-the-un-security-council",
+      "tags": [
+        "政策法规"
       ]
     },
     {
@@ -268,46 +302,6 @@
         "电网互联",
         "能源安全"
       ]
-    },
-    {
-      "id": "cn-digital-green-synergy-plan-2026",
-      "sector": "人工智能",
-      "relevance": "直接 ESG",
-      "event": "政策发布",
-      "title": "中国发布2026—2030年数字化绿色化协同转型实施方案",
-      "summary": "中央网信办等七部门9月4日发布实施方案，提出到2030年显著提升算力设施和5G基站能效，并推动重点算力设施可再生电力消费达到所在省份消纳责任权重。方案要求构建生成式AI全生命周期资源消耗评估体系，指导服务提供商主动披露大模型资源利用情况，同时推进碳排放、产品碳足迹、环境和能源数据互联。",
-      "score": 10,
-      "publishedDate": "2026.09.04",
-      "eventDate": "2026.09.04",
-      "dateNote": "七部门方案发布",
-      "source": "中央网信办等七部门",
-      "url": "https://www.cac.gov.cn/2026-09/04/c_1790271981772781.htm",
-      "tags": [
-        "绿色人工智能",
-        "算力能效",
-        "资源消耗披露",
-        "产品碳足迹"
-      ]
-    },
-    {
-      "id": "g20-innovation-ministerial-statement-2026",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "国际政策协调",
-      "title": "G20创新部长就AI标准、技能与产业供应链形成联合成果",
-      "summary": "G20创新部长9月2日在美国北卡罗来纳州形成联合声明，英国政府于9月4日发布原文。成果覆盖新兴技术创新政策框架、AI繁荣目标与契约、AI知识产权、以AI支持标准制定及AI标准，以及产业创新、投资与供应链；对跨境AI治理和技术企业出海具有直接政策信号。",
-      "score": 8,
-      "publishedDate": "2026.09.04",
-      "eventDate": "2026.09.02",
-      "dateNote": "9月2日部长会议形成声明，9月4日发布",
-      "source": "G20 / UK Department for Business and Trade",
-      "url": "https://www.gov.uk/government/publications/g20-innovation-ministerial-statement-2-september-2026",
-      "tags": [
-        "人工智能治理",
-        "技术标准",
-        "技能转型",
-        "供应链与出海"
-      ]
     }
   ],
   "watchlist": [
@@ -368,42 +362,6 @@
         "ESG技能",
         "披露监管",
         "同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-04906v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Methane Detection On Board Satellites from Unorthorectified Imagery",
-      "summary": "As a potent greenhouse gas, methane is a major driver of climate change. Its effective mitigation relies on timely detection. Conventional detection methods rely on orthorectification to correct geometric distortions and matched filters to enhance plume signals, which are steps designed for ground processing and poorly suited to onboard execution. We introdu…",
-      "score": 7,
-      "publishedDate": "2026.09.04",
-      "eventDate": "2026.09.04",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.04906v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-04632v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Impact of extremely high temperature on future photovoltaic power potential over East Asia",
-      "summary": "As global warming intensifies, the frequency and intensity of extremely high temperatures are expected to increase. This will impact the production of photovoltaics (PVs), which are increasingly adopted as an effective alternative to replace fossil fuel-based energy sources and reduce CO2 emissions. Furthermore, extremely high temperature days account for a…",
-      "score": 7,
-      "publishedDate": "2026.09.04",
-      "eventDate": "2026.09.04",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.04632v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
       ]
     },
     {
@@ -501,6 +459,24 @@
       ]
     },
     {
+      "id": "doi-10-1007-s40518-026-00295-y",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Adapting Regional Power Generation Mix to Climate Change: Global Efforts, Challenges, and Gaps",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.12",
+      "eventDate": "2026.09.12",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s40518-026-00295-y",
+      "tags": [
+        "气候与碳",
+        "同行评审状态待核"
+      ]
+    },
+    {
       "id": "eu-ipsf-sustainable-critical-raw-materials-workshop-2026",
       "sector": "高排放行业",
       "relevance": "直接 ESG",
@@ -519,6 +495,25 @@
         "负责任采矿",
         "转型金融",
         "核验数据"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s10462-026-11690-8",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Artificial intelligence for weather and climate: a survey of methods, benchmarks, and scientific machine learning challenges",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.11",
+      "eventDate": "2026.09.11",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s10462-026-11690-8",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "同行评审状态待核"
       ]
     },
     {
@@ -543,6 +538,14 @@
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s40518-026-00295-y",
+      "date": "2026-09-12",
+      "terms": [
+        "新兴行业",
+        "气候风险"
+      ]
+    },
     {
       "id": "period-digital-strategy-ec-europa-eu-en-policies-cra-reporting",
       "date": "2026-09-11",
@@ -569,6 +572,27 @@
         "政策监管",
         "绿色金融",
         "关键矿产"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-responsible-technology-and-resilience-aga",
+      "date": "2026-09-11",
+      "terms": [
+        "新兴行业"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-the-united-kingdom-will-work-through-this",
+      "date": "2026-09-11",
+      "terms": [
+        "新兴行业"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s10462-026-11690-8",
+      "date": "2026-09-11",
+      "terms": [
+        "人工智能"
       ]
     },
     {
@@ -618,10 +642,10 @@
       "date": "2026-09-10",
       "terms": [
         "新能源",
+        "政策监管",
         "能源转型",
         "电力系统",
-        "供应链与出海",
-        "工作论文"
+        "供应链与出海"
       ]
     },
     {
@@ -803,7 +827,8 @@
       "date": "2026-09-08",
       "terms": [
         "人工智能",
-        "能源转型"
+        "政策监管",
+        "电力系统"
       ]
     },
     {
@@ -1578,8 +1603,14 @@
   "sectorInsights": [
     [
       "人工智能",
-      "过去七日保留 6 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      6,
+      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      4,
+      "→"
+    ],
+    [
+      "新兴行业",
+      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      4,
       "→"
     ],
     [
@@ -1595,12 +1626,6 @@
       "→"
     ],
     [
-      "新兴行业",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
-      "→"
-    ],
-    [
       "社会与住房",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
@@ -1610,8 +1635,8 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "人工智能、高排放行业、企业出海构成过去七日的主要行业信号",
-      "range": "2026.09.04—09.11",
+      "title": "人工智能、新兴行业、高排放行业构成过去七日的主要行业信号",
+      "range": "2026.09.05—09.12",
       "copy": "过去7天当前保留 15 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1620,26 +1645,22 @@
         ],
         [
           "政策监管",
-          9
+          10
         ],
         [
           "供应链与出海",
+          8
+        ],
+        [
+          "新兴行业",
           7
         ],
         [
           "高排放行业",
-          6
-        ],
-        [
-          "新兴行业",
           5
         ],
         [
-          "电力系统",
-          5
-        ],
-        [
-          "工作论文",
+          "企业出海",
           4
         ],
         [
@@ -1647,7 +1668,7 @@
           4
         ],
         [
-          "碳与排放",
+          "电力系统",
           4
         ],
         [
@@ -1659,27 +1680,27 @@
           4
         ],
         [
-          "企业出海",
-          4
-        ],
-        [
-          "数字化与数据",
-          4
-        ],
-        [
-          "气候风险",
-          4
-        ],
-        [
-          "能源效率",
-          4
-        ],
-        [
           "能源转型",
           4
         ],
         [
+          "工作论文",
+          3
+        ],
+        [
+          "数字化与数据",
+          3
+        ],
+        [
           "气候披露",
+          3
+        ],
+        [
+          "气候风险",
+          3
+        ],
+        [
+          "碳与排放",
           3
         ],
         [
@@ -1691,11 +1712,11 @@
           3
         ],
         [
-          "数据中心",
+          "污染防治",
           3
         ],
         [
-          "污染防治",
+          "能源效率",
           3
         ],
         [
@@ -1707,10 +1728,6 @@
           2
         ],
         [
-          "干旱与土地",
-          2
-        ],
-        [
           "气候适应",
           2
         ]
@@ -1719,8 +1736,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.12—09.11",
-      "copy": "过去30天词频基于 117 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.13—09.12",
+      "copy": "过去30天词频基于 121 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1740,7 +1757,7 @@
         ],
         [
           "绿色金融",
-          6
+          5
         ],
         [
           "供应链与出海",
@@ -1751,15 +1768,19 @@
           5
         ],
         [
-          "工作论文",
-          4
-        ],
-        [
           "电力系统",
           4
         ],
         [
+          "新兴行业",
+          4
+        ],
+        [
           "碳与排放",
+          4
+        ],
+        [
+          "工作论文",
           4
         ],
         [
@@ -1775,11 +1796,7 @@
           4
         ],
         [
-          "新兴行业",
-          4
-        ],
-        [
-          "能源转型",
+          "气候风险",
           4
         ],
         [
@@ -1787,11 +1804,11 @@
           3
         ],
         [
-          "气候风险",
+          "污染防治",
           3
         ],
         [
-          "污染防治",
+          "能源转型",
           3
         ],
         [
@@ -1861,7 +1878,7 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 8
+      "items": 7
     },
     {
       "source": "GOV.UK",
@@ -1871,7 +1888,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 30
+      "items": 31
     },
     {
       "source": "arXiv",
@@ -1879,7 +1896,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 10,
+  "verifiedCandidateCount": 14,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
