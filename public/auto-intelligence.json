@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-12T09:41:03.808Z",
-  "weekRange": "2026.09.05—09.12",
+  "updatedAt": "2026-09-13T04:52:48.438Z",
+  "weekRange": "2026.09.06—09.13",
   "monthLabel": "2026年9月",
   "stories": [
     {
@@ -487,6 +487,24 @@
       ]
     },
     {
+      "id": "doi-10-1007-s43621-026-04671-y",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Sustainability paradox of artificial intelligence adoption for workers’ wellbeing",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.12",
+      "eventDate": "2026.09.12",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04671-y",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
+      ]
+    },
+    {
       "id": "eu-ipsf-sustainable-critical-raw-materials-workshop-2026",
       "sector": "高排放行业",
       "relevance": "直接 ESG",
@@ -506,24 +524,6 @@
         "转型金融",
         "核验数据"
       ]
-    },
-    {
-      "id": "doi-10-1007-s11135-026-03090-5",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Artificial intelligence, economic complexity, and clean energy productivity as drivers of SDG-7 progress and ESG uncertainty",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.09.09",
-      "eventDate": "2026.09.09",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s11135-026-03090-5",
-      "tags": [
-        "人工智能",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
@@ -533,6 +533,13 @@
       "terms": [
         "新兴行业",
         "气候风险"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04671-y",
+      "date": "2026-09-12",
+      "terms": [
+        "人工智能"
       ]
     },
     {
@@ -685,14 +692,6 @@
       ]
     },
     {
-      "id": "doi-10-1007-s11135-026-03090-5",
-      "date": "2026-09-09",
-      "terms": [
-        "人工智能",
-        "能源转型"
-      ]
-    },
-    {
       "id": "doi-10-1007-s43621-026-04516-8",
       "date": "2026-09-09",
       "terms": [
@@ -821,6 +820,14 @@
       "terms": [
         "新兴行业",
         "供应链与出海"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s11135-026-03090-5",
+      "date": "2026-09-09",
+      "terms": [
+        "人工智能",
+        "能源转型"
       ]
     },
     {
@@ -974,13 +981,6 @@
     {
       "id": "doi-10-1007-s43621-026-04645-0",
       "date": "2026-09-06",
-      "terms": [
-        "人工智能"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04568-w",
-      "date": "2026-09-05",
       "terms": [
         "人工智能"
       ]
@@ -1589,7 +1589,7 @@
     "week": {
       "label": "过去一周总结",
       "title": "人工智能、高排放行业、企业出海构成过去七日的主要行业信号",
-      "range": "2026.09.05—09.12",
+      "range": "2026.09.06—09.13",
       "copy": "过去7天当前保留 14 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1693,7 +1693,7 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.13—09.12",
+      "range": "2026.08.14—09.13",
       "copy": "过去30天词频基于 114 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
@@ -1845,12 +1845,12 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 31
+      "items": 30
     },
     {
       "source": "arXiv",
-      "status": "ok",
-      "items": 40
+      "status": "error",
+      "message": "The operation was aborted due to timeout"
     }
   ],
   "verifiedCandidateCount": 11,
