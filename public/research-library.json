@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-09-13T04:52:48.438Z",
+  "updatedAt": "2026-09-13T09:47:57.773Z",
   "items": [
+    {
+      "id": "doi-10-1007-s43621-026-04668-7",
+      "type": "学术论文",
+      "title": "Smart and green technology capabilities shape environmental sustainability through resource efficiency under IT governance",
+      "publisher": "Discover Sustainability / Springer Nature",
+      "date": "2026-09-13",
+      "publishedDate": "2026-09-13",
+      "eventDate": "2026-09-13",
+      "dateNote": "开放获取同行评审论文在线发表；当前为可引用早期版本，后续将替换为最终记录版",
+      "sector": "新兴行业",
+      "tags": [
+        "绿色技术",
+        "资源效率",
+        "IT治理",
+        "智慧城市",
+        "同行评审"
+      ],
+      "summary": "研究以324名巴勒斯坦市政人员为样本，采用PLS-SEM检验智能技术整合、绿色技术开发能力、资源效率与IT治理之间的关系。模型结果显示，两类技术能力与环境可持续性及资源效率呈正向关联，IT治理强化了技术能力与资源效率之间的路径。",
+      "insight": "为资源受限城市的绿色数字化治理提供了新的实证线索；由于样本来自单一地区且采用横截面问卷与结构方程模型，引用时不应将关联路径解释为普遍因果结论。",
+      "url": "https://link.springer.com/article/10.1007/s43621-026-04668-7",
+      "featured": false
+    },
     {
       "id": "doi-10-1007-s10462-026-11690-8",
       "type": "学术论文",

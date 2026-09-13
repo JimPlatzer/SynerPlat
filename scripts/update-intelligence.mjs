@@ -48,7 +48,7 @@ function tagsFor(item){
 }
 function keywordTerms(item){
  const text=`${item.title||''} ${item.summary||''} ${(item.tags||[]).join(' ')}`;const terms=[item.sector||sectorFor(text)];
- for(const [pattern,label] of [[/policy|regulation|rule|directive|standard|政府|政策|监管|制度/i,'政策监管'],[/artificial intelligence|\bai\b|人工智能/i,'人工智能'],[/cyber|vulnerabilit|security incident|网络安全|漏洞|安全事件/i,'网络安全'],[/data cent(?:er|re)|数据中心|算力/i,'数据中心'],[/renewable|solar|wind|battery|hydrogen|可再生能源|光伏|风电|储能|氢能/i,'可再生能源'],[/energy transition|clean energy|能源转型|清洁电力/i,'能源转型'],[/electricity|grid|transmission|电力|电网|输电/i,'电力系统'],[/efficien|能效|能源效率/i,'能源效率'],[/climate change|climate risk|气候变化|气候风险/i,'气候风险'],[/carbon|emission|net[ -]?zero|碳市场|碳排放|净零|减排/i,'碳与排放'],[/(?:climate|carbon|sustainab|\bESG\b).{0,28}(?:disclosure|reporting)|(?:disclosure|reporting).{0,28}(?:climate|carbon|sustainab|\bESG\b)|(?:气候|碳|ESG|可持续).{0,12}(?:披露|报告)|披露监管/i,'气候披露'],[/digital|machine.readable|数字化|数据质量/i,'数字化与数据'],[/supply chain|trade|border|export|供应链|出海|跨境/i,'供应链与出海'],[/biodiversity|deforestation|nature|生物多样性|零毁林|自然风险/i,'自然与生物多样性'],[/drought|desertification|land degradation|干旱|土地退化/i,'干旱与土地'],[/climate.{0,24}(?:resilien|adaptation)|(?:resilien|adaptation).{0,24}climate|气候.{0,10}(?:韧性|适应)|(?:韧性|适应).{0,10}气候|生态韧性|城市韧性|洪水|flood/i,'气候适应'],[/pollution|air quality|污染|空气质量/i,'污染防治'],[/water|水资源|水效/i,'水资源'],[/finance|investment|taxonomy|金融|投资|资本/i,'绿色金融'],[/critical mineral|关键矿产/i,'关键矿产'],[/just transition|economic security|compensation|公正转型|经济安全|补偿/i,'公正转型'],[/working paper|preprint|arxiv|工作论文|预印本/i,'工作论文'],[/journal|doi|systematic review|学术论文|系统综述/i,'学术研究']])if(pattern.test(text))terms.push(label);
+ for(const [pattern,label] of [[/policy|regulation|rule|directive|standard|政府|政策|监管|制度/i,'政策监管'],[/artificial intelligence|\bai\b|人工智能/i,'人工智能'],[/cyber|vulnerabilit|security incident|网络安全|漏洞|安全事件/i,'网络安全'],[/data cent(?:er|re)|数据中心|算力/i,'数据中心'],[/renewable|solar|wind|battery|hydrogen|可再生能源|光伏|风电|储能|氢能/i,'可再生能源'],[/energy transition|clean energy|能源转型|清洁电力/i,'能源转型'],[/electricity|grid|transmission|电力|电网|输电/i,'电力系统'],[/efficien|能效|能源效率/i,'能源效率'],[/green technolog|resource efficien|绿色技术|资源效率/i,'绿色技术与资源效率'],[/IT governance|information technology governance|信息技术治理|IT治理/i,'数字治理'],[/climate change|climate risk|气候变化|气候风险/i,'气候风险'],[/carbon|emission|net[ -]?zero|碳市场|碳排放|净零|减排/i,'碳与排放'],[/(?:climate|carbon|sustainab|\bESG\b).{0,28}(?:disclosure|reporting)|(?:disclosure|reporting).{0,28}(?:climate|carbon|sustainab|\bESG\b)|(?:气候|碳|ESG|可持续).{0,12}(?:披露|报告)|披露监管/i,'气候披露'],[/digital|machine.readable|数字化|数据质量/i,'数字化与数据'],[/supply chain|trade|border|export|供应链|出海|跨境/i,'供应链与出海'],[/biodiversity|deforestation|nature|生物多样性|零毁林|自然风险/i,'自然与生物多样性'],[/drought|desertification|land degradation|干旱|土地退化/i,'干旱与土地'],[/climate.{0,24}(?:resilien|adaptation)|(?:resilien|adaptation).{0,24}climate|气候.{0,10}(?:韧性|适应)|(?:韧性|适应).{0,10}气候|生态韧性|城市韧性|洪水|flood/i,'气候适应'],[/pollution|air quality|污染|空气质量/i,'污染防治'],[/water|水资源|水效/i,'水资源'],[/finance|investment|taxonomy|金融|投资|资本/i,'绿色金融'],[/critical mineral|关键矿产/i,'关键矿产'],[/just transition|economic security|compensation|公正转型|经济安全|补偿/i,'公正转型'],[/working paper|preprint|arxiv|工作论文|预印本/i,'工作论文'],[/journal|doi|systematic review|学术论文|系统综述/i,'学术研究']])if(pattern.test(text))terms.push(label);
  return Array.from(new Set(terms.filter(Boolean)));
 }
 function keywordWords(events){
@@ -72,7 +72,14 @@ function fallbackEditorial(candidates,previous){
  return {stories,resources,sectorInsights,summary,monthlyHighlights:highlights,annualHighlights:highlights.filter(item=>item.score>=9)};
 }
 
-async function fetchText(url,options={}){const response=await fetch(url,{...options,headers:{'user-agent':'SynerPlat-ESG-Intelligence/1.0 (+https://github.com/JimPlatzer/SynerPlat)',...(options.headers||{})},signal:AbortSignal.timeout(20000)});if(!response.ok)throw new Error(`${response.status} ${url}`);return response.text()}
+async function fetchText(url,options={}){
+ const {timeoutMs=20000,retries=0,retryDelayMs=1000,...requestOptions}=options;let lastError;
+ for(let attempt=0;attempt<=retries;attempt++){
+  try{const response=await fetch(url,{...requestOptions,headers:{'user-agent':'SynerPlat-ESG-Intelligence/1.0 (+https://github.com/JimPlatzer/SynerPlat)',...(requestOptions.headers||{})},signal:AbortSignal.timeout(timeoutMs)});if(!response.ok){const error=new Error(`${response.status} ${url}`);error.status=response.status;throw error}return response.text()}
+  catch(error){lastError=error;const retryable=!error.status||error.status>=500;if(attempt<retries&&retryable)await new Promise(resolve=>setTimeout(resolve,retryDelayMs));else break}
+ }
+ throw lastError;
+}
 async function fetchJson(url,options={}){return JSON.parse(await fetchText(url,options))}
 
 async function collectFederalRegister(){
@@ -111,7 +118,7 @@ async function collectCrossref(){
 async function collectArxiv(){
  const start=weekStart.replaceAll('-','')+'0000';const end=endDate.replaceAll('-','')+'2359';
  const search=`submittedDate:[${start} TO ${end}] AND (all:climate OR all:sustainability OR all:emissions OR all:"energy transition" OR all:ESG)`;
- const xml=await fetchText(`https://export.arxiv.org/api/query?search_query=${encodeURIComponent(search)}&start=0&max_results=40&sortBy=submittedDate&sortOrder=descending`);
+ const xml=await fetchText(`https://export.arxiv.org/api/query?search_query=${encodeURIComponent(search)}&start=0&max_results=40&sortBy=submittedDate&sortOrder=descending`,{timeoutMs:30000,retries:1,retryDelayMs:10000});
  return (xml.match(/<entry[\s\S]*?<\/entry>/gi)||[]).map(entry=>{const url=tag(entry,'id');const published=dateParts(tag(entry,'published'));return {candidateId:`arxiv-${idFor(url)}`,source:'arXiv',publisher:'arXiv',sourceType:'preprint',title:tag(entry,'title'),summary:tag(entry,'summary'),publishedDate:published,eventDate:published,dateNote:'预印本发布',url,peerReviewed:false}});
 }
 
