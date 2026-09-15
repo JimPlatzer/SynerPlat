@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T04:58:12.262Z",
+  "updatedAt": "2026-09-15T05:28:22.715Z",
   "weekRange": "2026.09.08—09.15",
   "monthLabel": "2026年9月",
   "stories": [
@@ -7,18 +7,21 @@
       "id": "doi-10-3389-fsuep-2026-1946675",
       "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "学术研究",
+      "event": "同行评审研究",
       "title": "Governance thresholds, financial intermediation and the renewable energy transition: implications for sustainable development in Sub-Saharan Africa",
-      "summary": "This study develops an institutional-complementarity framework to test whether governance quality shapes the developmental effectiveness of financial intermediation and the renewable energy transition in Sub-Saharan Africa. Using an unbalanced panel of 35 countries (2005–2023), we apply second-generation unit-root and cointegration tests, two-step system GMM…",
+      "summary": "研究使用35个撒哈拉以南非洲国家2005—2023年的非平衡面板，结合系统GMM、Hansen门槛模型等方法，考察金融中介、可再生能源与治理质量的关系。结果显示，金融中介与可持续发展呈正向关联；在传统生物质占比较高的样本中，可再生能源变量的约化形式系数为负；治理质量超过−0.421门槛后，金融中介的相关作用约为门槛以下的4倍。该结果为区域面板关联研究，不宜外推为全球因果结论。",
       "score": 8,
       "publishedDate": "2026.09.15",
       "eventDate": "2026.09.15",
-      "dateNote": "论文发表",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/fsuep.2026.1946675",
+      "dateNote": "Crossref元数据记录在线发表日期为2026年9月15日；Frontiers原始页显示2026年8月21日接收并已完成两位匿名审稿人评审，最终排版版本待发布",
+      "source": "Frontiers in Sustainable Energy Policy",
+      "url": "https://www.frontiersin.org/journals/sustainable-energy-policy/articles/10.3389/fsuep.2026.1946675/abstract",
       "tags": [
-        "能源转型",
-        "同行评审状态待核"
+        "撒哈拉以南非洲",
+        "可再生能源",
+        "金融中介",
+        "治理门槛",
+        "同行评审"
       ]
     },
     {
@@ -46,19 +49,21 @@
       "id": "govuk-www-gov-uk-government-news-morgan-and-morecambe-offshore-wind-farms-tran",
       "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Morgan and Morecambe Offshore Wind Farms Transmission Assets development consent decision announced",
-      "summary": "The Morgan and Morecambe Offshore Wind Farms Transmission Assets DCO application has today been granted development consent by the Department for Energy Security and Net Zero",
-      "score": 6,
+      "event": "开发许可",
+      "title": "英国批准Morgan与Morecambe海上风电配套输电资产开发许可",
+      "summary": "英国能源安全与净零部9月14日批准Morgan与Morecambe海上风电场输电资产开发许可令，范围包括海上输出电缆、登陆点、陆上电缆、变电站及并网设施。该决定针对配套输电基础设施许可，不等同于新增发电装机容量获批；申请于2024年10月21日提交，规划监察机构于2026年1月29日提交审查建议。",
+      "score": 8,
       "publishedDate": "2026.09.14",
       "eventDate": "2026.09.14",
-      "dateNote": "发布",
-      "source": "UK Government",
+      "dateNote": "开发许可令获批并发布决定；申请于2024年10月21日提交，审查建议于2026年1月29日送交国务大臣",
+      "source": "UK Planning Inspectorate / Department for Energy Security and Net Zero",
       "url": "https://www.gov.uk/government/news/morgan-and-morecambe-offshore-wind-farms-transmission-assets-development-consent-decision-announced",
       "tags": [
-        "能源转型",
-        "气候与碳",
-        "政策法规"
+        "海上风电",
+        "输电基础设施",
+        "开发许可",
+        "英国能源转型",
+        "社区参与"
       ]
     },
     {
@@ -315,18 +320,21 @@
       "id": "doi-10-1007-s43621-026-04524-8",
       "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "学术研究",
+      "event": "同行评审研究",
       "title": "Human development renewable energy and globalization as drivers of sustainable development in new BRICS economies",
-      "summary": "Abstract This study examines the effects of economic growth, renewable energy consumption, globalization, and human development on the Sustainable Development Index in selected New BRICS countries, namely Brazil, Russia, India, China, Egypt, Ethiopia, Iran, the United Arab Emirates, Indonesia, Saudi Arabia, and South Africa, over the period 2000–2022. Method…",
+      "summary": "研究覆盖11个金砖扩员国家2000—2022年数据，使用PANIC Fourier单位根、Westerlund–Edgerton协整与AMG估计。结果显示，人类发展和可再生能源消费与可持续发展指数呈正向关联，全球化变量呈负向关联；作者据此建议将人力资本、清洁能源投资与全球化风险治理纳入协同政策。",
       "score": 7,
       "publishedDate": "2026.09.12",
       "eventDate": "2026.09.12",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04524-8",
+      "dateNote": "开放获取同行评审论文于2026年9月12日在线发表；当前为可引用的已接受早期版本，后续将替换为最终记录版",
+      "source": "Discover Sustainability / Springer Nature",
+      "url": "https://link.springer.com/article/10.1007/s43621-026-04524-8",
       "tags": [
-        "能源转型",
-        "同行评审状态待核"
+        "金砖扩员国家",
+        "可再生能源",
+        "人类发展",
+        "全球化",
+        "同行评审"
       ]
     },
     {
@@ -509,21 +517,21 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-08383v1",
-      "sector": "高排放行业",
+      "id": "doi-10-1007-s40518-026-00295-y",
+      "sector": "新兴行业",
       "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "GCMagicc v1: a fast generative emulator for multivariate climate-impact ensembles",
-      "summary": "Projecting the impacts of climate change requires large ensembles of climate variables that match historical observations, align with the warming ranges assessed by the IPCC, and can efficiently run new future emissions scenarios, including the newest generation of climate model scenarios (CMIP7) and pathways consistent with countries' Paris Agreement pledge…",
-      "score": 6,
-      "publishedDate": "2026.09.08",
-      "eventDate": "2026.09.08",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.08383v1",
+      "event": "学术研究",
+      "title": "Adapting Regional Power Generation Mix to Climate Change: Global Efforts, Challenges, and Gaps",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.12",
+      "eventDate": "2026.09.12",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s40518-026-00295-y",
       "tags": [
         "气候与碳",
-        "预印本·非同行评审"
+        "同行评审状态待核"
       ]
     }
   ],
@@ -534,7 +542,8 @@
       "terms": [
         "新能源",
         "可再生能源",
-        "能源转型"
+        "能源转型",
+        "绿色金融"
       ]
     },
     {
@@ -564,7 +573,6 @@
       "date": "2026-09-14",
       "terms": [
         "新能源",
-        "政策监管",
         "可再生能源",
         "能源转型",
         "电力系统",
@@ -586,8 +594,9 @@
       "date": "2026-09-12",
       "terms": [
         "新能源",
+        "政策监管",
         "可再生能源",
-        "能源转型"
+        "绿色金融"
       ]
     },
     {
@@ -1667,11 +1676,11 @@
           4
         ],
         [
-          "能源转型",
+          "电力系统",
           4
         ],
         [
-          "电力系统",
+          "能源转型",
           4
         ],
         [
@@ -1680,6 +1689,10 @@
         ],
         [
           "可再生能源",
+          4
+        ],
+        [
+          "绿色金融",
           4
         ],
         [
@@ -1704,10 +1717,6 @@
         ],
         [
           "气候披露",
-          3
-        ],
-        [
-          "绿色金融",
           3
         ],
         [
@@ -1787,15 +1796,15 @@
           6
         ],
         [
+          "绿色金融",
+          5
+        ],
+        [
           "可再生能源",
           5
         ],
         [
           "电力系统",
-          5
-        ],
-        [
-          "绿色金融",
           5
         ],
         [
@@ -1823,11 +1832,11 @@
           4
         ],
         [
-          "能源转型",
+          "气候风险",
           4
         ],
         [
-          "气候风险",
+          "能源转型",
           4
         ],
         [
@@ -1914,7 +1923,7 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 8
+      "items": 10
     },
     {
       "source": "GOV.UK",

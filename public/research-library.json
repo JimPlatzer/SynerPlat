@@ -1,42 +1,48 @@
 {
-  "updatedAt": "2026-09-15T04:58:12.262Z",
+  "updatedAt": "2026-09-15T05:28:22.715Z",
   "items": [
     {
       "id": "doi-10-3389-fsuep-2026-1946675",
       "type": "学术论文",
       "title": "Governance thresholds, financial intermediation and the renewable energy transition: implications for sustainable development in Sub-Saharan Africa",
-      "publisher": "Frontiers Media SA",
+      "publisher": "Frontiers in Sustainable Energy Policy",
       "date": "2026-09-15",
       "publishedDate": "2026-09-15",
       "eventDate": "2026-09-15",
-      "dateNote": "论文发表",
+      "dateNote": "Crossref元数据记录在线发表日期为2026年9月15日；Frontiers原始页显示2026年8月21日接收并已完成两位匿名审稿人评审，最终排版版本待发布",
       "sector": "新能源",
       "tags": [
-        "能源转型",
-        "同行评审状态待核"
+        "撒哈拉以南非洲",
+        "可再生能源",
+        "金融中介",
+        "治理门槛",
+        "同行评审"
       ],
-      "summary": "This study develops an institutional-complementarity framework to test whether governance quality shapes the developmental effectiveness of financial intermediation and the renewable energy transition in Sub-Saharan Africa. Using an unbalanced panel of 35 countries (2005–2023), we apply second-generation unit-root and cointegration tests, two-step system GMM…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "https://doi.org/10.3389/fsuep.2026.1946675",
+      "summary": "研究使用35个撒哈拉以南非洲国家2005—2023年的非平衡面板，结合系统GMM、Hansen门槛模型等方法，考察金融中介、可再生能源与治理质量的关系。结果显示，金融中介与可持续发展呈正向关联；在传统生物质占比较高的样本中，可再生能源变量的约化形式系数为负；治理质量超过−0.421门槛后，金融中介的相关作用约为门槛以下的4倍。",
+      "insight": "治理质量可能决定金融资源能否转化为可持续发展收益；结论来自区域面板关联，研究写作中不宜将其表述为全球或单一政策的因果效应。",
+      "url": "https://www.frontiersin.org/journals/sustainable-energy-policy/articles/10.3389/fsuep.2026.1946675/abstract",
       "featured": false
     },
     {
       "id": "doi-10-1007-s43621-026-04524-8",
       "type": "学术论文",
       "title": "Human development renewable energy and globalization as drivers of sustainable development in new BRICS economies",
-      "publisher": "Springer Science and Business Media LLC",
+      "publisher": "Discover Sustainability / Springer Nature",
       "date": "2026-09-12",
       "publishedDate": "2026-09-12",
       "eventDate": "2026-09-12",
-      "dateNote": "论文发表",
+      "dateNote": "开放获取同行评审论文于2026年9月12日在线发表；当前为可引用的已接受早期版本，后续将替换为最终记录版",
       "sector": "新能源",
       "tags": [
-        "能源转型",
-        "同行评审状态待核"
+        "金砖扩员国家",
+        "可再生能源",
+        "人类发展",
+        "全球化",
+        "同行评审"
       ],
-      "summary": "Abstract This study examines the effects of economic growth, renewable energy consumption, globalization, and human development on the Sustainable Development Index in selected New BRICS countries, namely Brazil, Russia, India, China, Egypt, Ethiopia, Iran, the United Arab Emirates, Indonesia, Saudi Arabia, and South Africa, over the period 2000–2022. Method…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "https://doi.org/10.1007/s43621-026-04524-8",
+      "summary": "研究覆盖11个金砖扩员国家2000—2022年数据，使用PANIC Fourier单位根、Westerlund–Edgerton协整与AMG估计。结果显示，人类发展和可再生能源消费与可持续发展指数呈正向关联，全球化变量呈负向关联；作者据此建议将人力资本、清洁能源投资与全球化风险治理纳入协同政策。",
+      "insight": "可将人类发展与可再生能源视为新兴经济体可持续政策的协同变量，但跨国面板关联不能替代国别政策评估，全球化的负向结果也需结合指标构造与样本期解释。",
+      "url": "https://link.springer.com/article/10.1007/s43621-026-04524-8",
       "featured": false
     },
     {
