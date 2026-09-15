@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-09-14T05:00:05.935Z",
-  "weekRange": "2026.09.07—09.14",
+  "updatedAt": "2026-09-15T04:58:12.262Z",
+  "weekRange": "2026.09.08—09.15",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "doi-10-3389-fsuep-2026-1946675",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Governance thresholds, financial intermediation and the renewable energy transition: implications for sustainable development in Sub-Saharan Africa",
+      "summary": "This study develops an institutional-complementarity framework to test whether governance quality shapes the developmental effectiveness of financial intermediation and the renewable energy transition in Sub-Saharan Africa. Using an unbalanced panel of 35 countries (2005–2023), we apply second-generation unit-root and cointegration tests, two-step system GMM…",
+      "score": 8,
+      "publishedDate": "2026.09.15",
+      "eventDate": "2026.09.15",
+      "dateNote": "论文发表",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/fsuep.2026.1946675",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-uk-and-us-fusion-strike-partnership-to-accele",
       "sector": "人工智能",
@@ -22,6 +40,25 @@
         "高性能计算",
         "监管合作",
         "跨境投资"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-morgan-and-morecambe-offshore-wind-farms-tran",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Morgan and Morecambe Offshore Wind Farms Transmission Assets development consent decision announced",
+      "summary": "The Morgan and Morecambe Offshore Wind Farms Transmission Assets DCO application has today been granted development consent by the Department for Energy Security and Net Zero",
+      "score": 6,
+      "publishedDate": "2026.09.14",
+      "eventDate": "2026.09.14",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/morgan-and-morecambe-offshore-wind-farms-transmission-assets-development-consent-decision-announced",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "政策法规"
       ]
     },
     {
@@ -250,66 +287,6 @@
         "造纸行业",
         "人工智能"
       ]
-    },
-    {
-      "id": "unep-hidden-assets-clean-air-2026",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "权威报告",
-      "title": "UNEP：气候与清洁空气协同行动每投入1美元可产生约15美元收益",
-      "summary": "UNEP与气候和清洁空气联盟9月7日发布首份全球综合经济评估，测算同步实施25项气候与空气污染措施，每投入1美元可产生约15美元市场与非市场收益；即使不计非市场福利，回报仍约为4比1。报告称每拖延一年将损失每年逾1.5万亿美元收益，并建议把能源、工业、交通、农业、居民用能和废弃物治理纳入协同规划、执法与融资。",
-      "score": 10,
-      "publishedDate": "2026.09.07",
-      "eventDate": "2026.09.07",
-      "dateNote": "报告发布",
-      "source": "UN Environment Programme / Climate and Clean Air Coalition",
-      "url": "https://www.unep.org/news-and-stories/press-release/un-every-us1-invested-climate-and-clean-air-action-can-return-us15",
-      "tags": [
-        "空气质量",
-        "气候经济学",
-        "甲烷",
-        "污染防治"
-      ]
-    },
-    {
-      "id": "eu-yara-sluiskil-industrial-ccs-2026",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "项目投运",
-      "title": "欧洲最大商业工业碳捕集与封存设施投入运行",
-      "summary": "欧盟委员会9月7日确认，荷兰Yara Sluiskil氨与化肥工厂的商业CCS设施开始运行，预计每年捕集并液化最多80万吨二氧化碳，经船运至挪威Northern Lights设施永久封存。项目预计15年封存约1200万吨二氧化碳，是欧盟—挪威跨境碳管理基础设施和高排放行业减排的重要落地案例。",
-      "score": 9,
-      "publishedDate": "2026.09.07",
-      "eventDate": "2026.09.07",
-      "dateNote": "设施投运",
-      "source": "European Commission",
-      "url": "https://energy.ec.europa.eu/news/commission-inaugurates-europes-largest-industrial-carbon-capture-and-storage-facility-netherlands-2026-09-07_en",
-      "tags": [
-        "CCS",
-        "氨与化肥",
-        "跨境运输",
-        "工业减排"
-      ]
-    },
-    {
-      "id": "eib-elia-energy-island-green-credit-2026",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "绿色融资",
-      "title": "欧洲投资银行向比利时能源岛提供10亿欧元绿色信贷",
-      "summary": "欧洲投资银行9月7日宣布向Elia Transmission Belgium提供10亿欧元绿色信贷，用于Princess Elisabeth能源岛第二阶段，这是EIB在比荷卢地区规模最大的能源基础设施贷款。资金将支持海上高压变电、变压器和陆上连接，释放新的海上风电并为未来英比互联线创造条件；首笔提款已于7月底完成。",
-      "score": 8,
-      "publishedDate": "2026.09.07",
-      "eventDate": "2026.09.07",
-      "dateNote": "融资公告发布；首笔提款已于7月底完成",
-      "source": "European Investment Bank",
-      "url": "https://www.eib.org/en/press/news/news-elia-transmission-belgium-obtient-une-facilite-de-credit-verte-de-eur1-milliard-de-la-banque-europeenne-d-investissement-pour-son-projet-de-l-ile-princesse-elisabeth",
-      "tags": [
-        "绿色信贷",
-        "海上风电",
-        "电网互联",
-        "能源安全"
-      ]
     }
   ],
   "watchlist": [
@@ -332,6 +309,24 @@
         "IT治理",
         "智慧城市",
         "同行评审"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04524-8",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Human development renewable energy and globalization as drivers of sustainable development in new BRICS economies",
+      "summary": "Abstract This study examines the effects of economic growth, renewable energy consumption, globalization, and human development on the Sustainable Development Index in selected New BRICS countries, namely Brazil, Russia, India, China, Egypt, Ethiopia, Iran, the United Arab Emirates, Indonesia, Saudi Arabia, and South Africa, over the period 2000–2022. Method…",
+      "score": 7,
+      "publishedDate": "2026.09.12",
+      "eventDate": "2026.09.12",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04524-8",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
       ]
     },
     {
@@ -530,27 +525,18 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "doi-10-1007-s40518-026-00295-y",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Adapting Regional Power Generation Mix to Climate Change: Global Efforts, Challenges, and Gaps",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.09.12",
-      "eventDate": "2026.09.12",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s40518-026-00295-y",
-      "tags": [
-        "气候与碳",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-3389-fsuep-2026-1946675",
+      "date": "2026-09-15",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-uk-and-us-fusion-strike-partnership-to-accele",
       "date": "2026-09-14",
@@ -574,6 +560,18 @@
       ]
     },
     {
+      "id": "govuk-www-gov-uk-government-news-morgan-and-morecambe-offshore-wind-farms-tran",
+      "date": "2026-09-14",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "可再生能源",
+        "能源转型",
+        "电力系统",
+        "碳与排放"
+      ]
+    },
+    {
       "id": "doi-10-1007-s43621-026-04668-7",
       "date": "2026-09-13",
       "terms": [
@@ -581,6 +579,15 @@
         "能源效率",
         "绿色技术与资源效率",
         "数字治理"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04524-8",
+      "date": "2026-09-12",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型"
       ]
     },
     {
@@ -685,6 +692,15 @@
       ]
     },
     {
+      "id": "doi-10-1007-s43621-026-04679-4",
+      "date": "2026-09-11",
+      "terms": [
+        "新能源",
+        "能源转型",
+        "碳与排放"
+      ]
+    },
+    {
       "id": "uk-ai-healthcare-regulation-report-2026",
       "date": "2026-09-10",
       "terms": [
@@ -744,6 +760,13 @@
         "政策监管",
         "网络安全",
         "供应链与出海"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04611-w",
+      "date": "2026-09-10",
+      "terms": [
+        "人工智能"
       ]
     },
     {
@@ -1592,12 +1615,6 @@
       "→"
     ],
     [
-      "高排放行业",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
-      "→"
-    ],
-    [
       "企业出海",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
@@ -1605,6 +1622,12 @@
     ],
     [
       "新兴行业",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
+      "→"
+    ],
+    [
+      "新能源",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
@@ -1619,9 +1642,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "人工智能、高排放行业、企业出海构成过去七日的主要行业信号",
-      "range": "2026.09.07—09.14",
-      "copy": "过去7天当前保留 15 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "人工智能、企业出海、新兴行业构成过去七日的主要行业信号",
+      "range": "2026.09.08—09.15",
+      "copy": "过去7天当前保留 14 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "人工智能",
@@ -1633,26 +1656,30 @@
         ],
         [
           "供应链与出海",
-          8
+          7
         ],
         [
           "新兴行业",
-          5
+          4
+        ],
+        [
+          "新能源",
+          4
+        ],
+        [
+          "能源转型",
+          4
         ],
         [
           "电力系统",
-          5
-        ],
-        [
-          "高排放行业",
-          5
+          4
         ],
         [
           "企业出海",
           4
         ],
         [
-          "绿色金融",
+          "可再生能源",
           4
         ],
         [
@@ -1664,11 +1691,11 @@
           4
         ],
         [
-          "可再生能源",
+          "数据中心",
           4
         ],
         [
-          "数据中心",
+          "碳与排放",
           4
         ],
         [
@@ -1676,19 +1703,15 @@
           3
         ],
         [
-          "新能源",
-          3
-        ],
-        [
           "气候披露",
           3
         ],
         [
-          "碳与排放",
+          "绿色金融",
           3
         ],
         [
-          "能源转型",
+          "高排放行业",
           3
         ],
         [
@@ -1708,10 +1731,6 @@
           3
         ],
         [
-          "污染防治",
-          3
-        ],
-        [
           "绿色技术与资源效率",
           3
         ],
@@ -1728,6 +1747,10 @@
           2
         ],
         [
+          "污染防治",
+          2
+        ],
+        [
           "聚变能源",
           2
         ],
@@ -1740,8 +1763,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.15—09.14",
-      "copy": "过去30天词频基于 114 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.16—09.15",
+      "copy": "过去30天词频基于 119 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1761,10 +1784,10 @@
         ],
         [
           "新能源",
-          5
+          6
         ],
         [
-          "绿色金融",
+          "可再生能源",
           5
         ],
         [
@@ -1772,15 +1795,15 @@
           5
         ],
         [
-          "可再生能源",
+          "绿色金融",
+          5
+        ],
+        [
+          "碳与排放",
           4
         ],
         [
           "工作论文",
-          4
-        ],
-        [
-          "碳与排放",
           4
         ],
         [
@@ -1797,6 +1820,10 @@
         ],
         [
           "能源效率",
+          4
+        ],
+        [
+          "能源转型",
           4
         ],
         [
@@ -1825,10 +1852,6 @@
         ],
         [
           "网络安全",
-          3
-        ],
-        [
-          "能源转型",
           3
         ],
         [
@@ -1868,6 +1891,15 @@
   },
   "monthlyHighlights": [
     {
+      "date": "09.15",
+      "title": "Governance thresholds, financial intermediation and the renewable energy transition: implications for sustainable development in Sub-Saharan Africa",
+      "summary": "This study develops an institutional-complementarity framework to test whether governance quality shapes the developmental effectiveness of financial intermediation and the renewable energy transition in Sub-Saharan Africa. Using an unbalanced panel of 35 countries (2005–2023), we apply second-generation unit-root and cointegration tests, two-step system GMM…",
+      "sector": "新能源",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/fsuep.2026.1946675",
+      "score": 8
+    },
+    {
       "date": "09.03",
       "title": "Investment boost for climate action and forest protection",
       "summary": "The UK has announced its intention to invest £400 million into the Tropical Forests Forever Facility (TFFF).",
@@ -1887,20 +1919,20 @@
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 46
+      "items": 47
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 28
+      "items": 32
     },
     {
       "source": "arXiv",
       "status": "error",
-      "message": "429 https://export.arxiv.org/api/query?search_query=submittedDate%3A%5B202609070000%20TO%20202609142359%5D%20AND%20(all%3Aclimate%20OR%20all%3Asustainability%20OR%20all%3Aemissions"
+      "message": "429 https://export.arxiv.org/api/query?search_query=submittedDate%3A%5B202609080000%20TO%20202609152359%5D%20AND%20(all%3Aclimate%20OR%20all%3Asustainability%20OR%20all%3Aemissions"
     }
   ],
-  "verifiedCandidateCount": 10,
+  "verifiedCandidateCount": 15,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

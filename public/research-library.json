@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-14T05:00:05.935Z",
+  "updatedAt": "2026-09-15T04:58:12.262Z",
   "items": [
+    {
+      "id": "doi-10-3389-fsuep-2026-1946675",
+      "type": "学术论文",
+      "title": "Governance thresholds, financial intermediation and the renewable energy transition: implications for sustainable development in Sub-Saharan Africa",
+      "publisher": "Frontiers Media SA",
+      "date": "2026-09-15",
+      "publishedDate": "2026-09-15",
+      "eventDate": "2026-09-15",
+      "dateNote": "论文发表",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ],
+      "summary": "This study develops an institutional-complementarity framework to test whether governance quality shapes the developmental effectiveness of financial intermediation and the renewable energy transition in Sub-Saharan Africa. Using an unbalanced panel of 35 countries (2005–2023), we apply second-generation unit-root and cointegration tests, two-step system GMM…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.3389/fsuep.2026.1946675",
+      "featured": false
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04524-8",
+      "type": "学术论文",
+      "title": "Human development renewable energy and globalization as drivers of sustainable development in new BRICS economies",
+      "publisher": "Springer Science and Business Media LLC",
+      "date": "2026-09-12",
+      "publishedDate": "2026-09-12",
+      "eventDate": "2026-09-12",
+      "dateNote": "论文发表",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ],
+      "summary": "Abstract This study examines the effects of economic growth, renewable energy consumption, globalization, and human development on the Sustainable Development Index in selected New BRICS countries, namely Brazil, Russia, India, China, Egypt, Ethiopia, Iran, the United Arab Emirates, Indonesia, Saudi Arabia, and South Africa, over the period 2000–2022. Method…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.1007/s43621-026-04524-8",
+      "featured": false
+    },
     {
       "id": "doi-10-1007-s43621-026-04668-7",
       "type": "学术论文",
