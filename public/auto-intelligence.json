@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-09-15T05:28:22.715Z",
-  "weekRange": "2026.09.08—09.15",
+  "updatedAt": "2026-09-16T02:55:04.346Z",
+  "weekRange": "2026.09.09—09.16",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "ec-eu-ets-saf-support-2025-allocation",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "碳市场激励",
+      "title": "欧盟以约4.3亿欧元ETS配额支持航空业使用可持续航空燃料",
+      "summary": "欧盟委员会9月15日披露，其于9月8日通过决定，向130家航空运营商分配约520万份欧盟碳排放交易体系配额，价值约4.3亿欧元，用于补贴2025年可持续航空燃料与化石航煤之间的价差。运营商申报的可持续航空燃料超过53万吨，委员会估算对应约170万吨二氧化碳减排；连同免交配额形成的1.35亿欧元激励，2025年支持总额约5.65亿欧元。该数据为制度执行结果，并不等同于全生命周期减排独立审计。",
+      "score": 8,
+      "publishedDate": "2026.09.15",
+      "eventDate": "2026.09.08",
+      "dateNote": "欧盟委员会于2026年9月8日通过配额分配决定，并于9月15日发布执行数据",
+      "source": "European Commission Directorate-General for Climate Action",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/over-eur400-million-eu-ets-support-given-airlines-using-sustainable-aviation-fuels-2025-2026-09-15_en",
+      "tags": [
+        "欧盟碳市场",
+        "可持续航空燃料",
+        "航空减排",
+        "碳价激励",
+        "高排放行业"
+      ]
+    },
     {
       "id": "doi-10-3389-fsuep-2026-1946675",
       "sector": "新能源",
@@ -212,86 +233,6 @@
         "境外实体",
         "关键基础设施"
       ]
-    },
-    {
-      "id": "eu-agri-food-innovation-strategy-2026",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "战略发布",
-      "title": "欧盟发布农业食品研发创新战略，统筹 AgRI 2040 与 Food 2040",
-      "summary": "欧盟委员会9月8日通过面向竞争力、韧性与可持续农业、林业、农村和食品系统的研发创新战略，把AgRI 2040与Food 2040纳入统一框架。六项共同优先方向覆盖粮食安全、自然资源与循环利用、公平和全球合作，并将人工智能、机器人、零污染与资源效率纳入2028—2034年地平线欧洲及相关竞争力基金的部署方向。",
-      "score": 9,
-      "publishedDate": "2026.09.08",
-      "eventDate": "2026.09.08",
-      "dateNote": "欧盟委员会通过战略文件",
-      "source": "European Commission",
-      "url": "https://agriculture.ec.europa.eu/media/news/commission-launches-agri-food-innovation-strategy-2026-09-08_en",
-      "tags": [
-        "农业食品",
-        "自然资源",
-        "循环经济",
-        "人工智能"
-      ]
-    },
-    {
-      "id": "eu-neuro-ai-governance-statement-2026",
-      "sector": "人工智能",
-      "relevance": "直接 ESG",
-      "event": "治理建议",
-      "title": "欧盟伦理专家组提出 Neuro-AI 基础设施治理框架",
-      "summary": "欧盟科学与新技术伦理小组9月8日发布《Governing Neuro-AI》声明，建议把监管视角从单一设备和隐私扩展至神经数据收集、处理和再利用的整套基础设施。建议包括强化神经数据及推断保护、负责任开发脑基础模型、限制高影响场景中的不当控制、建立公共利益治理能力，并对现有欧盟规则开展针对性适用性评估。",
-      "score": 8,
-      "publishedDate": "2026.09.08",
-      "eventDate": "2026.09.08",
-      "dateNote": "伦理治理声明发布",
-      "source": "European Commission / European Group on Ethics",
-      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/experts-call-new-approach-neuro-ai-governance-2026-09-08_en",
-      "tags": [
-        "人工智能治理",
-        "神经数据",
-        "基本权利",
-        "数据隐私"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-minister-mccluskey-speech-on-ai-for-clean",
-      "sector": "人工智能",
-      "relevance": "直接 ESG",
-      "event": "政策路线",
-      "title": "英国发布清洁能源AI愿景并启动意见征集",
-      "summary": "英国政府9月8日发布清洁能源AI愿景并就AI如何提高效率、降低成本和强化能源安全征求意见，所得反馈将为计划于明年发布的《能源领域AI战略》奠定基础。政府同时发布电网AI部署独立评估，并把更好的数据、从试点到规模部署的路径、可信治理和技能能力列为当前四项关键障碍。",
-      "score": 8,
-      "publishedDate": "2026.09.08",
-      "eventDate": "2026.09.08",
-      "dateNote": "愿景与意见征集发布",
-      "source": "UK Department for Energy Security and Net Zero",
-      "url": "https://www.gov.uk/government/speeches/minister-mccluskey-speech-on-ai-for-clean-energy-vision",
-      "tags": [
-        "人工智能",
-        "电网",
-        "能源安全",
-        "可信治理"
-      ]
-    },
-    {
-      "id": "eu-finland-paper-workers-egf-2026",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "公正转型融资",
-      "title": "欧盟拟动用全球化调整基金支持芬兰造纸业失业劳动者转型",
-      "summary": "欧盟委员会9月8日提议动用110万欧元全球化调整基金，为芬兰四家造纸企业的351名被裁劳动者提供求职、培训、流动和创业支持，方案总成本180万欧元。提案仍需欧洲议会和理事会批准；措施还包括以AI试点识别当地岗位与技能需求，体现高排放和资源密集行业调整中的劳动者转型安排。",
-      "score": 7,
-      "publishedDate": "2026.09.08",
-      "eventDate": "2026.09.08",
-      "dateNote": "欧盟委员会提出资金动员方案；尚待批准",
-      "source": "European Commission",
-      "url": "https://employment-social-affairs.ec.europa.eu/news/commission-proposes-eur11-million-european-globalisation-adjustment-fund-support-dismissed-paper-2026-09-08_en",
-      "tags": [
-        "公正转型",
-        "劳动与技能",
-        "造纸行业",
-        "人工智能"
-      ]
     }
   ],
   "watchlist": [
@@ -338,6 +279,48 @@
       ]
     },
     {
+      "id": "doi-10-1007-s40518-026-00295-y",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "同行评审研究",
+      "title": "Adapting Regional Power Generation Mix to Climate Change: Global Efforts, Challenges, and Gaps",
+      "summary": "综述梳理将气候变化对电力供需的影响纳入能源系统优化、进而调整区域发电结构的研究。作者发现，受气候不利影响的技术仍可能因系统约束保留份额，模型与工具选择会显著改变适应方案，并指出全球南方的定量优化证据仍明显不足。",
+      "score": 7,
+      "publishedDate": "2026.09.12",
+      "eventDate": "2026.09.12",
+      "dateNote": "同行评审综述于2026年9月12日在线发表；原始页面提供摘要，全文为订阅内容",
+      "source": "Current Sustainable/Renewable Energy Reports / Springer Nature",
+      "url": "https://link.springer.com/article/10.1007/s40518-026-00295-y",
+      "tags": [
+        "电力系统",
+        "气候适应",
+        "发电结构",
+        "能源模型",
+        "同行评审"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04671-y",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "同行评审研究",
+      "title": "Sustainability paradox of artificial intelligence adoption for workers’ wellbeing",
+      "summary": "这篇概念性综述结合自我决定理论与恢复理论，提出组织以效率为目标采用AI时，可能通过削弱员工自主性、胜任感和关系感而损害心理福祉。作者将透明度、员工参与、AI素养培训与人类监督视为缓释机制，并明确指出该框架仍需在不同组织和文化环境中接受实证检验。",
+      "score": 7,
+      "publishedDate": "2026.09.12",
+      "eventDate": "2026.09.12",
+      "dateNote": "开放获取同行评审综述于2026年9月12日在线发表；当前为可引用的已接受早期版本，后续将替换为最终记录版",
+      "source": "Discover Sustainability / Springer Nature",
+      "url": "https://link.springer.com/article/10.1007/s43621-026-04671-y",
+      "tags": [
+        "人工智能治理",
+        "员工福祉",
+        "人本AI",
+        "劳动与技能",
+        "同行评审"
+      ]
+    },
+    {
       "id": "doi-10-1007-s10462-026-11690-8",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -378,6 +361,27 @@
       ]
     },
     {
+      "id": "doi-10-1186-s13705-026-00608-5",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "同行评审研究",
+      "title": "Assessing the drivers of green growth: an empirical investigation of green technological innovation, economic complexity, and investments in renewable energy in G20 countries",
+      "summary": "研究采用第二代面板检验和Driscoll–Kraay估计，考察G20经济体绿色创新、经济复杂度与可再生能源投资同绿色增长的关系。结果报告环境创新和经济复杂度分别与绿色增长呈显著正向关联，并估计1%的环境创新与约0.627%的绿色增长改善相关、1%的经济复杂度提升与约0.429%的绿色增长上升相关。",
+      "score": 7,
+      "publishedDate": "2026.09.10",
+      "eventDate": "2026.09.10",
+      "dateNote": "开放获取同行评审论文在线发表；当前为可引用的已接受早期版本，后续将替换为最终记录版",
+      "source": "Energy, Sustainability and Society / Springer Nature",
+      "url": "https://link.springer.com/article/10.1186/s13705-026-00608-5",
+      "tags": [
+        "G20",
+        "绿色增长",
+        "绿色技术创新",
+        "经济复杂度",
+        "同行评审"
+      ]
+    },
+    {
       "id": "doi-10-1007-s43621-026-04516-8",
       "sector": "绿色金融",
       "relevance": "直接 ESG",
@@ -396,27 +400,6 @@
         "披露与行动",
         "同行评审",
         "开放获取"
-      ]
-    },
-    {
-      "id": "doi-10-1057-s41310-026-00416-5",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "同行评审研究",
-      "title": "Does boardroom diversity improve ESG disclosures? Moderating role of ESG-skilled corporate boards in India",
-      "summary": "研究分析印度NSE 500中149家公司2013—2023年样本，发现董事会多样性仅在具有ESG技能董事的情况下与更好的ESG披露显著相关。",
-      "score": 7,
-      "publishedDate": "2026.09.08",
-      "eventDate": "2026.09.08",
-      "dateNote": "同行评审论文发表",
-      "source": "Springer Nature · International Journal of Disclosure and Governance",
-      "url": "https://link.springer.com/article/10.1057/s41310-026-00416-5",
-      "tags": [
-        "董事会多样性",
-        "ESG技能",
-        "公司治理",
-        "ESG披露",
-        "同行评审"
       ]
     },
     {
@@ -495,44 +478,6 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "eu-oil-supply-security-watch-2026",
-      "sector": "高排放行业",
-      "relevance": "间接 ESG",
-      "event": "市场与供应监测",
-      "title": "欧盟确认当前无石油供应短缺，但中东局势或继续收紧柴油与航煤市场",
-      "summary": "欧盟委员会、成员国、IEA、能源共同体、北约和行业代表9月8日评估认为，欧盟当前商业与应急库存充足，炼厂增产和替代进口仍能满足柴油与航煤需求。该结论不是长期安全保证：中东冲突和秋冬季需求可能在未来数周至数月继续推高波动并收紧市场。",
-      "score": 6,
-      "publishedDate": "2026.09.08",
-      "eventDate": "2026.09.08",
-      "dateNote": "欧盟石油协调组会议与评估发布",
-      "source": "European Commission Directorate-General for Energy",
-      "url": "https://energy.ec.europa.eu/news/oil-coordination-group-no-immediate-security-oil-supply-concerns-eu-2026-09-08_en",
-      "tags": [
-        "石油供应",
-        "能源安全",
-        "柴油与航煤",
-        "地缘风险"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s40518-026-00295-y",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Adapting Regional Power Generation Mix to Climate Change: Global Efforts, Challenges, and Gaps",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.09.12",
-      "eventDate": "2026.09.12",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s40518-026-00295-y",
-      "tags": [
-        "气候与碳",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
@@ -544,6 +489,23 @@
         "可再生能源",
         "能源转型",
         "绿色金融"
+      ]
+    },
+    {
+      "id": "ec-eu-ets-saf-support-2025-allocation",
+      "date": "2026-09-15",
+      "terms": [
+        "高排放行业",
+        "政策监管",
+        "碳与排放"
+      ]
+    },
+    {
+      "id": "period-climate-ec-europa-eu-news-other-reads-news-over-eur400-million-eu-ets-su",
+      "date": "2026-09-15",
+      "terms": [
+        "高排放行业",
+        "气候披露"
       ]
     },
     {
@@ -604,7 +566,9 @@
       "date": "2026-09-12",
       "terms": [
         "新兴行业",
-        "气候风险"
+        "电力系统",
+        "气候风险",
+        "气候适应"
       ]
     },
     {
@@ -772,6 +736,16 @@
       ]
     },
     {
+      "id": "doi-10-1186-s13705-026-00608-5",
+      "date": "2026-09-10",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "绿色技术与资源效率",
+        "绿色金融"
+      ]
+    },
+    {
       "id": "doi-10-1007-s43621-026-04611-w",
       "date": "2026-09-10",
       "terms": [
@@ -930,15 +904,6 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-speeches-minister-mccluskey-speech-on-ai-for-clean",
-      "date": "2026-09-08",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "电力系统"
-      ]
-    },
-    {
       "id": "doi-10-1057-s41310-026-00416-5",
       "date": "2026-09-08",
       "terms": [
@@ -966,17 +931,14 @@
       "date": "2026-09-08",
       "terms": [
         "新兴行业",
-        "人工智能",
-        "绿色技术与资源效率",
-        "污染防治"
+        "人工智能"
       ]
     },
     {
       "id": "eu-neuro-ai-governance-statement-2026",
       "date": "2026-09-08",
       "terms": [
-        "人工智能",
-        "政策监管"
+        "人工智能"
       ]
     },
     {
@@ -993,20 +955,6 @@
       "date": "2026-09-08",
       "terms": [
         "高排放行业"
-      ]
-    },
-    {
-      "id": "doi-10-1186-s43093-026-00970-y",
-      "date": "2026-09-08",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源",
-        "能源转型",
-        "能源效率",
-        "碳与排放",
-        "供应链与出海",
-        "绿色金融"
       ]
     },
     {
@@ -1619,8 +1567,8 @@
   "sectorInsights": [
     [
       "人工智能",
-      "过去七日保留 6 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      6,
+      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      4,
       "→"
     ],
     [
@@ -1630,15 +1578,15 @@
       "→"
     ],
     [
-      "新兴行业",
+      "新能源",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
     ],
     [
-      "新能源",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
+      "新兴行业",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
       "→"
     ],
     [
@@ -1651,16 +1599,16 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "人工智能、企业出海、新兴行业构成过去七日的主要行业信号",
-      "range": "2026.09.08—09.15",
-      "copy": "过去7天当前保留 14 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "人工智能、企业出海、新能源构成过去七日的主要行业信号",
+      "range": "2026.09.09—09.16",
+      "copy": "过去7天当前保留 11 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "人工智能",
+          "政策监管",
           10
         ],
         [
-          "政策监管",
+          "人工智能",
           9
         ],
         [
@@ -1668,27 +1616,19 @@
           7
         ],
         [
-          "新兴行业",
-          4
-        ],
-        [
           "新能源",
-          4
+          5
         ],
         [
           "电力系统",
-          4
-        ],
-        [
-          "能源转型",
-          4
-        ],
-        [
-          "企业出海",
-          4
+          5
         ],
         [
           "可再生能源",
+          4
+        ],
+        [
+          "新兴行业",
           4
         ],
         [
@@ -1700,7 +1640,11 @@
           4
         ],
         [
-          "能源效率",
+          "能源转型",
+          4
+        ],
+        [
+          "企业出海",
           4
         ],
         [
@@ -1708,19 +1652,15 @@
           4
         ],
         [
-          "碳与排放",
-          4
-        ],
-        [
-          "工作论文",
-          3
-        ],
-        [
           "气候披露",
           3
         ],
         [
-          "高排放行业",
+          "碳与排放",
+          3
+        ],
+        [
+          "能源效率",
           3
         ],
         [
@@ -1728,7 +1668,7 @@
           3
         ],
         [
-          "气候风险",
+          "工作论文",
           3
         ],
         [
@@ -1736,7 +1676,19 @@
           3
         ],
         [
+          "高排放行业",
+          3
+        ],
+        [
           "数字化与数据",
+          3
+        ],
+        [
+          "气候适应",
+          3
+        ],
+        [
+          "气候风险",
           3
         ],
         [
@@ -1744,19 +1696,7 @@
           3
         ],
         [
-          "公正转型",
-          2
-        ],
-        [
           "数字治理",
-          2
-        ],
-        [
-          "气候适应",
-          2
-        ],
-        [
-          "污染防治",
           2
         ],
         [
@@ -1772,8 +1712,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.16—09.15",
-      "copy": "过去30天词频基于 119 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.17—09.16",
+      "copy": "过去30天词频基于 120 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1784,11 +1724,11 @@
           9
         ],
         [
-          "供应链与出海",
+          "高排放行业",
           6
         ],
         [
-          "高排放行业",
+          "供应链与出海",
           6
         ],
         [
@@ -1816,11 +1756,11 @@
           4
         ],
         [
-          "企业出海",
+          "气候披露",
           4
         ],
         [
-          "气候披露",
+          "企业出海",
           4
         ],
         [
@@ -1828,15 +1768,11 @@
           4
         ],
         [
-          "能源效率",
-          4
-        ],
-        [
           "气候风险",
           4
         ],
         [
-          "能源转型",
+          "能源效率",
           4
         ],
         [
@@ -1852,11 +1788,15 @@
           3
         ],
         [
-          "污染防治",
+          "能源转型",
           3
         ],
         [
           "高风险行业",
+          3
+        ],
+        [
+          "污染防治",
           3
         ],
         [
@@ -1923,25 +1863,25 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 10
+      "items": 8
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 47
+      "items": 45
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 32
+      "items": 33
     },
     {
       "source": "arXiv",
-      "status": "error",
-      "message": "429 https://export.arxiv.org/api/query?search_query=submittedDate%3A%5B202609080000%20TO%20202609152359%5D%20AND%20(all%3Aclimate%20OR%20all%3Asustainability%20OR%20all%3Aemissions"
+      "status": "ok",
+      "items": 40
     }
   ],
-  "verifiedCandidateCount": 15,
+  "verifiedCandidateCount": 14,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

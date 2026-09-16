@@ -1,6 +1,15 @@
 {
   "monthlyHighlights": [
     {
+      "date": "09.15",
+      "title": "欧盟以ETS配额扩大可持续航空燃料支持",
+      "summary": "欧盟委员会披露向130家航空运营商分配约520万份配额，价值约4.3亿欧元；连同免交配额形成的激励，2025年支持总额约5.65亿欧元。",
+      "sector": "高排放行业",
+      "source": "European Commission Directorate-General for Climate Action",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/over-eur400-million-eu-ets-support-given-airlines-using-sustainable-aviation-fuels-2025-2026-09-15_en",
+      "score": 8
+    },
+    {
       "date": "09.11",
       "title": "APEC通过AI与能源双向赋能政策建议并设立专项任务组",
       "summary": "亚太能源部长级共识首次以2026—2030政策建议统筹算力与能源基础设施、计算能效、网络安全、消费者可负担性及跨境供应链合作，文本为自愿、非约束性。",

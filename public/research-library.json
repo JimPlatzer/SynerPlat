@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-09-15T05:28:22.715Z",
+  "updatedAt": "2026-09-16T02:55:04.346Z",
   "items": [
+    {
+      "id": "doi-10-1186-s13705-026-00608-5",
+      "type": "学术论文",
+      "title": "Assessing the drivers of green growth: an empirical investigation of green technological innovation, economic complexity, and investments in renewable energy in G20 countries",
+      "publisher": "Energy, Sustainability and Society / Springer Nature",
+      "date": "2026-09-10",
+      "publishedDate": "2026-09-10",
+      "eventDate": "2026-09-10",
+      "dateNote": "开放获取同行评审论文在线发表；当前为可引用的已接受早期版本，后续将替换为最终记录版",
+      "sector": "新能源",
+      "tags": [
+        "G20",
+        "绿色增长",
+        "绿色技术创新",
+        "经济复杂度",
+        "同行评审"
+      ],
+      "summary": "研究采用第二代面板检验和Driscoll–Kraay估计，考察G20经济体绿色创新、经济复杂度与可再生能源投资同绿色增长的关系。结果报告环境创新和经济复杂度分别与绿色增长呈显著正向关联，并估计1%的环境创新与约0.627%的绿色增长改善相关、1%的经济复杂度提升与约0.429%的绿色增长上升相关。",
+      "insight": "论文提供跨国绿色增长驱动因素的量化线索，但面板关联不应直接解释为单项政策的因果效应；国别差异、指标构造和样本期仍需在引用时说明。",
+      "url": "https://link.springer.com/article/10.1186/s13705-026-00608-5",
+      "featured": false
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04671-y",
+      "type": "学术论文",
+      "title": "Sustainability paradox of artificial intelligence adoption for workers’ wellbeing",
+      "publisher": "Discover Sustainability / Springer Nature",
+      "date": "2026-09-12",
+      "publishedDate": "2026-09-12",
+      "eventDate": "2026-09-12",
+      "dateNote": "开放获取同行评审综述于2026年9月12日在线发表；当前为可引用的已接受早期版本，后续将替换为最终记录版",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能治理",
+        "员工福祉",
+        "人本AI",
+        "劳动与技能",
+        "同行评审"
+      ],
+      "summary": "这篇概念性综述结合自我决定理论与恢复理论，提出组织以效率为目标采用AI时，可能通过削弱员工自主性、胜任感和关系感而损害心理福祉。作者将透明度、员工参与、AI素养培训与人类监督视为缓释机制，并明确指出该框架仍需在不同组织和文化环境中接受实证检验。",
+      "insight": "适合作为AI部署社会维度和员工尽职调查的理论框架，不应把其概念模型写成已证实的因果结论。",
+      "url": "https://link.springer.com/article/10.1007/s43621-026-04671-y",
+      "featured": false
+    },
+    {
+      "id": "doi-10-1007-s40518-026-00295-y",
+      "type": "学术论文",
+      "title": "Adapting Regional Power Generation Mix to Climate Change: Global Efforts, Challenges, and Gaps",
+      "publisher": "Current Sustainable/Renewable Energy Reports / Springer Nature",
+      "date": "2026-09-12",
+      "publishedDate": "2026-09-12",
+      "eventDate": "2026-09-12",
+      "dateNote": "同行评审综述于2026年9月12日在线发表；原始页面提供摘要，全文为订阅内容",
+      "sector": "新能源",
+      "tags": [
+        "电力系统",
+        "气候适应",
+        "发电结构",
+        "能源模型",
+        "同行评审"
+      ],
+      "summary": "综述梳理将气候变化对电力供需的影响纳入能源系统优化、进而调整区域发电结构的研究。作者发现，受气候不利影响的技术仍可能因系统约束保留份额，模型与工具选择会显著改变适应方案，并指出全球南方的定量优化证据仍明显不足。",
+      "insight": "研究提醒政策分析者同时报告模型结构、情景假设和多模型不确定性，不能只比较单一最优发电组合。",
+      "url": "https://link.springer.com/article/10.1007/s40518-026-00295-y",
+      "featured": false
+    },
+    {
+      "id": "nist-ai-rmf-1-0-2023",
+      "type": "政策法规",
+      "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+      "publisher": "U.S. National Institute of Standards and Technology (NIST)",
+      "date": "2023-01-26",
+      "publishedDate": "2023-01-26",
+      "eventDate": "2023-01-26",
+      "dateNote": "NIST于2023年1月26日发布AI RMF 1.0；该框架为自愿、非行业特定且保持权利导向的风险管理工具",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能治理",
+        "风险管理",
+        "可信AI",
+        "自愿框架",
+        "历史资料"
+      ],
+      "summary": "NIST AI RMF 1.0为设计、开发、部署或使用AI系统的组织提供跨行业风险管理框架，目标是在AI全生命周期中纳入可信与负责任使用考量。框架通过公开征询、草案和研讨过程形成，并配套实施手册、路线图与交叉映射资源。",
+      "insight": "可作为企业AI治理、风险台账和控制措施设计的通用基线，但不是认证标准或强制监管要求，使用时需与具体行业法规结合。",
+      "url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10",
+      "featured": false
+    },
+    {
+      "id": "unesco-ai-ethics-recommendation-2021",
+      "type": "政策法规",
+      "title": "Recommendation on the Ethics of Artificial Intelligence",
+      "publisher": "UNESCO",
+      "date": "2021-11-23",
+      "publishedDate": "2021-11-23",
+      "eventDate": "2021-11-23",
+      "dateNote": "UNESCO第41届大会于2021年11月23日通过，适用于全部194个会员国",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能伦理",
+        "人权",
+        "环境与生态系统",
+        "人类监督",
+        "历史资料"
+      ],
+      "summary": "UNESCO建议书确立以人权和人的尊严为核心的全球AI伦理规范，涵盖透明、公平、问责、人类监督、隐私、安全与可持续性等原则，并设置可由成员国推进的政策行动领域。文件明确要求评估AI对环境和生态系统的影响，而非仅处理算法性能与数据风险。",
+      "insight": "适合用于跨国AI政策、企业原则和影响评估的规范性对照；其执行依赖成员国政策转化，不能视为直接适用的企业强制法。",
+      "url": "https://www.unesco.org/ethics-ai/en/recommendation",
+      "featured": false
+    },
+    {
+      "id": "ilo-just-transition-guidelines-2016",
+      "type": "政策法规",
+      "title": "Guidelines for a just transition towards environmentally sustainable economies and societies for all",
+      "publisher": "International Labour Organization (ILO)",
+      "date": "2016-02-02",
+      "publishedDate": "2016-02-02",
+      "eventDate": "2015-11-05",
+      "dateNote": "三方代表于2015年通过指导方针；ILO资料页记录的正式发布日期为2016年2月2日",
+      "sector": "高排放行业",
+      "tags": [
+        "公正转型",
+        "劳动与技能",
+        "社会保护",
+        "社会对话",
+        "历史资料"
+      ],
+      "summary": "ILO指导方针为各发展阶段国家管理低碳转型提供政策框架和操作工具，强调体面就业、社会保护，以及政府、雇主和工人组织在政策制定全过程中的社会对话。文件也把公正转型同国家气候承诺和2030年可持续发展目标衔接。",
+      "insight": "可作为评估高排放行业退出、绿色就业、再培训和利益相关方参与安排的基础框架，尤其适合补足只讨论减排技术而忽视分配影响的研究。",
+      "url": "https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies",
+      "featured": false
+    },
     {
       "id": "doi-10-3389-fsuep-2026-1946675",
       "type": "学术论文",
