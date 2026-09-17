@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-09-16T04:52:57.251Z",
+  "updatedAt": "2026-09-17T04:56:31.760Z",
   "items": [
+    {
+      "id": "doi-10-1007-s43615-026-01124-6",
+      "type": "学术论文",
+      "title": "A Hierarchical ISM–MICMAC Framework for Integrating Circular Economy and Renewable Energy in Manufacturing",
+      "publisher": "Springer Science and Business Media LLC",
+      "date": "2026-09-16",
+      "publishedDate": "2026-09-16",
+      "eventDate": "2026-09-16",
+      "dateNote": "论文发表",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ],
+      "summary": "Abstract Circular economy (CE) and renewable energy (RE) are frequently discussed as complementary pathways for sustainable manufacturing, yet implementation guidance often treats resource circularity, energy transition, digitalization, and institutional conditions separately. This study develops a hierarchical framework for their joint integration. Candidat…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.1007/s43615-026-01124-6",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-18029v1",
+      "type": "工作论文",
+      "title": "Toward a Time-Aware Assessment Framework for the Carbon Cost of AI-Enabled Decarbonization",
+      "publisher": "arXiv",
+      "date": "2026-09-16",
+      "publishedDate": "2026-09-16",
+      "eventDate": "2026-09-16",
+      "dateNote": "预印本发布",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "AI is increasingly used to support decarbonization decisions across the built environment, yet the development, training, and use of AI consume energy and induce CO2e emissions. However, existing assessments often report physical-system savings while omitting AI-side emissions. Moreover, they rarely account for the mismatch between when AI costs occur and wh…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2609.18029v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-17950v1",
+      "type": "工作论文",
+      "title": "Taylor Diagram and Wasserstein Distance for Model Evaluation",
+      "publisher": "arXiv",
+      "date": "2026-09-16",
+      "publishedDate": "2026-09-16",
+      "eventDate": "2026-09-16",
+      "dateNote": "预印本发布",
+      "sector": "新兴行业",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "The Taylor diagram is used to evaluate and compare predictive models with observed data and has many applications in climate and environmental sciences. Three statistics of interest--the centered root-mean-squared error, standard deviation, and the product-moment correlation coefficient--are related by the law of cosines; Taylor diagrams leverage this fact t…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2609.17950v1",
+      "featured": false
+    },
     {
       "id": "arxiv-arxiv-org-abs-2609-16963v1",
       "type": "工作论文",
