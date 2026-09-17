@@ -1,24 +1,69 @@
 {
-  "updatedAt": "2026-09-17T04:56:31.760Z",
+  "updatedAt": "2026-09-17T13:02:21.413Z",
   "weekRange": "2026.09.10—09.17",
   "monthLabel": "2026年9月",
   "stories": [
     {
+      "id": "fr-2026-19071",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "最终规则",
+      "title": "美国EPA最终撤销2024年电厂碳排放标准的大部分条款",
+      "summary": "美国EPA在9月17日刊登的最终规则中，撤销2024年《碳污染标准》的大部分条款，包括现有化石燃料蒸汽发电机组的排放指南、进行重大改造的燃煤机组所适用的CCS标准，以及新建基荷固定燃烧轮机的第二阶段CCS标准。规则于2026年11月16日生效；EPA同时另行提出撤销电力行业其余温室气体标准，但该部分仍处于征求意见阶段。",
+      "score": 10,
+      "publishedDate": "2026.09.17",
+      "eventDate": "2026.09.17",
+      "dateNote": "最终规则于2026年9月17日刊登于《联邦公报》，2026年11月16日生效；EPA于9月14日签署",
+      "source": "U.S. Environmental Protection Agency / Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
+      "tags": [
+        "美国电力行业",
+        "温室气体监管",
+        "规则撤销",
+        "碳捕集与封存",
+        "高排放行业"
+      ]
+    },
+    {
+      "id": "fr-2026-19072",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "补充拟议规则",
+      "title": "美国EPA提议撤销电厂全部剩余温室气体标准及相关认定",
+      "summary": "美国EPA发布补充拟议规则，主张《清洁空气法》第111条不授权该机构因全球气候变化问题监管电厂排放；若最终确定，将撤销2015年的相关认定和决定，并废除化石燃料发电机组尚存的2015年及2024年温室气体标准。该文件仍是提案，不改变同期最终规则的既成内容；意见征集截止2026年11月2日。",
+      "score": 9,
+      "publishedDate": "2026.09.17",
+      "eventDate": "2026.09.17",
+      "dateNote": "补充拟议规则于2026年9月17日刊登；公众意见截止2026年11月2日，尚未生效",
+      "source": "U.S. Environmental Protection Agency / Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19072/rescission-of-the-greenhouse-gas-findings-for-fossil-fuel-fired-power-plants-and-repeal-of",
+      "tags": [
+        "美国电力行业",
+        "温室气体监管",
+        "拟议规则",
+        "清洁空气法",
+        "高排放行业"
+      ]
+    },
+    {
       "id": "doi-10-1007-s43615-026-01124-6",
       "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "学术研究",
+      "event": "同行评审研究",
       "title": "A Hierarchical ISM–MICMAC Framework for Integrating Circular Economy and Renewable Energy in Manufacturing",
-      "summary": "Abstract Circular economy (CE) and renewable energy (RE) are frequently discussed as complementary pathways for sustainable manufacturing, yet implementation guidance often treats resource circularity, energy transition, digitalization, and institutional conditions separately. This study develops a hierarchical framework for their joint integration. Candidat…",
+      "summary": "这篇开放获取论文以107篇同行评审研究和两组共10名沙特制造业、研究及政策参与者为证据基础，运用ISM—MICMAC构建循环经济与可再生能源协同落地的六层框架。模型把政府机构、经济激励、监管清晰度和先进技术置于关键驱动层，同时明确该结构是决策支持工具，不能直接证明因果关系或实施成效。",
       "score": 8,
       "publishedDate": "2026.09.16",
       "eventDate": "2026.09.16",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43615-026-01124-6",
+      "dateNote": "Springer原始页标注为Original Paper，于2026年9月16日在线发表并开放获取",
+      "source": "Circular Economy and Sustainability / Springer Nature",
+      "url": "https://link.springer.com/article/10.1007/s43615-026-01124-6",
       "tags": [
-        "能源转型",
-        "同行评审状态待核"
+        "循环经济",
+        "可再生能源",
+        "制造业转型",
+        "ISM–MICMAC",
+        "同行评审"
       ]
     },
     {
@@ -413,13 +458,41 @@
   ],
   "keywordEvents": [
     {
+      "id": "fr-2026-19072",
+      "date": "2026-09-17",
+      "terms": [
+        "高排放行业",
+        "政策监管",
+        "电力系统",
+        "气候风险"
+      ]
+    },
+    {
+      "id": "fr-2026-19071",
+      "date": "2026-09-17",
+      "terms": [
+        "高排放行业",
+        "政策监管",
+        "电力系统",
+        "碳与排放",
+        "污染防治"
+      ]
+    },
+    {
+      "id": "period-www-federalregister-gov-documents-2026-09-17-2026-19071-partial-repeal-o",
+      "date": "2026-09-17",
+      "terms": [
+        "高排放行业",
+        "污染防治"
+      ]
+    },
+    {
       "id": "doi-10-1007-s43615-026-01124-6",
       "date": "2026-09-16",
       "terms": [
         "新能源",
-        "可再生能源",
-        "能源转型",
-        "数字化与数据"
+        "政策监管",
+        "可再生能源"
       ]
     },
     {
@@ -1541,8 +1614,8 @@
     ],
     [
       "高排放行业",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
       "→"
     ]
   ],
@@ -1551,15 +1624,15 @@
       "label": "过去一周总结",
       "title": "人工智能、新能源、高排放行业构成过去七日的主要行业信号",
       "range": "2026.09.10—09.17",
-      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "copy": "过去7天当前保留 10 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "人工智能",
+          "政策监管",
           10
         ],
         [
-          "政策监管",
-          9
+          "人工智能",
+          10
         ],
         [
           "新能源",
@@ -1567,10 +1640,6 @@
         ],
         [
           "可再生能源",
-          6
-        ],
-        [
-          "供应链与出海",
           5
         ],
         [
@@ -1578,11 +1647,19 @@
           5
         ],
         [
+          "供应链与出海",
+          5
+        ],
+        [
+          "碳与排放",
+          5
+        ],
+        [
           "网络安全",
           5
         ],
         [
-          "能源转型",
+          "高排放行业",
           5
         ],
         [
@@ -1594,15 +1671,15 @@
           4
         ],
         [
-          "碳与排放",
-          4
-        ],
-        [
           "绿色金融",
           4
         ],
         [
           "能源效率",
+          4
+        ],
+        [
+          "能源转型",
           4
         ],
         [
@@ -1614,10 +1691,6 @@
           3
         ],
         [
-          "高排放行业",
-          3
-        ],
-        [
           "气候披露",
           3
         ],
@@ -1626,19 +1699,19 @@
           3
         ],
         [
+          "气候风险",
+          3
+        ],
+        [
+          "污染防治",
+          3
+        ],
+        [
           "绿色技术与资源效率",
           3
         ],
         [
-          "数字化与数据",
-          2
-        ],
-        [
           "数字治理",
-          2
-        ],
-        [
-          "气候风险",
           2
         ],
         [
@@ -1655,7 +1728,7 @@
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
       "range": "2026.08.18—09.17",
-      "copy": "过去30天词频基于 123 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "copy": "过去30天词频基于 126 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1675,18 +1748,18 @@
         ],
         [
           "供应链与出海",
-          6
+          5
         ],
         [
           "可再生能源",
           5
         ],
         [
-          "绿色金融",
+          "电力系统",
           5
         ],
         [
-          "电力系统",
+          "绿色金融",
           5
         ],
         [
@@ -1714,20 +1787,24 @@
           4
         ],
         [
+          "气候风险",
+          4
+        ],
+        [
           "能源效率",
           4
         ],
         [
-          "数字化与数据",
-          4
-        ],
-        [
           "气候适应",
-          4
+          3
         ],
         [
-          "气候风险",
-          4
+          "数字化与数据",
+          3
+        ],
+        [
+          "污染防治",
+          3
         ],
         [
           "能源转型",
@@ -1735,10 +1812,6 @@
         ],
         [
           "高风险行业",
-          3
-        ],
-        [
-          "污染防治",
           3
         ],
         [
@@ -1751,15 +1824,15 @@
         ],
         [
           "公正转型",
-          3
+          2
         ],
         [
           "社会与住房",
-          3
+          2
         ],
         [
           "自然与适应",
-          3
+          2
         ],
         [
           "公用事业",
@@ -1782,13 +1855,22 @@
   },
   "monthlyHighlights": [
     {
-      "date": "09.16",
-      "title": "A Hierarchical ISM–MICMAC Framework for Integrating Circular Economy and Renewable Energy in Manufacturing",
-      "summary": "Abstract Circular economy (CE) and renewable energy (RE) are frequently discussed as complementary pathways for sustainable manufacturing, yet implementation guidance often treats resource circularity, energy transition, digitalization, and institutional conditions separately. This study develops a hierarchical framework for their joint integration. Candidat…",
-      "sector": "新能源",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43615-026-01124-6",
-      "score": 8
+      "date": "09.17",
+      "title": "Rescission of the Greenhouse Gas Findings for Fossil Fuel-Fired Power Plants and Repeal of Regulations for Power Plant Greenhouse Gas Emissions Under Clean Air Act Section 111",
+      "summary": "In this action, the U.S. Environmental Protection Agency (EPA) is supplementing its proposal to repeal all greenhouse gas (GHG) emission standards for fossil fuel-fired electric generating units (EGUs) to effectuate the best reading of Clean Air Act (CAA) section 111. We propose that CAA section 111 does not authorize the EPA to regulate emissions from power…",
+      "sector": "高排放行业",
+      "source": "Environmental Protection Agency",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19072/rescission-of-the-greenhouse-gas-findings-for-fossil-fuel-fired-power-plants-and-repeal-of",
+      "score": 9
+    },
+    {
+      "date": "09.17",
+      "title": "Partial Repeal of the Carbon Pollution Standards for Fossil Fuel-Fired Electric Generating Units",
+      "summary": "In this final rule, the U.S. Environmental Protection Agency (EPA) is repealing most provisions of the 2024 Carbon Pollution Standards for greenhouse gas (GHG) emissions from fossil fuel-fired electric generating units (EGUs) based on a reevaluation of the best system of emission reduction for the relevant subcategories. Specifically, the EPA is repealing th…",
+      "sector": "高排放行业",
+      "source": "Environmental Protection Agency",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
+      "score": 9
     },
     {
       "date": "09.15",
@@ -1797,6 +1879,15 @@
       "sector": "新能源",
       "source": "Frontiers Media SA",
       "url": "https://doi.org/10.3389/fsuep.2026.1946675",
+      "score": 8
+    },
+    {
+      "date": "09.16",
+      "title": "A Hierarchical ISM–MICMAC Framework for Integrating Circular Economy and Renewable Energy in Manufacturing",
+      "summary": "Abstract Circular economy (CE) and renewable energy (RE) are frequently discussed as complementary pathways for sustainable manufacturing, yet implementation guidance often treats resource circularity, energy transition, digitalization, and institutional conditions separately. This study develops a hierarchical framework for their joint integration. Candidat…",
+      "sector": "新能源",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43615-026-01124-6",
       "score": 8
     },
     {
@@ -1809,22 +1900,41 @@
       "score": 8
     }
   ],
-  "annualHighlights": [],
+  "annualHighlights": [
+    {
+      "date": "09.17",
+      "title": "Rescission of the Greenhouse Gas Findings for Fossil Fuel-Fired Power Plants and Repeal of Regulations for Power Plant Greenhouse Gas Emissions Under Clean Air Act Section 111",
+      "summary": "In this action, the U.S. Environmental Protection Agency (EPA) is supplementing its proposal to repeal all greenhouse gas (GHG) emission standards for fossil fuel-fired electric generating units (EGUs) to effectuate the best reading of Clean Air Act (CAA) section 111. We propose that CAA section 111 does not authorize the EPA to regulate emissions from power…",
+      "sector": "高排放行业",
+      "source": "Environmental Protection Agency",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19072/rescission-of-the-greenhouse-gas-findings-for-fossil-fuel-fired-power-plants-and-repeal-of",
+      "score": 9
+    },
+    {
+      "date": "09.17",
+      "title": "Partial Repeal of the Carbon Pollution Standards for Fossil Fuel-Fired Electric Generating Units",
+      "summary": "In this final rule, the U.S. Environmental Protection Agency (EPA) is repealing most provisions of the 2024 Carbon Pollution Standards for greenhouse gas (GHG) emissions from fossil fuel-fired electric generating units (EGUs) based on a reevaluation of the best system of emission reduction for the relevant subcategories. Specifically, the EPA is repealing th…",
+      "sector": "高排放行业",
+      "source": "Environmental Protection Agency",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
+      "score": 9
+    }
+  ],
   "sourceHealth": [
     {
       "source": "Federal Register",
-      "status": "error",
-      "message": "500 https://www.federalregister.gov/api/v1/documents.json?per_page=40&order=newest&conditions%5Bpublication_date%5D%5Bgte%5D=2026-09-10&conditions%5Bpublication_date%5D%5Blte%5D=20"
+      "status": "ok",
+      "items": 15
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 48
+      "items": 49
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 32
+      "items": 33
     },
     {
       "source": "arXiv",
@@ -1832,7 +1942,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 14,
+  "verifiedCandidateCount": 13,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

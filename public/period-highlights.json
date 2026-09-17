@@ -1,6 +1,15 @@
 {
   "monthlyHighlights": [
     {
+      "date": "09.17",
+      "title": "美国EPA最终部分撤销电厂碳标准并提议取消其余要求",
+      "summary": "同期文件分为两条法律轨道：最终规则撤销2024年电厂碳污染标准的大部分条款并于11月16日生效；补充拟议规则则拟撤销2015年相关认定及其余温室气体标准，意见截止11月2日。",
+      "sector": "高排放行业",
+      "source": "U.S. Environmental Protection Agency / Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
+      "score": 10
+    },
+    {
       "date": "09.15",
       "title": "欧盟以ETS配额扩大可持续航空燃料支持",
       "summary": "欧盟委员会披露向130家航空运营商分配约520万份配额，价值约4.3亿欧元；连同免交配额形成的激励，2025年支持总额约5.65亿欧元。",
@@ -81,6 +90,15 @@
     {"date":"09.01","title":"国际海事组织船用柴油机氮氧化物控制程序修订生效","summary":"NOx Technical Code修订正式生效，涉及船用柴油机排放控制与认证程序，航运和相关设备企业需核查技术文件与合规流程。","sector":"高排放行业","source":"UK Government / IMO","url":"https://www.gov.uk/government/speeches/changes-to-international-maritime-law--2","score":8}
   ],
   "annualHighlights": [
+    {
+      "date": "09.17",
+      "title": "美国电力行业温室气体监管发生系统性逆转",
+      "summary": "EPA以一项已最终确定的部分撤销规则和一项仍在征求意见的补充提案，分别推进撤销2024年电厂碳标准的大部分条款以及其余2015年、2024年要求；两者法律状态与时间节点不同。",
+      "sector": "高排放行业",
+      "source": "U.S. Environmental Protection Agency / Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
+      "score": 10
+    },
     {
       "date": "09.11",
       "title": "APEC建立AI—能源协同治理的部长级区域框架",

@@ -1,24 +1,71 @@
 {
-  "updatedAt": "2026-09-17T04:56:31.760Z",
+  "updatedAt": "2026-09-17T13:02:21.413Z",
   "items": [
+    {
+      "id": "fr-2026-19072",
+      "type": "政策法规",
+      "title": "美国EPA提议撤销电厂全部剩余温室气体标准及相关认定",
+      "publisher": "U.S. Environmental Protection Agency / Federal Register",
+      "date": "2026-09-17",
+      "publishedDate": "2026-09-17",
+      "eventDate": "2026-09-17",
+      "dateNote": "补充拟议规则于2026年9月17日刊登；公众意见截止2026年11月2日，尚未生效",
+      "sector": "高排放行业",
+      "tags": [
+        "美国电力行业",
+        "温室气体监管",
+        "拟议规则",
+        "清洁空气法",
+        "高排放行业"
+      ],
+      "summary": "美国EPA发布补充拟议规则，主张《清洁空气法》第111条不授权该机构因全球气候变化问题监管电厂排放；若最终确定，将撤销2015年的相关认定和决定，并废除化石燃料发电机组尚存的2015年及2024年温室气体标准。该文件仍是提案，意见征集截止2026年11月2日。",
+      "insight": "应与同期发布的最终部分撤销规则区分：本文件尚处征求意见阶段，当前不产生新的生效义务。",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19072/rescission-of-the-greenhouse-gas-findings-for-fossil-fuel-fired-power-plants-and-repeal-of",
+      "featured": true
+    },
+    {
+      "id": "fr-2026-19071",
+      "type": "政策法规",
+      "title": "美国EPA最终撤销2024年电厂碳排放标准的大部分条款",
+      "publisher": "U.S. Environmental Protection Agency / Federal Register",
+      "date": "2026-09-17",
+      "publishedDate": "2026-09-17",
+      "eventDate": "2026-09-17",
+      "dateNote": "最终规则于2026年9月17日刊登于《联邦公报》，2026年11月16日生效；EPA于9月14日签署",
+      "sector": "高排放行业",
+      "tags": [
+        "美国电力行业",
+        "温室气体监管",
+        "规则撤销",
+        "碳捕集与封存",
+        "高排放行业"
+      ],
+      "summary": "美国EPA撤销2024年《碳污染标准》的大部分条款，包括现有化石燃料蒸汽发电机组的排放指南、进行重大改造的燃煤机组所适用的CCS标准，以及新建基荷固定燃烧轮机的第二阶段CCS标准。规则将于2026年11月16日生效。",
+      "insight": "这是已最终确定的部分撤销规则；EPA对其余电厂温室气体标准的全面撤销另以拟议规则推进，不应混同。",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
+      "featured": true
+    },
     {
       "id": "doi-10-1007-s43615-026-01124-6",
       "type": "学术论文",
       "title": "A Hierarchical ISM–MICMAC Framework for Integrating Circular Economy and Renewable Energy in Manufacturing",
-      "publisher": "Springer Science and Business Media LLC",
+      "publisher": "Circular Economy and Sustainability / Springer Nature",
       "date": "2026-09-16",
       "publishedDate": "2026-09-16",
       "eventDate": "2026-09-16",
-      "dateNote": "论文发表",
+      "dateNote": "Springer原始页标注为Original Paper，于2026年9月16日在线发表并开放获取",
       "sector": "新能源",
       "tags": [
-        "能源转型",
-        "同行评审状态待核"
+        "循环经济",
+        "可再生能源",
+        "制造业转型",
+        "ISM–MICMAC",
+        "同行评审"
       ],
-      "summary": "Abstract Circular economy (CE) and renewable energy (RE) are frequently discussed as complementary pathways for sustainable manufacturing, yet implementation guidance often treats resource circularity, energy transition, digitalization, and institutional conditions separately. This study develops a hierarchical framework for their joint integration. Candidat…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "https://doi.org/10.1007/s43615-026-01124-6",
-      "featured": false
+      "summary": "论文以107篇同行评审研究和两组共10名沙特制造业、研究及政策参与者为证据基础，运用ISM—MICMAC构建循环经济与可再生能源协同落地的六层框架。模型将政府机构、经济激励、监管清晰度和先进技术识别为关键驱动因素。",
+      "insight": "该模型适合用作制造业转型的诊断和优先级工具，但作者明确指出其不能直接证明因果关系或现场成效，仍需多行业纵向验证。",
+      "url": "https://link.springer.com/article/10.1007/s43615-026-01124-6",
+      "featured": true
     },
     {
       "id": "arxiv-arxiv-org-abs-2609-18029v1",
