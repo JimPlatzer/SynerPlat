@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T03:09:11.694Z",
+  "updatedAt": "2026-09-18T04:47:26.379Z",
   "weekRange": "2026.09.11—09.18",
   "monthLabel": "2026年9月",
   "stories": [
@@ -195,6 +195,24 @@
   ],
   "watchlist": [
     {
+      "id": "arxiv-arxiv-org-abs-2609-20742v1",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Environmental Effects in Post-Minkowskian Dynamics: Effective Field Theory, Feynman Rules, and Ward Identities for Compact Objects in Relativistic Fluids",
+      "summary": "We develop a hydrodynamic effective field theory for the gravitational dynamics of compact objects moving through an inviscid fluid environment. The fluid is described by the effective theory of perfect fluids, whose Goldstone phonons are kept as explicit fields coupled to gravity. We establish a consistent power counting for the resulting Feynman rules and…",
+      "score": 7,
+      "publishedDate": "2026.09.17",
+      "eventDate": "2026.09.17",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.20742v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "doi-10-1007-s43621-026-04668-7",
       "sector": "新兴行业",
       "relevance": "直接 ESG",
@@ -300,6 +318,24 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2609-19968v1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Strategic Pricing in Electricity Markets with Pollution Constraints",
+      "summary": "We introduce a new model for a regulated day-ahead type auction-based electrical market in which the system operator can measure and limit the producer's emissions when choosing its optimal dispatch. We prove properties of this market model that describe it as a generalization to other previous works in the electrical market literature. Furthermore, we use s…",
+      "score": 6,
+      "publishedDate": "2026.09.17",
+      "eventDate": "2026.09.17",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.19968v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2609-18029v1",
       "sector": "人工智能",
       "relevance": "直接 ESG",
@@ -393,25 +429,6 @@
         "基础设施",
         "政策观察"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04679-4",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Assessing energy transition in major carbon emitting countries using decomposition logic",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.09.11",
-      "eventDate": "2026.09.11",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04679-4",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
@@ -442,6 +459,26 @@
       "terms": [
         "高排放行业",
         "污染防治"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-20742v1",
+      "date": "2026-09-17",
+      "terms": [
+        "高排放行业",
+        "政策监管",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-19968v1",
+      "date": "2026-09-17",
+      "terms": [
+        "新能源",
+        "电力系统",
+        "碳与排放",
+        "污染防治",
+        "工作论文"
       ]
     },
     {
@@ -1575,7 +1612,7 @@
       "label": "过去一周总结",
       "title": "人工智能、新能源、高排放行业构成过去七日的主要行业信号",
       "range": "2026.09.11—09.18",
-      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
@@ -1583,18 +1620,18 @@
         ],
         [
           "人工智能",
-          9
-        ],
-        [
-          "可再生能源",
-          6
+          8
         ],
         [
           "新能源",
-          6
+          7
         ],
         [
           "电力系统",
+          7
+        ],
+        [
+          "可再生能源",
           6
         ],
         [
@@ -1604,6 +1641,10 @@
         [
           "高排放行业",
           6
+        ],
+        [
+          "工作论文",
+          5
         ],
         [
           "供应链与出海",
@@ -1622,10 +1663,6 @@
           5
         ],
         [
-          "工作论文",
-          4
-        ],
-        [
           "新兴行业",
           4
         ],
@@ -1642,15 +1679,15 @@
           4
         ],
         [
+          "污染防治",
+          4
+        ],
+        [
           "气候适应",
           3
         ],
         [
           "气候风险",
-          3
-        ],
-        [
-          "污染防治",
           3
         ],
         [
@@ -1679,7 +1716,7 @@
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
       "range": "2026.08.19—09.18",
-      "copy": "过去30天词频基于 125 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "copy": "过去30天词频基于 127 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1702,19 +1739,19 @@
           5
         ],
         [
-          "可再生能源",
-          5
-        ],
-        [
           "电力系统",
           5
         ],
         [
-          "绿色金融",
+          "可再生能源",
           5
         ],
         [
           "工作论文",
+          5
+        ],
+        [
+          "绿色金融",
           5
         ],
         [
@@ -1750,11 +1787,11 @@
           3
         ],
         [
-          "数字化与数据",
+          "污染防治",
           3
         ],
         [
-          "污染防治",
+          "数字化与数据",
           3
         ],
         [
@@ -1824,21 +1861,21 @@
       "score": 9
     },
     {
-      "date": "09.16",
-      "title": "A Hierarchical ISM–MICMAC Framework for Integrating Circular Economy and Renewable Energy in Manufacturing",
-      "summary": "Abstract Circular economy (CE) and renewable energy (RE) are frequently discussed as complementary pathways for sustainable manufacturing, yet implementation guidance often treats resource circularity, energy transition, digitalization, and institutional conditions separately. This study develops a hierarchical framework for their joint integration. Candidat…",
-      "sector": "新能源",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43615-026-01124-6",
-      "score": 8
-    },
-    {
       "date": "09.15",
       "title": "Governance thresholds, financial intermediation and the renewable energy transition: implications for sustainable development in Sub-Saharan Africa",
       "summary": "This study develops an institutional-complementarity framework to test whether governance quality shapes the developmental effectiveness of financial intermediation and the renewable energy transition in Sub-Saharan Africa. Using an unbalanced panel of 35 countries (2005–2023), we apply second-generation unit-root and cointegration tests, two-step system GMM…",
       "sector": "新能源",
       "source": "Frontiers Media SA",
       "url": "https://doi.org/10.3389/fsuep.2026.1946675",
+      "score": 8
+    },
+    {
+      "date": "09.16",
+      "title": "A Hierarchical ISM–MICMAC Framework for Integrating Circular Economy and Renewable Energy in Manufacturing",
+      "summary": "Abstract Circular economy (CE) and renewable energy (RE) are frequently discussed as complementary pathways for sustainable manufacturing, yet implementation guidance often treats resource circularity, energy transition, digitalization, and institutional conditions separately. This study develops a hierarchical framework for their joint integration. Candidat…",
+      "sector": "新能源",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43615-026-01124-6",
       "score": 8
     },
     {
@@ -1893,7 +1930,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 11,
+  "verifiedCandidateCount": 12,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
