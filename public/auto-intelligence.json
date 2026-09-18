@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-17T13:02:21.413Z",
-  "weekRange": "2026.09.10—09.17",
+  "updatedAt": "2026-09-18T03:09:11.694Z",
+  "weekRange": "2026.09.11—09.18",
   "monthLabel": "2026年9月",
   "stories": [
     {
@@ -191,27 +191,6 @@
         "强制报告",
         "企业出海"
       ]
-    },
-    {
-      "id": "uk-ai-healthcare-regulation-commission-2026",
-      "sector": "人工智能",
-      "relevance": "直接 ESG",
-      "event": "政策与监管",
-      "title": "英国专家委员会提出医疗AI全生命周期监管框架",
-      "summary": "英国医疗产品监管局支持设立的独立委员会9月10日发布建议，提出对医疗AI采用分阶段授权、全生命周期真实世界监测、可公开检索的安全信息以及更强执法权。英国政府与MHRA将另行作出正式回应，因此当前属于监管框架建议而非已经生效的最终规则。",
-      "score": 9,
-      "publishedDate": "2026.09.10",
-      "eventDate": "2026.09.10",
-      "dateNote": "委员会建议报告发布；政府正式回应待后续公布",
-      "source": "UK Medicines and Healthcare products Regulatory Agency",
-      "url": "https://www.gov.uk/government/news/independent-commission-led-by-nhs-doctors-sets-out-blueprint-to-accelerate-safe-ai-adoption-in-healthcare",
-      "tags": [
-        "医疗AI",
-        "全生命周期监管",
-        "患者安全",
-        "人类监督",
-        "透明度"
-      ]
     }
   ],
   "watchlist": [
@@ -321,46 +300,6 @@
       ]
     },
     {
-      "id": "doi-10-1186-s43093-026-00986-4",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Artificial intelligence, accountability, and sustainability disclosure: a socio-technical analysis of Islamic financial institutions in Saudi Arabia",
-      "summary": "Abstract This study examines sustainability disclosure practices in Saudi Islamic financial institutions through a comparative assessment of manual content analysis, artificial intelligence (AI)-assisted semantic evaluation. Drawing upon a hybrid environmental, social, governance (ESG)–Shariah framework, the study evaluates disclosure quality across five dim…",
-      "score": 7,
-      "publishedDate": "2026.09.10",
-      "eventDate": "2026.09.10",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1186/s43093-026-00986-4",
-      "tags": [
-        "人工智能",
-        "披露监管",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1186-s13705-026-00608-5",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "同行评审研究",
-      "title": "Assessing the drivers of green growth: an empirical investigation of green technological innovation, economic complexity, and investments in renewable energy in G20 countries",
-      "summary": "研究采用第二代面板检验和Driscoll–Kraay估计，考察G20经济体绿色创新、经济复杂度与可再生能源投资同绿色增长的关系。结果报告环境创新和经济复杂度分别与绿色增长呈显著正向关联，并估计1%的环境创新与约0.627%的绿色增长改善相关、1%的经济复杂度提升与约0.429%的绿色增长上升相关。",
-      "score": 7,
-      "publishedDate": "2026.09.10",
-      "eventDate": "2026.09.10",
-      "dateNote": "开放获取同行评审论文在线发表；当前为可引用的已接受早期版本，后续将替换为最终记录版",
-      "source": "Energy, Sustainability and Society / Springer Nature",
-      "url": "https://link.springer.com/article/10.1186/s13705-026-00608-5",
-      "tags": [
-        "G20",
-        "绿色增长",
-        "绿色技术创新",
-        "经济复杂度",
-        "同行评审"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2609-18029v1",
       "sector": "人工智能",
       "relevance": "直接 ESG",
@@ -453,6 +392,25 @@
         "气候目标",
         "基础设施",
         "政策观察"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04679-4",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Assessing energy transition in major carbon emitting countries using decomposition logic",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.11",
+      "eventDate": "2026.09.11",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04679-4",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "同行评审状态待核"
       ]
     }
   ],
@@ -796,13 +754,6 @@
         "可再生能源",
         "绿色技术与资源效率",
         "绿色金融"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04611-w",
-      "date": "2026-09-10",
-      "terms": [
-        "人工智能"
       ]
     },
     {
@@ -1602,8 +1553,8 @@
   "sectorInsights": [
     [
       "人工智能",
-      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      4,
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
       "→"
     ],
     [
@@ -1623,8 +1574,8 @@
     "week": {
       "label": "过去一周总结",
       "title": "人工智能、新能源、高排放行业构成过去七日的主要行业信号",
-      "range": "2026.09.10—09.17",
-      "copy": "过去7天当前保留 10 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "range": "2026.09.11—09.18",
+      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
@@ -1632,26 +1583,34 @@
         ],
         [
           "人工智能",
-          10
+          9
+        ],
+        [
+          "可再生能源",
+          6
         ],
         [
           "新能源",
           6
         ],
         [
-          "可再生能源",
-          5
+          "电力系统",
+          6
         ],
         [
-          "电力系统",
-          5
+          "碳与排放",
+          6
+        ],
+        [
+          "高排放行业",
+          6
         ],
         [
           "供应链与出海",
           5
         ],
         [
-          "碳与排放",
+          "数据中心",
           5
         ],
         [
@@ -1659,7 +1618,7 @@
           5
         ],
         [
-          "高排放行业",
+          "能源效率",
           5
         ],
         [
@@ -1667,7 +1626,7 @@
           4
         ],
         [
-          "数据中心",
+          "新兴行业",
           4
         ],
         [
@@ -1675,24 +1634,12 @@
           4
         ],
         [
-          "能源效率",
-          4
-        ],
-        [
           "能源转型",
           4
         ],
         [
-          "新兴行业",
-          4
-        ],
-        [
           "关键矿产",
-          3
-        ],
-        [
-          "气候披露",
-          3
+          4
         ],
         [
           "气候适应",
@@ -1707,28 +1654,32 @@
           3
         ],
         [
+          "数字治理",
+          3
+        ],
+        [
+          "气候披露",
+          3
+        ],
+        [
           "绿色技术与资源效率",
           3
         ],
         [
-          "数字治理",
-          2
-        ],
-        [
           "聚变能源",
-          2
+          3
         ],
         [
           "高性能计算",
-          2
+          3
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.18—09.17",
-      "copy": "过去30天词频基于 126 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.19—09.18",
+      "copy": "过去30天词频基于 125 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1873,21 +1824,21 @@
       "score": 9
     },
     {
-      "date": "09.15",
-      "title": "Governance thresholds, financial intermediation and the renewable energy transition: implications for sustainable development in Sub-Saharan Africa",
-      "summary": "This study develops an institutional-complementarity framework to test whether governance quality shapes the developmental effectiveness of financial intermediation and the renewable energy transition in Sub-Saharan Africa. Using an unbalanced panel of 35 countries (2005–2023), we apply second-generation unit-root and cointegration tests, two-step system GMM…",
-      "sector": "新能源",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/fsuep.2026.1946675",
-      "score": 8
-    },
-    {
       "date": "09.16",
       "title": "A Hierarchical ISM–MICMAC Framework for Integrating Circular Economy and Renewable Energy in Manufacturing",
       "summary": "Abstract Circular economy (CE) and renewable energy (RE) are frequently discussed as complementary pathways for sustainable manufacturing, yet implementation guidance often treats resource circularity, energy transition, digitalization, and institutional conditions separately. This study develops a hierarchical framework for their joint integration. Candidat…",
       "sector": "新能源",
       "source": "Springer Science and Business Media LLC",
       "url": "https://doi.org/10.1007/s43615-026-01124-6",
+      "score": 8
+    },
+    {
+      "date": "09.15",
+      "title": "Governance thresholds, financial intermediation and the renewable energy transition: implications for sustainable development in Sub-Saharan Africa",
+      "summary": "This study develops an institutional-complementarity framework to test whether governance quality shapes the developmental effectiveness of financial intermediation and the renewable energy transition in Sub-Saharan Africa. Using an unbalanced panel of 35 countries (2005–2023), we apply second-generation unit-root and cointegration tests, two-step system GMM…",
+      "sector": "新能源",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/fsuep.2026.1946675",
       "score": 8
     },
     {
@@ -1924,17 +1875,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 15
+      "items": 13
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 49
+      "items": 50
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 33
+      "items": 28
     },
     {
       "source": "arXiv",
@@ -1942,7 +1893,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 13,
+  "verifiedCandidateCount": 11,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
