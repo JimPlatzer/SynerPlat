@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T03:28:54.345Z",
+  "updatedAt": "2026-09-19T04:41:20.643Z",
   "weekRange": "2026.09.12—09.19",
   "monthLabel": "2026年9月",
   "stories": [
@@ -1967,11 +1967,11 @@
     },
     {
       "source": "arXiv",
-      "status": "error",
-      "message": "The operation was aborted due to timeout"
+      "status": "ok",
+      "items": 40
     }
   ],
-  "verifiedCandidateCount": 9,
+  "verifiedCandidateCount": 10,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
