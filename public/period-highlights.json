@@ -1,6 +1,24 @@
 {
   "monthlyHighlights": [
     {
+      "date": "09.18",
+      "title": "欧盟对战略电工钢与变压器铁芯实施临时贸易保障",
+      "summary": "实施条例（EU）2026/2133设置关税配额与价格门槛，并覆盖已装入变压器的铁芯；措施于9月25日生效，临时适用155天。",
+      "sector": "企业出海",
+      "source": "European Commission / EUR-Lex",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602133",
+      "score": 9
+    },
+    {
+      "date": "09.18",
+      "title": "欧盟废物出口授权名单进入草案征询阶段",
+      "summary": "委员会完成对32个非经合组织申请国的初步评估，并就授权名单草案征求意见；同期对土耳其塑料废物管理的数据透明度、执法和治理提出后续要求。",
+      "sector": "企业出海",
+      "source": "European Commission Directorate-General for Environment",
+      "url": "https://environment.ec.europa.eu/news/commission-publishes-draft-list-countries-authorised-import-eu-waste-2026-09-18_en",
+      "score": 9
+    },
+    {
       "date": "09.17",
       "title": "美国EPA最终部分撤销电厂碳标准并提议取消其余要求",
       "summary": "同期文件分为两条法律轨道：最终规则撤销2024年电厂碳污染标准的大部分条款并于11月16日生效；补充拟议规则则拟撤销2015年相关认定及其余温室气体标准，意见截止11月2日。",
@@ -90,6 +108,24 @@
     {"date":"09.01","title":"国际海事组织船用柴油机氮氧化物控制程序修订生效","summary":"NOx Technical Code修订正式生效，涉及船用柴油机排放控制与认证程序，航运和相关设备企业需核查技术文件与合规流程。","sector":"高排放行业","source":"UK Government / IMO","url":"https://www.gov.uk/government/speeches/changes-to-international-maritime-law--2","score":8}
   ],
   "annualHighlights": [
+    {
+      "date": "09.18",
+      "title": "欧盟能源设备供应链首次纳入新一轮电工钢临时保障措施",
+      "summary": "欧盟以关税配额、价格门槛和对变压器内置铁芯的覆盖，回应电工钢进口激增与全球产能转移，对清洁电力基础设施供应链和跨境设备贸易形成直接影响。",
+      "sector": "企业出海",
+      "source": "European Commission / EUR-Lex",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602133",
+      "score": 9
+    },
+    {
+      "date": "09.18",
+      "title": "欧盟废物出口新规由立法转入国家授权与执行准备",
+      "summary": "非经合组织国家授权名单草案、土耳其塑料废物评估及即将适用的出口禁令共同标志跨境废物治理进入可执行的名单与监督阶段。",
+      "sector": "企业出海",
+      "source": "European Commission Directorate-General for Environment",
+      "url": "https://environment.ec.europa.eu/news/commission-publishes-draft-list-countries-authorised-import-eu-waste-2026-09-18_en",
+      "score": 9
+    },
     {
       "date": "09.17",
       "title": "美国电力行业温室气体监管发生系统性逆转",

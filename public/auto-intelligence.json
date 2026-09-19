@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-09-18T04:47:26.379Z",
-  "weekRange": "2026.09.11—09.18",
+  "updatedAt": "2026-09-19T03:28:54.345Z",
+  "weekRange": "2026.09.12—09.19",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "eu-2026-2133-goes-safeguard",
+      "sector": "企业出海",
+      "relevance": "间接 ESG",
+      "event": "贸易保障措施",
+      "title": "欧盟对取向电工钢及变压器铁芯实施临时保障措施",
+      "summary": "欧盟委员会通过实施条例（EU）2026/2133，对取向电工钢、钢制叠片和铁芯设置关税配额与价格门槛；措施还覆盖已装入变压器的铁芯。条例将于2026年9月25日生效，临时适用155天至2027年2月26日，直接影响电力设备供应链和对欧出口定价。",
+      "score": 9,
+      "publishedDate": "2026.09.18",
+      "eventDate": "2026.09.18",
+      "dateNote": "实施条例于2026年9月18日通过并刊登，9月25日生效；临时措施适用155天至2027年2月26日",
+      "source": "European Commission / EUR-Lex",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602133",
+      "tags": [
+        "欧盟贸易保障",
+        "取向电工钢",
+        "变压器供应链",
+        "新能源基础设施",
+        "企业出海"
+      ]
+    },
+    {
+      "id": "ec-waste-export-draft-list-2026",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "监管实施与征求意见",
+      "title": "欧盟发布废物出口授权国家草案并评估对土耳其塑料废物出口",
+      "summary": "欧盟委员会公布非经合组织国家进口欧盟非危险废物的授权名单草案，并就32个申请国的可持续处置能力征求意见至10月16日，最终名单计划在2026年底前确定。同期报告指出欧盟2025年向土耳其出口约51万吨塑料废物，并要求补强数据透明度、执法成效和治理安排；对非经合组织国家的塑料废物出口禁令将于2026年11月21日适用。",
+      "score": 9,
+      "publishedDate": "2026.09.18",
+      "eventDate": "2026.09.18",
+      "dateNote": "名单草案与评估报告于2026年9月18日发布；意见征集截止10月16日，最终授权名单计划于年底前确定",
+      "source": "European Commission Directorate-General for Environment",
+      "url": "https://environment.ec.europa.eu/news/commission-publishes-draft-list-countries-authorised-import-eu-waste-2026-09-18_en",
+      "tags": [
+        "废物跨境转移",
+        "塑料污染",
+        "循环经济",
+        "供应链合规",
+        "企业出海"
+      ]
+    },
     {
       "id": "fr-2026-19071",
       "sector": "高排放行业",
@@ -149,69 +191,9 @@
         "英国能源转型",
         "社区参与"
       ]
-    },
-    {
-      "id": "apec-energy-ministers-ai-energy-policy-2026",
-      "sector": "人工智能",
-      "relevance": "直接 ESG",
-      "event": "国际政策协调",
-      "title": "APEC能源部长通过AI与能源双向赋能政策建议并设立专项任务组",
-      "summary": "APEC能源部长9月11日通过联合声明及三项共识成果，其中《人工智能与能源双向赋能政策建议（2026—2030）》要求能源工作组设立专项任务组，并倡议统筹算力与能源基础设施、提高AI计算能效、加强网络安全和数据保护、兼顾当地能源可负担性。文件同时支持可持续关键矿产供应链和跨境能源贸易，但属于自愿、非约束性政策工具。",
-      "score": 9,
-      "publishedDate": "2026.09.11",
-      "eventDate": "2026.09.11",
-      "dateNote": "部长级联合声明及三项自愿、非约束性共识成果发布",
-      "source": "Asia-Pacific Economic Cooperation (APEC)",
-      "url": "https://www.apec.org/meeting-papers/sectoral-ministerial-meetings/energy/2026-apec-energy-ministerial-meeting",
-      "tags": [
-        "人工智能+能源",
-        "数据中心",
-        "能源安全",
-        "供应链韧性",
-        "可再生能源"
-      ]
-    },
-    {
-      "id": "eu-cra-reporting-obligations-effective-2026",
-      "sector": "人工智能",
-      "relevance": "直接 ESG",
-      "event": "法规生效",
-      "title": "欧盟《网络韧性法》漏洞与重大事件强制报告义务生效",
-      "summary": "自9月11日起，在欧盟市场提供含数字元素产品的制造商须通过单一报告平台通报已被主动利用的漏洞和严重安全事件：知悉后24小时内提交预警、72小时内提交完整通知，并按情形补交最终报告。义务覆盖符合《网络韧性法》范围的数字产品，将直接影响软件、联网设备和AI产品企业的事件响应、供应链协同与欧盟市场合规流程。",
-      "score": 9,
-      "publishedDate": "2026.07.31",
-      "eventDate": "2026.09.11",
-      "dateNote": "《网络韧性法》第14条报告义务开始适用；欧委会说明页最后更新于2026年7月31日，法规原文发布于2024年11月20日",
-      "source": "European Commission · DG CONNECT / EUR-Lex",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/cra-reporting",
-      "tags": [
-        "网络安全治理",
-        "欧盟监管",
-        "产品安全",
-        "强制报告",
-        "企业出海"
-      ]
     }
   ],
   "watchlist": [
-    {
-      "id": "arxiv-arxiv-org-abs-2609-20742v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Environmental Effects in Post-Minkowskian Dynamics: Effective Field Theory, Feynman Rules, and Ward Identities for Compact Objects in Relativistic Fluids",
-      "summary": "We develop a hydrodynamic effective field theory for the gravitational dynamics of compact objects moving through an inviscid fluid environment. The fluid is described by the effective theory of perfect fluids, whose Goldstone phonons are kept as explicit fields coupled to gravity. We establish a consistent power counting for the resulting Feynman rules and…",
-      "score": 7,
-      "publishedDate": "2026.09.17",
-      "eventDate": "2026.09.17",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.20742v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
     {
       "id": "doi-10-1007-s43621-026-04668-7",
       "sector": "新兴行业",
@@ -297,24 +279,45 @@
       ]
     },
     {
-      "id": "doi-10-1007-s10462-026-11690-8",
+      "id": "ec-ai-board-ninth-meeting-2026",
       "sector": "人工智能",
       "relevance": "间接 ESG",
-      "event": "同行评审研究",
-      "title": "Artificial intelligence for weather and climate: a survey of methods, benchmarks, and scientific machine learning challenges",
-      "summary": "综述按物理归纳偏置梳理卷积网络、图神经网络、Transformer、神经算子与生成模型，并系统讨论表示学习、基础模型、不确定性量化和因果发现。作者重点识别RMSE平滑偏差、ERA5训练—评估循环、基准过拟合、气候非平稳下分布漂移和物理一致性等评估风险。",
-      "score": 7,
-      "publishedDate": "2026.09.11",
-      "eventDate": "2026.09.11",
-      "dateNote": "开放获取同行评审论文在线发表；当前为可引用的早期版本，后续将替换为最终记录版",
-      "source": "Artificial Intelligence Review / Springer Nature",
-      "url": "https://link.springer.com/article/10.1007/s10462-026-11690-8",
+      "event": "监管协调观察",
+      "title": "欧盟AI委员会讨论《人工智能法》执法、市场监督与前沿模型安全",
+      "summary": "欧盟AI委员会第九次会议审议委员会执法重点、《人工智能法》实施、市场监督和上市前合格评定治理，并讨论前沿AI事故、安全能力及网络安全行动计划。会议未形成新的约束性规则，但显示成员国协调和执法基础设施正在细化。",
+      "score": 6,
+      "publishedDate": "2026.09.18",
+      "eventDate": "2026.09.17",
+      "dateNote": "会议于2026年9月17日举行，欧委会于9月18日发布纪要；未发布新的约束性规则",
+      "source": "European Commission Directorate-General for Communications Networks, Content and Technology",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-board-holds-its-ninth-meeting",
       "tags": [
-        "天气与气候",
-        "科学机器学习",
-        "不确定性量化",
-        "基准设计",
-        "同行评审"
+        "欧盟人工智能法",
+        "市场监督",
+        "前沿AI安全",
+        "网络安全",
+        "政策观察"
+      ]
+    },
+    {
+      "id": "eurostat-renewable-electricity-q2-2026",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "统计数据发布",
+      "title": "欧盟二季度可再生能源发电占比为54.1%，太阳能占可再生发电41.6%",
+      "summary": "Eurostat发布的季度数据表明，2026年第二季度欧盟净发电量中54.1%来自可再生能源，略低于上年同期的54.3%；太阳能占可再生发电的41.6%，高于上年同期37.0%。该指标是净发电结构，不应与《可再生能源指令》用于监测目标的可再生能源占总用电比重混同。",
+      "score": 6,
+      "publishedDate": "2026.09.18",
+      "eventDate": "2026.09.18",
+      "dateNote": "Eurostat于2026年9月18日发布2026年第二季度净发电结构数据",
+      "source": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260918-1",
+      "tags": [
+        "可再生能源",
+        "电力结构",
+        "太阳能",
+        "欧盟统计",
+        "行业数据"
       ]
     },
     {
@@ -433,6 +436,56 @@
   ],
   "keywordEvents": [
     {
+      "id": "period-eur-lex-europa-eu-legal-content-en-txt-uri-oj-l-202602133",
+      "date": "2026-09-18",
+      "terms": [
+        "企业出海"
+      ]
+    },
+    {
+      "id": "period-environment-ec-europa-eu-news-commission-publishes-draft-list-countries-",
+      "date": "2026-09-18",
+      "terms": [
+        "企业出海"
+      ]
+    },
+    {
+      "id": "eu-2026-2133-goes-safeguard",
+      "date": "2026-09-18",
+      "terms": [
+        "企业出海",
+        "电力系统",
+        "供应链与出海"
+      ]
+    },
+    {
+      "id": "ec-waste-export-draft-list-2026",
+      "date": "2026-09-18",
+      "terms": [
+        "企业出海",
+        "供应链与出海",
+        "污染防治"
+      ]
+    },
+    {
+      "id": "ec-ai-board-ninth-meeting-2026",
+      "date": "2026-09-18",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "网络安全"
+      ]
+    },
+    {
+      "id": "eurostat-renewable-electricity-q2-2026",
+      "date": "2026-09-18",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "电力系统"
+      ]
+    },
+    {
       "id": "fr-2026-19072",
       "date": "2026-09-17",
       "terms": [
@@ -459,15 +512,6 @@
       "terms": [
         "高排放行业",
         "污染防治"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-20742v1",
-      "date": "2026-09-17",
-      "terms": [
-        "高排放行业",
-        "政策监管",
-        "工作论文"
       ]
     },
     {
@@ -710,15 +754,6 @@
         "能源效率",
         "供应链与出海",
         "关键矿产"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04679-4",
-      "date": "2026-09-11",
-      "terms": [
-        "新能源",
-        "能源转型",
-        "碳与排放"
       ]
     },
     {
@@ -1589,12 +1624,6 @@
   ],
   "sectorInsights": [
     [
-      "人工智能",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
-      "→"
-    ],
-    [
       "新能源",
       "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       3,
@@ -1605,13 +1634,25 @@
       "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       3,
       "→"
+    ],
+    [
+      "企业出海",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
+      "→"
+    ],
+    [
+      "人工智能",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
+      "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "人工智能、新能源、高排放行业构成过去七日的主要行业信号",
-      "range": "2026.09.11—09.18",
+      "title": "新能源、高排放行业、企业出海构成过去七日的主要行业信号",
+      "range": "2026.09.12—09.19",
       "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1619,23 +1660,27 @@
           10
         ],
         [
-          "人工智能",
-          8
+          "电力系统",
+          9
         ],
         [
           "新能源",
-          7
-        ],
-        [
-          "电力系统",
-          7
+          8
         ],
         [
           "可再生能源",
-          6
+          7
         ],
         [
           "碳与排放",
+          7
+        ],
+        [
+          "人工智能",
+          6
+        ],
+        [
+          "工作论文",
           6
         ],
         [
@@ -1643,55 +1688,47 @@
           6
         ],
         [
-          "工作论文",
-          5
+          "企业出海",
+          6
+        ],
+        [
+          "新兴行业",
+          6
+        ],
+        [
+          "污染防治",
+          6
         ],
         [
           "供应链与出海",
           5
         ],
         [
-          "数据中心",
-          5
-        ],
-        [
-          "网络安全",
-          5
-        ],
-        [
-          "能源效率",
-          5
-        ],
-        [
-          "新兴行业",
-          4
-        ],
-        [
           "绿色金融",
-          4
+          5
         ],
         [
           "能源转型",
-          4
-        ],
-        [
-          "关键矿产",
-          4
-        ],
-        [
-          "污染防治",
-          4
+          5
         ],
         [
           "气候适应",
-          3
+          4
         ],
         [
           "气候风险",
-          3
+          4
+        ],
+        [
+          "能源效率",
+          4
         ],
         [
           "数字治理",
+          3
+        ],
+        [
+          "数据中心",
           3
         ],
         [
@@ -1700,6 +1737,10 @@
         ],
         [
           "绿色技术与资源效率",
+          3
+        ],
+        [
+          "网络安全",
           3
         ],
         [
@@ -1715,8 +1756,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.19—09.18",
-      "copy": "过去30天词频基于 127 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.20—09.19",
+      "copy": "过去30天词频基于 131 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1731,12 +1772,12 @@
           6
         ],
         [
-          "新能源",
+          "供应链与出海",
           6
         ],
         [
-          "供应链与出海",
-          5
+          "新能源",
+          6
         ],
         [
           "电力系统",
@@ -1747,11 +1788,11 @@
           5
         ],
         [
-          "工作论文",
+          "绿色金融",
           5
         ],
         [
-          "绿色金融",
+          "工作论文",
           5
         ],
         [
@@ -1759,11 +1800,11 @@
           5
         ],
         [
-          "气候披露",
+          "企业出海",
           4
         ],
         [
-          "企业出海",
+          "气候披露",
           4
         ],
         [
@@ -1779,6 +1820,10 @@
           4
         ],
         [
+          "污染防治",
+          4
+        ],
+        [
           "能源效率",
           4
         ],
@@ -1787,15 +1832,11 @@
           3
         ],
         [
-          "污染防治",
-          3
-        ],
-        [
           "数字化与数据",
           3
         ],
         [
-          "能源转型",
+          "网络安全",
           3
         ],
         [
@@ -1803,7 +1844,7 @@
           3
         ],
         [
-          "网络安全",
+          "能源转型",
           3
         ],
         [
@@ -1861,21 +1902,21 @@
       "score": 9
     },
     {
-      "date": "09.15",
-      "title": "Governance thresholds, financial intermediation and the renewable energy transition: implications for sustainable development in Sub-Saharan Africa",
-      "summary": "This study develops an institutional-complementarity framework to test whether governance quality shapes the developmental effectiveness of financial intermediation and the renewable energy transition in Sub-Saharan Africa. Using an unbalanced panel of 35 countries (2005–2023), we apply second-generation unit-root and cointegration tests, two-step system GMM…",
-      "sector": "新能源",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/fsuep.2026.1946675",
-      "score": 8
-    },
-    {
       "date": "09.16",
       "title": "A Hierarchical ISM–MICMAC Framework for Integrating Circular Economy and Renewable Energy in Manufacturing",
       "summary": "Abstract Circular economy (CE) and renewable energy (RE) are frequently discussed as complementary pathways for sustainable manufacturing, yet implementation guidance often treats resource circularity, energy transition, digitalization, and institutional conditions separately. This study develops a hierarchical framework for their joint integration. Candidat…",
       "sector": "新能源",
       "source": "Springer Science and Business Media LLC",
       "url": "https://doi.org/10.1007/s43615-026-01124-6",
+      "score": 8
+    },
+    {
+      "date": "09.15",
+      "title": "Governance thresholds, financial intermediation and the renewable energy transition: implications for sustainable development in Sub-Saharan Africa",
+      "summary": "This study develops an institutional-complementarity framework to test whether governance quality shapes the developmental effectiveness of financial intermediation and the renewable energy transition in Sub-Saharan Africa. Using an unbalanced panel of 35 countries (2005–2023), we apply second-generation unit-root and cointegration tests, two-step system GMM…",
+      "sector": "新能源",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/fsuep.2026.1946675",
       "score": 8
     },
     {
@@ -1912,25 +1953,25 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 13
+      "items": 16
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 50
+      "items": 49
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 28
+      "items": 26
     },
     {
       "source": "arXiv",
-      "status": "ok",
-      "items": 40
+      "status": "error",
+      "message": "The operation was aborted due to timeout"
     }
   ],
-  "verifiedCandidateCount": 12,
+  "verifiedCandidateCount": 9,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

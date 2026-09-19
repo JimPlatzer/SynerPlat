@@ -1,23 +1,92 @@
 {
-  "updatedAt": "2026-09-18T04:47:26.379Z",
+  "updatedAt": "2026-09-19T03:28:54.345Z",
   "items": [
     {
-      "id": "arxiv-arxiv-org-abs-2609-20742v1",
-      "type": "工作论文",
-      "title": "Environmental Effects in Post-Minkowskian Dynamics: Effective Field Theory, Feynman Rules, and Ward Identities for Compact Objects in Relativistic Fluids",
-      "publisher": "arXiv",
-      "date": "2026-09-17",
-      "publishedDate": "2026-09-17",
-      "eventDate": "2026-09-17",
-      "dateNote": "预印本发布",
-      "sector": "高排放行业",
+      "id": "eu-2026-2133-goes-safeguard",
+      "type": "政策法规",
+      "title": "欧盟对取向电工钢及变压器铁芯实施临时保障措施",
+      "publisher": "European Commission / EUR-Lex",
+      "date": "2026-09-18",
+      "publishedDate": "2026-09-18",
+      "eventDate": "2026-09-18",
+      "dateNote": "实施条例于2026年9月18日通过并刊登，9月25日生效；临时措施适用155天至2027年2月26日",
+      "sector": "企业出海",
       "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
+        "欧盟贸易保障",
+        "取向电工钢",
+        "变压器供应链",
+        "新能源基础设施",
+        "企业出海"
       ],
-      "summary": "We develop a hydrodynamic effective field theory for the gravitational dynamics of compact objects moving through an inviscid fluid environment. The fluid is described by the effective theory of perfect fluids, whose Goldstone phonons are kept as explicit fields coupled to gravity. We establish a consistent power counting for the resulting Feynman rules and…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.20742v1",
+      "summary": "实施条例（EU）2026/2133对取向电工钢、钢制叠片和铁芯设置关税配额与价格门槛，并覆盖已装入变压器的铁芯。条例将于2026年9月25日生效，临时适用155天。",
+      "insight": "对欧出口商、变压器制造商和采购方需同时核对产品编码、原产地、配额使用情况与价格门槛；最终保障措施仍取决于后续调查与成员国表决。",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602133",
+      "featured": true
+    },
+    {
+      "id": "ec-waste-export-draft-list-2026",
+      "type": "政策法规",
+      "title": "欧盟发布废物出口授权国家草案并评估对土耳其塑料废物出口",
+      "publisher": "European Commission Directorate-General for Environment",
+      "date": "2026-09-18",
+      "publishedDate": "2026-09-18",
+      "eventDate": "2026-09-18",
+      "dateNote": "名单草案与评估报告于2026年9月18日发布；意见征集截止10月16日，最终授权名单计划于年底前确定",
+      "sector": "企业出海",
+      "tags": [
+        "废物跨境转移",
+        "塑料污染",
+        "循环经济",
+        "供应链合规",
+        "企业出海"
+      ],
+      "summary": "欧盟委员会公布非经合组织国家进口欧盟非危险废物的授权名单草案，并评估对土耳其塑料废物出口的可持续管理情况。草案涉及32个申请国，意见征集截止2026年10月16日。",
+      "insight": "废物出口企业应区分2026年11月21日适用的非经合组织国家塑料废物出口禁令与2027年5月21日起的一般规则，并持续核查最终授权名单。",
+      "url": "https://environment.ec.europa.eu/news/commission-publishes-draft-list-countries-authorised-import-eu-waste-2026-09-18_en",
+      "featured": true
+    },
+    {
+      "id": "ec-ai-board-ninth-meeting-2026",
+      "type": "政策资料",
+      "title": "欧盟AI委员会第九次会议纪要",
+      "publisher": "European Commission Directorate-General for Communications Networks, Content and Technology",
+      "date": "2026-09-18",
+      "publishedDate": "2026-09-18",
+      "eventDate": "2026-09-17",
+      "dateNote": "会议于2026年9月17日举行，欧委会于9月18日发布纪要；未发布新的约束性规则",
+      "sector": "人工智能",
+      "tags": [
+        "欧盟人工智能法",
+        "市场监督",
+        "前沿AI安全",
+        "网络安全",
+        "政策观察"
+      ],
+      "summary": "会议讨论《人工智能法》执法与实施、市场监督、上市前合格评定、前沿AI事故和网络安全行动计划，并确认透明度规则配套措施仍在推进。",
+      "insight": "该纪要属于监管协调信号而非新增法律义务，适合用于跟踪欧盟AI执法基础设施和成员国协调重点。",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-board-holds-its-ninth-meeting",
+      "featured": false
+    },
+    {
+      "id": "eurostat-renewable-electricity-q2-2026",
+      "type": "数据报告",
+      "title": "54% of EU’s electricity came from renewables in Q2 2026",
+      "publisher": "Eurostat",
+      "date": "2026-09-18",
+      "publishedDate": "2026-09-18",
+      "eventDate": "2026-09-18",
+      "dateNote": "Eurostat于2026年9月18日发布2026年第二季度净发电结构数据",
+      "sector": "新能源",
+      "tags": [
+        "可再生能源",
+        "电力结构",
+        "太阳能",
+        "欧盟统计",
+        "行业数据"
+      ],
+      "summary": "2026年第二季度，欧盟净发电量中54.1%来自可再生能源；太阳能占可再生发电41.6%，风电占27.7%，水电占22.6%。",
+      "insight": "该口径是净发电结构，不应与《可再生能源指令》监测使用的可再生能源占总用电比重混同；跨国比较还需考虑水文与气象波动。",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260918-1",
       "featured": false
     },
     {
