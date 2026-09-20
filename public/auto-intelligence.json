@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-19T04:41:20.643Z",
-  "weekRange": "2026.09.12—09.19",
+  "updatedAt": "2026-09-20T04:56:50.050Z",
+  "weekRange": "2026.09.13—09.20",
   "monthLabel": "2026年9月",
   "stories": [
     {
@@ -195,6 +195,25 @@
   ],
   "watchlist": [
     {
+      "id": "doi-10-1057-s41310-026-00422-7",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "How climate disclosure convergence drives product market competitiveness: evidence from Chinese marine enterprises",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.09.19",
+      "eventDate": "2026.09.19",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1057/s41310-026-00422-7",
+      "tags": [
+        "气候与碳",
+        "披露监管",
+        "同行评审状态待核"
+      ]
+    },
+    {
       "id": "doi-10-1007-s43621-026-04668-7",
       "sector": "新兴行业",
       "relevance": "直接 ESG",
@@ -212,69 +231,6 @@
         "资源效率",
         "IT治理",
         "智慧城市",
-        "同行评审"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04524-8",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "同行评审研究",
-      "title": "Human development renewable energy and globalization as drivers of sustainable development in new BRICS economies",
-      "summary": "研究覆盖11个金砖扩员国家2000—2022年数据，使用PANIC Fourier单位根、Westerlund–Edgerton协整与AMG估计。结果显示，人类发展和可再生能源消费与可持续发展指数呈正向关联，全球化变量呈负向关联；作者据此建议将人力资本、清洁能源投资与全球化风险治理纳入协同政策。",
-      "score": 7,
-      "publishedDate": "2026.09.12",
-      "eventDate": "2026.09.12",
-      "dateNote": "开放获取同行评审论文于2026年9月12日在线发表；当前为可引用的已接受早期版本，后续将替换为最终记录版",
-      "source": "Discover Sustainability / Springer Nature",
-      "url": "https://link.springer.com/article/10.1007/s43621-026-04524-8",
-      "tags": [
-        "金砖扩员国家",
-        "可再生能源",
-        "人类发展",
-        "全球化",
-        "同行评审"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s40518-026-00295-y",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "同行评审研究",
-      "title": "Adapting Regional Power Generation Mix to Climate Change: Global Efforts, Challenges, and Gaps",
-      "summary": "综述梳理将气候变化对电力供需的影响纳入能源系统优化、进而调整区域发电结构的研究。作者发现，受气候不利影响的技术仍可能因系统约束保留份额，模型与工具选择会显著改变适应方案，并指出全球南方的定量优化证据仍明显不足。",
-      "score": 7,
-      "publishedDate": "2026.09.12",
-      "eventDate": "2026.09.12",
-      "dateNote": "同行评审综述于2026年9月12日在线发表；原始页面提供摘要，全文为订阅内容",
-      "source": "Current Sustainable/Renewable Energy Reports / Springer Nature",
-      "url": "https://link.springer.com/article/10.1007/s40518-026-00295-y",
-      "tags": [
-        "电力系统",
-        "气候适应",
-        "发电结构",
-        "能源模型",
-        "同行评审"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04671-y",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "同行评审研究",
-      "title": "Sustainability paradox of artificial intelligence adoption for workers’ wellbeing",
-      "summary": "这篇概念性综述结合自我决定理论与恢复理论，提出组织以效率为目标采用AI时，可能通过削弱员工自主性、胜任感和关系感而损害心理福祉。作者将透明度、员工参与、AI素养培训与人类监督视为缓释机制，并明确指出该框架仍需在不同组织和文化环境中接受实证检验。",
-      "score": 7,
-      "publishedDate": "2026.09.12",
-      "eventDate": "2026.09.12",
-      "dateNote": "开放获取同行评审综述于2026年9月12日在线发表；当前为可引用的已接受早期版本，后续将替换为最终记录版",
-      "source": "Discover Sustainability / Springer Nature",
-      "url": "https://link.springer.com/article/10.1007/s43621-026-04671-y",
-      "tags": [
-        "人工智能治理",
-        "员工福祉",
-        "人本AI",
-        "劳动与技能",
         "同行评审"
       ]
     },
@@ -435,6 +391,15 @@
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1057-s41310-026-00422-7",
+      "date": "2026-09-19",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "气候披露"
+      ]
+    },
     {
       "id": "period-eur-lex-europa-eu-legal-content-en-txt-uri-oj-l-202602133",
       "date": "2026-09-18",
@@ -657,7 +622,7 @@
       "id": "doi-10-1007-s40518-026-00295-y",
       "date": "2026-09-12",
       "terms": [
-        "新兴行业",
+        "新能源",
         "电力系统",
         "气候风险",
         "气候适应"
@@ -1652,8 +1617,8 @@
     "week": {
       "label": "过去一周总结",
       "title": "新能源、高排放行业、企业出海构成过去七日的主要行业信号",
-      "range": "2026.09.12—09.19",
-      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "range": "2026.09.13—09.20",
+      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 10 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
@@ -1661,14 +1626,10 @@
         ],
         [
           "电力系统",
-          9
-        ],
-        [
-          "新能源",
           8
         ],
         [
-          "可再生能源",
+          "新能源",
           7
         ],
         [
@@ -1676,7 +1637,11 @@
           7
         ],
         [
-          "人工智能",
+          "企业出海",
+          6
+        ],
+        [
+          "可再生能源",
           6
         ],
         [
@@ -1688,11 +1653,7 @@
           6
         ],
         [
-          "企业出海",
-          6
-        ],
-        [
-          "新兴行业",
+          "人工智能",
           6
         ],
         [
@@ -1704,7 +1665,7 @@
           5
         ],
         [
-          "绿色金融",
+          "新兴行业",
           5
         ],
         [
@@ -1712,11 +1673,11 @@
           5
         ],
         [
-          "气候适应",
+          "气候披露",
           4
         ],
         [
-          "气候风险",
+          "绿色金融",
           4
         ],
         [
@@ -1732,7 +1693,11 @@
           3
         ],
         [
-          "气候披露",
+          "气候适应",
+          3
+        ],
+        [
+          "气候风险",
           3
         ],
         [
@@ -1756,8 +1721,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.20—09.19",
-      "copy": "过去30天词频基于 131 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.21—09.20",
+      "copy": "过去30天词频基于 132 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1772,11 +1737,11 @@
           6
         ],
         [
-          "供应链与出海",
+          "新能源",
           6
         ],
         [
-          "新能源",
+          "供应链与出海",
           6
         ],
         [
@@ -1796,11 +1761,11 @@
           5
         ],
         [
-          "碳与排放",
-          5
+          "企业出海",
+          4
         ],
         [
-          "企业出海",
+          "碳与排放",
           4
         ],
         [
@@ -1809,10 +1774,6 @@
         ],
         [
           "数据中心",
-          4
-        ],
-        [
-          "新兴行业",
           4
         ],
         [
@@ -1826,6 +1787,10 @@
         [
           "能源效率",
           4
+        ],
+        [
+          "新兴行业",
+          3
         ],
         [
           "气候适应",
@@ -1971,7 +1936,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 10,
+  "verifiedCandidateCount": 8,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
