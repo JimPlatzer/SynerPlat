@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T04:59:55.147Z",
+  "updatedAt": "2026-09-21T07:37:43.159Z",
   "weekRange": "2026.09.14—09.21",
   "monthLabel": "2026年9月",
   "stories": [
@@ -198,19 +198,21 @@
       "id": "doi-10-1057-s41310-026-00422-7",
       "sector": "企业出海",
       "relevance": "直接 ESG",
-      "event": "学术研究",
+      "event": "同行评审研究",
       "title": "How climate disclosure convergence drives product market competitiveness: evidence from Chinese marine enterprises",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "summary": "研究以2010—2024年中国A股海洋产业上市公司为样本，发现气候披露主题趋同与产品市场竞争力呈正向关联，并将融资、市场机会和运营效率识别为潜在作用路径。",
       "score": 7,
       "publishedDate": "2026.09.19",
       "eventDate": "2026.09.19",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1057/s41310-026-00422-7",
+      "dateNote": "Springer原始页显示论文于2026年9月19日在线发表",
+      "source": "International Journal of Disclosure and Governance / Palgrave Macmillan",
+      "url": "https://link.springer.com/article/10.1057/s41310-026-00422-7",
       "tags": [
-        "气候与碳",
-        "披露监管",
-        "同行评审状态待核"
+        "气候信息披露",
+        "海洋产业",
+        "企业竞争力",
+        "中国上市公司",
+        "同行评审"
       ]
     },
     {
@@ -253,45 +255,6 @@
         "太阳能",
         "欧盟统计",
         "行业数据"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-22070v1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "工作论文",
-      "title": "A Sociotechnical Review of Algorithms in Health Systems: Technical, Cost, and Human-Centered Considerations",
-      "summary": "Artificial intelligence (AI) applications in healthcare are becoming increasingly prevalent, to assist health systems, providers, and patients with tasks such as decision-making, risk prediction, and diagnosis. This increasing computational potential brings AI applications to the forefront of workplace decision making, often without full consideration of sub…",
-      "score": 6,
-      "publishedDate": "2026.09.18",
-      "eventDate": "2026.09.18",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.22070v1",
-      "tags": [
-        "人工智能",
-        "披露监管",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-22052v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Design and pricing of a transparent parametric-modeled loss CAT bond: application to German windstorm",
-      "summary": "Catastrophe (cat) bonds overcome some lack of reinsurance by sourcing capacity from the wider capital markets. We present a new type of cat bond addressing the known trade-off between moral hazard and basis risk. As our main contributions we propose a trigger mechanism which is entirely transparent and simpler to evaluate compared to indemnity modeling techn…",
-      "score": 6,
-      "publishedDate": "2026.09.18",
-      "eventDate": "2026.09.18",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.22052v1",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "供应链与出海",
-        "预印本·非同行评审"
       ]
     },
     {
@@ -423,6 +386,25 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
+    },
+    {
+      "id": "doi-10-1177-01956574261487825",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Book Review: Renewable Energy Transition with Artificial Intelligence: Challenge-Driven Solutions DethlefsN.ChatterjeeJ. (Eds.). (2026). Renewable Energy Transition with Artificial Intelligence: Challenge-Driven Solutions. John Wiley & Sons. 272 pp. ISBN 978-1-394-30003-7 hard cover.",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.17",
+      "eventDate": "2026.09.17",
+      "dateNote": "论文发表",
+      "source": "SAGE Publications",
+      "url": "https://doi.org/10.1177/01956574261487825",
+      "tags": [
+        "人工智能",
+        "能源转型",
+        "同行评审状态待核"
+      ]
     }
   ],
   "keywordEvents": [
@@ -431,7 +413,6 @@
       "date": "2026-09-19",
       "terms": [
         "企业出海",
-        "政策监管",
         "气候披露"
       ]
     },
@@ -483,27 +464,6 @@
         "新能源",
         "可再生能源",
         "电力系统"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-22070v1",
-      "date": "2026-09-18",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "气候披露",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-22052v1",
-      "date": "2026-09-18",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "能源转型",
-        "供应链与出海",
-        "工作论文"
       ]
     },
     {
@@ -562,6 +522,15 @@
         "碳与排放",
         "污染防治",
         "工作论文"
+      ]
+    },
+    {
+      "id": "doi-10-1177-01956574261487825",
+      "date": "2026-09-17",
+      "terms": [
+        "人工智能",
+        "可再生能源",
+        "能源转型"
       ]
     },
     {
@@ -1692,7 +1661,7 @@
       "label": "过去一周总结",
       "title": "新能源、高排放行业、企业出海构成过去七日的主要行业信号",
       "range": "2026.09.14—09.21",
-      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
@@ -1703,35 +1672,43 @@
           9
         ],
         [
+          "电力系统",
+          9
+        ],
+        [
+          "人工智能",
+          8
+        ],
+        [
+          "可再生能源",
+          8
+        ],
+        [
           "新能源",
           8
         ],
         [
-          "电力系统",
+          "碳与排放",
           8
         ],
         [
-          "人工智能",
-          7
-        ],
-        [
-          "可再生能源",
-          7
-        ],
-        [
-          "碳与排放",
-          7
-        ],
-        [
           "企业出海",
-          6
+          7
         ],
         [
           "能源转型",
-          6
+          7
         ],
         [
           "高排放行业",
+          7
+        ],
+        [
+          "污染防治",
+          6
+        ],
+        [
+          "绿色金融",
           6
         ],
         [
@@ -1739,19 +1716,11 @@
           5
         ],
         [
-          "污染防治",
-          5
-        ],
-        [
-          "绿色金融",
-          5
-        ],
-        [
-          "气候披露",
+          "新兴行业",
           4
         ],
         [
-          "新兴行业",
+          "气候披露",
           4
         ],
         [
@@ -1788,7 +1757,7 @@
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
       "range": "2026.08.22—09.21",
-      "copy": "过去30天词频基于 136 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "copy": "过去30天词频基于 135 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1819,20 +1788,20 @@
           5
         ],
         [
-          "工作论文",
-          5
-        ],
-        [
           "绿色金融",
           5
         ],
         [
+          "工作论文",
+          5
+        ],
+        [
           "企业出海",
-          4
+          5
         ],
         [
           "碳与排放",
-          4
+          5
         ],
         [
           "气候披露",
@@ -1994,7 +1963,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 27
+      "items": 26
     },
     {
       "source": "arXiv",
@@ -2002,7 +1971,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 11,
+  "verifiedCandidateCount": 8,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
