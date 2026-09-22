@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-21T07:37:43.159Z",
-  "weekRange": "2026.09.14—09.21",
+  "updatedAt": "2026-09-22T04:08:36.691Z",
+  "weekRange": "2026.09.15—09.22",
   "monthLabel": "2026年9月",
   "stories": [
     {
@@ -149,51 +149,51 @@
         "治理门槛",
         "同行评审"
       ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-uk-and-us-fusion-strike-partnership-to-accele",
-      "sector": "人工智能",
-      "relevance": "直接 ESG",
-      "event": "跨境清洁能源合作",
-      "title": "英美宣布聚变能源、人工智能与监管合作安排",
-      "summary": "英国能源安全与净零部9月14日宣布，英美将在伦敦全球聚变峰会签署两项安排：英国原子能管理局与普林斯顿等离子体物理实验室将启动人工智能、先进计算和聚变研发合作，两国并将发表加强聚变能源监管合作的联合声明。同期还公布材料研发合作、海外投资及英国聚变投资说明书；页面发布时仍使用“将签署”表述，正式签署结果需后续核验。",
-      "score": 8,
-      "publishedDate": "2026.09.14",
-      "eventDate": "2026.09.14",
-      "dateNote": "英国政府发布合作预告；两项安排计划于9月14日峰会签署，正式签署结果待后续核验",
-      "source": "UK Department for Energy Security and Net Zero",
-      "url": "https://www.gov.uk/government/news/uk-and-us-fusion-strike-partnership-to-accelerate-clean-energy",
-      "tags": [
-        "聚变能源",
-        "人工智能",
-        "高性能计算",
-        "监管合作",
-        "跨境投资"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-morgan-and-morecambe-offshore-wind-farms-tran",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "开发许可",
-      "title": "英国批准Morgan与Morecambe海上风电配套输电资产开发许可",
-      "summary": "英国能源安全与净零部9月14日批准Morgan与Morecambe海上风电场输电资产开发许可令，范围包括海上输出电缆、登陆点、陆上电缆、变电站及并网设施。该决定针对配套输电基础设施许可，不等同于新增发电装机容量获批；申请于2024年10月21日提交，规划监察机构于2026年1月29日提交审查建议。",
-      "score": 8,
-      "publishedDate": "2026.09.14",
-      "eventDate": "2026.09.14",
-      "dateNote": "开发许可令获批并发布决定；申请于2024年10月21日提交，审查建议于2026年1月29日送交国务大臣",
-      "source": "UK Planning Inspectorate / Department for Energy Security and Net Zero",
-      "url": "https://www.gov.uk/government/news/morgan-and-morecambe-offshore-wind-farms-transmission-assets-development-consent-decision-announced",
-      "tags": [
-        "海上风电",
-        "输电基础设施",
-        "开发许可",
-        "英国能源转型",
-        "社区参与"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-1007-s10668-026-08170-y",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "同行评审研究",
+      "title": "Artificial intelligence and the clean energy transition in China: spatiotemporal characteristics, spatial spillovers and moderating mechanisms",
+      "summary": "研究使用中国30个省份2007—2020年的面板数据与空间杜宾模型，发现人工智能发展与本地清洁能源转型呈显著正向关联，并对邻近地区产生正向空间溢出；长期效应强于短期效应。环境治理与公众环境参与会增强这一关联，气候风险则会削弱它。",
+      "score": 7,
+      "publishedDate": "2026.09.22",
+      "eventDate": "2026.09.22",
+      "dateNote": "Springer原始页显示论文于2026年9月22日在线发表",
+      "source": "Environment, Development and Sustainability / Springer Nature",
+      "url": "https://link.springer.com/article/10.1007/s10668-026-08170-y",
+      "tags": [
+        "人工智能",
+        "清洁能源转型",
+        "空间溢出",
+        "中国省级数据",
+        "同行评审"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s10668-026-08132-4",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "同行评审研究",
+      "title": "Road to energy transition under the impact of climate change a micro perspective from China",
+      "summary": "研究基于2009—2023年中国上市公司面板数据构建气候风险指数并使用固定效应模型，发现企业气候风险暴露与能源转型呈显著正向关联；研发投入、数字化转型与媒体关注是重要传导渠道，效果还因行业属性、资产密集度和地区而异。",
+      "score": 7,
+      "publishedDate": "2026.09.22",
+      "eventDate": "2026.09.22",
+      "dateNote": "Springer原始页显示论文于2026年9月22日在线发表",
+      "source": "Environment, Development and Sustainability / Springer Nature",
+      "url": "https://link.springer.com/article/10.1007/s10668-026-08132-4",
+      "tags": [
+        "气候风险",
+        "企业能源转型",
+        "数字化转型",
+        "中国上市公司",
+        "同行评审"
+      ]
+    },
     {
       "id": "doi-10-1057-s41310-026-00422-7",
       "sector": "企业出海",
@@ -213,6 +213,27 @@
         "企业竞争力",
         "中国上市公司",
         "同行评审"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-what-climate-security-means-now-foreign-s",
+      "sector": "高风险行业",
+      "relevance": "直接 ESG",
+      "event": "部长级政策信号",
+      "title": "英国外相将气候与自然风险明确纳入国家安全议程",
+      "summary": "英国外交大臣Ed Miliband在纽约气候周演讲中提出，应把气候与自然损失纳入国家安全威胁评估和应急规划，并加强跨境风险信息共享、预警系统、韧性基础设施以及灾害风险融资。演讲重申英国2040年减排87%的碳预算、拟向热带森林永久基金投资4亿英镑和2030清洁电力目标，但未宣布新的具有约束力的政策措施。",
+      "score": 6,
+      "publishedDate": "2026.09.21",
+      "eventDate": "2026.09.21",
+      "dateNote": "演讲于2026年9月21日发表并由英国政府同日发布；属于政策立场，不是新法规",
+      "source": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/government/speeches/what-climate-security-means-now-foreign-secretary-at-new-york-climate-week",
+      "tags": [
+        "气候安全",
+        "自然风险",
+        "国家安全",
+        "韧性规划",
+        "政策信号"
       ]
     },
     {
@@ -367,47 +388,42 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-16899v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Optimal Control Strategies for a Network of Electric Vehicle Charging Energy Hubs with Smart Scheduling via Distributed Optimization",
-      "summary": "This paper studies the cost-optimal operation of a network of charging energy hubs for electric vehicles, which provide onsite renewable energy sources and stationary battery storage and are connected with each other via DC-lines as well as with the distribution grid. Specifically, we first formulate a dynamic optimal control problem for the entire network a…",
-      "score": 6,
-      "publishedDate": "2026.09.15",
-      "eventDate": "2026.09.15",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.16899v1",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "doi-10-1177-01956574261487825",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Book Review: Renewable Energy Transition with Artificial Intelligence: Challenge-Driven Solutions DethlefsN.ChatterjeeJ. (Eds.). (2026). Renewable Energy Transition with Artificial Intelligence: Challenge-Driven Solutions. John Wiley & Sons. 272 pp. ISBN 978-1-394-30003-7 hard cover.",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.09.17",
-      "eventDate": "2026.09.17",
-      "dateNote": "论文发表",
-      "source": "SAGE Publications",
-      "url": "https://doi.org/10.1177/01956574261487825",
-      "tags": [
-        "人工智能",
-        "能源转型",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s10668-026-08170-y",
+      "date": "2026-09-22",
+      "terms": [
+        "人工智能",
+        "能源转型",
+        "气候风险"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s10668-026-08132-4",
+      "date": "2026-09-22",
+      "terms": [
+        "新能源",
+        "能源转型",
+        "气候风险",
+        "数字化与数据"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-what-climate-security-means-now-foreign-s",
+      "date": "2026-09-21",
+      "terms": [
+        "高风险行业",
+        "政策监管",
+        "能源转型",
+        "电力系统",
+        "碳与排放",
+        "供应链与出海",
+        "自然与生物多样性",
+        "绿色金融"
+      ]
+    },
     {
       "id": "doi-10-1057-s41310-026-00422-7",
       "date": "2026-09-19",
@@ -609,36 +625,12 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-news-uk-and-us-fusion-strike-partnership-to-accele",
-      "date": "2026-09-14",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "聚变能源",
-        "高性能计算",
-        "碳与排放",
-        "供应链与出海",
-        "绿色金融"
-      ]
-    },
-    {
       "id": "ni-assembly-ai-data-centre-moratorium-motion-2026",
       "date": "2026-09-14",
       "terms": [
         "人工智能",
         "政策监管",
         "数据中心"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-morgan-and-morecambe-offshore-wind-farms-tran",
-      "date": "2026-09-14",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "能源转型",
-        "电力系统",
-        "碳与排放"
       ]
     },
     {
@@ -1632,12 +1624,6 @@
   ],
   "sectorInsights": [
     [
-      "新能源",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
-      "→"
-    ],
-    [
       "高排放行业",
       "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       3,
@@ -1650,29 +1636,37 @@
       "→"
     ],
     [
-      "人工智能",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
+      "新能源",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
       "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、高排放行业、企业出海构成过去七日的主要行业信号",
-      "range": "2026.09.14—09.21",
-      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "高排放行业、企业出海、新能源构成过去七日的主要行业信号",
+      "range": "2026.09.15—09.22",
+      "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
+        [
+          "工作论文",
+          10
+        ],
         [
           "政策监管",
           10
         ],
         [
-          "工作论文",
-          9
+          "电力系统",
+          10
         ],
         [
-          "电力系统",
+          "能源转型",
+          10
+        ],
+        [
+          "新能源",
           9
         ],
         [
@@ -1680,11 +1674,11 @@
           8
         ],
         [
-          "可再生能源",
+          "企业出海",
           8
         ],
         [
-          "新能源",
+          "可再生能源",
           8
         ],
         [
@@ -1692,27 +1686,23 @@
           8
         ],
         [
-          "企业出海",
-          7
-        ],
-        [
-          "能源转型",
-          7
-        ],
-        [
           "高排放行业",
-          7
+          8
         ],
         [
           "污染防治",
-          6
+          7
         ],
         [
           "绿色金融",
-          6
+          7
         ],
         [
           "供应链与出海",
+          5
+        ],
+        [
+          "气候风险",
           5
         ],
         [
@@ -1724,7 +1714,7 @@
           4
         ],
         [
-          "数据中心",
+          "数字化与数据",
           3
         ],
         [
@@ -1732,15 +1722,7 @@
           3
         ],
         [
-          "气候风险",
-          3
-        ],
-        [
           "网络安全",
-          3
-        ],
-        [
-          "聚变能源",
           3
         ],
         [
@@ -1748,7 +1730,11 @@
           3
         ],
         [
-          "高性能计算",
+          "自然与生物多样性",
+          3
+        ],
+        [
+          "高风险行业",
           3
         ]
       ]
@@ -1756,8 +1742,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.22—09.21",
-      "copy": "过去30天词频基于 135 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.23—09.22",
+      "copy": "过去30天词频基于 136 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1801,18 +1787,18 @@
         ],
         [
           "碳与排放",
-          5
+          4
         ],
         [
           "气候披露",
           4
         ],
         [
-          "数据中心",
+          "气候风险",
           4
         ],
         [
-          "气候风险",
+          "数据中心",
           4
         ],
         [
@@ -1824,6 +1810,14 @@
           4
         ],
         [
+          "能源转型",
+          4
+        ],
+        [
+          "数字化与数据",
+          3
+        ],
+        [
           "新兴行业",
           3
         ],
@@ -1832,19 +1826,11 @@
           3
         ],
         [
-          "数字化与数据",
-          3
-        ],
-        [
-          "能源转型",
+          "高风险行业",
           3
         ],
         [
           "网络安全",
-          3
-        ],
-        [
-          "高风险行业",
           3
         ],
         [
@@ -1857,6 +1843,10 @@
         ],
         [
           "社会与住房",
+          2
+        ],
+        [
+          "自然与生物多样性",
           2
         ],
         [
@@ -1873,10 +1863,6 @@
         ],
         [
           "气候与适应",
-          2
-        ],
-        [
-          "水资源",
           2
         ]
       ]
@@ -1953,12 +1939,12 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 18
+      "items": 17
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 49
+      "items": 47
     },
     {
       "source": "Crossref",
@@ -1967,8 +1953,8 @@
     },
     {
       "source": "arXiv",
-      "status": "ok",
-      "items": 40
+      "status": "error",
+      "message": "429 https://export.arxiv.org/api/query?search_query=submittedDate%3A%5B202609150000%20TO%20202609222359%5D%20AND%20(all%3Aclimate%20OR%20all%3Asustainability%20OR%20all%3Aemissions"
     }
   ],
   "verifiedCandidateCount": 8,

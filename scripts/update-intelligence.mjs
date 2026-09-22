@@ -20,6 +20,7 @@ const trustedPublisherPattern=/Elsevier|Springer|Wiley|SAGE|Oxford University Pr
 const arxivFalsePositivePattern=/astronom|astrophys|cosmolog|black[ -]?hole|gravitational.wave|post-minkowskian|compact objects?|relativistic fluids?|particle physics|nuclear recoil|\bLHC\b|quasar|cosmic star formation|Josephson|vortex laser|stellar|galax/i;
 const arxivEsgPattern=/climate change|carbon capture|\bCCUS\b|CO2 emissions?|renewable energy|energy transition|sustainab|pollution|environmental|traffic noise|biodiversity|circular economy|green finance|net[ -]?zero|decarbon/i;
 const genericDiplomaticStatementPattern=/UN Human Rights Council|UN Security Council|Interactive Dialogue|Fact-Finding Mission|Joint Statement on (?:Sri Lanka|Sudan)|terror(?:ism|ist)|OSCE Economic and Environmental Forum|UK statement (?:at|to) (?:the )?(?:UN|OSCE)/i;
+const speechTitlePattern=/\b(?:speech|remarks|address)\b/i;
 const businessHumanRightsNexusPattern=/business|company|corporat|industry|supply chain|forced labo(?:u)?r|worker|workplace|trade|export|mining|energy|technology|artificial intelligence|\bAI\b/i;
 const concretePolicyActionPattern=/adopt|endorse|establish|launch|publish|policy|regulation|law|rule|standard|funding|investment|agreement|initiative|programme|program|sanction|guidance|recommendation|company|industry|supply chain|disclosure|renewable|energy transition/i;
 
@@ -39,6 +40,7 @@ function meaningfulEsgNexus(item){
  const isArxiv=item?.source==='arXiv'||item?.publisher==='arXiv';if(!isArxiv)return true;
  return arxivEsgPattern.test(text)&&!arxivFalsePositivePattern.test(text);
 }
+function isSpeechItem(item){return speechTitlePattern.test(`${item?.title||''} ${item?.url||''}`)||/\b(?:address|remarks) at\b/i.test(item?.summary||'')}
 function trustedCandidate(item){if(!meaningfulEsgNexus(item))return false;return item.source!=='Crossref'||trustedPublisherPattern.test(item.publisher)}
 function excerpt(value,limit=360){const clean=decode(value);return clean.length>limit?`${clean.slice(0,limit).trim()}…`:clean}
 function tagsFor(item){
@@ -58,7 +60,7 @@ function keywordWords(events){
 }
 function storyFromCandidate(source){return {id:source.candidateId,sector:sectorFor(`${source.title} ${source.summary}`),relevance:/artificial intelligence|data cent|critical mineral/i.test(`${source.title} ${source.summary}`)?'间接 ESG':'直接 ESG',event:source.sourceType==='policy'?'政策监管':source.sourceType==='academic'?'学术研究':'工作论文',title:source.title,summary:excerpt(source.summary)||'原始来源已通过可访问性核验；请打开原文查看完整内容。',score:source.heuristicScore,publishedDate:dotDate(source.publishedDate),eventDate:dotDate(source.eventDate),dateNote:source.dateNote,source:source.publisher,url:source.url,tags:tagsFor(source)}}
 function fallbackEditorial(candidates,previous){
- const ranked=candidates.filter(item=>inWindow(item)&&(item.sourceType==='policy'?item.heuristicScore>=materialityThreshold.policy:item.heuristicScore>=materialityThreshold.academic)).sort((a,b)=>b.heuristicScore-a.heuristicScore||activityDate(b).localeCompare(activityDate(a))).slice(0,16);
+ const ranked=candidates.filter(item=>inWindow(item)&&!isSpeechItem(item)&&(item.sourceType==='policy'?item.heuristicScore>=materialityThreshold.policy:item.heuristicScore>=materialityThreshold.academic)).sort((a,b)=>b.heuristicScore-a.heuristicScore||activityDate(b).localeCompare(activityDate(a))).slice(0,16);
  const stories=ranked.map(storyFromCandidate);
  const researchRanked=candidates.filter(source=>source.sourceType==='policy'?source.heuristicScore>=7:source.heuristicScore>=6&&source.summary.length>=80).sort((a,b)=>b.heuristicScore-a.heuristicScore||String(b.publishedDate).localeCompare(String(a.publishedDate))).slice(0,10);
  const resources=researchRanked.map(source=>({id:source.candidateId,type:source.sourceType==='preprint'?'工作论文':source.sourceType==='academic'?'学术论文':'政策法规',title:source.title,publisher:source.publisher,date:source.publishedDate,publishedDate:source.publishedDate,eventDate:source.eventDate,dateNote:source.dateNote,sector:sectorFor(`${source.title} ${source.summary}`),tags:tagsFor(source),summary:excerpt(source.summary),insight:'自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。',url:source.url,featured:source.heuristicScore>=9}));
@@ -159,7 +161,7 @@ async function main(){
  for(const [name,collector] of collectors){try{const rows=await collector();candidates.push(...rows);sourceHealth.push({source:name,status:'ok',items:rows.length})}catch(error){sourceHealth.push({source:name,status:'error',message:String(error.message||error).slice(0,180)})}}
  const verified=await verifyCandidates(candidates);let normalized=fallbackEditorial(verified,previous);
  try{const model=await runModel(verified);if(model){const curated=normalizeModel(model,verified,previous);normalized={stories:curated.stories.length?curated.stories:normalized.stories,resources:curated.resources.length?curated.resources:normalized.resources,sectorInsights:curated.sectorInsights.length?curated.sectorInsights:normalized.sectorInsights,summary:curated.summary||normalized.summary,monthlyHighlights:curated.monthlyHighlights.length?curated.monthlyHighlights:normalized.monthlyHighlights,annualHighlights:curated.annualHighlights.length?curated.annualHighlights:normalized.annualHighlights}}}catch(error){sourceHealth.push({source:'GitHub Models',status:'error',message:String(error.message||error).slice(0,180)})}
- const previousRecent=(previous.stories||[]).filter(item=>inWindow(item)&&Number(item.score)>=materialityThreshold.policy&&meaningfulEsgNexus(item));
+ const previousRecent=(previous.stories||[]).filter(item=>inWindow(item)&&!isSpeechItem(item)&&Number(item.score)>=materialityThreshold.policy&&meaningfulEsgNexus(item));
  const stories=uniqueByUrl([...previousRecent,...normalized.stories]).sort((a,b)=>activityDate(b).localeCompare(activityDate(a))||Number(b.score)-Number(a.score)).slice(0,16);
  const finalSectorCounts=new Map();for(const story of stories)finalSectorCounts.set(story.sector,(finalSectorCounts.get(story.sector)||0)+1);
  const finalSectors=[...finalSectorCounts.entries()].sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0]));

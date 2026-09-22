@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-09-21T07:37:43.159Z",
+  "updatedAt": "2026-09-22T04:08:36.691Z",
   "items": [
+    {
+      "id": "doi-10-1007-s10668-026-08170-y",
+      "type": "学术论文",
+      "title": "Artificial intelligence and the clean energy transition in China: spatiotemporal characteristics, spatial spillovers and moderating mechanisms",
+      "publisher": "Environment, Development and Sustainability / Springer Nature",
+      "date": "2026-09-22",
+      "publishedDate": "2026-09-22",
+      "eventDate": "2026-09-22",
+      "dateNote": "Springer原始页显示论文于2026年9月22日在线发表",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "清洁能源转型",
+        "空间溢出",
+        "中国省级数据",
+        "同行评审"
+      ],
+      "summary": "研究使用中国30个省份2007—2020年的面板数据与空间杜宾模型，发现人工智能发展与本地清洁能源转型呈显著正向关联，并对邻近地区产生正向空间溢出；长期效应强于短期效应。环境治理与公众环境参与会增强这一关联，气候风险则会削弱它。",
+      "insight": "结果为人工智能与能源转型协同政策提供省际层面的实证线索，但属于观察性空间计量研究，不能据此单独确认因果关系，且样本期止于2020年。",
+      "url": "https://link.springer.com/article/10.1007/s10668-026-08170-y",
+      "featured": false
+    },
+    {
+      "id": "doi-10-1007-s10668-026-08132-4",
+      "type": "学术论文",
+      "title": "Road to energy transition under the impact of climate change a micro perspective from China",
+      "publisher": "Environment, Development and Sustainability / Springer Nature",
+      "date": "2026-09-22",
+      "publishedDate": "2026-09-22",
+      "eventDate": "2026-09-22",
+      "dateNote": "Springer原始页显示论文于2026年9月22日在线发表",
+      "sector": "新能源",
+      "tags": [
+        "气候风险",
+        "企业能源转型",
+        "数字化转型",
+        "中国上市公司",
+        "同行评审"
+      ],
+      "summary": "研究基于2009—2023年中国上市公司面板数据构建气候风险指数并使用固定效应模型，发现企业气候风险暴露与能源转型呈显著正向关联；研发投入、数字化转型与媒体关注是重要传导渠道，效果还因行业属性、资产密集度和地区而异。",
+      "insight": "研究提示气候风险管理与披露可与技术创新、数字化支持协同设计；结果基于中国上市公司观察数据，应避免把统计关联直接解释为普遍因果效应。",
+      "url": "https://link.springer.com/article/10.1007/s10668-026-08132-4",
+      "featured": false
+    },
     {
       "id": "doi-10-1057-s41310-026-00422-7",
       "type": "学术论文",
