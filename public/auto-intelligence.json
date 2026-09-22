@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T04:08:36.691Z",
+  "updatedAt": "2026-09-22T05:00:35.005Z",
   "weekRange": "2026.09.15—09.22",
   "monthLabel": "2026年9月",
   "stories": [
@@ -237,6 +237,43 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2609-24382v1",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Credit Access is Associated with Improved Food Security in the Horn of Africa",
+      "summary": "The intensification of climate change poses a growing threat to food security, especially in vulnerable communities. This study employs an observational machine-learning framework to estimate the causal association between access to credit and acute food insecurity in Somalia and across the Horn of Africa, drawing on a harmonized dataset spanning key environ…",
+      "score": 6,
+      "publishedDate": "2026.09.21",
+      "eventDate": "2026.09.21",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.24382v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-24224v1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "A Carbon-Aware Quantum Computing Framework for LCA-Driven Sustainability in Quantum Cloud Services",
+      "summary": "Quantum computing's environmental footprint remains poorly understood relative to classical infrastructure, and as quantum computing moves toward cloud delivery, Quantum Cloud Service (QCS) providers lack actionable guidance beyond platform-level carbon-accounting frameworks. Objective: This study extends the carbon-aware quantum computing (CQC) framework fr…",
+      "score": 6,
+      "publishedDate": "2026.09.21",
+      "eventDate": "2026.09.21",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.24224v1",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "ec-ai-board-ninth-meeting-2026",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -352,42 +389,6 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-17950v1",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Taylor Diagram and Wasserstein Distance for Model Evaluation",
-      "summary": "The Taylor diagram is used to evaluate and compare predictive models with observed data and has many applications in climate and environmental sciences. Three statistics of interest--the centered root-mean-squared error, standard deviation, and the product-moment correlation coefficient--are related by the law of cosines; Taylor diagrams leverage this fact t…",
-      "score": 6,
-      "publishedDate": "2026.09.16",
-      "eventDate": "2026.09.16",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.17950v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-16963v1",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Assessing transport resilience to heavy rainfall: An integrated modelling framework with metrics",
-      "summary": "Road passenger transport faces acute disruption risks from flash flooding from heavy rainfall. To capture system complexity and dynamics for assessing its flood resilience, this study (a) proposes performance metrics to quantify disruption impacts from physical, operational, environmental, social, and economic dimensions, and (b) develops an integrated model…",
-      "score": 6,
-      "publishedDate": "2026.09.15",
-      "eventDate": "2026.09.15",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.16963v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
@@ -422,6 +423,25 @@
         "供应链与出海",
         "自然与生物多样性",
         "绿色金融"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-24382v1",
+      "date": "2026-09-21",
+      "terms": [
+        "新兴行业",
+        "气候风险",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-24224v1",
+      "date": "2026-09-21",
+      "terms": [
+        "新能源",
+        "能源转型",
+        "碳与排放",
+        "工作论文"
       ]
     },
     {
@@ -538,15 +558,6 @@
         "碳与排放",
         "污染防治",
         "工作论文"
-      ]
-    },
-    {
-      "id": "doi-10-1177-01956574261487825",
-      "date": "2026-09-17",
-      "terms": [
-        "人工智能",
-        "可再生能源",
-        "能源转型"
       ]
     },
     {
@@ -1655,59 +1666,59 @@
         ],
         [
           "政策监管",
-          10
-        ],
-        [
-          "电力系统",
-          10
-        ],
-        [
-          "能源转型",
-          10
+          8
         ],
         [
           "新能源",
-          9
-        ],
-        [
-          "人工智能",
           8
         ],
         [
-          "企业出海",
+          "电力系统",
           8
         ],
         [
-          "可再生能源",
+          "能源转型",
           8
         ],
         [
           "碳与排放",
-          8
+          7
+        ],
+        [
+          "企业出海",
+          6
         ],
         [
           "高排放行业",
-          8
+          6
+        ],
+        [
+          "人工智能",
+          6
+        ],
+        [
+          "可再生能源",
+          6
+        ],
+        [
+          "气候风险",
+          6
         ],
         [
           "污染防治",
-          7
+          6
         ],
         [
           "绿色金融",
-          7
+          6
         ],
         [
           "供应链与出海",
           5
         ],
         [
-          "气候风险",
-          5
-        ],
-        [
           "新兴行业",
-          4
+          5
         ],
         [
           "气候披露",
@@ -1743,7 +1754,7 @@
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
       "range": "2026.08.23—09.22",
-      "copy": "过去30天词频基于 136 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "copy": "过去30天词频基于 137 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1770,7 +1781,7 @@
           5
         ],
         [
-          "可再生能源",
+          "工作论文",
           5
         ],
         [
@@ -1778,7 +1789,7 @@
           5
         ],
         [
-          "工作论文",
+          "可再生能源",
           5
         ],
         [
@@ -1787,7 +1798,7 @@
         ],
         [
           "碳与排放",
-          4
+          5
         ],
         [
           "气候披露",
@@ -1799,6 +1810,10 @@
         ],
         [
           "数据中心",
+          4
+        ],
+        [
+          "新兴行业",
           4
         ],
         [
@@ -1815,10 +1830,6 @@
         ],
         [
           "数字化与数据",
-          3
-        ],
-        [
-          "新兴行业",
           3
         ],
         [
@@ -1949,15 +1960,15 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 26
+      "items": 25
     },
     {
       "source": "arXiv",
-      "status": "error",
-      "message": "429 https://export.arxiv.org/api/query?search_query=submittedDate%3A%5B202609150000%20TO%20202609222359%5D%20AND%20(all%3Aclimate%20OR%20all%3Asustainability%20OR%20all%3Aemissions"
+      "status": "ok",
+      "items": 40
     }
   ],
-  "verifiedCandidateCount": 8,
+  "verifiedCandidateCount": 9,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
