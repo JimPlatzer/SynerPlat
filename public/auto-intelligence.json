@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T01:48:20.793Z",
+  "updatedAt": "2026-09-23T04:48:33.037Z",
   "weekRange": "2026.09.16—09.23",
   "monthLabel": "2026年9月",
   "stories": [
@@ -237,6 +237,42 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2609-25774v1",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "工作论文",
+      "title": "Scientific capabilities and deployment sustainability of small-scale LLMs in biological wastewater treatment",
+      "summary": "Large language models (LLMs) are emerging as scientific assistants, yet their computational demands and limited domain specialization constrain sustainable deployment in environmental engineering. Here, we investigate whether domain-specialized small-scale LLMs can combine scientific capability with sustainable deployment in biological wastewater treatment.…",
+      "score": 7,
+      "publishedDate": "2026.09.22",
+      "eventDate": "2026.09.22",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.25774v1",
+      "tags": [
+        "人工智能",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-25432v1",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Tipping Points in LLM-Based Multi-Agent Systems: Stance on Climate Change Action",
+      "summary": "Because significant action to counter global warming requires massive public support, it is important to understand the dynamics of public opinion on climate issues. Of special interest are social tipping points, as revealed by large-scale effects of small perturbations in individual behaviors. Agent-based models (ABM) are an effective computational tool for…",
+      "score": 7,
+      "publishedDate": "2026.09.21",
+      "eventDate": "2026.09.21",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.25432v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "doi-10-1057-s41310-026-00422-7",
       "sector": "企业出海",
       "relevance": "直接 ESG",
@@ -255,6 +291,25 @@
         "企业竞争力",
         "中国上市公司",
         "同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-25953v1",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Analysis of trade-offs in urban heat mitigation using a Bayesian Optimization framework for an urban canopy layer model",
+      "summary": "To mitigate the challenges of climate change and intensifying heat stress in urban areas, local adaptation strategies are discussed and introduced in cities worldwide. To understand processes and potential trade-offs of these strategies a Bayesian optimization and surrogate modeling framework was employed to investigate urban parameter ranges of heat mitigat…",
+      "score": 6,
+      "publishedDate": "2026.09.22",
+      "eventDate": "2026.09.22",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.25953v1",
+      "tags": [
+        "气候与碳",
+        "供应链与出海",
+        "预印本·非同行评审"
       ]
     },
     {
@@ -321,6 +376,26 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2609-25437v1",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "工作论文",
+      "title": "Data center cooling choices shift water impacts across the grid: An integrated water-energy model for sustainable data center development",
+      "summary": "Data centers are being developed at an unprecedented pace, yet their energy and water impacts, and the spatial and temporal distribution of these impacts, remain poorly characterized. Data centers consume water for cooling (direct) and through electricity generation (indirect). Decisions on siting and cooling technology result in water-energy trade-offs that…",
+      "score": 6,
+      "publishedDate": "2026.09.21",
+      "eventDate": "2026.09.21",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.25437v1",
+      "tags": [
+        "人工智能",
+        "披露监管",
+        "供应链与出海",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "ec-ai-board-ninth-meeting-2026",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -339,83 +414,6 @@
         "前沿AI安全",
         "网络安全",
         "政策观察"
-      ]
-    },
-    {
-      "id": "eurostat-renewable-electricity-q2-2026",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "统计数据发布",
-      "title": "欧盟二季度可再生能源发电占比为54.1%，太阳能占可再生发电41.6%",
-      "summary": "Eurostat发布的季度数据表明，2026年第二季度欧盟净发电量中54.1%来自可再生能源，略低于上年同期的54.3%；太阳能占可再生发电的41.6%，高于上年同期37.0%。该指标是净发电结构，不应与《可再生能源指令》用于监测目标的可再生能源占总用电比重混同。",
-      "score": 6,
-      "publishedDate": "2026.09.18",
-      "eventDate": "2026.09.18",
-      "dateNote": "Eurostat于2026年9月18日发布2026年第二季度净发电结构数据",
-      "source": "Eurostat",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260918-1",
-      "tags": [
-        "可再生能源",
-        "电力结构",
-        "太阳能",
-        "欧盟统计",
-        "行业数据"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-21872v1",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Chronosphere: Space-Time Tessellation of Local Climate Experts",
-      "summary": "We introduce Chronosphere, a spatio-temporal neural field that learns representations of climate. A central challenge in geographic representation learning is modeling environmental processes whose spatial and temporal complexity varies widely. Yet existing location encoders typically fix a single level of detail everywhere. Global bases such as spherical ha…",
-      "score": 6,
-      "publishedDate": "2026.09.18",
-      "eventDate": "2026.09.18",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.21872v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-21632v1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "工作论文",
-      "title": "Artificial Intelligence as an Economic, Environmental, Geopolitical, and Social Transformation",
-      "summary": "The rapid development of artificial intelligence is often discussed primarily as a technological breakthrough. Such an approach is insufficient because AI is also transforming the allocation of capital, energy, natural resources, labour, and political power. Investment in generative AI and computing infrastructure is increasing rapidly and is increasingly co…",
-      "score": 6,
-      "publishedDate": "2026.09.18",
-      "eventDate": "2026.09.18",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.21632v1",
-      "tags": [
-        "人工智能",
-        "能源转型",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-19968v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Strategic Pricing in Electricity Markets with Pollution Constraints",
-      "summary": "We introduce a new model for a regulated day-ahead type auction-based electrical market in which the system operator can measure and limit the producer's emissions when choosing its optimal dispatch. We prove properties of this market model that describe it as a generalization to other previous works in the electrical market literature. Furthermore, we use s…",
-      "score": 6,
-      "publishedDate": "2026.09.17",
-      "eventDate": "2026.09.17",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.19968v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
       ]
     }
   ],
@@ -468,6 +466,25 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2609-25774v1",
+      "date": "2026-09-22",
+      "terms": [
+        "人工智能",
+        "水资源",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-25953v1",
+      "date": "2026-09-22",
+      "terms": [
+        "企业出海",
+        "气候风险",
+        "供应链与出海",
+        "工作论文"
+      ]
+    },
+    {
       "id": "govuk-www-gov-uk-government-speeches-what-climate-security-means-now-foreign-s",
       "date": "2026-09-21",
       "terms": [
@@ -497,6 +514,29 @@
         "高风险行业",
         "气候风险",
         "绿色金融",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-25432v1",
+      "date": "2026-09-21",
+      "terms": [
+        "新兴行业",
+        "气候风险",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-25437v1",
+      "date": "2026-09-21",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "数据中心",
+        "电力系统",
+        "气候披露",
+        "供应链与出海",
+        "水资源",
         "工作论文"
       ]
     },
@@ -1734,43 +1774,23 @@
       "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "政策监管",
+          "工作论文",
           10
         ],
         [
-          "工作论文",
+          "政策监管",
           9
-        ],
-        [
-          "企业出海",
-          8
-        ],
-        [
-          "电力系统",
-          8
         ],
         [
           "人工智能",
           7
         ],
         [
-          "新能源",
+          "企业出海",
           7
         ],
         [
-          "污染防治",
-          7
-        ],
-        [
-          "碳与排放",
-          7
-        ],
-        [
-          "绿色金融",
-          7
-        ],
-        [
-          "能源转型",
+          "电力系统",
           7
         ],
         [
@@ -1782,15 +1802,31 @@
           6
         ],
         [
-          "高排放行业",
+          "新能源",
           6
         ],
         [
-          "可再生能源",
+          "污染防治",
+          6
+        ],
+        [
+          "碳与排放",
+          6
+        ],
+        [
+          "绿色金融",
+          6
+        ],
+        [
+          "能源转型",
+          6
+        ],
+        [
+          "高排放行业",
           5
         ],
         [
-          "公正转型",
+          "可再生能源",
           4
         ],
         [
@@ -1798,8 +1834,20 @@
           4
         ],
         [
-          "高风险行业",
+          "水资源",
           4
+        ],
+        [
+          "公正转型",
+          3
+        ],
+        [
+          "气候披露",
+          3
+        ],
+        [
+          "高风险行业",
+          3
         ],
         [
           "关键矿产",
@@ -1810,11 +1858,7 @@
           3
         ],
         [
-          "气候披露",
-          3
-        ],
-        [
-          "水资源",
+          "数据中心",
           3
         ],
         [
@@ -1835,7 +1879,7 @@
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
       "range": "2026.08.24—09.23",
-      "copy": "过去30天词频基于 141 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "copy": "过去30天词频基于 145 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1850,11 +1894,15 @@
           6
         ],
         [
-          "新能源",
+          "供应链与出海",
           6
         ],
         [
-          "供应链与出海",
+          "工作论文",
+          6
+        ],
+        [
+          "新能源",
           6
         ],
         [
@@ -1863,10 +1911,6 @@
         ],
         [
           "绿色金融",
-          5
-        ],
-        [
-          "工作论文",
           5
         ],
         [
@@ -1882,15 +1926,11 @@
           4
         ],
         [
-          "气候披露",
-          4
-        ],
-        [
           "气候风险",
           4
         ],
         [
-          "污染防治",
+          "气候披露",
           4
         ],
         [
@@ -1902,12 +1942,16 @@
           4
         ],
         [
-          "能源效率",
+          "污染防治",
           4
         ],
         [
+          "能源效率",
+          3
+        ],
+        [
           "能源转型",
-          4
+          3
         ],
         [
           "数字化与数据",
@@ -1935,7 +1979,7 @@
         ],
         [
           "水资源",
-          2
+          3
         ],
         [
           "社会与住房",
@@ -2049,7 +2093,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 7,
+  "verifiedCandidateCount": 12,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

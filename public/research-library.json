@@ -1,6 +1,85 @@
 {
-  "updatedAt": "2026-09-23T01:48:20.793Z",
+  "updatedAt": "2026-09-23T04:48:33.037Z",
   "items": [
+    {
+      "id": "arxiv-arxiv-org-abs-2609-25774v1",
+      "type": "工作论文",
+      "title": "Scientific capabilities and deployment sustainability of small-scale LLMs in biological wastewater treatment",
+      "publisher": "arXiv",
+      "date": "2026-09-22",
+      "publishedDate": "2026-09-22",
+      "eventDate": "2026-09-22",
+      "dateNote": "预印本发布",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "预印本·非同行评审"
+      ],
+      "summary": "Large language models (LLMs) are emerging as scientific assistants, yet their computational demands and limited domain specialization constrain sustainable deployment in environmental engineering. Here, we investigate whether domain-specialized small-scale LLMs can combine scientific capability with sustainable deployment in biological wastewater treatment.…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2609.25774v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-25432v1",
+      "type": "工作论文",
+      "title": "Tipping Points in LLM-Based Multi-Agent Systems: Stance on Climate Change Action",
+      "publisher": "arXiv",
+      "date": "2026-09-21",
+      "publishedDate": "2026-09-21",
+      "eventDate": "2026-09-21",
+      "dateNote": "预印本发布",
+      "sector": "新兴行业",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Because significant action to counter global warming requires massive public support, it is important to understand the dynamics of public opinion on climate issues. Of special interest are social tipping points, as revealed by large-scale effects of small perturbations in individual behaviors. Agent-based models (ABM) are an effective computational tool for…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2609.25432v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-25953v1",
+      "type": "工作论文",
+      "title": "Analysis of trade-offs in urban heat mitigation using a Bayesian Optimization framework for an urban canopy layer model",
+      "publisher": "arXiv",
+      "date": "2026-09-22",
+      "publishedDate": "2026-09-22",
+      "eventDate": "2026-09-22",
+      "dateNote": "预印本发布",
+      "sector": "企业出海",
+      "tags": [
+        "气候与碳",
+        "供应链与出海",
+        "预印本·非同行评审"
+      ],
+      "summary": "To mitigate the challenges of climate change and intensifying heat stress in urban areas, local adaptation strategies are discussed and introduced in cities worldwide. To understand processes and potential trade-offs of these strategies a Bayesian optimization and surrogate modeling framework was employed to investigate urban parameter ranges of heat mitigat…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2609.25953v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-25437v1",
+      "type": "工作论文",
+      "title": "Data center cooling choices shift water impacts across the grid: An integrated water-energy model for sustainable data center development",
+      "publisher": "arXiv",
+      "date": "2026-09-21",
+      "publishedDate": "2026-09-21",
+      "eventDate": "2026-09-21",
+      "dateNote": "预印本发布",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "披露监管",
+        "供应链与出海",
+        "预印本·非同行评审"
+      ],
+      "summary": "Data centers are being developed at an unprecedented pace, yet their energy and water impacts, and the spatial and temporal distribution of these impacts, remain poorly characterized. Data centers consume water for cooling (direct) and through electricity generation (indirect). Decisions on siting and cooling technology result in water-energy trade-offs that…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2609.25437v1",
+      "featured": false
+    },
     {
       "id": "doi-10-1093-oxfclm-kgag009",
       "type": "学术论文",
