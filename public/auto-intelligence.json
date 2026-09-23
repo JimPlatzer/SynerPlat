@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-09-22T05:00:35.005Z",
-  "weekRange": "2026.09.15—09.22",
+  "updatedAt": "2026-09-23T01:48:20.793Z",
+  "weekRange": "2026.09.16—09.23",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-southern-water-fined-24m-for-kent-pollution",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "环境执法",
+      "title": "英国Southern Water因肯特郡多起污染事件被罚约240万英镑",
+      "summary": "英国环境署披露，法院就Southern Water在2019—2021年间向海域和溪流排放未经处理污水、柴油与废物等五项违法行为判处罚款2,416,666.67英镑，并另付约6.99万英镑费用。事件造成鱼类与鳗鱼死亡、海滩关闭及指定贝类养殖水域受影响；公司已认罪，罚款不得通过提高水价转嫁。",
+      "score": 7,
+      "publishedDate": "2026.09.22",
+      "eventDate": "2026.09.22",
+      "dateNote": "英国环境署于2026年9月22日公布判罚；违法排放发生于2019—2021年，公司于2026年4月认罪",
+      "source": "UK Environment Agency",
+      "url": "https://www.gov.uk/government/news/southern-water-fined-24m-for-kent-pollution",
+      "tags": [
+        "水污染",
+        "环境执法",
+        "污水治理",
+        "生态损害",
+        "公共卫生"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-prime-minister-drives-global-work-on-artifici",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "双边AI与自主系统合作",
+      "title": "英国与美国启动国防人工智能与自主系统合作",
+      "summary": "英国首相办公室宣布，英国国防部Rapid AI Delivery Taskforce将与美国国防部首席数字与人工智能办公室开展新的AI与自主系统合作，目标包括形成可信、可互操作的能力并保护海上航线、空域等关键基础设施。公告同时披露英美首次从英国无人潜航器试射美澳联合研制的重型鱼雷；当前材料强调安全与威慑应用，但未给出算法问责、人工监督或风险评估等具体治理安排。",
+      "score": 6,
+      "publishedDate": "2026.09.22",
+      "eventDate": "2026.09.22",
+      "dateNote": "英国首相办公室于2026年9月22日发布；合作启动与无人潜航器试射信息同页披露",
+      "source": "UK Prime Minister's Office / 10 Downing Street",
+      "url": "https://www.gov.uk/government/news/prime-minister-drives-global-work-on-artificial-intelligence-at-unga-as-uk-and-us-make-history-with-firing-from-undersea-drone",
+      "tags": [
+        "人工智能治理",
+        "自主系统",
+        "关键基础设施",
+        "国防科技",
+        "跨境合作"
+      ]
+    },
     {
       "id": "eu-2026-2133-goes-safeguard",
       "sector": "企业出海",
@@ -88,6 +130,27 @@
       ]
     },
     {
+      "id": "govuk-www-gov-uk-government-news-peoples-power-projects-to-give-more-control-o",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "社区能源投资",
+      "title": "英国启动3000万英镑首批“People’s Power”社区清洁能源资金",
+      "summary": "Great British Energy启动总额3000万英镑的首批社区能源支持，包括2000万英镑社区基金、500万英镑地方政府合作补助、向苏格兰拨款180万英镑及最高290万英镑咨询服务支持。该批资金是此前宣布最高10亿英镑社区和地方能源计划的首笔投入，目标支持超过1000个由社区组织或地方政府持有权益的太阳能、风能和水电项目。",
+      "score": 8,
+      "publishedDate": "2026.09.17",
+      "eventDate": "2026.09.17",
+      "dateNote": "英国政府与Great British Energy于2026年9月17日启动首批资金；最高10亿英镑总计划此前已宣布",
+      "source": "UK Department for Energy Security and Net Zero / Great British Energy",
+      "url": "https://www.gov.uk/government/news/peoples-power-projects-to-give-more-control-over-local-energy",
+      "tags": [
+        "社区能源",
+        "可再生能源",
+        "公共投资",
+        "地方所有权",
+        "公正转型"
+      ]
+    },
+    {
       "id": "doi-10-1007-s43615-026-01124-6",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -105,48 +168,6 @@
         "可再生能源",
         "制造业转型",
         "ISM–MICMAC",
-        "同行评审"
-      ]
-    },
-    {
-      "id": "ec-eu-ets-saf-support-2025-allocation",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "碳市场激励",
-      "title": "欧盟以约4.3亿欧元ETS配额支持航空业使用可持续航空燃料",
-      "summary": "欧盟委员会9月15日披露，其于9月8日通过决定，向130家航空运营商分配约520万份欧盟碳排放交易体系配额，价值约4.3亿欧元，用于补贴2025年可持续航空燃料与化石航煤之间的价差。运营商申报的可持续航空燃料超过53万吨，委员会估算对应约170万吨二氧化碳减排；连同免交配额形成的1.35亿欧元激励，2025年支持总额约5.65亿欧元。该数据为制度执行结果，并不等同于全生命周期减排独立审计。",
-      "score": 8,
-      "publishedDate": "2026.09.15",
-      "eventDate": "2026.09.08",
-      "dateNote": "欧盟委员会于2026年9月8日通过配额分配决定，并于9月15日发布执行数据",
-      "source": "European Commission Directorate-General for Climate Action",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/over-eur400-million-eu-ets-support-given-airlines-using-sustainable-aviation-fuels-2025-2026-09-15_en",
-      "tags": [
-        "欧盟碳市场",
-        "可持续航空燃料",
-        "航空减排",
-        "碳价激励",
-        "高排放行业"
-      ]
-    },
-    {
-      "id": "doi-10-3389-fsuep-2026-1946675",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "同行评审研究",
-      "title": "Governance thresholds, financial intermediation and the renewable energy transition: implications for sustainable development in Sub-Saharan Africa",
-      "summary": "研究使用35个撒哈拉以南非洲国家2005—2023年的非平衡面板，结合系统GMM、Hansen门槛模型等方法，考察金融中介、可再生能源与治理质量的关系。结果显示，金融中介与可持续发展呈正向关联；在传统生物质占比较高的样本中，可再生能源变量的约化形式系数为负；治理质量超过−0.421门槛后，金融中介的相关作用约为门槛以下的4倍。该结果为区域面板关联研究，不宜外推为全球因果结论。",
-      "score": 8,
-      "publishedDate": "2026.09.15",
-      "eventDate": "2026.09.15",
-      "dateNote": "Crossref元数据记录在线发表日期为2026年9月15日；Frontiers原始页显示2026年8月21日接收并已完成两位匿名审稿人评审，最终排版版本待发布",
-      "source": "Frontiers in Sustainable Energy Policy",
-      "url": "https://www.frontiersin.org/journals/sustainable-energy-policy/articles/10.3389/fsuep.2026.1946675/abstract",
-      "tags": [
-        "撒哈拉以南非洲",
-        "可再生能源",
-        "金融中介",
-        "治理门槛",
         "同行评审"
       ]
     }
@@ -195,6 +216,27 @@
       ]
     },
     {
+      "id": "doi-10-1093-oxfclm-kgag009",
+      "sector": "企业出海",
+      "relevance": "间接 ESG",
+      "event": "同行评审研究",
+      "title": "Governing Critical Minerals for a Just Energy Transition in ASEAN: Insights from the EU",
+      "summary": "论文以公正转型框架和比较法方法评估东盟关键矿产治理，并以欧盟《关键原材料法》等制度为参照。作者识别出东盟机构碎片化、人权保障整合不足以及能源、采矿与环境政策协调不足等缺口，建议建立更一致的区域框架并强化环境与人权保障。",
+      "score": 7,
+      "publishedDate": "2026.09.22",
+      "eventDate": "2026.09.22",
+      "dateNote": "Oxford Academic显示同行评审稿于2026年9月16日接收、9月22日在线发表；当前为正式排版前的Accepted Manuscript，后续版本沿用同一DOI",
+      "source": "Oxford Open Climate Change / Oxford University Press",
+      "url": "https://academic.oup.com/oocc/advance-article/doi/10.1093/oxfclm/kgag009/8828013",
+      "tags": [
+        "关键矿产",
+        "东盟",
+        "公正转型",
+        "人权与环境治理",
+        "同行评审"
+      ]
+    },
+    {
       "id": "doi-10-1057-s41310-026-00422-7",
       "sector": "企业出海",
       "relevance": "直接 ESG",
@@ -216,6 +258,48 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2609-24382v1",
+      "sector": "高风险行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Credit Access is Associated with Improved Food Security in the Horn of Africa",
+      "summary": "研究使用2015—2022年索马里及非洲之角的环境、社会经济与冲突数据，以观察性机器学习框架估计信贷可及性与急性粮食不安全的关联。结果显示，更高的信贷可及性与研究期内人口层面约2%的急性粮食不安全下降相关；该结果依赖识别假设，不能直接证明因果关系。",
+      "score": 6,
+      "publishedDate": "2026.09.21",
+      "eventDate": "2026.09.21",
+      "dateNote": "arXiv v1于2026年9月21日提交；预印本，未经同行评审",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.24382v1",
+      "tags": [
+        "气候风险",
+        "食品安全",
+        "金融可及性",
+        "非洲之角",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-24224v1",
+      "sector": "新兴行业",
+      "relevance": "间接 ESG",
+      "event": "工作论文",
+      "title": "A Carbon-Aware Quantum Computing Framework for LCA-Driven Sustainability in Quantum Cloud Services",
+      "summary": "研究把超导量子计算平台的全生命周期评估扩展到量子云服务层，估算的五年碳足迹在不同纠错情景下差异显著，但隐含碳均占77.3%—85.2%。模型据此将提高设备利用率和延长使用寿命识别为优先减排杠杆；结论仍需直接功率测量和跨架构验证。",
+      "score": 6,
+      "publishedDate": "2026.09.21",
+      "eventDate": "2026.09.21",
+      "dateNote": "arXiv v1于2026年9月21日提交；预印本，未经同行评审",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.24224v1",
+      "tags": [
+        "量子计算",
+        "生命周期评估",
+        "隐含碳",
+        "云服务",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "govuk-www-gov-uk-government-speeches-what-climate-security-means-now-foreign-s",
       "sector": "高风险行业",
       "relevance": "直接 ESG",
@@ -234,43 +318,6 @@
         "国家安全",
         "韧性规划",
         "政策信号"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-24382v1",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Credit Access is Associated with Improved Food Security in the Horn of Africa",
-      "summary": "The intensification of climate change poses a growing threat to food security, especially in vulnerable communities. This study employs an observational machine-learning framework to estimate the causal association between access to credit and acute food insecurity in Somalia and across the Horn of Africa, drawing on a harmonized dataset spanning key environ…",
-      "score": 6,
-      "publishedDate": "2026.09.21",
-      "eventDate": "2026.09.21",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.24382v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-24224v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "A Carbon-Aware Quantum Computing Framework for LCA-Driven Sustainability in Quantum Cloud Services",
-      "summary": "Quantum computing's environmental footprint remains poorly understood relative to classical infrastructure, and as quantum computing moves toward cloud delivery, Quantum Cloud Service (QCS) providers lack actionable guidance beyond platform-level carbon-accounting frameworks. Objective: This study extends the carbon-aware quantum computing (CQC) framework fr…",
-      "score": 6,
-      "publishedDate": "2026.09.21",
-      "eventDate": "2026.09.21",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.24224v1",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "预印本·非同行评审"
       ]
     },
     {
@@ -370,25 +417,6 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-18029v1",
-      "sector": "人工智能",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Toward a Time-Aware Assessment Framework for the Carbon Cost of AI-Enabled Decarbonization",
-      "summary": "AI is increasingly used to support decarbonization decisions across the built environment, yet the development, training, and use of AI consume energy and induce CO2e emissions. However, existing assessments often report physical-system savings while omitting AI-side emissions. Moreover, they rarely account for the mismatch between when AI costs occur and wh…",
-      "score": 6,
-      "publishedDate": "2026.09.16",
-      "eventDate": "2026.09.16",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.18029v1",
-      "tags": [
-        "人工智能",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
@@ -412,6 +440,34 @@
       ]
     },
     {
+      "id": "govuk-www-gov-uk-government-news-prime-minister-drives-global-work-on-artifici",
+      "date": "2026-09-22",
+      "terms": [
+        "人工智能",
+        "供应链与出海"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-southern-water-fined-24m-for-kent-pollution",
+      "date": "2026-09-22",
+      "terms": [
+        "高排放行业",
+        "污染防治",
+        "水资源"
+      ]
+    },
+    {
+      "id": "doi-10-1093-oxfclm-kgag009",
+      "date": "2026-09-22",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "能源转型",
+        "关键矿产",
+        "公正转型"
+      ]
+    },
+    {
       "id": "govuk-www-gov-uk-government-speeches-what-climate-security-means-now-foreign-s",
       "date": "2026-09-21",
       "terms": [
@@ -426,21 +482,21 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-24382v1",
+      "id": "arxiv-arxiv-org-abs-2609-24224v1",
       "date": "2026-09-21",
       "terms": [
         "新兴行业",
-        "气候风险",
+        "碳与排放",
         "工作论文"
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-24224v1",
+      "id": "arxiv-arxiv-org-abs-2609-24382v1",
       "date": "2026-09-21",
       "terms": [
-        "新能源",
-        "能源转型",
-        "碳与排放",
+        "高风险行业",
+        "气候风险",
+        "绿色金融",
         "工作论文"
       ]
     },
@@ -558,6 +614,17 @@
         "碳与排放",
         "污染防治",
         "工作论文"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-peoples-power-projects-to-give-more-control-o",
+      "date": "2026-09-17",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "可再生能源",
+        "绿色金融",
+        "公正转型"
       ]
     },
     {
@@ -1651,25 +1718,31 @@
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
+    ],
+    [
+      "人工智能",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
+      "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
       "title": "高排放行业、企业出海、新能源构成过去七日的主要行业信号",
-      "range": "2026.09.15—09.22",
-      "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "range": "2026.09.16—09.23",
+      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "工作论文",
+          "政策监管",
           10
         ],
         [
-          "政策监管",
-          8
+          "工作论文",
+          9
         ],
         [
-          "新能源",
+          "企业出海",
           8
         ],
         [
@@ -1677,27 +1750,31 @@
           8
         ],
         [
-          "能源转型",
-          8
+          "人工智能",
+          7
+        ],
+        [
+          "新能源",
+          7
+        ],
+        [
+          "污染防治",
+          7
         ],
         [
           "碳与排放",
           7
         ],
         [
-          "企业出海",
-          6
+          "绿色金融",
+          7
         ],
         [
-          "高排放行业",
-          6
+          "能源转型",
+          7
         ],
         [
-          "人工智能",
-          6
-        ],
-        [
-          "可再生能源",
+          "供应链与出海",
           6
         ],
         [
@@ -1705,31 +1782,39 @@
           6
         ],
         [
-          "污染防治",
+          "高排放行业",
           6
         ],
         [
-          "绿色金融",
-          6
-        ],
-        [
-          "供应链与出海",
+          "可再生能源",
           5
+        ],
+        [
+          "公正转型",
+          4
         ],
         [
           "新兴行业",
-          5
+          4
         ],
         [
-          "气候披露",
+          "高风险行业",
           4
+        ],
+        [
+          "关键矿产",
+          3
         ],
         [
           "数字化与数据",
           3
         ],
         [
-          "气候适应",
+          "气候披露",
+          3
+        ],
+        [
+          "水资源",
           3
         ],
         [
@@ -1743,18 +1828,14 @@
         [
           "自然与生物多样性",
           3
-        ],
-        [
-          "高风险行业",
-          3
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.23—09.22",
-      "copy": "过去30天词频基于 137 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.24—09.23",
+      "copy": "过去30天词频基于 141 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1781,11 +1862,11 @@
           5
         ],
         [
-          "工作论文",
+          "绿色金融",
           5
         ],
         [
-          "绿色金融",
+          "工作论文",
           5
         ],
         [
@@ -1798,7 +1879,7 @@
         ],
         [
           "碳与排放",
-          5
+          4
         ],
         [
           "气候披露",
@@ -1809,15 +1890,15 @@
           4
         ],
         [
+          "污染防治",
+          4
+        ],
+        [
           "数据中心",
           4
         ],
         [
           "新兴行业",
-          4
-        ],
-        [
-          "污染防治",
           4
         ],
         [
@@ -1845,11 +1926,15 @@
           3
         ],
         [
+          "公正转型",
+          3
+        ],
+        [
           "关键矿产",
           3
         ],
         [
-          "公正转型",
+          "水资源",
           2
         ],
         [
@@ -1870,10 +1955,6 @@
         ],
         [
           "学术研究",
-          2
-        ],
-        [
-          "气候与适应",
           2
         ]
       ]
@@ -1950,17 +2031,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 17
+      "items": 15
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 47
+      "items": 49
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 25
+      "items": 28
     },
     {
       "source": "arXiv",
@@ -1968,7 +2049,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 9,
+  "verifiedCandidateCount": 7,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

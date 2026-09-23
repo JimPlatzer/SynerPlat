@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-09-22T05:00:35.005Z",
+  "updatedAt": "2026-09-23T01:48:20.793Z",
   "items": [
+    {
+      "id": "doi-10-1093-oxfclm-kgag009",
+      "type": "学术论文",
+      "title": "Governing Critical Minerals for a Just Energy Transition in ASEAN: Insights from the EU",
+      "publisher": "Oxford Open Climate Change / Oxford University Press",
+      "date": "2026-09-22",
+      "publishedDate": "2026-09-22",
+      "eventDate": "2026-09-22",
+      "dateNote": "Oxford Academic显示同行评审稿于2026年9月16日接收、9月22日在线发表；当前为正式排版前的Accepted Manuscript，后续版本沿用同一DOI",
+      "sector": "企业出海",
+      "tags": [
+        "关键矿产",
+        "东盟",
+        "公正转型",
+        "人权与环境治理",
+        "同行评审"
+      ],
+      "summary": "论文以公正转型框架和比较法方法评估东盟关键矿产治理，并以欧盟《关键原材料法》等制度为参照。作者识别出东盟机构碎片化、人权保障整合不足以及能源、采矿与环境政策协调不足等缺口，建议建立更一致的区域框架并强化环境与人权保障。",
+      "insight": "该文适合研究东南亚关键矿产供应链和企业出海合规，但属于规范性法律政策分析；当前页面为已接收稿，引用时应留意正式排版版本可能存在文字调整。",
+      "url": "https://academic.oup.com/oocc/advance-article/doi/10.1093/oxfclm/kgag009/8828013",
+      "featured": false
+    },
     {
       "id": "arxiv-arxiv-org-abs-2609-24382v1",
       "type": "工作论文",
@@ -9,15 +31,18 @@
       "date": "2026-09-21",
       "publishedDate": "2026-09-21",
       "eventDate": "2026-09-21",
-      "dateNote": "预印本发布",
-      "sector": "新兴行业",
+      "dateNote": "arXiv v1于2026年9月21日提交；预印本，未经同行评审",
+      "sector": "高风险行业",
       "tags": [
-        "气候与碳",
+        "气候风险",
+        "食品安全",
+        "金融可及性",
+        "非洲之角",
         "预印本·非同行评审"
       ],
-      "summary": "The intensification of climate change poses a growing threat to food security, especially in vulnerable communities. This study employs an observational machine-learning framework to estimate the causal association between access to credit and acute food insecurity in Somalia and across the Horn of Africa, drawing on a harmonized dataset spanning key environ…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.24382v1",
+      "summary": "研究使用2015—2022年索马里及非洲之角的环境、社会经济与冲突数据，以观察性机器学习框架估计信贷可及性与急性粮食不安全的关联。结果显示，更高的信贷可及性与研究期内人口层面约2%的急性粮食不安全下降相关。",
+      "insight": "该研究为数据稀缺和危机地区的气候韧性金融提供方法线索，但结果依赖明确的识别假设和观察数据，不能替代随机评估或直接证明因果关系。",
+      "url": "https://arxiv.org/abs/2609.24382v1",
       "featured": false
     },
     {
@@ -28,16 +53,128 @@
       "date": "2026-09-21",
       "publishedDate": "2026-09-21",
       "eventDate": "2026-09-21",
-      "dateNote": "预印本发布",
-      "sector": "新能源",
+      "dateNote": "arXiv v1于2026年9月21日提交；预印本，未经同行评审",
+      "sector": "新兴行业",
       "tags": [
-        "能源转型",
-        "气候与碳",
+        "量子计算",
+        "生命周期评估",
+        "隐含碳",
+        "云服务",
         "预印本·非同行评审"
       ],
-      "summary": "Quantum computing's environmental footprint remains poorly understood relative to classical infrastructure, and as quantum computing moves toward cloud delivery, Quantum Cloud Service (QCS) providers lack actionable guidance beyond platform-level carbon-accounting frameworks. Objective: This study extends the carbon-aware quantum computing (CQC) framework fr…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
-      "url": "http://arxiv.org/abs/2609.24224v1",
+      "summary": "研究把超导量子计算平台的全生命周期评估扩展到量子云服务层，估算的五年碳足迹在不同纠错情景下差异显著，但隐含碳均占77.3%—85.2%。模型据此将提高设备利用率和延长使用寿命识别为优先减排杠杆。",
+      "insight": "该框架补充了只关注运行用电的云计算碳核算视角，但依赖单一超导平台及情景假设，作者亦要求以直接功率测量和跨架构验证进一步校准。",
+      "url": "https://arxiv.org/abs/2609.24224v1",
+      "featured": false
+    },
+    {
+      "id": "oecd-mne-guidelines-2023",
+      "type": "政策指南",
+      "title": "OECD Guidelines for Multinational Enterprises on Responsible Business Conduct (2023 Edition)",
+      "publisher": "OECD",
+      "date": "2023-06-08",
+      "publishedDate": "2023-06-08",
+      "eventDate": "2023-06-08",
+      "dateNote": "OECD于2023年6月8日发布2023年修订版",
+      "sector": "企业出海",
+      "tags": [
+        "负责任商业行为",
+        "供应链尽责管理",
+        "人权与劳工",
+        "气候与生物多样性",
+        "跨国企业"
+      ],
+      "summary": "OECD面向跨国企业更新负责任商业行为指南，将气候变化、生物多样性、技术与数据、商业诚信、供应链尽责管理和信息披露纳入更明确的企业责任建议，并同步强化各国国家联络点的实施程序。",
+      "insight": "适合作为企业出海、供应链尽责管理与申诉机制研究的国际基准；指南本身是政府支持的非约束性标准，但可被合同、金融机构要求和各国制度引用。",
+      "url": "https://www.oecd.org/en/publications/oecd-guidelines-for-multinational-enterprises-on-responsible-business-conduct_81f92357-en.html",
+      "featured": true
+    },
+    {
+      "id": "eu-csddd-2024-1760-original",
+      "type": "政策法规",
+      "title": "Directive (EU) 2024/1760 on Corporate Sustainability Due Diligence (CSDDD)",
+      "publisher": "European Union / EUR-Lex",
+      "date": "2024-07-05",
+      "publishedDate": "2024-07-05",
+      "eventDate": "2024-06-13",
+      "dateNote": "指令于2024年6月13日签署、7月5日在欧盟官方公报刊登；该原始版本此后已有修订，应用时应同时核对EUR-Lex当前合并文本",
+      "sector": "企业出海",
+      "tags": [
+        "CSDDD",
+        "供应链尽责管理",
+        "人权",
+        "环境影响",
+        "欧盟监管"
+      ],
+      "summary": "欧盟企业可持续尽责管理指令建立大型企业识别、预防、减轻并补救自身运营、子公司和活动链中实际或潜在人权与环境不利影响的制度框架，并设置监督、制裁及民事责任安排。",
+      "insight": "这是研究欧盟供应链合规演进的重要原始制度文本；由于该指令已被后续立法调整，企业制定适用范围和时间表时必须以EUR-Lex最新合并版本及成员国转化规则为准。",
+      "url": "https://eur-lex.europa.eu/eli/dir/2024/1760/oj/eng",
+      "featured": true
+    },
+    {
+      "id": "iso-iec-21031-2024-sci",
+      "type": "标准指南",
+      "title": "Software Carbon Intensity (SCI) Specification — ISO/IEC 21031:2024",
+      "publisher": "Green Software Foundation / ISO / IEC",
+      "date": "2024-03",
+      "publishedDate": "2024-03",
+      "eventDate": "2024-03",
+      "dateNote": "SCI规范于2024年3月正式成为ISO/IEC 21031:2024；开放页面展示可执行的规范版本",
+      "sector": "人工智能",
+      "tags": [
+        "软件碳强度",
+        "人工智能",
+        "能耗核算",
+        "隐含碳",
+        "ISO标准"
+      ],
+      "summary": "SCI规范以每个功能单位的软件碳排放为核心指标，将运行用电、地区电网碳强度与硬件隐含排放纳入统一边界，并要求披露功能单位、系统边界和量化方法。降低SCI只能依靠能源效率、硬件效率或碳感知调度，而不能通过抵销实现。",
+      "insight": "可作为AI模型、云服务与企业软件碳绩效的可比方法基础；使用模型估算代替实测时，应明确数据分辨率、硬件分摊和电网排放因子的限制。",
+      "url": "https://sci.greensoftware.foundation/",
+      "featured": false
+    },
+    {
+      "id": "jmlr-bloom-carbon-footprint-2023",
+      "type": "学术论文",
+      "title": "Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model",
+      "publisher": "Journal of Machine Learning Research",
+      "date": "2023-06",
+      "publishedDate": "2023-06",
+      "eventDate": "2023-06",
+      "dateNote": "JMLR第24卷论文标注2023年6月发表；同行评审且以CC BY 4.0开放获取",
+      "sector": "人工智能",
+      "tags": [
+        "大语言模型",
+        "全生命周期碳足迹",
+        "训练与推理",
+        "硬件隐含排放",
+        "同行评审"
+      ],
+      "summary": "论文对1760亿参数BLOOM模型开展生命周期碳核算：仅计动态训练功耗约为24.7吨二氧化碳当量，纳入设备制造与运营过程后约为50.5吨，并进一步测量实时API推理的能源与碳排放。",
+      "insight": "该研究是大型语言模型从训练扩展到硬件制造和部署阶段核算的早期方法案例；数值依赖具体硬件、数据中心、电网和利用率，不宜直接外推到其他模型。",
+      "url": "https://jmlr.org/papers/v24/23-0069.html",
+      "featured": false
+    },
+    {
+      "id": "pcaf-financed-emissions-2022-second-edition",
+      "type": "标准指南",
+      "title": "Global GHG Accounting and Reporting Standard Part A: Financed Emissions — Second Edition",
+      "publisher": "Partnership for Carbon Accounting Financials (PCAF)",
+      "date": "2022",
+      "publishedDate": "2022",
+      "eventDate": "2022",
+      "dateNote": "PCAF于2022年发布第二版；该历史版本已由2025年第三版更新，保留用于方法演进比较",
+      "sector": "绿色金融",
+      "tags": [
+        "融资排放",
+        "范围三",
+        "金融机构",
+        "碳核算",
+        "历史版本"
+      ],
+      "summary": "PCAF第二版为金融机构核算与披露融资排放提供资产类别方法，覆盖上市股权与公司债、企业贷款与非上市股权、项目融资、商业地产、抵押贷款、机动车贷款以及新增的主权债务方法。",
+      "insight": "适合追踪金融业范围三第15类投资活动方法的演进；开展现行核算时应优先使用PCAF 2025年第三版，并将第二版仅作为历史口径与基线比较资料。",
+      "url": "https://carbonaccountingfinancials.com/files/downloads/PCAF-Global-GHG-Standard.pdf",
       "featured": false
     },
     {

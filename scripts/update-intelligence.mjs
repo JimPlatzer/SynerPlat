@@ -18,7 +18,7 @@ const esgPattern=/\b(esg|climate|carbon|emission|renewable|clean energy|energy t
 const highImpactPattern=/regulation|rule|directive|standard|disclosure|mandatory|ban|permit|effective|final rule|investment|billion|framework|taxonomy|report|working paper|peer.review/i;
 const trustedPublisherPattern=/Elsevier|Springer|Wiley|SAGE|Oxford University Press|Cambridge University Press|Taylor & Francis|IEEE|Association for Computing Machinery|Nature Portfolio|American Chemical Society|Royal Society|Frontiers Media|MDPI/i;
 const arxivFalsePositivePattern=/astronom|astrophys|cosmolog|black[ -]?hole|gravitational.wave|post-minkowskian|compact objects?|relativistic fluids?|particle physics|nuclear recoil|\bLHC\b|quasar|cosmic star formation|Josephson|vortex laser|stellar|galax/i;
-const arxivEsgPattern=/climate change|carbon capture|\bCCUS\b|CO2 emissions?|renewable energy|energy transition|sustainab|pollution|environmental|traffic noise|biodiversity|circular economy|green finance|net[ -]?zero|decarbon/i;
+const arxivEsgPattern=/climate change|carbon capture|\bCCUS\b|CO2 emissions?|renewable energy|energy transition|sustainab|pollution|environmental|traffic noise|biodiversity|circular economy|green finance|net[ -]?zero|decarbon|气候|碳|能源|可持续|污染|生物多样性|循环经济|绿色金融/i;
 const genericDiplomaticStatementPattern=/UN Human Rights Council|UN Security Council|Interactive Dialogue|Fact-Finding Mission|Joint Statement on (?:Sri Lanka|Sudan)|terror(?:ism|ist)|OSCE Economic and Environmental Forum|UK statement (?:at|to) (?:the )?(?:UN|OSCE)/i;
 const speechTitlePattern=/\b(?:speech|remarks|address)\b/i;
 const businessHumanRightsNexusPattern=/business|company|corporat|industry|supply chain|forced labo(?:u)?r|worker|workplace|trade|export|mining|energy|technology|artificial intelligence|\bAI\b/i;
@@ -35,7 +35,7 @@ function uniqueByUrl(items){const seenUrls=new Set();const seenIds=new Set();ret
 function heuristicScore(item){let score=4;if(['Federal Register','GOV.UK'].includes(item.source))score+=2;if(item.source==='Crossref')score+=1;if(highImpactPattern.test(`${item.title} ${item.summary}`))score+=2;if(/effective|final rule|mandatory|billion|cross-sector|systemic/i.test(`${item.title} ${item.summary}`))score+=1;return Math.min(10,score)}
 function sectorFor(text){if(/artificial intelligence|\bai\b|data cent/i.test(text))return '人工智能';if(/renewable|solar|wind|battery|hydrogen|electricity|grid|energy/i.test(text))return '新能源';if(/disclosure|supply chain|trade|border|export|deforestation/i.test(text))return '企业出海';if(/finance|investment|bank|insurance|taxonomy/i.test(text))return '绿色金融';if(/steel|cement|aluminium|oil|gas|coal|chemical|emission|pollution/i.test(text))return '高排放行业';return '新兴行业'}
 function meaningfulEsgNexus(item){
- const text=`${item.title||''} ${item.summary||''}`;
+ const text=`${item.title||''} ${item.summary||''} ${(item.tags||[]).join(' ')}`;
  if(genericDiplomaticStatementPattern.test(text)&&(!businessHumanRightsNexusPattern.test(text)||!concretePolicyActionPattern.test(text)))return false;
  const isArxiv=item?.source==='arXiv'||item?.publisher==='arXiv';if(!isArxiv)return true;
  return arxivEsgPattern.test(text)&&!arxivFalsePositivePattern.test(text);
