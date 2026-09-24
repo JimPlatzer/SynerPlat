@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T00:40:01.000Z",
+  "updatedAt": "2026-09-24T04:56:02.294Z",
   "weekRange": "2026.09.17—09.24",
   "monthLabel": "2026年9月",
   "stories": [
@@ -16,7 +16,30 @@
       "dateNote": "英国政府网页于2026年9月23日刊载威尔士适用信息；Great British Energy 于9月17日启动首轮3,000万英镑资助。",
       "source": "UK Government / Great British Energy",
       "url": "https://www.gov.uk/government/news/welsh-communities-given-support-to-build-local-energy-projects-to-tackle-climate-change",
-      "tags": ["气候与碳", "政策法规", "社区能源", "地方所有权"]
+      "tags": [
+        "气候与碳",
+        "政策法规",
+        "社区能源",
+        "地方所有权"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-publications-cma-response-to-consultation-on-consu",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "CMA response to consultation on consumer protection for home upgrade schemes",
+      "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
+      "score": 6,
+      "publishedDate": "2026.09.23",
+      "eventDate": "2026.09.23",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
     },
     {
       "id": "govuk-www-gov-uk-government-news-southern-water-fined-24m-for-kent-pollution",
@@ -173,14 +196,20 @@
       "relevance": "直接 ESG",
       "event": "同行评审研究",
       "title": "气候风险披露与ESG绩效：来自中国矿业的证据",
-      "summary": "基于中国A股矿业企业2010—2019年数据的实证研究发现，气候风险披露与环境绩效改善相关，但未显著改善综合ESG、社会或治理绩效；绿色创新发挥中介作用，管理层环境背景和企业议价能力具有正向调节作用。研究提示披露效果存在维度差异，不能将环境绩效改善直接等同于整体ESG提升。",
+      "summary": "基于中国A股矿业企业2010—2019年数据的实证研究发现，气候风险披露与环境绩效改善相关，但未显著改善综合ESG、社会或治理绩效；绿色创新发挥中介作用，管理层环境背景和企业议价能力具有正向调节作用。",
       "score": 7,
       "publishedDate": "2026.09.23",
       "eventDate": "2026.09.23",
-      "dateNote": "Springer期刊页面标注2026年9月23日在线发表，文章类型为Original Paper；已按期刊正式论文纳入，非预印本。",
+      "dateNote": "Springer期刊页面标注2026年9月23日在线发表，文章类型为Original Paper；同行评审期刊论文，非预印本。",
       "source": "Mineral Economics / Springer Nature",
-      "url": "https://doi.org/10.1007/s13563-026-00698-9",
-      "tags": ["气候与碳", "披露监管", "中国矿业", "环境绩效", "同行评审"]
+      "url": "https://link.springer.com/article/10.1007/s13563-026-00698-9",
+      "tags": [
+        "气候风险披露",
+        "中国矿业",
+        "环境绩效",
+        "ESG实证研究",
+        "同行评审"
+      ]
     },
     {
       "id": "doi-10-1007-s10668-026-08170-y",
@@ -403,39 +432,34 @@
         "供应链与出海",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "ec-ai-board-ninth-meeting-2026",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "监管协调观察",
-      "title": "欧盟AI委员会讨论《人工智能法》执法、市场监督与前沿模型安全",
-      "summary": "欧盟AI委员会第九次会议审议委员会执法重点、《人工智能法》实施、市场监督和上市前合格评定治理，并讨论前沿AI事故、安全能力及网络安全行动计划。会议未形成新的约束性规则，但显示成员国协调和执法基础设施正在细化。",
-      "score": 6,
-      "publishedDate": "2026.09.18",
-      "eventDate": "2026.09.17",
-      "dateNote": "会议于2026年9月17日举行，欧委会于9月18日发布纪要；未发布新的约束性规则",
-      "source": "European Commission Directorate-General for Communications Networks, Content and Technology",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-board-holds-its-ninth-meeting",
-      "tags": [
-        "欧盟人工智能法",
-        "市场监督",
-        "前沿AI安全",
-        "网络安全",
-        "政策观察"
-      ]
     }
   ],
   "keywordEvents": [
     {
       "id": "doi-10-1007-s13563-026-00698-9",
       "date": "2026-09-23",
-      "terms": ["高排放行业", "矿业", "气候风险", "气候披露", "环境绩效"]
+      "terms": [
+        "高排放行业",
+        "气候风险",
+        "气候披露"
+      ]
     },
     {
       "id": "govuk-www-gov-uk-government-news-welsh-communities-given-support-to-build-loca",
       "date": "2026-09-23",
-      "terms": ["新能源", "能源转型", "政策监管", "社区能源"]
+      "terms": [
+        "新能源",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-publications-cma-response-to-consultation-on-consu",
+      "date": "2026-09-23",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "碳与排放"
+      ]
     },
     {
       "id": "doi-10-1007-s10668-026-08170-y",
@@ -1748,18 +1772,15 @@
         "聚变能源",
         "能源转型"
       ]
-    },
-    {
-      "id": "period-www-mee-gov-cn-ywdt-hjywnews-202608-t20260824-1164432-shtml",
-      "date": "2026-08-24",
-      "terms": [
-        "高排放行业",
-        "碳与排放",
-        "数字化与数据"
-      ]
     }
   ],
   "sectorInsights": [
+    [
+      "新能源",
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
+      "→"
+    ],
     [
       "高排放行业",
       "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
@@ -1768,12 +1789,6 @@
     ],
     [
       "企业出海",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
-      "→"
-    ],
-    [
-      "新能源",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
@@ -1788,9 +1803,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "高排放行业与能源转型构成过去七日的主要信号",
+      "title": "新能源、高排放行业、企业出海构成过去七日的主要行业信号",
       "range": "2026.09.17—09.24",
-      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 13 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "工作论文",
@@ -1798,31 +1813,31 @@
         ],
         [
           "政策监管",
-          9
+          10
+        ],
+        [
+          "企业出海",
+          8
+        ],
+        [
+          "气候风险",
+          8
+        ],
+        [
+          "电力系统",
+          8
         ],
         [
           "人工智能",
           7
         ],
         [
-          "企业出海",
-          7
-        ],
-        [
-          "电力系统",
-          7
-        ],
-        [
           "供应链与出海",
-          6
-        ],
-        [
-          "气候风险",
-          6
+          7
         ],
         [
           "新能源",
-          6
+          7
         ],
         [
           "污染防治",
@@ -1842,7 +1857,19 @@
         ],
         [
           "高排放行业",
+          6
+        ],
+        [
+          "气候披露",
           5
+        ],
+        [
+          "水资源",
+          5
+        ],
+        [
+          "公正转型",
+          4
         ],
         [
           "可再生能源",
@@ -1853,20 +1880,8 @@
           4
         ],
         [
-          "水资源",
-          4
-        ],
-        [
-          "公正转型",
-          3
-        ],
-        [
-          "气候披露",
-          3
-        ],
-        [
           "高风险行业",
-          3
+          4
         ],
         [
           "关键矿产",
@@ -1885,28 +1900,16 @@
           3
         ],
         [
-          "能源效率",
-          3
-        ],
-        [
           "自然与生物多样性",
           3
-        ],
-        [
-          "社区能源",
-          3
-        ],
-        [
-          "矿业",
-          2
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.24—09.23",
-      "copy": "过去30天词频基于 145 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.25—09.24",
+      "copy": "过去30天词频基于 147 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1921,15 +1924,15 @@
           6
         ],
         [
+          "新能源",
+          6
+        ],
+        [
           "供应链与出海",
           6
         ],
         [
           "工作论文",
-          6
-        ],
-        [
-          "新能源",
           6
         ],
         [
@@ -1949,11 +1952,11 @@
           5
         ],
         [
-          "碳与排放",
+          "气候风险",
           4
         ],
         [
-          "气候风险",
+          "碳与排放",
           4
         ],
         [
@@ -1981,15 +1984,15 @@
           3
         ],
         [
-          "数字化与数据",
-          3
-        ],
-        [
           "气候适应",
           3
         ],
         [
           "高风险行业",
+          3
+        ],
+        [
+          "数字化与数据",
           3
         ],
         [
@@ -2120,7 +2123,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 13,
+  "verifiedCandidateCount": 11,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
