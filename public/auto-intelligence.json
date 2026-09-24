@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-23T04:48:33.037Z",
-  "weekRange": "2026.09.16—09.23",
+  "updatedAt": "2026-09-24T00:40:01.000Z",
+  "weekRange": "2026.09.17—09.24",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-welsh-communities-given-support-to-build-loca",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "威尔士社区获支持发展本地清洁能源项目",
+      "summary": "英国政府公布威尔士社区参与本地清洁能源项目的支持安排。相关全国性资助首轮共3,000万英镑，目标支持英国各地超过1,000个社区主导项目；威尔士团体可通过既有的 Welsh Government Energy Service 获取支持。",
+      "score": 6,
+      "publishedDate": "2026.09.23",
+      "eventDate": "2026.09.17",
+      "dateNote": "英国政府网页于2026年9月23日刊载威尔士适用信息；Great British Energy 于9月17日启动首轮3,000万英镑资助。",
+      "source": "UK Government / Great British Energy",
+      "url": "https://www.gov.uk/government/news/welsh-communities-given-support-to-build-local-energy-projects-to-tackle-climate-change",
+      "tags": ["气候与碳", "政策法规", "社区能源", "地方所有权"]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-southern-water-fined-24m-for-kent-pollution",
       "sector": "高排放行业",
@@ -149,30 +164,24 @@
         "地方所有权",
         "公正转型"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43615-026-01124-6",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "同行评审研究",
-      "title": "A Hierarchical ISM–MICMAC Framework for Integrating Circular Economy and Renewable Energy in Manufacturing",
-      "summary": "这篇开放获取论文以107篇同行评审研究和两组共10名沙特制造业、研究及政策参与者为证据基础，运用ISM—MICMAC构建循环经济与可再生能源协同落地的六层框架。模型把政府机构、经济激励、监管清晰度和先进技术置于关键驱动层，同时明确该结构是决策支持工具，不能直接证明因果关系或实施成效。",
-      "score": 8,
-      "publishedDate": "2026.09.16",
-      "eventDate": "2026.09.16",
-      "dateNote": "Springer原始页标注为Original Paper，于2026年9月16日在线发表并开放获取",
-      "source": "Circular Economy and Sustainability / Springer Nature",
-      "url": "https://link.springer.com/article/10.1007/s43615-026-01124-6",
-      "tags": [
-        "循环经济",
-        "可再生能源",
-        "制造业转型",
-        "ISM–MICMAC",
-        "同行评审"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-1007-s13563-026-00698-9",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "同行评审研究",
+      "title": "气候风险披露与ESG绩效：来自中国矿业的证据",
+      "summary": "基于中国A股矿业企业2010—2019年数据的实证研究发现，气候风险披露与环境绩效改善相关，但未显著改善综合ESG、社会或治理绩效；绿色创新发挥中介作用，管理层环境背景和企业议价能力具有正向调节作用。研究提示披露效果存在维度差异，不能将环境绩效改善直接等同于整体ESG提升。",
+      "score": 7,
+      "publishedDate": "2026.09.23",
+      "eventDate": "2026.09.23",
+      "dateNote": "Springer期刊页面标注2026年9月23日在线发表，文章类型为Original Paper；已按期刊正式论文纳入，非预印本。",
+      "source": "Mineral Economics / Springer Nature",
+      "url": "https://doi.org/10.1007/s13563-026-00698-9",
+      "tags": ["气候与碳", "披露监管", "中国矿业", "环境绩效", "同行评审"]
+    },
     {
       "id": "doi-10-1007-s10668-026-08170-y",
       "sector": "人工智能",
@@ -418,6 +427,16 @@
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s13563-026-00698-9",
+      "date": "2026-09-23",
+      "terms": ["高排放行业", "矿业", "气候风险", "气候披露", "环境绩效"]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-welsh-communities-given-support-to-build-loca",
+      "date": "2026-09-23",
+      "terms": ["新能源", "能源转型", "政策监管", "社区能源"]
+    },
     {
       "id": "doi-10-1007-s10668-026-08170-y",
       "date": "2026-09-22",
@@ -1769,9 +1788,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "高排放行业、企业出海、新能源构成过去七日的主要行业信号",
-      "range": "2026.09.16—09.23",
-      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "高排放行业与能源转型构成过去七日的主要信号",
+      "range": "2026.09.17—09.24",
+      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 13 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "工作论文",
@@ -1872,6 +1891,14 @@
         [
           "自然与生物多样性",
           3
+        ],
+        [
+          "社区能源",
+          3
+        ],
+        [
+          "矿业",
+          2
         ]
       ]
     },
@@ -2080,12 +2107,12 @@
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 49
+      "items": 47
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 28
+      "items": 27
     },
     {
       "source": "arXiv",
@@ -2093,7 +2120,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 12,
+  "verifiedCandidateCount": 13,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
