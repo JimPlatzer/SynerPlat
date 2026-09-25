@@ -1,8 +1,45 @@
 {
-  "updatedAt": "2026-09-24T04:56:02.294Z",
-  "weekRange": "2026.09.17—09.24",
+  "updatedAt": "2026-09-25T00:56:35.000Z",
+  "weekRange": "2026.09.18—09.25",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-gad-helps-orr-turn-climate-data-into-practica",
+      "sector": "高风险行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "英国政府精算部门为铁路与公路监管提供气候风险分析",
+      "summary": "英国政府精算部门与铁路和公路办公室（ORR）合作，使用多年英国气候数据识别可能影响交通基础设施的气候危害、重点地区和季节。ORR将这项独立分析用于审视Network Rail与National Highways等基础设施管理方的气候风险管理；页面亦说明可视化资源列示了主要不确定性和局限。",
+      "score": 6,
+      "publishedDate": "2026.09.24",
+      "eventDate": "2026.09.24",
+      "dateNote": "GOV.UK于2026年9月24日发布分析成果；气候数据覆盖多个年份，页面未给出单一受灾或实施事件日期。",
+      "source": "Government Actuary's Department / Office of Rail and Road",
+      "url": "https://www.gov.uk/government/news/gad-helps-orr-turn-climate-data-into-practical-insight",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-uk-invests-331-million-to-tackle-climate-driv",
+      "sector": "绿色金融",
+      "relevance": "直接 ESG",
+      "event": "气候融资与官方发展援助",
+      "title": "英国承诺3.31亿英镑应对气候与自然风险并支持脆弱社区",
+      "summary": "英国于联合国大会期间宣布3.31亿英镑支持：其中3.3亿英镑用于全球环境基金GEF9（2026—2030年），支持可持续农业、渔业、清洁水及生态系统保护；另向联合国气候安全机制提供100万英镑，帮助各国识别并应对可能升级为冲突或人道危机的气候风险。政府说明GEF9资金来自已公布的官方发展援助预算分配，并非全额新增拨款。",
+      "score": 8,
+      "publishedDate": "2026.09.24",
+      "eventDate": "2026.09.24",
+      "dateNote": "英国外交发展部于2026年9月24日宣布资金包；3.3亿英镑对应GEF9四年期2026—2030承诺，官方说明其来自既有ODA预算安排。",
+      "source": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/government/news/uk-invests-331-million-to-tackle-climate-driven-instability-and-protect-vulnerable-communities",
+      "tags": [
+        "气候与碳",
+        "自然与生物多样性",
+        "政策法规"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-welsh-communities-given-support-to-build-loca",
       "sector": "新能源",
@@ -27,19 +64,16 @@
       "id": "govuk-www-gov-uk-government-publications-cma-response-to-consultation-on-consu",
       "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "CMA response to consultation on consumer protection for home upgrade schemes",
-      "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
+      "event": "消费者保护与政策咨询",
+      "title": "英国CMA支持强化住宅节能改造消费者保障",
+      "summary": "英国竞争与市场管理局支持政府为住宅节能改造建立更简明的消费者服务体系，包括独立申诉专员、统一投诉与案件管理、加强检查和失误后的纠正行动，以及更完善的财务保障。CMA特别提醒，新机制应覆盖处境脆弱的消费者，也不应只保护政府资助项目用户，以免自费进行供暖或隔热升级的家庭被排除在外。",
       "score": 6,
       "publishedDate": "2026.09.23",
       "eventDate": "2026.09.23",
-      "dateNote": "发布",
-      "source": "UK Government",
+      "dateNote": "CMA于2026年9月23日公布对DESNZ咨询的正式回复；网页直接列明所支持的改革建议。",
+      "source": "Competition and Markets Authority",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "tags": [
-        "气候与碳",
-        "政策法规"
-      ]
+      "tags": ["消费者保护", "住宅节能改造", "公平转型", "申诉救济", "政策法规"]
     },
     {
       "id": "govuk-www-gov-uk-government-news-southern-water-fined-24m-for-kent-pollution",
@@ -124,72 +158,39 @@
         "供应链合规",
         "企业出海"
       ]
-    },
-    {
-      "id": "fr-2026-19071",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "最终规则",
-      "title": "美国EPA最终撤销2024年电厂碳排放标准的大部分条款",
-      "summary": "美国EPA在9月17日刊登的最终规则中，撤销2024年《碳污染标准》的大部分条款，包括现有化石燃料蒸汽发电机组的排放指南、进行重大改造的燃煤机组所适用的CCS标准，以及新建基荷固定燃烧轮机的第二阶段CCS标准。规则于2026年11月16日生效；EPA同时另行提出撤销电力行业其余温室气体标准，但该部分仍处于征求意见阶段。",
-      "score": 10,
-      "publishedDate": "2026.09.17",
-      "eventDate": "2026.09.17",
-      "dateNote": "最终规则于2026年9月17日刊登于《联邦公报》，2026年11月16日生效；EPA于9月14日签署",
-      "source": "U.S. Environmental Protection Agency / Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
-      "tags": [
-        "美国电力行业",
-        "温室气体监管",
-        "规则撤销",
-        "碳捕集与封存",
-        "高排放行业"
-      ]
-    },
-    {
-      "id": "fr-2026-19072",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "补充拟议规则",
-      "title": "美国EPA提议撤销电厂全部剩余温室气体标准及相关认定",
-      "summary": "美国EPA发布补充拟议规则，主张《清洁空气法》第111条不授权该机构因全球气候变化问题监管电厂排放；若最终确定，将撤销2015年的相关认定和决定，并废除化石燃料发电机组尚存的2015年及2024年温室气体标准。该文件仍是提案，不改变同期最终规则的既成内容；意见征集截止2026年11月2日。",
-      "score": 9,
-      "publishedDate": "2026.09.17",
-      "eventDate": "2026.09.17",
-      "dateNote": "补充拟议规则于2026年9月17日刊登；公众意见截止2026年11月2日，尚未生效",
-      "source": "U.S. Environmental Protection Agency / Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19072/rescission-of-the-greenhouse-gas-findings-for-fossil-fuel-fired-power-plants-and-repeal-of",
-      "tags": [
-        "美国电力行业",
-        "温室气体监管",
-        "拟议规则",
-        "清洁空气法",
-        "高排放行业"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-peoples-power-projects-to-give-more-control-o",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "社区能源投资",
-      "title": "英国启动3000万英镑首批“People’s Power”社区清洁能源资金",
-      "summary": "Great British Energy启动总额3000万英镑的首批社区能源支持，包括2000万英镑社区基金、500万英镑地方政府合作补助、向苏格兰拨款180万英镑及最高290万英镑咨询服务支持。该批资金是此前宣布最高10亿英镑社区和地方能源计划的首笔投入，目标支持超过1000个由社区组织或地方政府持有权益的太阳能、风能和水电项目。",
-      "score": 8,
-      "publishedDate": "2026.09.17",
-      "eventDate": "2026.09.17",
-      "dateNote": "英国政府与Great British Energy于2026年9月17日启动首批资金；最高10亿英镑总计划此前已宣布",
-      "source": "UK Department for Energy Security and Net Zero / Great British Energy",
-      "url": "https://www.gov.uk/government/news/peoples-power-projects-to-give-more-control-over-local-energy",
-      "tags": [
-        "社区能源",
-        "可再生能源",
-        "公共投资",
-        "地方所有权",
-        "公正转型"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "govuk-www-gov-uk-government-news-press-statement-by-co-hosts-of-the-unga-forei",
+      "sector": "高风险行业",
+      "relevance": "直接 ESG",
+      "event": "政策声明",
+      "title": "英欧肯尼亚外长在联合国大会讨论气候与自然危机的安全风险",
+      "summary": "英国、欧盟与肯尼亚外长于9月23日共同主持对话，讨论气候变化和生态系统退化带来的安全风险。声明强化了气候与自然风险和粮食、水、供应链及稳定之间的政策关联，但目前披露的是部长级对话与立场表述，未列出新的约束性措施，因此作为观察项跟踪。",
+      "score": 5,
+      "publishedDate": "2026.09.24",
+      "eventDate": "2026.09.23",
+      "dateNote": "GOV.UK于2026年9月24日发布联合声明；声明所述外长对话于9月23日举行。",
+      "source": "UK Foreign, Commonwealth & Development Office / European Commission / Government of Kenya",
+      "url": "https://www.gov.uk/government/news/press-statement-by-co-hosts-of-the-unga-foreign-ministers-dialogue-on-climate-change-and-ecosystem-degradation-as-national-security-risks",
+      "tags": ["气候风险", "自然与生物多样性", "国际政策", "高风险行业"]
+    },
+    {
+      "id": "doi-10-3389-frsus-2026-1954577",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "同行评审研究",
+      "title": "Signaling ESG disclosure readiness before listing: text-mining evidence from Indian IPO prospectuses",
+      "summary": "这篇同行评审开放获取研究分析310份印度主板IPO招股书（2021—22至2025—26财年），用Sentence-BERT对ESG语句进行分类。ESG语句平均占11.382%，其中治理类披露占全部ESG语句的75.5%，环境与社会内容明显较少；发行人特征与不同支柱披露呈现不同关联。作者强调这些结果反映披露强度与结构，不等于实际ESG绩效，也不能据此证明披露导致市场结果。",
+      "score": 7,
+      "publishedDate": "2026.09.24",
+      "eventDate": "2026.09.24",
+      "dateNote": "Frontiers页面标注Original Research，2026年9月24日发表；页面列出两位同行评审人，按正式同行评审论文分类。",
+      "source": "Frontiers in Sustainability",
+      "url": "https://doi.org/10.3389/frsus.2026.1954577",
+      "tags": ["IPO披露", "印度资本市场", "文本挖掘", "ESG披露", "同行评审", "开放获取"]
+    },
     {
       "id": "doi-10-1007-s13563-026-00698-9",
       "sector": "高排放行业",
@@ -332,6 +333,23 @@
       ]
     },
     {
+      "id": "govuk-www-gov-uk-government-speeches-uk-statement-at-the-high-level-plenary-me",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "UK Statement at the High-level Plenary Meeting to Address the Existential Threats Posed by Sea-level Rise",
+      "summary": "Statement by Chris Elmore MP, Minister for the Americas, Multilateral, and Human Rights, at the High-level Plenary Meeting to Address the Existential Threats Posed by Sea-level Rise",
+      "score": 6,
+      "publishedDate": "2026.09.24",
+      "eventDate": "2026.09.24",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/speeches/uk-statement-at-the-high-level-plenary-meeting-to-address-the-existential-threats-posed-by-sea-level-rise",
+      "tags": [
+        "政策法规"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2609-25953v1",
       "sector": "企业出海",
       "relevance": "直接 ESG",
@@ -391,50 +409,77 @@
         "云服务",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-what-climate-security-means-now-foreign-s",
-      "sector": "高风险行业",
-      "relevance": "直接 ESG",
-      "event": "部长级政策信号",
-      "title": "英国外相将气候与自然风险明确纳入国家安全议程",
-      "summary": "英国外交大臣Ed Miliband在纽约气候周演讲中提出，应把气候与自然损失纳入国家安全威胁评估和应急规划，并加强跨境风险信息共享、预警系统、韧性基础设施以及灾害风险融资。演讲重申英国2040年减排87%的碳预算、拟向热带森林永久基金投资4亿英镑和2030清洁电力目标，但未宣布新的具有约束力的政策措施。",
-      "score": 6,
-      "publishedDate": "2026.09.21",
-      "eventDate": "2026.09.21",
-      "dateNote": "演讲于2026年9月21日发表并由英国政府同日发布；属于政策立场，不是新法规",
-      "source": "UK Foreign, Commonwealth & Development Office",
-      "url": "https://www.gov.uk/government/speeches/what-climate-security-means-now-foreign-secretary-at-new-york-climate-week",
-      "tags": [
-        "气候安全",
-        "自然风险",
-        "国家安全",
-        "韧性规划",
-        "政策信号"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-25437v1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "工作论文",
-      "title": "Data center cooling choices shift water impacts across the grid: An integrated water-energy model for sustainable data center development",
-      "summary": "Data centers are being developed at an unprecedented pace, yet their energy and water impacts, and the spatial and temporal distribution of these impacts, remain poorly characterized. Data centers consume water for cooling (direct) and through electricity generation (indirect). Decisions on siting and cooling technology result in water-energy trade-offs that…",
-      "score": 6,
-      "publishedDate": "2026.09.21",
-      "eventDate": "2026.09.21",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.25437v1",
-      "tags": [
-        "人工智能",
-        "披露监管",
-        "供应链与出海",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "period-uk-peoples-power-community-clean-energy-2026-09-17",
+      "date": "2026-09-17",
+      "terms": ["新能源", "社区能源", "可再生能源", "地方所有权", "公正转型"]
+    },
+    {
+      "id": "period-uk-climate-security-financing-2026-09-24",
+      "date": "2026-09-24",
+      "terms": ["绿色金融", "政策监管", "气候风险", "自然与生物多样性", "气候适应", "国际融资"]
+    },
+    {
+      "id": "doi-10-3389-frsus-2026-1954577",
+      "date": "2026-09-24",
+      "terms": [
+        "企业出海",
+        "ESG披露",
+        "IPO",
+        "公司治理",
+        "同行评审"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-uk-statement-at-the-high-level-plenary-me",
+      "date": "2026-09-24",
+      "terms": [
+        "新兴行业",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-press-statement-by-co-hosts-of-the-unga-forei",
+      "date": "2026-09-24",
+      "terms": [
+        "高风险行业",
+        "气候风险",
+        "自然与生物多样性",
+        "国际政策"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-gad-helps-orr-turn-climate-data-into-practica",
+      "date": "2026-09-24",
+      "terms": [
+        "高风险行业",
+        "气候风险",
+        "交通基础设施",
+        "监管监督"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-uk-invests-331-million-to-tackle-climate-driv",
+      "date": "2026-09-24",
+      "terms": [
+        "绿色金融",
+        "气候风险",
+        "自然与生物多样性",
+        "气候适应"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04790-6",
+      "date": "2026-09-24",
+      "terms": [
+        "新能源",
+        "能源转型",
+        "绿色技术与资源效率"
+      ]
+    },
     {
       "id": "doi-10-1007-s13563-026-00698-9",
       "date": "2026-09-23",
@@ -458,7 +503,8 @@
       "terms": [
         "新能源",
         "政策监管",
-        "碳与排放"
+        "消费者保护",
+        "住宅节能改造"
       ]
     },
     {
@@ -528,20 +574,6 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-speeches-what-climate-security-means-now-foreign-s",
-      "date": "2026-09-21",
-      "terms": [
-        "高风险行业",
-        "政策监管",
-        "能源转型",
-        "电力系统",
-        "碳与排放",
-        "供应链与出海",
-        "自然与生物多样性",
-        "绿色金融"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2609-24224v1",
       "date": "2026-09-21",
       "terms": [
@@ -581,6 +613,13 @@
         "供应链与出海",
         "水资源",
         "工作论文"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-what-climate-security-means-now-foreign-s",
+      "date": "2026-09-21",
+      "terms": [
+        "新兴行业"
       ]
     },
     {
@@ -697,17 +736,6 @@
         "碳与排放",
         "污染防治",
         "工作论文"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-peoples-power-projects-to-give-more-control-o",
-      "date": "2026-09-17",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源",
-        "绿色金融",
-        "公正转型"
       ]
     },
     {
@@ -1763,38 +1791,41 @@
         "政策监管",
         "可再生能源"
       ]
-    },
-    {
-      "id": "doi-10-1177-0958305x261475390",
-      "date": "2026-08-25",
-      "terms": [
-        "新能源",
-        "聚变能源",
-        "能源转型"
-      ]
     }
   ],
   "sectorInsights": [
     [
-      "新能源",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
-      "→"
-    ],
-    [
-      "高排放行业",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
-      "→"
-    ],
-    [
       "企业出海",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      "过去七日有 2 条达到主门槛的动态，集中于欧盟贸易保障与废物出口规则，留意跨境合规和供应链成本。",
       2,
       "→"
     ],
     [
+      "新能源",
+      "过去七日有 2 条达到主门槛的动态，关注社区能源投资与清洁电力项目落地。",
+      2,
+      "→"
+    ],
+    [
+      "高风险行业",
+      "气候风险分析开始进入交通基础设施监管讨论，需关注基础设施运营方的适应与韧性安排。",
+      1,
+      "→"
+    ],
+    [
+      "绿色金融",
+      "英国宣布GEF9与联合国气候安全机制资金承诺；关注后续拨款、项目配置及ODA预算执行。",
+      1,
+      "→"
+    ],
+    [
       "人工智能",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
+      "→"
+    ],
+    [
+      "高排放行业",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
@@ -1803,113 +1834,18 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、高排放行业、企业出海构成过去七日的主要行业信号",
-      "range": "2026.09.17—09.24",
-      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "跨境供应链、新能源与气候韧性构成过去七日的主要信号",
+      "range": "2026.09.18—09.25",
+      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 13 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
-        [
-          "工作论文",
-          10
-        ],
-        [
-          "政策监管",
-          10
-        ],
-        [
-          "企业出海",
-          8
-        ],
-        [
-          "气候风险",
-          8
-        ],
-        [
-          "电力系统",
-          8
-        ],
-        [
-          "人工智能",
-          7
-        ],
-        [
-          "供应链与出海",
-          7
-        ],
-        [
-          "新能源",
-          7
-        ],
-        [
-          "污染防治",
-          6
-        ],
-        [
-          "碳与排放",
-          6
-        ],
-        [
-          "绿色金融",
-          6
-        ],
-        [
-          "能源转型",
-          6
-        ],
-        [
-          "高排放行业",
-          6
-        ],
-        [
-          "气候披露",
-          5
-        ],
-        [
-          "水资源",
-          5
-        ],
-        [
-          "公正转型",
-          4
-        ],
-        [
-          "可再生能源",
-          4
-        ],
-        [
-          "新兴行业",
-          4
-        ],
-        [
-          "高风险行业",
-          4
-        ],
-        [
-          "关键矿产",
-          3
-        ],
-        [
-          "数字化与数据",
-          3
-        ],
-        [
-          "数据中心",
-          3
-        ],
-        [
-          "网络安全",
-          3
-        ],
-        [
-          "自然与生物多样性",
-          3
-        ]
+        ["气候风险",10],["企业出海",8],["工作论文",8],["政策监管",8],["人工智能",7],["供应链与出海",6],["新能源",5],["绿色金融",6],["能源转型",5],["新兴行业",5],["气候披露",4],["水资源",4],["电力系统",4],["高风险行业",4],["污染防治",3],["自然与生物多样性",3],["高排放行业",3],["ESG披露",3],["IPO",3],["交通基础设施",3],["住宅节能改造",3],["公司治理",3],["公正转型",3],["关键矿产",3],["可再生能源",3],["同行评审",3],["国际政策",3],["数字化与数据",3],["数据中心",3],["气候适应",3]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.25—09.24",
-      "copy": "过去30天词频基于 147 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.26—09.25",
+      "copy": "过去30天词频基于 153 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1944,19 +1880,19 @@
           5
         ],
         [
-          "可再生能源",
-          5
-        ],
-        [
           "企业出海",
           5
         ],
         [
-          "气候风险",
-          4
+          "可再生能源",
+          5
         ],
         [
-          "碳与排放",
+          "气候风险",
+          5
+        ],
+        [
+          "新兴行业",
           4
         ],
         [
@@ -1964,11 +1900,11 @@
           4
         ],
         [
-          "数据中心",
+          "碳与排放",
           4
         ],
         [
-          "新兴行业",
+          "数据中心",
           4
         ],
         [
@@ -1980,15 +1916,11 @@
           3
         ],
         [
-          "能源转型",
-          3
-        ],
-        [
           "气候适应",
-          3
+          4
         ],
         [
-          "高风险行业",
+          "能源转型",
           3
         ],
         [
@@ -1996,11 +1928,11 @@
           3
         ],
         [
-          "网络安全",
+          "高风险行业",
           3
         ],
         [
-          "公正转型",
+          "网络安全",
           3
         ],
         [
@@ -2012,11 +1944,19 @@
           3
         ],
         [
+          "公正转型",
+          3
+        ],
+        [
+          "自然与生物多样性",
+          3
+        ],
+        [
           "社会与住房",
           2
         ],
         [
-          "自然与生物多样性",
+          "绿色技术与资源效率",
           2
         ],
         [
@@ -2026,15 +1966,29 @@
         [
           "公用事业",
           2
-        ],
-        [
-          "学术研究",
-          2
         ]
       ]
     }
   },
   "monthlyHighlights": [
+    {
+      "date": "09.17",
+      "title": "英国启动3,000万英镑People’s Power社区清洁能源首轮资金",
+      "summary": "Great British Energy开放首批社区基金和地方政府合作资助，另向苏格兰既有项目拨款，并提供项目咨询支持。该轮资金是此前宣布最高10亿英镑社区能源计划的首笔投入，目标支持英国各地超过1,000个由社区或地方政府持有权益的太阳能、风能和水电项目。",
+      "sector": "新能源",
+      "source": "UK Department for Energy Security and Net Zero / Great British Energy",
+      "url": "https://www.gov.uk/government/news/peoples-power-projects-to-give-more-control-over-local-energy",
+      "score": 8
+    },
+    {
+      "date": "09.24",
+      "title": "英国承诺3.31亿英镑支持气候与自然安全及脆弱社区",
+      "summary": "英国宣布向全球环境基金GEF9（2026—2030年）提供3.3亿英镑，并向联合国气候安全机制提供100万英镑。资金支持生态系统保护、可持续农业与渔业、清洁水及气候风险预防；政府说明GEF9承诺来自已公布的ODA预算安排。",
+      "sector": "绿色金融",
+      "source": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/government/news/uk-invests-331-million-to-tackle-climate-driven-instability-and-protect-vulnerable-communities",
+      "score": 8
+    },
     {
       "date": "09.17",
       "title": "Rescission of the Greenhouse Gas Findings for Fossil Fuel-Fired Power Plants and Repeal of Regulations for Power Plant Greenhouse Gas Emissions Under Clean Air Act Section 111",
@@ -2105,7 +2059,7 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 15
+      "items": 10
     },
     {
       "source": "GOV.UK",
@@ -2115,7 +2069,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 27
+      "items": 31
     },
     {
       "source": "arXiv",
@@ -2123,7 +2077,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 11,
+  "verifiedCandidateCount": 14,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

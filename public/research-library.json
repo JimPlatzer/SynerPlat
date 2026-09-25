@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-09-24T04:56:02.294Z",
+  "updatedAt": "2026-09-25T00:56:35.000Z",
   "items": [
+    {
+      "id": "doi-10-3389-frsus-2026-1954577",
+      "type": "学术论文",
+      "title": "Signaling ESG disclosure readiness before listing: text-mining evidence from Indian IPO prospectuses",
+      "publisher": "Frontiers in Sustainability",
+      "date": "2026-09-24",
+      "publishedDate": "2026-09-24",
+      "eventDate": "2026-09-24",
+      "dateNote": "Frontiers页面标注Original Research，2026年9月24日发表；页面列出两位同行评审人，按正式同行评审论文分类。",
+      "sector": "企业出海",
+      "tags": ["IPO披露", "印度资本市场", "文本挖掘", "ESG披露", "同行评审", "开放获取"],
+      "summary": "这篇开放获取研究分析310份印度主板IPO招股书（2021—22至2025—26财年），用Sentence-BERT对ESG语句进行分类。ESG语句平均占11.382%，其中治理类披露占全部ESG语句的75.5%，环境与社会内容明显较少；发行人特征与不同支柱披露呈现不同关联。",
+      "insight": "研究关注IPO阶段的披露组成而非实质ESG表现；Sentence-BERT分类和参考语句阈值会影响测量结果，作者亦指出关联性发现不构成因果证明。",
+      "url": "https://doi.org/10.3389/frsus.2026.1954577",
+      "featured": false
+    },
     {
       "id": "doi-10-1007-s13563-026-00698-9",
       "type": "学术论文",

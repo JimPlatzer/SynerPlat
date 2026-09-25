@@ -1,6 +1,24 @@
 {
   "monthlyHighlights": [
     {
+      "date": "09.17",
+      "title": "英国启动3,000万英镑People’s Power社区清洁能源首轮资金",
+      "summary": "Great British Energy开放首批社区基金和地方政府合作资助，另向苏格兰既有项目拨款，并提供项目咨询支持。该轮资金是此前宣布最高10亿英镑社区能源计划的首笔投入，目标支持英国各地超过1,000个由社区或地方政府持有权益的太阳能、风能和水电项目。",
+      "sector": "新能源",
+      "source": "UK Department for Energy Security and Net Zero / Great British Energy",
+      "url": "https://www.gov.uk/government/news/peoples-power-projects-to-give-more-control-over-local-energy",
+      "score": 8
+    },
+    {
+      "date": "09.24",
+      "title": "英国承诺3.31亿英镑支持气候与自然安全及脆弱社区",
+      "summary": "英国宣布向全球环境基金GEF9（2026—2030年）提供3.3亿英镑，并向联合国气候安全机制提供100万英镑。资金支持生态系统保护、可持续农业与渔业、清洁水及气候风险预防；政府说明GEF9承诺来自已公布的ODA预算安排。",
+      "sector": "绿色金融",
+      "source": "UK Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/government/news/uk-invests-331-million-to-tackle-climate-driven-instability-and-protect-vulnerable-communities",
+      "score": 8
+    },
+    {
       "date": "09.18",
       "title": "欧盟对战略电工钢与变压器铁芯实施临时贸易保障",
       "summary": "实施条例（EU）2026/2133设置关税配额与价格门槛，并覆盖已装入变压器的铁芯；措施于9月25日生效，临时适用155天。",
