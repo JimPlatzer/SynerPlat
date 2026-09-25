@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-09-25T00:56:35.000Z",
+  "updatedAt": "2026-09-25T05:01:10.648Z",
   "items": [
+    {
+      "id": "arxiv-arxiv-org-abs-2609-30010v1",
+      "type": "工作论文",
+      "title": "Quantifying AI impact in energy transitions: The Energy Justice Impact Assessment (EJIA) framework",
+      "publisher": "arXiv",
+      "date": "2026-09-24",
+      "publishedDate": "2026-09-24",
+      "eventDate": "2026-09-24",
+      "dateNote": "预印本发布",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "能源转型",
+        "预印本·非同行评审"
+      ],
+      "summary": "Artificial intelligence is increasingly deployed across energy systems to optimize efficiency, balance supply and demand, and integrate renewable sources. These applications alter how energy systems function, changing how benefits and burdens are distributed, whose needs are represented in system design, and who can influence decision-making, with consequenc…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2609.30010v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-29161v1",
+      "type": "工作论文",
+      "title": "A framework for linking literature-based knowledge integration and infrastructure-supported knowledge integration: Opportunities and challenges from a case study",
+      "publisher": "arXiv",
+      "date": "2026-09-24",
+      "publishedDate": "2026-09-24",
+      "eventDate": "2026-09-24",
+      "dateNote": "预印本发布",
+      "sector": "新兴行业",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Integrating knowledge across disciplines is central to sustainability research, yet most evidence-synthesis methods rely on findings as reported in publications, limiting verification and reuse of underlying data and workflows. We develop a conceptual framework linking literature-based and infrastructure-supported knowledge integration, using a systematic re…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2609.29161v1",
+      "featured": false
+    },
     {
       "id": "doi-10-3389-frsus-2026-1954577",
       "type": "学术论文",
@@ -11,7 +50,14 @@
       "eventDate": "2026-09-24",
       "dateNote": "Frontiers页面标注Original Research，2026年9月24日发表；页面列出两位同行评审人，按正式同行评审论文分类。",
       "sector": "企业出海",
-      "tags": ["IPO披露", "印度资本市场", "文本挖掘", "ESG披露", "同行评审", "开放获取"],
+      "tags": [
+        "IPO披露",
+        "印度资本市场",
+        "文本挖掘",
+        "ESG披露",
+        "同行评审",
+        "开放获取"
+      ],
       "summary": "这篇开放获取研究分析310份印度主板IPO招股书（2021—22至2025—26财年），用Sentence-BERT对ESG语句进行分类。ESG语句平均占11.382%，其中治理类披露占全部ESG语句的75.5%，环境与社会内容明显较少；发行人特征与不同支柱披露呈现不同关联。",
       "insight": "研究关注IPO阶段的披露组成而非实质ESG表现；Sentence-BERT分类和参考语句阈值会影响测量结果，作者亦指出关联性发现不构成因果证明。",
       "url": "https://doi.org/10.3389/frsus.2026.1954577",
