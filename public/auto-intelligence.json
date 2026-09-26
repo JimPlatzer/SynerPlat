@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-09-25T05:01:10.648Z",
-  "weekRange": "2026.09.18—09.25",
+  "updatedAt": "2026-09-26T05:02:46.808Z",
+  "weekRange": "2026.09.19—09.26",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "fr-2026-19603",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Constellation Energy Generation, LLC; Christopher M. Crane Clean Energy Center; Environmental Assessment and Finding of No Significant Impact",
+      "summary": "The U.S. Nuclear Regulatory Commission (NRC), as the lead agency, and the U.S. Department of Energy (DOE) Office of Energy Dominance Financing (EDF), as a cooperating agency, are issuing an environmental assessment (EA) and finding of no significant impact (FONSI) evaluating the reasonably foreseeable environmental effects from proposed Federal actions relat…",
+      "score": 6,
+      "publishedDate": "2026.09.25",
+      "eventDate": "2026.09.25",
+      "dateNote": "发布",
+      "source": "Nuclear Regulatory Commission",
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19603/constellation-energy-generation-llc-christopher-m-crane-clean-energy-center-environmental-assessment",
+      "tags": [
+        "政策法规"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-uk-invests-331-million-to-tackle-climate-driv",
       "sector": "绿色金融",
@@ -141,51 +158,48 @@
         "国防科技",
         "跨境合作"
       ]
-    },
-    {
-      "id": "eu-2026-2133-goes-safeguard",
-      "sector": "企业出海",
-      "relevance": "间接 ESG",
-      "event": "贸易保障措施",
-      "title": "欧盟对取向电工钢及变压器铁芯实施临时保障措施",
-      "summary": "欧盟委员会通过实施条例（EU）2026/2133，对取向电工钢、钢制叠片和铁芯设置关税配额与价格门槛；措施还覆盖已装入变压器的铁芯。条例将于2026年9月25日生效，临时适用155天至2027年2月26日，直接影响电力设备供应链和对欧出口定价。",
-      "score": 9,
-      "publishedDate": "2026.09.18",
-      "eventDate": "2026.09.18",
-      "dateNote": "实施条例于2026年9月18日通过并刊登，9月25日生效；临时措施适用155天至2027年2月26日",
-      "source": "European Commission / EUR-Lex",
-      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602133",
-      "tags": [
-        "欧盟贸易保障",
-        "取向电工钢",
-        "变压器供应链",
-        "新能源基础设施",
-        "企业出海"
-      ]
-    },
-    {
-      "id": "ec-waste-export-draft-list-2026",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "监管实施与征求意见",
-      "title": "欧盟发布废物出口授权国家草案并评估对土耳其塑料废物出口",
-      "summary": "欧盟委员会公布非经合组织国家进口欧盟非危险废物的授权名单草案，并就32个申请国的可持续处置能力征求意见至10月16日，最终名单计划在2026年底前确定。同期报告指出欧盟2025年向土耳其出口约51万吨塑料废物，并要求补强数据透明度、执法成效和治理安排；对非经合组织国家的塑料废物出口禁令将于2026年11月21日适用。",
-      "score": 9,
-      "publishedDate": "2026.09.18",
-      "eventDate": "2026.09.18",
-      "dateNote": "名单草案与评估报告于2026年9月18日发布；意见征集截止10月16日，最终授权名单计划于年底前确定",
-      "source": "European Commission Directorate-General for Environment",
-      "url": "https://environment.ec.europa.eu/news/commission-publishes-draft-list-countries-authorised-import-eu-waste-2026-09-18_en",
-      "tags": [
-        "废物跨境转移",
-        "塑料污染",
-        "循环经济",
-        "供应链合规",
-        "企业出海"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-7759-s44389-026-00295-5",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "<p>An Automata-Driven Cognitive Explainable Artificial Intelligence Framework for Climate-Adaptive Precision Agriculture and Environmental Sustainability</p>",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.09.25",
+      "eventDate": "2026.09.25",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.7759/s44389-026-00295-5",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-3389-frsus-2026-1920930",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Artificial intelligence for sustainability in fashion and clothing industry: a systematic review of design innovation, production efficiency, consumer engagement, and cultural heritage preservation",
+      "summary": "Introduction The fashion and clothing industry faces increasing sustainability challenges associated with environmental impacts, resource inefficiency, unsustainable consumption, and the preservation of cultural heritage. Artificial intelligence (AI) has emerged as a transformative technology capable of addressing these challenges by supporting more sustaina…",
+      "score": 7,
+      "publishedDate": "2026.09.25",
+      "eventDate": "2026.09.25",
+      "dateNote": "论文发表",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/frsus.2026.1920930",
+      "tags": [
+        "人工智能",
+        "披露监管",
+        "供应链与出海",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "doi-10-3389-frsus-2026-1954577",
       "sector": "企业出海",
@@ -383,46 +397,46 @@
         "能源转型",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-29161v1",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "A framework for linking literature-based knowledge integration and infrastructure-supported knowledge integration: Opportunities and challenges from a case study",
-      "summary": "Integrating knowledge across disciplines is central to sustainability research, yet most evidence-synthesis methods rely on findings as reported in publications, limiting verification and reuse of underlying data and workflows. We develop a conceptual framework linking literature-based and infrastructure-supported knowledge integration, using a systematic re…",
-      "score": 6,
-      "publishedDate": "2026.09.24",
-      "eventDate": "2026.09.24",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.29161v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-25953v1",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Analysis of trade-offs in urban heat mitigation using a Bayesian Optimization framework for an urban canopy layer model",
-      "summary": "To mitigate the challenges of climate change and intensifying heat stress in urban areas, local adaptation strategies are discussed and introduced in cities worldwide. To understand processes and potential trade-offs of these strategies a Bayesian optimization and surrogate modeling framework was employed to investigate urban parameter ranges of heat mitigat…",
-      "score": 6,
-      "publishedDate": "2026.09.22",
-      "eventDate": "2026.09.22",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.25953v1",
-      "tags": [
-        "气候与碳",
-        "供应链与出海",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-7759-s44389-026-00295-5",
+      "date": "2026-09-25",
+      "terms": [
+        "人工智能"
+      ]
+    },
+    {
+      "id": "doi-10-3389-frsus-2026-1920930",
+      "date": "2026-09-25",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "能源效率",
+        "气候披露",
+        "供应链与出海",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "fr-2026-19603",
+      "date": "2026-09-25",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "能源转型"
+      ]
+    },
+    {
+      "id": "doi-10-1038-s41597-026-08227-7",
+      "date": "2026-09-25",
+      "terms": [
+        "人工智能",
+        "可再生能源",
+        "电力系统"
+      ]
+    },
     {
       "id": "period-uk-climate-security-financing-2026-09-24",
       "date": "2026-09-24",
@@ -685,7 +699,6 @@
       "date": "2026-09-18",
       "terms": [
         "企业出海",
-        "电力系统",
         "供应链与出海"
       ]
     },
@@ -1850,15 +1863,9 @@
   ],
   "sectorInsights": [
     [
-      "企业出海",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
-      "→"
-    ],
-    [
       "新能源",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
       "→"
     ],
     [
@@ -1878,14 +1885,20 @@
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
+    ],
+    [
+      "高排放行业",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
+      "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "企业出海、新能源、人工智能构成过去七日的主要行业信号",
-      "range": "2026.09.18—09.25",
-      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新能源、人工智能、新兴行业构成过去七日的主要行业信号",
+      "range": "2026.09.19—09.26",
+      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
@@ -1893,22 +1906,14 @@
         ],
         [
           "气候风险",
-          10
-        ],
-        [
-          "工作论文",
           9
-        ],
-        [
-          "企业出海",
-          8
         ],
         [
           "人工智能",
           7
         ],
         [
-          "绿色金融",
+          "工作论文",
           7
         ],
         [
@@ -1920,23 +1925,27 @@
           6
         ],
         [
-          "供应链与出海",
-          6
-        ],
-        [
           "新能源",
-          6
+          5
         ],
         [
           "气候披露",
           5
         ],
         [
-          "水资源",
-          4
+          "绿色金融",
+          5
         ],
         [
-          "电力系统",
+          "企业出海",
+          5
+        ],
+        [
+          "供应链与出海",
+          5
+        ],
+        [
+          "水资源",
           4
         ],
         [
@@ -1948,7 +1957,11 @@
           3
         ],
         [
-          "污染防治",
+          "电力系统",
+          3
+        ],
+        [
+          "能源效率",
           3
         ],
         [
@@ -1972,6 +1985,10 @@
           3
         ],
         [
+          "学术研究",
+          3
+        ],
+        [
           "数字化与数据",
           3
         ],
@@ -1984,19 +2001,15 @@
           3
         ],
         [
+          "污染防治",
+          3
+        ],
+        [
           "碳与排放",
           3
         ],
         [
           "绿色技术与资源效率",
-          3
-        ],
-        [
-          "网络安全",
-          3
-        ],
-        [
-          "能源效率",
           3
         ]
       ]
@@ -2004,8 +2017,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.26—09.25",
-      "copy": "过去30天词频基于 157 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.27—09.26",
+      "copy": "过去30天词频基于 161 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -2025,7 +2038,7 @@
         ],
         [
           "工作论文",
-          6
+          5
         ],
         [
           "供应链与出海",
@@ -2036,11 +2049,11 @@
           5
         ],
         [
-          "电力系统",
+          "可再生能源",
           5
         ],
         [
-          "可再生能源",
+          "电力系统",
           5
         ],
         [
@@ -2064,6 +2077,10 @@
           4
         ],
         [
+          "能源效率",
+          4
+        ],
+        [
           "数据中心",
           3
         ],
@@ -2072,15 +2089,11 @@
           3
         ],
         [
-          "能源效率",
+          "能源转型",
           3
         ],
         [
           "气候适应",
-          3
-        ],
-        [
-          "能源转型",
           3
         ],
         [
@@ -2112,6 +2125,10 @@
           3
         ],
         [
+          "学术研究",
+          2
+        ],
+        [
           "社会与住房",
           2
         ],
@@ -2121,10 +2138,6 @@
         ],
         [
           "自然与适应",
-          2
-        ],
-        [
-          "公用事业",
           2
         ]
       ]
@@ -2219,7 +2232,7 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 10
+      "items": 8
     },
     {
       "source": "GOV.UK",
@@ -2229,7 +2242,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 31
+      "items": 33
     },
     {
       "source": "arXiv",
@@ -2237,7 +2250,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 15,
+  "verifiedCandidateCount": 19,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
