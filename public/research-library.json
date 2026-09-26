@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T05:02:46.808Z",
+  "updatedAt": "2026-09-26T10:44:44.347Z",
   "items": [
     {
       "id": "doi-10-3389-frsus-2026-1920930",
@@ -9,16 +9,17 @@
       "date": "2026-09-25",
       "publishedDate": "2026-09-25",
       "eventDate": "2026-09-25",
-      "dateNote": "论文发表",
+      "dateNote": "Frontiers原文标注2026年8月27日接收、2026年9月25日发表，并列出编辑及两位审稿人；属于同行评审系统综述。",
       "sector": "人工智能",
       "tags": [
         "人工智能",
-        "披露监管",
-        "供应链与出海",
-        "同行评审状态待核"
+        "时尚与纺织",
+        "供应链",
+        "同行评审",
+        "开放获取"
       ],
-      "summary": "Introduction The fashion and clothing industry faces increasing sustainability challenges associated with environmental impacts, resource inefficiency, unsustainable consumption, and the preservation of cultural heritage. Artificial intelligence (AI) has emerged as a transformative technology capable of addressing these challenges by supporting more sustaina…",
-      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "summary": "这篇系统综述依PRISMA 2020方法纳入32项研究，将时尚与服装产业中的AI可持续应用归纳为设计创新、生产效率、消费者参与及文化遗产保护四类。作者指出，现有成果多为概念、原型或效率推断，长期环境与社会成效的实证证据仍不足；AI应用也涉及文化知识所有权、透明度和中小企业可及性问题。",
+      "insight": "Frontiers原文标注2026年8月27日接收、9月25日发表，并列出编辑和两位审稿人；适合作为AI与时尚可持续研究综述线索，不应将文中提出的资源效率潜力当作已验证的减排结果。",
       "url": "https://doi.org/10.3389/frsus.2026.1920930",
       "featured": false
     },
