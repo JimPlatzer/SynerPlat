@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-26T10:44:44.347Z",
-  "weekRange": "2026.09.19—09.26",
+  "updatedAt": "2026-09-27T00:49:07.586Z",
+  "weekRange": "2026.09.20—09.27",
   "monthLabel": "2026年9月",
   "stories": [
     {
@@ -165,7 +165,7 @@
       "id": "doi-10-3389-frsus-2026-1920930",
       "sector": "人工智能",
       "relevance": "间接 ESG",
-      "event": "学术研究",
+      "event": "同行评审研究",
       "title": "Artificial intelligence for sustainability in fashion and clothing industry: a systematic review of design innovation, production efficiency, consumer engagement, and cultural heritage preservation",
       "summary": "这篇系统综述依PRISMA 2020方法纳入32项研究，将时尚与服装产业中的AI可持续应用归纳为设计创新、生产效率、消费者参与及文化遗产保护四类。作者指出，现有成果多为概念、原型或效率推断，长期环境与社会成效的实证证据仍不足；AI应用也涉及文化知识所有权、透明度和中小企业可及性问题。",
       "score": 7,
@@ -324,27 +324,6 @@
       ]
     },
     {
-      "id": "doi-10-1057-s41310-026-00422-7",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "同行评审研究",
-      "title": "How climate disclosure convergence drives product market competitiveness: evidence from Chinese marine enterprises",
-      "summary": "研究以2010—2024年中国A股海洋产业上市公司为样本，发现气候披露主题趋同与产品市场竞争力呈正向关联，并将融资、市场机会和运营效率识别为潜在作用路径。",
-      "score": 7,
-      "publishedDate": "2026.09.19",
-      "eventDate": "2026.09.19",
-      "dateNote": "Springer原始页显示论文于2026年9月19日在线发表",
-      "source": "International Journal of Disclosure and Governance / Palgrave Macmillan",
-      "url": "https://link.springer.com/article/10.1057/s41310-026-00422-7",
-      "tags": [
-        "气候信息披露",
-        "海洋产业",
-        "企业竞争力",
-        "中国上市公司",
-        "同行评审"
-      ]
-    },
-    {
       "id": "govuk-www-gov-uk-government-speeches-uk-statement-at-the-high-level-plenary-me",
       "sector": "新兴行业",
       "relevance": "直接 ESG",
@@ -379,6 +358,24 @@
         "能源转型",
         "预印本·非同行评审"
       ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-what-climate-security-means-now-foreign-s",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "'What climate security means now' - Foreign Secretary at New York Climate Week",
+      "summary": "Foreign Secretary address at New York Climate Week's Opening Ceremony, speaking on: 'What climate security means now'",
+      "score": 6,
+      "publishedDate": "2026.09.21",
+      "eventDate": "2026.09.21",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/speeches/what-climate-security-means-now-foreign-secretary-at-new-york-climate-week",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
     }
   ],
   "keywordEvents": [
@@ -387,10 +384,8 @@
       "date": "2026-09-25",
       "terms": [
         "人工智能",
-        "时尚与纺织",
-        "供应链",
-        "循环经济",
-        "同行评审",
+        "能源效率",
+        "供应链与出海",
         "学术研究"
       ]
     },
@@ -401,15 +396,6 @@
         "新能源",
         "政策监管",
         "能源转型"
-      ]
-    },
-    {
-      "id": "doi-10-1038-s41597-026-08227-7",
-      "date": "2026-09-25",
-      "terms": [
-        "人工智能",
-        "可再生能源",
-        "电力系统"
       ]
     },
     {
@@ -644,7 +630,8 @@
       "id": "govuk-www-gov-uk-government-speeches-what-climate-security-means-now-foreign-s",
       "date": "2026-09-21",
       "terms": [
-        "新兴行业"
+        "新兴行业",
+        "政策监管"
       ]
     },
     {
@@ -1785,55 +1772,6 @@
         "企业出海",
         "供应链与出海"
       ]
-    },
-    {
-      "id": "doi-10-1007-s10462-026-11684-6",
-      "date": "2026-08-27",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "气候披露",
-        "绿色金融"
-      ]
-    },
-    {
-      "id": "es-data-centres-2026",
-      "date": "2026-08-27",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "数据中心",
-        "可再生能源",
-        "能源效率",
-        "水资源"
-      ]
-    },
-    {
-      "id": "cn-envtech-finance-2026",
-      "date": "2026-08-27",
-      "terms": [
-        "绿色金融",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "period-digital-gob-es-comunicacion-notas-prensa-mtdfp-2026-08-el-gobierno-plant",
-      "date": "2026-08-27",
-      "terms": [
-        "人工智能",
-        "数据中心",
-        "可再生能源",
-        "水资源"
-      ]
-    },
-    {
-      "id": "uk-plug-solar-2026",
-      "date": "2026-08-27",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1872,7 +1810,7 @@
     "week": {
       "label": "过去一周总结",
       "title": "新能源、人工智能、新兴行业构成过去七日的主要行业信号",
-      "range": "2026.09.19—09.26",
+      "range": "2026.09.20—09.27",
       "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1884,12 +1822,12 @@
           9
         ],
         [
-          "人工智能",
+          "工作论文",
           7
         ],
         [
-          "工作论文",
-          7
+          "人工智能",
+          6
         ],
         [
           "新兴行业",
@@ -1904,20 +1842,20 @@
           5
         ],
         [
-          "气候披露",
-          5
-        ],
-        [
           "绿色金融",
-          5
-        ],
-        [
-          "企业出海",
           5
         ],
         [
           "供应链与出海",
           5
+        ],
+        [
+          "企业出海",
+          4
+        ],
+        [
+          "气候披露",
+          4
         ],
         [
           "水资源",
@@ -1926,14 +1864,6 @@
         [
           "自然与生物多样性",
           4
-        ],
-        [
-          "可再生能源",
-          3
-        ],
-        [
-          "电力系统",
-          3
         ],
         [
           "能源效率",
@@ -1953,6 +1883,10 @@
         ],
         [
           "关键矿产",
+          3
+        ],
+        [
+          "可再生能源",
           3
         ],
         [
@@ -1980,6 +1914,10 @@
           3
         ],
         [
+          "电力系统",
+          3
+        ],
+        [
           "碳与排放",
           3
         ],
@@ -1992,8 +1930,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.27—09.26",
-      "copy": "过去30天词频基于 160 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.28—09.27",
+      "copy": "过去30天词频基于 155 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -2004,31 +1942,23 @@
           8
         ],
         [
-          "新能源",
-          6
-        ],
-        [
           "高排放行业",
           6
         ],
         [
           "工作论文",
-          5
+          6
+        ],
+        [
+          "新能源",
+          6
         ],
         [
           "供应链与出海",
-          5
+          6
         ],
         [
           "绿色金融",
-          5
-        ],
-        [
-          "可再生能源",
-          5
-        ],
-        [
-          "电力系统",
           5
         ],
         [
@@ -2036,11 +1966,15 @@
           5
         ],
         [
-          "企业出海",
-          4
+          "电力系统",
+          5
         ],
         [
-          "气候披露",
+          "企业出海",
+          5
+        ],
+        [
+          "可再生能源",
           4
         ],
         [
@@ -2048,19 +1982,19 @@
           4
         ],
         [
+          "气候披露",
+          4
+        ],
+        [
           "碳与排放",
           4
         ],
         [
-          "能源效率",
-          4
-        ],
-        [
-          "数据中心",
+          "污染防治",
           3
         ],
         [
-          "污染防治",
+          "能源效率",
           3
         ],
         [
@@ -2069,6 +2003,10 @@
         ],
         [
           "气候适应",
+          3
+        ],
+        [
+          "数据中心",
           3
         ],
         [
@@ -2092,15 +2030,15 @@
           3
         ],
         [
-          "水资源",
-          3
-        ],
-        [
           "自然与生物多样性",
           3
         ],
         [
           "学术研究",
+          2
+        ],
+        [
+          "水资源",
           2
         ],
         [
@@ -2217,7 +2155,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 33
+      "items": 32
     },
     {
       "source": "arXiv",
@@ -2225,7 +2163,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 18,
+  "verifiedCandidateCount": 13,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
