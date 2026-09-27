@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-27T00:49:07.586Z",
+  "updatedAt": "2026-09-27T05:22:05.719Z",
   "items": [
+    {
+      "id": "doi-10-1007-s43621-026-04693-6",
+      "type": "学术论文",
+      "title": "Debt sustainability implications of sovereign green bonds in Ghana’s energy transition",
+      "publisher": "Springer Science and Business Media LLC",
+      "date": "2026-09-27",
+      "publishedDate": "2026-09-27",
+      "eventDate": "2026-09-27",
+      "dateNote": "论文发表",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "同行评审状态待核"
+      ],
+      "summary": "Abstract Sovereign green bonds are increasingly proposed as a climate-finance solution for debt-constrained economies, yet their fiscal sustainability implications under macroeconomic risk remain insufficiently quantified. This study assesses whether sovereign green bond issuance can be integrated into Ghana’s energy transition financing strategy without und…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.1007/s43621-026-04693-6",
+      "featured": false
+    },
     {
       "id": "doi-10-3389-frsus-2026-1920930",
       "type": "学术论文",

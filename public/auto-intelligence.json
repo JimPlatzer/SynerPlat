@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T00:49:07.586Z",
+  "updatedAt": "2026-09-27T05:22:05.719Z",
   "weekRange": "2026.09.20—09.27",
   "monthLabel": "2026年9月",
   "stories": [
@@ -162,6 +162,25 @@
   ],
   "watchlist": [
     {
+      "id": "doi-10-1007-s43621-026-04693-6",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Debt sustainability implications of sovereign green bonds in Ghana’s energy transition",
+      "summary": "Abstract Sovereign green bonds are increasingly proposed as a climate-finance solution for debt-constrained economies, yet their fiscal sustainability implications under macroeconomic risk remain insufficiently quantified. This study assesses whether sovereign green bond issuance can be integrated into Ghana’s energy transition financing strategy without und…",
+      "score": 7,
+      "publishedDate": "2026.09.27",
+      "eventDate": "2026.09.27",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04693-6",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "同行评审状态待核"
+      ]
+    },
+    {
       "id": "doi-10-3389-frsus-2026-1920930",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -180,6 +199,25 @@
         "供应链",
         "同行评审",
         "开放获取"
+      ]
+    },
+    {
+      "id": "doi-10-7759-s44389-026-00295-5",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "<p>An Automata-Driven Cognitive Explainable Artificial Intelligence Framework for Climate-Adaptive Precision Agriculture and Environmental Sustainability</p>",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.09.25",
+      "eventDate": "2026.09.25",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.7759/s44389-026-00295-5",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "同行评审状态待核"
       ]
     },
     {
@@ -358,27 +396,18 @@
         "能源转型",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-what-climate-security-means-now-foreign-s",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "'What climate security means now' - Foreign Secretary at New York Climate Week",
-      "summary": "Foreign Secretary address at New York Climate Week's Opening Ceremony, speaking on: 'What climate security means now'",
-      "score": 6,
-      "publishedDate": "2026.09.21",
-      "eventDate": "2026.09.21",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/speeches/what-climate-security-means-now-foreign-secretary-at-new-york-climate-week",
-      "tags": [
-        "气候与碳",
-        "政策法规"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s43621-026-04693-6",
+      "date": "2026-09-27",
+      "terms": [
+        "新能源",
+        "能源转型",
+        "绿色金融"
+      ]
+    },
     {
       "id": "doi-10-3389-frsus-2026-1920930",
       "date": "2026-09-25",
@@ -396,6 +425,22 @@
         "新能源",
         "政策监管",
         "能源转型"
+      ]
+    },
+    {
+      "id": "doi-10-7759-s44389-026-00295-5",
+      "date": "2026-09-25",
+      "terms": [
+        "人工智能"
+      ]
+    },
+    {
+      "id": "doi-10-1038-s41597-026-08227-7",
+      "date": "2026-09-25",
+      "terms": [
+        "人工智能",
+        "可再生能源",
+        "电力系统"
       ]
     },
     {
@@ -630,8 +675,7 @@
       "id": "govuk-www-gov-uk-government-speeches-what-climate-security-means-now-foreign-s",
       "date": "2026-09-21",
       "terms": [
-        "新兴行业",
-        "政策监管"
+        "新兴行业"
       ]
     },
     {
@@ -1811,7 +1855,7 @@
       "label": "过去一周总结",
       "title": "新能源、人工智能、新兴行业构成过去七日的主要行业信号",
       "range": "2026.09.20—09.27",
-      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
@@ -1819,31 +1863,31 @@
         ],
         [
           "气候风险",
-          9
-        ],
-        [
-          "工作论文",
-          7
+          10
         ],
         [
           "人工智能",
-          6
+          8
+        ],
+        [
+          "工作论文",
+          8
+        ],
+        [
+          "能源转型",
+          7
         ],
         [
           "新兴行业",
           6
         ],
         [
-          "能源转型",
+          "新能源",
           6
         ],
         [
-          "新能源",
-          5
-        ],
-        [
           "绿色金融",
-          5
+          6
         ],
         [
           "供应链与出海",
@@ -1866,6 +1910,14 @@
           4
         ],
         [
+          "可再生能源",
+          3
+        ],
+        [
+          "电力系统",
+          3
+        ],
+        [
           "能源效率",
           3
         ],
@@ -1883,10 +1935,6 @@
         ],
         [
           "关键矿产",
-          3
-        ],
-        [
-          "可再生能源",
           3
         ],
         [
@@ -1914,10 +1962,6 @@
           3
         ],
         [
-          "电力系统",
-          3
-        ],
-        [
           "碳与排放",
           3
         ],
@@ -1931,7 +1975,7 @@
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
       "range": "2026.08.28—09.27",
-      "copy": "过去30天词频基于 155 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "copy": "过去30天词频基于 157 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1942,15 +1986,15 @@
           8
         ],
         [
+          "新能源",
+          6
+        ],
+        [
           "高排放行业",
           6
         ],
         [
           "工作论文",
-          6
-        ],
-        [
-          "新能源",
           6
         ],
         [
@@ -1962,11 +2006,11 @@
           5
         ],
         [
-          "气候风险",
+          "电力系统",
           5
         ],
         [
-          "电力系统",
+          "气候风险",
           5
         ],
         [
@@ -1975,7 +2019,7 @@
         ],
         [
           "可再生能源",
-          4
+          5
         ],
         [
           "新兴行业",
@@ -1990,16 +2034,16 @@
           4
         ],
         [
+          "能源转型",
+          4
+        ],
+        [
           "污染防治",
-          3
+          4
         ],
         [
           "能源效率",
-          3
-        ],
-        [
-          "能源转型",
-          3
+          4
         ],
         [
           "气候适应",
@@ -2155,7 +2199,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 32
+      "items": 33
     },
     {
       "source": "arXiv",
@@ -2163,7 +2207,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 13,
+  "verifiedCandidateCount": 20,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
