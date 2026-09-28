@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T05:28:29.964Z",
+  "updatedAt": "2026-09-28T05:52:27.000Z",
   "items": [
     {
       "id": "fr-2026-19774",
@@ -9,13 +9,15 @@
       "date": "2026-09-28",
       "publishedDate": "2026-09-28",
       "eventDate": "2026-09-28",
-      "dateNote": "发布",
+      "dateNote": "Federal Register于2026年9月28日发布拟议规则，尚非最终规则；公众意见截止2026年11月12日，信息收集意见截止10月28日。",
       "sector": "高排放行业",
       "tags": [
-        "气候与碳",
+        "污染防治",
+        "汽油配送与终端",
+        "高排放行业",
         "政策法规"
       ],
-      "summary": "On May 8, 2024, the U.S. Environmental Protection Agency (EPA) published the National Emission Standards for Hazardous Air Pollutants (NESHAP): Gasoline Distribution Technology Reviews and New Source Performance Standards (NSPS) Review for Bulk Gasoline Terminals final rule (\"2024 Final Rule\"). The EPA is reconsidering various provisions of the 2024 Final Ru…",
+      "summary": "美国环保署（EPA）于2026年9月28日刊载拟议规则，重新考虑2024年汽油配送设施危险空气污染物标准及散装汽油终端新源绩效标准中的若干规定，涉及控制设备运行限值与持续合规、汽油运输车辆蒸气密闭要求、NSPS改造判定及技术修正。EPA称该提案不会改变VOC/HAP排放、空气质量或总体健康影响；这是征求意见的拟议规则，并非最终规则，也未重开其他条款。公众意见截止2026年11月12日，信息收集意见截止10月28日。",
       "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
       "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
       "featured": true
@@ -68,16 +70,40 @@
       "date": "2026-09-27",
       "publishedDate": "2026-09-27",
       "eventDate": "2026-09-27",
-      "dateNote": "论文发表",
+      "dateNote": "Springer原文标注2026年9月27日在线发表；开放获取、已同行评审的早期版本，期刊注明后续将替换为最终版本。",
       "sector": "新能源",
       "tags": [
         "能源转型",
         "气候与碳",
-        "同行评审状态待核"
+        "同行评审",
+        "情景模拟",
+        "开放获取"
       ],
-      "summary": "Abstract Sovereign green bonds are increasingly proposed as a climate-finance solution for debt-constrained economies, yet their fiscal sustainability implications under macroeconomic risk remain insufficiently quantified. This study assesses whether sovereign green bond issuance can be integrated into Ghana’s energy transition financing strategy without und…",
+      "summary": "Springer于2026年9月27日在线刊出经同行评审的开放获取早期版本。研究以加纳为例模拟主权绿色债券融资情景，并非对已发行加纳主权绿色债券的实证评估：模型假设连续5年每年发行相当于GDP 1%的债券，债务率到2030年约比基线高4.5个百分点，且结果对汇率冲击敏感。结论依赖情景假设，不能直接视为实际发行效果预测；期刊说明早期版本后续会以最终版本替换。",
       "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
       "url": "https://doi.org/10.1007/s43621-026-04693-6",
+      "featured": false
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04807-0",
+      "type": "学术论文",
+      "title": "Evidence, limitations and implications for renewable energy planning of daily global solar irradiation in tropical climate zones of Cameroon, predicted by machine learning",
+      "publisher": "Discover Sustainability / Springer Nature",
+      "date": "2026-09-27",
+      "publishedDate": "2026-09-27",
+      "eventDate": "2026-09-27",
+      "dateNote": "Springer原文标注2026年9月27日在线发表；开放获取、已同行评审的早期版本，期刊注明后续将替换为最终版本。",
+      "sector": "新能源",
+      "tags": [
+        "太阳能资源",
+        "机器学习",
+        "同行评审",
+        "开放获取",
+        "研究局限"
+      ],
+      "summary": "Springer于2026年9月27日在线刊出经同行评审的开放获取早期版本。研究使用NASA POWER 1999—2026年数据，分析喀麦隆五座城市的日太阳辐照度，并比较四种机器学习算法；随机森林表现最佳，但测试R²约0.52—0.69，准确度存在明显限制。可作为区域太阳能资源初筛研究，不宜单独用于项目融资或场址级发电量评估；期刊说明早期版本后续会以最终版本替换。",
+      "insight": "研究给出热带地区太阳能资源机器学习估算案例，但其模型解释度有限，应作为初筛信息而非项目可融资性或场址发电量保证。",
+      "url": "https://link.springer.com/article/10.1007/s43621-026-04807-0",
       "featured": false
     },
     {
