@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-09-27T05:22:05.719Z",
-  "weekRange": "2026.09.20—09.27",
+  "updatedAt": "2026-09-28T05:28:29.964Z",
+  "weekRange": "2026.09.21—09.28",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "fr-2026-19774",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
+      "summary": "On May 8, 2024, the U.S. Environmental Protection Agency (EPA) published the National Emission Standards for Hazardous Air Pollutants (NESHAP): Gasoline Distribution Technology Reviews and New Source Performance Standards (NSPS) Review for Bulk Gasoline Terminals final rule (\"2024 Final Rule\"). The EPA is reconsidering various provisions of the 2024 Final Ru…",
+      "score": 9,
+      "publishedDate": "2026.09.28",
+      "eventDate": "2026.09.28",
+      "dateNote": "发布",
+      "source": "Environmental Protection Agency",
+      "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
+    },
     {
       "id": "fr-2026-19603",
       "sector": "新能源",
@@ -221,6 +239,25 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2609-30995v1",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Learning Hierarchical Causal Representations of the Effects of Forcings on Temperature in Climate Models",
+      "summary": "Machine learning (ML) emulators provide a fast and cost-effective method to simulate climate change scenarios after being trained on Earth System Models projections. However, the black-box nature of those data-driven approaches limit the usability and trustworthiness of their outputs and in particular their use as causal attribution tools. Here, we develop a…",
+      "score": 7,
+      "publishedDate": "2026.09.25",
+      "eventDate": "2026.09.25",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.30995v1",
+      "tags": [
+        "气候与碳",
+        "自然与生物多样性",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "doi-10-3389-frsus-2026-1954577",
       "sector": "企业出海",
       "relevance": "直接 ESG",
@@ -362,43 +399,35 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-speeches-uk-statement-at-the-high-level-plenary-me",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "UK Statement at the High-level Plenary Meeting to Address the Existential Threats Posed by Sea-level Rise",
-      "summary": "Statement by Chris Elmore MP, Minister for the Americas, Multilateral, and Human Rights, at the High-level Plenary Meeting to Address the Existential Threats Posed by Sea-level Rise",
-      "score": 6,
-      "publishedDate": "2026.09.24",
-      "eventDate": "2026.09.24",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/speeches/uk-statement-at-the-high-level-plenary-meeting-to-address-the-existential-threats-posed-by-sea-level-rise",
-      "tags": [
-        "政策法规"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-30010v1",
+      "id": "arxiv-arxiv-org-abs-2609-30747v1",
       "sector": "人工智能",
       "relevance": "间接 ESG",
       "event": "工作论文",
-      "title": "Quantifying AI impact in energy transitions: The Energy Justice Impact Assessment (EJIA) framework",
-      "summary": "Artificial intelligence is increasingly deployed across energy systems to optimize efficiency, balance supply and demand, and integrate renewable sources. These applications alter how energy systems function, changing how benefits and burdens are distributed, whose needs are represented in system design, and who can influence decision-making, with consequenc…",
+      "title": "Beyond the Last Truffula Tree: SustainAI - A Water-Aware, Closed-Loop Framework for Environmentally Accountable AI",
+      "summary": "As artificial intelligence (AI) becomes embedded in everyday life, its environmental footprint, particularly water consumption remains largely invisible. While energy and carbon impacts are widely recognized, the substantial freshwater demands of data center cooling and electricity generation receive little attention. To address this gap, we introduce Sustai…",
       "score": 6,
-      "publishedDate": "2026.09.24",
-      "eventDate": "2026.09.24",
+      "publishedDate": "2026.09.25",
+      "eventDate": "2026.09.25",
       "dateNote": "预印本发布",
       "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.30010v1",
+      "url": "http://arxiv.org/abs/2609.30747v1",
       "tags": [
         "人工智能",
-        "能源转型",
+        "气候与碳",
         "预印本·非同行评审"
       ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "fr-2026-19774",
+      "date": "2026-09-28",
+      "terms": [
+        "高排放行业",
+        "政策监管",
+        "碳与排放"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-04693-6",
       "date": "2026-09-27",
@@ -406,6 +435,14 @@
         "新能源",
         "能源转型",
         "绿色金融"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04807-0",
+      "date": "2026-09-27",
+      "terms": [
+        "新能源",
+        "可再生能源"
       ]
     },
     {
@@ -432,6 +469,28 @@
       "date": "2026-09-25",
       "terms": [
         "人工智能"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-30995v1",
+      "date": "2026-09-25",
+      "terms": [
+        "高排放行业",
+        "气候风险",
+        "自然与生物多样性",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-30747v1",
+      "date": "2026-09-25",
+      "terms": [
+        "人工智能",
+        "数据中心",
+        "电力系统",
+        "碳与排放",
+        "水资源",
+        "工作论文"
       ]
     },
     {
@@ -462,14 +521,6 @@
         "企业出海",
         "气候披露",
         "绿色金融"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-uk-statement-at-the-high-level-plenary-me",
-      "date": "2026-09-24",
-      "terms": [
-        "新兴行业",
-        "政策监管"
       ]
     },
     {
@@ -527,6 +578,13 @@
       "terms": [
         "新兴行业",
         "工作论文"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-uk-statement-at-the-high-level-plenary-me",
+      "date": "2026-09-24",
+      "terms": [
+        "新兴行业"
       ]
     },
     {
@@ -1808,14 +1866,6 @@
         "气候披露",
         "数字化与数据"
       ]
-    },
-    {
-      "id": "ec-cbam-verifier-registry-guide-2026",
-      "date": "2026-08-28",
-      "terms": [
-        "企业出海",
-        "供应链与出海"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1823,6 +1873,12 @@
       "新能源",
       "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       3,
+      "→"
+    ],
+    [
+      "高排放行业",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
       "→"
     ],
     [
@@ -1842,36 +1898,34 @@
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
-    ],
-    [
-      "高排放行业",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
-      "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、人工智能、新兴行业构成过去七日的主要行业信号",
-      "range": "2026.09.20—09.27",
-      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新能源、高排放行业、人工智能构成过去七日的主要行业信号",
+      "range": "2026.09.21—09.28",
+      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
-        [
-          "政策监管",
-          10
-        ],
         [
           "气候风险",
           10
+        ],
+        [
+          "政策监管",
+          9
+        ],
+        [
+          "工作论文",
+          9
         ],
         [
           "人工智能",
           8
         ],
         [
-          "工作论文",
-          8
+          "新能源",
+          7
         ],
         [
           "能源转型",
@@ -1879,10 +1933,6 @@
         ],
         [
           "新兴行业",
-          6
-        ],
-        [
-          "新能源",
           6
         ],
         [
@@ -1894,7 +1944,23 @@
           5
         ],
         [
+          "水资源",
+          5
+        ],
+        [
+          "自然与生物多样性",
+          5
+        ],
+        [
+          "高排放行业",
+          5
+        ],
+        [
           "企业出海",
+          4
+        ],
+        [
+          "可再生能源",
           4
         ],
         [
@@ -1902,27 +1968,19 @@
           4
         ],
         [
-          "水资源",
-          4
-        ],
-        [
-          "自然与生物多样性",
-          4
-        ],
-        [
-          "可再生能源",
-          3
-        ],
-        [
           "电力系统",
+          4
+        ],
+        [
+          "碳与排放",
+          4
+        ],
+        [
+          "数据中心",
           3
         ],
         [
           "能源效率",
-          3
-        ],
-        [
-          "高排放行业",
           3
         ],
         [
@@ -1950,19 +2008,11 @@
           3
         ],
         [
-          "数据中心",
-          3
-        ],
-        [
           "气候适应",
           3
         ],
         [
           "污染防治",
-          3
-        ],
-        [
-          "碳与排放",
           3
         ],
         [
@@ -1974,8 +2024,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.28—09.27",
-      "copy": "过去30天词频基于 157 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.29—09.28",
+      "copy": "过去30天词频基于 160 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1986,10 +2036,6 @@
           8
         ],
         [
-          "新能源",
-          6
-        ],
-        [
           "高排放行业",
           6
         ],
@@ -1998,11 +2044,11 @@
           6
         ],
         [
-          "供应链与出海",
+          "新能源",
           6
         ],
         [
-          "绿色金融",
+          "供应链与出海",
           5
         ],
         [
@@ -2010,11 +2056,11 @@
           5
         ],
         [
-          "气候风险",
+          "绿色金融",
           5
         ],
         [
-          "企业出海",
+          "气候风险",
           5
         ],
         [
@@ -2022,15 +2068,19 @@
           5
         ],
         [
+          "企业出海",
+          4
+        ],
+        [
+          "碳与排放",
+          4
+        ],
+        [
           "新兴行业",
           4
         ],
         [
           "气候披露",
-          4
-        ],
-        [
-          "碳与排放",
           4
         ],
         [
@@ -2046,11 +2096,11 @@
           4
         ],
         [
-          "气候适应",
+          "数据中心",
           3
         ],
         [
-          "数据中心",
+          "气候适应",
           3
         ],
         [
@@ -2066,6 +2116,10 @@
           3
         ],
         [
+          "自然与生物多样性",
+          3
+        ],
+        [
           "公正转型",
           3
         ],
@@ -2074,15 +2128,11 @@
           3
         ],
         [
-          "自然与生物多样性",
+          "水资源",
           3
         ],
         [
           "学术研究",
-          2
-        ],
-        [
-          "水资源",
           2
         ],
         [
@@ -2101,6 +2151,15 @@
     }
   },
   "monthlyHighlights": [
+    {
+      "date": "09.28",
+      "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
+      "summary": "On May 8, 2024, the U.S. Environmental Protection Agency (EPA) published the National Emission Standards for Hazardous Air Pollutants (NESHAP): Gasoline Distribution Technology Reviews and New Source Performance Standards (NSPS) Review for Bulk Gasoline Terminals final rule (\"2024 Final Rule\"). The EPA is reconsidering various provisions of the 2024 Final Ru…",
+      "sector": "高排放行业",
+      "source": "Environmental Protection Agency",
+      "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
+      "score": 9
+    },
     {
       "date": "09.17",
       "title": "英国启动3,000万英镑People’s Power社区清洁能源首轮资金",
@@ -2167,6 +2226,15 @@
   ],
   "annualHighlights": [
     {
+      "date": "09.28",
+      "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
+      "summary": "On May 8, 2024, the U.S. Environmental Protection Agency (EPA) published the National Emission Standards for Hazardous Air Pollutants (NESHAP): Gasoline Distribution Technology Reviews and New Source Performance Standards (NSPS) Review for Bulk Gasoline Terminals final rule (\"2024 Final Rule\"). The EPA is reconsidering various provisions of the 2024 Final Ru…",
+      "sector": "高排放行业",
+      "source": "Environmental Protection Agency",
+      "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
+      "score": 9
+    },
+    {
       "date": "09.17",
       "title": "Rescission of the Greenhouse Gas Findings for Fossil Fuel-Fired Power Plants and Repeal of Regulations for Power Plant Greenhouse Gas Emissions Under Clean Air Act Section 111",
       "summary": "In this action, the U.S. Environmental Protection Agency (EPA) is supplementing its proposal to repeal all greenhouse gas (GHG) emission standards for fossil fuel-fired electric generating units (EGUs) to effectuate the best reading of Clean Air Act (CAA) section 111. We propose that CAA section 111 does not authorize the EPA to regulate emissions from power…",
@@ -2189,17 +2257,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 8
+      "items": 9
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 47
+      "items": 49
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 33
+      "items": 35
     },
     {
       "source": "arXiv",
@@ -2207,7 +2275,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 20,
+  "verifiedCandidateCount": 22,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
