@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T01:28:52.149Z",
+  "updatedAt": "2026-09-29T05:47:17.982Z",
   "weekRange": "2026.09.22—09.29",
   "monthLabel": "2026年9月",
   "stories": [
@@ -205,7 +205,7 @@
       "id": "doi-10-1007-s10462-026-11681-9",
       "sector": "人工智能",
       "relevance": "间接 ESG",
-      "event": "学术研究",
+      "event": "同行评审研究",
       "title": "Artificial intelligence for forecasting, optimization, and energy storage in energy communities: a review",
       "summary": "Springer于2026年9月28日在线发表经同行评审的开放获取早期版本，系统综述130篇同行评审研究，梳理AI在能源社区中的预测、优化和储能管理应用。综述认为预测结果会影响后续决策，混合AI方法正用于不确定性管理，但预测、优化与实体执行之间仍缺少紧密衔接，规模化、稳健性、公平性和现实部署仍是挑战；该综述不是AI已实现减排的实证证明。",
       "score": 7,
@@ -223,6 +223,24 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2609-35420v1",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Automated Species Identification in Camera Trap Images for Wildlife Conservation",
+      "summary": "Wildlife conservation involves protecting, preserving, and managing wildlife species and their habitats. With today's rapid pace of human development, climate change, and other unsustainable practices, the need for wildlife conservation has heightened. Despite significant progress in species identification using deep-learning models, significant challenges s…",
+      "score": 7,
+      "publishedDate": "2026.09.28",
+      "eventDate": "2026.09.28",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2609.35420v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "doi-10-1007-s43621-026-04693-6",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -233,7 +251,7 @@
       "publishedDate": "2026.09.27",
       "eventDate": "2026.09.27",
       "dateNote": "Springer原文标注2026年9月27日在线发表；开放获取、已同行评审的早期版本，期刊注明后续将替换为最终版本。",
-      "source": "Discover Sustainability / Springer Nature",
+      "source": "Springer Science and Business Media LLC",
       "url": "https://doi.org/10.1007/s43621-026-04693-6",
       "tags": [
         "能源转型",
@@ -302,6 +320,25 @@
         "气候与碳",
         "自然与生物多样性",
         "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "doi-10-7759-s44389-026-00295-5",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "<p>An Automata-Driven Cognitive Explainable Artificial Intelligence Framework for Climate-Adaptive Precision Agriculture and Environmental Sustainability</p>",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.09.25",
+      "eventDate": "2026.09.25",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.7759/s44389-026-00295-5",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "同行评审状态待核"
       ]
     },
     {
@@ -408,24 +445,6 @@
         "人权与环境治理",
         "同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-25774v1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "工作论文",
-      "title": "Scientific capabilities and deployment sustainability of small-scale LLMs in biological wastewater treatment",
-      "summary": "Large language models (LLMs) are emerging as scientific assistants, yet their computational demands and limited domain specialization constrain sustainable deployment in environmental engineering. Here, we investigate whether domain-specialized small-scale LLMs can combine scientific capability with sustainable deployment in biological wastewater treatment.…",
-      "score": 7,
-      "publishedDate": "2026.09.22",
-      "eventDate": "2026.09.22",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.25774v1",
-      "tags": [
-        "人工智能",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
@@ -445,10 +464,7 @@
       "terms": [
         "新能源",
         "可再生能源",
-        "能源转型",
-        "中小企业",
-        "能源采用",
-        "企业能源转型"
+        "能源转型"
       ]
     },
     {
@@ -456,10 +472,46 @@
       "date": "2026-09-28",
       "terms": [
         "人工智能",
-        "能源社区",
-        "储能",
         "可再生能源",
+        "碳与排放",
         "学术研究"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-35420v1",
+      "date": "2026-09-28",
+      "terms": [
+        "新兴行业",
+        "气候风险",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-35569v1",
+      "date": "2026-09-28",
+      "terms": [
+        "新能源",
+        "碳与排放",
+        "自然与生物多样性",
+        "水资源",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-35309v1",
+      "date": "2026-09-28",
+      "terms": [
+        "新兴行业",
+        "气候风险",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2609-34966v1",
+      "date": "2026-09-28",
+      "terms": [
+        "高排放行业",
+        "工作论文"
       ]
     },
     {
@@ -517,6 +569,13 @@
         "碳与排放",
         "水资源",
         "工作论文"
+      ]
+    },
+    {
+      "id": "doi-10-7759-s44389-026-00295-5",
+      "date": "2026-09-25",
+      "terms": [
+        "人工智能"
       ]
     },
     {
@@ -1906,15 +1965,19 @@
       "label": "过去一周总结",
       "title": "新能源、高排放行业、人工智能构成过去七日的主要行业信号",
       "range": "2026.09.22—09.29",
-      "copy": "过去7天当前保留 10 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "copy": "过去7天当前保留 10 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
-        [
-          "政策监管",
-          10
-        ],
         [
           "气候风险",
           10
+        ],
+        [
+          "工作论文",
+          9
+        ],
+        [
+          "政策监管",
+          9
         ],
         [
           "人工智能",
@@ -1926,22 +1989,14 @@
         ],
         [
           "能源转型",
-          8
-        ],
-        [
-          "工作论文",
           7
         ],
         [
-          "供应链与出海",
-          4
-        ],
-        [
           "可再生能源",
-          6
+          5
         ],
         [
-          "绿色金融",
+          "新兴行业",
           5
         ],
         [
@@ -1953,36 +2008,44 @@
           5
         ],
         [
+          "水资源",
+          5
+        ],
+        [
+          "碳与排放",
+          5
+        ],
+        [
+          "绿色金融",
+          5
+        ],
+        [
           "企业出海",
           4
         ],
         [
-          "新兴行业",
+          "供应链与出海",
           4
         ],
         [
-          "水资源",
-          4
+          "学术研究",
+          3
         ],
         [
           "气候披露",
-          4
+          3
         ],
         [
           "污染防治",
-          4
+          3
         ],
         [
           "电力系统",
-          4
-        ],
-        [
-          "碳与排放",
-          4
+          3
         ],
         [
           "能源效率",
-          4
+          3
         ],
         [
           "公正转型",
@@ -1995,10 +2058,6 @@
         [
           "国际融资",
           3
-        ],
-        [
-          "学术研究",
-          4
         ],
         [
           "数字化与数据",
@@ -2017,15 +2076,7 @@
           3
         ],
         [
-          "中小企业",
-          3
-        ],
-        [
-          "储能",
-          3
-        ],
-        [
-          "企业能源转型",
+          "高风险行业",
           3
         ]
       ]
@@ -2034,7 +2085,7 @@
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
       "range": "2026.08.30—09.29",
-      "copy": "过去30天词频基于 158 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "copy": "过去30天词频基于 163 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -2045,6 +2096,10 @@
           8
         ],
         [
+          "工作论文",
+          7
+        ],
+        [
           "新能源",
           6
         ],
@@ -2053,15 +2108,7 @@
           6
         ],
         [
-          "工作论文",
-          6
-        ],
-        [
           "供应链与出海",
-          5
-        ],
-        [
-          "电力系统",
           5
         ],
         [
@@ -2069,7 +2116,7 @@
           5
         ],
         [
-          "绿色金融",
+          "电力系统",
           5
         ],
         [
@@ -2077,11 +2124,15 @@
           5
         ],
         [
-          "企业出海",
-          4
+          "绿色金融",
+          5
         ],
         [
           "碳与排放",
+          4
+        ],
+        [
+          "企业出海",
           4
         ],
         [
@@ -2121,11 +2172,11 @@
           3
         ],
         [
-          "数字化与数据",
+          "自然与生物多样性",
           3
         ],
         [
-          "自然与生物多样性",
+          "数字化与数据",
           3
         ],
         [
@@ -2163,18 +2214,18 @@
     {
       "date": "09.28",
       "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
-      "summary": "美国环保署（EPA）于2026年9月28日刊载拟议规则，重新考虑2024年汽油配送设施危险空气污染物标准及散装汽油终端新源绩效标准中的若干规定，涉及控制设备运行限值与持续合规、汽油运输车辆蒸气密闭要求、NSPS改造判定及技术修正。EPA称该提案不会改变VOC/HAP排放、空气质量或总体健康影响；这是征求意见的拟议规则，并非最终规则，也未重开其他条款。公众意见截止2026年11月12日，信息收集意见截止10月28日。",
+      "summary": "On May 8, 2024, the U.S. Environmental Protection Agency (EPA) published the National Emission Standards for Hazardous Air Pollutants (NESHAP): Gasoline Distribution Technology Reviews and New Source Performance Standards (NSPS) Review for Bulk Gasoline Terminals final rule (\"2024 Final Rule\"). The EPA is reconsidering various provisions of the 2024 Final Ru…",
       "sector": "高排放行业",
       "source": "Environmental Protection Agency",
       "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
-      "score": 7
+      "score": 9
     },
     {
       "date": "09.28",
       "title": "Behavioral and economic drivers of renewable energy adoption by MSMEs in the MENA region",
       "summary": "Abstract Micro, small, and medium enterprises (MSMEs) dominate the MENA private sector, yet renewable-energy technology (RET) adoption remains limited. Using nationally representative TCEES 2023–2024 data from Egypt, Jordan, and Morocco, this study models RET engagement as sequential consideration and effective adoption. Country-specific TAM-FC structural eq…",
       "sector": "新能源",
-      "source": "Artificial Intelligence Review / Springer Nature",
+      "source": "Springer Science and Business Media LLC",
       "url": "https://doi.org/10.1007/s43621-026-04793-3",
       "score": 8
     },
@@ -2293,7 +2344,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 19,
+  "verifiedCandidateCount": 22,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
