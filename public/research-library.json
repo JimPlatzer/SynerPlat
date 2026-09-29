@@ -1,6 +1,49 @@
 {
-  "updatedAt": "2026-09-28T05:52:27.000Z",
+  "updatedAt": "2026-09-29T01:28:52.149Z",
   "items": [
+    {
+      "id": "doi-10-1007-s43621-026-04793-3",
+      "type": "学术论文",
+      "title": "Behavioral and economic drivers of renewable energy adoption by MSMEs in the MENA region",
+      "publisher": "Discover Sustainability / Springer Nature",
+      "date": "2026-09-28",
+      "publishedDate": "2026-09-28",
+      "eventDate": "2026-09-28",
+      "dateNote": "Springer原文标注2026年9月28日发表；开放获取、已同行评审的接收后早期版本，期刊说明后续将以最终版本替换。",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "同行评审",
+        "开放获取",
+        "中小企业"
+      ],
+      "summary": "Springer于2026年9月28日在线发表经同行评审的开放获取早期版本，研究基于埃及、约旦和摩洛哥2023—2024年企业调查数据，分析微型、小型和中型企业可再生能源的考虑与实际采用。结果显示，便利条件与企业的采用意愿相关；而实际采用还与企业规模、场地所有权及针对性补贴相关，单有意愿并不足以推动落地，凸显技术、资金和结构可行性造成的意愿—行动差距。",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.1007/s43621-026-04793-3",
+      "featured": false
+    },
+    {
+      "id": "doi-10-1007-s10462-026-11681-9",
+      "type": "学术论文",
+      "title": "Artificial intelligence for forecasting, optimization, and energy storage in energy communities: a review",
+      "publisher": "Artificial Intelligence Review / Springer Nature",
+      "date": "2026-09-28",
+      "publishedDate": "2026-09-28",
+      "eventDate": "2026-09-28",
+      "dateNote": "Springer原文标注2026年9月28日发表；开放获取、已同行评审的接收后早期版本，期刊说明后续将以最终版本替换。",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "能源社区",
+        "储能",
+        "同行评审",
+        "开放获取"
+      ],
+      "summary": "Springer于2026年9月28日在线发表经同行评审的开放获取早期版本，系统综述130篇同行评审研究，梳理AI在能源社区中的预测、优化和储能管理应用。综述认为预测结果会影响后续决策，混合AI方法正用于不确定性管理，但预测、优化与实体执行之间仍缺少紧密衔接，规模化、稳健性、公平性和现实部署仍是挑战；该综述不是AI已实现减排的实证证明。",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.1007/s10462-026-11681-9",
+      "featured": false
+    },
     {
       "id": "fr-2026-19774",
       "type": "政策法规",
