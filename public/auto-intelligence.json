@@ -1,8 +1,28 @@
 {
-  "updatedAt": "2026-09-28T05:52:27.000Z",
-  "weekRange": "2026.09.21—09.28",
+  "updatedAt": "2026-09-29T01:28:52.149Z",
+  "weekRange": "2026.09.22—09.29",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "doi-10-1007-s43621-026-04793-3",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Behavioral and economic drivers of renewable energy adoption by MSMEs in the MENA region",
+      "summary": "Springer于2026年9月28日在线发表经同行评审的开放获取早期版本，研究基于埃及、约旦和摩洛哥2023—2024年企业调查数据，分析微型、小型和中型企业可再生能源的考虑与实际采用。结果显示，便利条件与企业的采用意愿相关；而实际采用还与企业规模、场地所有权及针对性补贴相关，单有意愿并不足以推动落地，凸显技术、资金和结构可行性造成的意愿—行动差距。",
+      "score": 8,
+      "publishedDate": "2026.09.28",
+      "eventDate": "2026.09.28",
+      "dateNote": "Springer原文标注2026年9月28日发表；开放获取、已同行评审的接收后早期版本，期刊说明后续将以最终版本替换。",
+      "source": "Discover Sustainability / Springer Nature",
+      "url": "https://doi.org/10.1007/s43621-026-04793-3",
+      "tags": [
+        "能源转型",
+        "同行评审",
+        "开放获取",
+        "中小企业"
+      ]
+    },
     {
       "id": "fr-2026-19774",
       "sector": "高排放行业",
@@ -182,10 +202,31 @@
   ],
   "watchlist": [
     {
+      "id": "doi-10-1007-s10462-026-11681-9",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Artificial intelligence for forecasting, optimization, and energy storage in energy communities: a review",
+      "summary": "Springer于2026年9月28日在线发表经同行评审的开放获取早期版本，系统综述130篇同行评审研究，梳理AI在能源社区中的预测、优化和储能管理应用。综述认为预测结果会影响后续决策，混合AI方法正用于不确定性管理，但预测、优化与实体执行之间仍缺少紧密衔接，规模化、稳健性、公平性和现实部署仍是挑战；该综述不是AI已实现减排的实证证明。",
+      "score": 7,
+      "publishedDate": "2026.09.28",
+      "eventDate": "2026.09.28",
+      "dateNote": "Springer原文标注2026年9月28日发表；开放获取、已同行评审的接收后早期版本，期刊说明后续将以最终版本替换。",
+      "source": "Artificial Intelligence Review / Springer Nature",
+      "url": "https://doi.org/10.1007/s10462-026-11681-9",
+      "tags": [
+        "人工智能",
+        "能源社区",
+        "储能",
+        "同行评审",
+        "开放获取"
+      ]
+    },
+    {
       "id": "doi-10-1007-s43621-026-04693-6",
       "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "学术研究",
+      "event": "同行评审研究",
       "title": "Debt sustainability implications of sovereign green bonds in Ghana’s energy transition",
       "summary": "Springer于2026年9月27日在线刊出经同行评审的开放获取早期版本。研究以加纳为例模拟主权绿色债券融资情景，并非对已发行加纳主权绿色债券的实证评估：模型假设连续5年每年发行相当于GDP 1%的债券，债务率到2030年约比基线高4.5个百分点，且结果对汇率冲击敏感。结论依赖情景假设，不能直接视为实际发行效果预测；期刊说明早期版本后续会以最终版本替换。",
       "score": 7,
@@ -200,6 +241,27 @@
         "同行评审",
         "情景模拟",
         "开放获取"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04807-0",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "同行评审研究",
+      "title": "Evidence, limitations and implications for renewable energy planning of daily global solar irradiation in tropical climate zones of Cameroon, predicted by machine learning",
+      "summary": "Springer于2026年9月27日在线刊出经同行评审的开放获取早期版本。研究使用NASA POWER 1999—2026年数据，分析喀麦隆五座城市的日太阳辐照度，并比较四种机器学习算法；随机森林表现最佳，但测试R²约0.52—0.69，准确度存在明显限制。可作为区域太阳能资源初筛研究，不宜单独用于项目融资或场址级发电量评估；期刊说明早期版本后续会以最终版本替换。",
+      "score": 7,
+      "publishedDate": "2026.09.27",
+      "eventDate": "2026.09.27",
+      "dateNote": "Springer原文标注2026年9月27日在线发表；开放获取、已同行评审的早期版本，期刊注明后续将替换为最终版本。",
+      "source": "Discover Sustainability / Springer Nature",
+      "url": "https://link.springer.com/article/10.1007/s43621-026-04807-0",
+      "tags": [
+        "太阳能资源",
+        "机器学习",
+        "同行评审",
+        "开放获取",
+        "研究局限"
       ]
     },
     {
@@ -221,27 +283,6 @@
         "供应链",
         "同行评审",
         "开放获取"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04807-0",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Evidence, limitations and implications for renewable energy planning of daily global solar irradiation in tropical climate zones of Cameroon, predicted by machine learning",
-      "summary": "Springer于2026年9月27日在线刊出经同行评审的开放获取早期版本。研究使用NASA POWER 1999—2026年数据，分析喀麦隆五座城市的日太阳辐照度，并比较四种机器学习算法；随机森林表现最佳，但测试R²约0.52—0.69，准确度存在明显限制。可作为区域太阳能资源初筛研究，不宜单独用于项目融资或场址级发电量评估；期刊说明早期版本后续会以最终版本替换。",
-      "score": 7,
-      "publishedDate": "2026.09.27",
-      "eventDate": "2026.09.27",
-      "dateNote": "Springer原文标注2026年9月27日在线发表；开放获取、已同行评审的早期版本，期刊注明后续将替换为最终版本。",
-      "source": "Discover Sustainability / Springer Nature",
-      "url": "https://link.springer.com/article/10.1007/s43621-026-04807-0",
-      "tags": [
-        "太阳能资源",
-        "机器学习",
-        "同行评审",
-        "开放获取",
-        "研究局限"
       ]
     },
     {
@@ -385,43 +426,6 @@
         "人工智能",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-25432v1",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Tipping Points in LLM-Based Multi-Agent Systems: Stance on Climate Change Action",
-      "summary": "Because significant action to counter global warming requires massive public support, it is important to understand the dynamics of public opinion on climate issues. Of special interest are social tipping points, as revealed by large-scale effects of small perturbations in individual behaviors. Agent-based models (ABM) are an effective computational tool for…",
-      "score": 7,
-      "publishedDate": "2026.09.21",
-      "eventDate": "2026.09.21",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.25432v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-30747v1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "工作论文",
-      "title": "Beyond the Last Truffula Tree: SustainAI - A Water-Aware, Closed-Loop Framework for Environmentally Accountable AI",
-      "summary": "As artificial intelligence (AI) becomes embedded in everyday life, its environmental footprint, particularly water consumption remains largely invisible. While energy and carbon impacts are widely recognized, the substantial freshwater demands of data center cooling and electricity generation receive little attention. To address this gap, we introduce Sustai…",
-      "score": 6,
-      "publishedDate": "2026.09.25",
-      "eventDate": "2026.09.25",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.30747v1",
-      "tags": [
-        "人工智能",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
@@ -431,7 +435,31 @@
       "terms": [
         "高排放行业",
         "政策监管",
-        "碳与排放"
+        "碳与排放",
+        "污染防治"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04793-3",
+      "date": "2026-09-28",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型",
+        "中小企业",
+        "能源采用",
+        "企业能源转型"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s10462-026-11681-9",
+      "date": "2026-09-28",
+      "terms": [
+        "人工智能",
+        "能源社区",
+        "储能",
+        "可再生能源",
+        "学术研究"
       ]
     },
     {
@@ -439,8 +467,7 @@
       "date": "2026-09-27",
       "terms": [
         "新能源",
-        "能源转型",
-        "绿色金融"
+        "能源转型"
       ]
     },
     {
@@ -448,10 +475,7 @@
       "date": "2026-09-27",
       "terms": [
         "新能源",
-        "可再生能源",
-        "太阳能资源",
-        "机器学习",
-        "学术研究"
+        "可再生能源"
       ]
     },
     {
@@ -471,17 +495,6 @@
         "新能源",
         "政策监管",
         "能源转型"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04807-0",
-      "date": "2026-09-27",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "太阳能资源",
-        "机器学习",
-        "学术研究"
       ]
     },
     {
@@ -740,13 +753,6 @@
         "供应链与出海",
         "水资源",
         "工作论文"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-what-climate-security-means-now-foreign-s",
-      "date": "2026-09-21",
-      "terms": [
-        "新兴行业"
       ]
     },
     {
@@ -1861,31 +1867,13 @@
         "公正转型",
         "工作论文"
       ]
-    },
-    {
-      "id": "au-climate-disclosure-2026",
-      "date": "2026-08-29",
-      "terms": [
-        "企业出海",
-        "气候披露",
-        "数字化与数据"
-      ]
-    },
-    {
-      "id": "period-www-finance-gov-au-government-managing-commonwealth-resources-commonweal",
-      "date": "2026-08-29",
-      "terms": [
-        "企业出海",
-        "气候披露",
-        "数字化与数据"
-      ]
     }
   ],
   "sectorInsights": [
     [
       "新能源",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
+      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      4,
       "→"
     ],
     [
@@ -1917,47 +1905,43 @@
     "week": {
       "label": "过去一周总结",
       "title": "新能源、高排放行业、人工智能构成过去七日的主要行业信号",
-      "range": "2026.09.21—09.28",
-      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "range": "2026.09.22—09.29",
+      "copy": "过去7天当前保留 10 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
+        [
+          "政策监管",
+          10
+        ],
         [
           "气候风险",
           10
         ],
         [
-          "政策监管",
-          9
-        ],
-        [
-          "工作论文",
-          9
-        ],
-        [
           "人工智能",
-          7
+          8
         ],
         [
           "新能源",
-          7
+          8
         ],
         [
           "能源转型",
+          8
+        ],
+        [
+          "工作论文",
           7
         ],
         [
-          "新兴行业",
+          "供应链与出海",
+          4
+        ],
+        [
+          "可再生能源",
           6
         ],
         [
           "绿色金融",
-          6
-        ],
-        [
-          "供应链与出海",
-          5
-        ],
-        [
-          "水资源",
           5
         ],
         [
@@ -1973,15 +1957,19 @@
           4
         ],
         [
-          "可再生能源",
-          5
+          "新兴行业",
+          4
         ],
         [
-          "太阳能资源",
-          3
+          "水资源",
+          4
         ],
         [
           "气候披露",
+          4
+        ],
+        [
+          "污染防治",
           4
         ],
         [
@@ -1993,24 +1981,8 @@
           4
         ],
         [
-          "学术研究",
-          4
-        ],
-        [
-          "数据中心",
-          3
-        ],
-        [
           "能源效率",
-          3
-        ],
-        [
-          "机器学习",
-          3
-        ],
-        [
-          "高风险行业",
-          3
+          4
         ],
         [
           "公正转型",
@@ -2025,7 +1997,15 @@
           3
         ],
         [
+          "学术研究",
+          4
+        ],
+        [
           "数字化与数据",
+          3
+        ],
+        [
+          "数据中心",
           3
         ],
         [
@@ -2033,11 +2013,19 @@
           3
         ],
         [
-          "污染防治",
+          "绿色技术与资源效率",
           3
         ],
         [
-          "绿色技术与资源效率",
+          "中小企业",
+          3
+        ],
+        [
+          "储能",
+          3
+        ],
+        [
+          "企业能源转型",
           3
         ]
       ]
@@ -2045,8 +2033,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.29—09.28",
-      "copy": "过去30天词频基于 160 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.08.30—09.29",
+      "copy": "过去30天词频基于 158 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -2057,15 +2045,15 @@
           8
         ],
         [
+          "新能源",
+          6
+        ],
+        [
           "高排放行业",
           6
         ],
         [
           "工作论文",
-          6
-        ],
-        [
-          "新能源",
           6
         ],
         [
@@ -2077,11 +2065,11 @@
           5
         ],
         [
-          "绿色金融",
+          "气候风险",
           5
         ],
         [
-          "气候风险",
+          "绿色金融",
           5
         ],
         [
@@ -2129,11 +2117,11 @@
           3
         ],
         [
-          "数字化与数据",
+          "网络安全",
           3
         ],
         [
-          "网络安全",
+          "数字化与数据",
           3
         ],
         [
@@ -2175,11 +2163,20 @@
     {
       "date": "09.28",
       "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
-      "summary": "On May 8, 2024, the U.S. Environmental Protection Agency (EPA) published the National Emission Standards for Hazardous Air Pollutants (NESHAP): Gasoline Distribution Technology Reviews and New Source Performance Standards (NSPS) Review for Bulk Gasoline Terminals final rule (\"2024 Final Rule\"). The EPA is reconsidering various provisions of the 2024 Final Ru…",
+      "summary": "美国环保署（EPA）于2026年9月28日刊载拟议规则，重新考虑2024年汽油配送设施危险空气污染物标准及散装汽油终端新源绩效标准中的若干规定，涉及控制设备运行限值与持续合规、汽油运输车辆蒸气密闭要求、NSPS改造判定及技术修正。EPA称该提案不会改变VOC/HAP排放、空气质量或总体健康影响；这是征求意见的拟议规则，并非最终规则，也未重开其他条款。公众意见截止2026年11月12日，信息收集意见截止10月28日。",
       "sector": "高排放行业",
       "source": "Environmental Protection Agency",
       "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
-      "score": 9
+      "score": 7
+    },
+    {
+      "date": "09.28",
+      "title": "Behavioral and economic drivers of renewable energy adoption by MSMEs in the MENA region",
+      "summary": "Abstract Micro, small, and medium enterprises (MSMEs) dominate the MENA private sector, yet renewable-energy technology (RET) adoption remains limited. Using nationally representative TCEES 2023–2024 data from Egypt, Jordan, and Morocco, this study models RET engagement as sequential consideration and effective adoption. Country-specific TAM-FC structural eq…",
+      "sector": "新能源",
+      "source": "Artificial Intelligence Review / Springer Nature",
+      "url": "https://doi.org/10.1007/s43621-026-04793-3",
+      "score": 8
     },
     {
       "date": "09.17",
@@ -2278,7 +2275,7 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 9
+      "items": 7
     },
     {
       "source": "GOV.UK",
@@ -2288,7 +2285,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 35
+      "items": 37
     },
     {
       "source": "arXiv",
@@ -2296,7 +2293,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 21,
+  "verifiedCandidateCount": 19,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
