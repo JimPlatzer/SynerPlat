@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-09-29T05:47:17.982Z",
-  "weekRange": "2026.09.22—09.29",
+  "updatedAt": "2026-09-30T05:36:27.239Z",
+  "weekRange": "2026.09.23—09.30",
   "monthLabel": "2026年9月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-reckless-south-west-water-fined-78-million",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "'Reckless' South West Water fined £7.8 million",
+      "summary": "…The court found that the company’s conduct amounted to reckless failures as judge says that &#x27;incidents of pollution will not be tolerated&#x27;.…",
+      "score": 6,
+      "publishedDate": "2026.09.29",
+      "eventDate": "2026.09.29",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/reckless-south-west-water-fined-78-million",
+      "tags": [
+        "政策法规"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-04793-3",
       "sector": "新能源",
@@ -156,51 +173,28 @@
         "申诉救济",
         "政策法规"
       ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-southern-water-fined-24m-for-kent-pollution",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "环境执法",
-      "title": "英国Southern Water因肯特郡多起污染事件被罚约240万英镑",
-      "summary": "英国环境署披露，法院就Southern Water在2019—2021年间向海域和溪流排放未经处理污水、柴油与废物等五项违法行为判处罚款2,416,666.67英镑，并另付约6.99万英镑费用。事件造成鱼类与鳗鱼死亡、海滩关闭及指定贝类养殖水域受影响；公司已认罪，罚款不得通过提高水价转嫁。",
-      "score": 7,
-      "publishedDate": "2026.09.22",
-      "eventDate": "2026.09.22",
-      "dateNote": "英国环境署于2026年9月22日公布判罚；违法排放发生于2019—2021年，公司于2026年4月认罪",
-      "source": "UK Environment Agency",
-      "url": "https://www.gov.uk/government/news/southern-water-fined-24m-for-kent-pollution",
-      "tags": [
-        "水污染",
-        "环境执法",
-        "污水治理",
-        "生态损害",
-        "公共卫生"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-prime-minister-drives-global-work-on-artifici",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "双边AI与自主系统合作",
-      "title": "英国与美国启动国防人工智能与自主系统合作",
-      "summary": "英国首相办公室宣布，英国国防部Rapid AI Delivery Taskforce将与美国国防部首席数字与人工智能办公室开展新的AI与自主系统合作，目标包括形成可信、可互操作的能力并保护海上航线、空域等关键基础设施。公告同时披露英美首次从英国无人潜航器试射美澳联合研制的重型鱼雷；当前材料强调安全与威慑应用，但未给出算法问责、人工监督或风险评估等具体治理安排。",
-      "score": 6,
-      "publishedDate": "2026.09.22",
-      "eventDate": "2026.09.22",
-      "dateNote": "英国首相办公室于2026年9月22日发布；合作启动与无人潜航器试射信息同页披露",
-      "source": "UK Prime Minister's Office / 10 Downing Street",
-      "url": "https://www.gov.uk/government/news/prime-minister-drives-global-work-on-artificial-intelligence-at-unga-as-uk-and-us-make-history-with-firing-from-undersea-drone",
-      "tags": [
-        "人工智能治理",
-        "自主系统",
-        "关键基础设施",
-        "国防科技",
-        "跨境合作"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-1007-s42452-026-09064-4",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Harnessing renewable energy sources for hydrogen production using artificial intelligence within a circular economy framework",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.09.29",
+      "eventDate": "2026.09.29",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s42452-026-09064-4",
+      "tags": [
+        "人工智能",
+        "能源转型",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "doi-10-1007-s10462-026-11681-9",
       "sector": "人工智能",
@@ -384,70 +378,62 @@
       ]
     },
     {
-      "id": "doi-10-1007-s10668-026-08170-y",
+      "id": "govuk-www-gov-uk-government-speeches-uk-statement-at-the-high-level-plenary-me",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "UK Statement at the High-level Plenary Meeting to Address the Existential Threats Posed by Sea-level Rise",
+      "summary": "Statement by Chris Elmore MP, Minister for the Americas, Multilateral, and Human Rights, at the High-level Plenary Meeting to Address the Existential Threats Posed by Sea-level Rise",
+      "score": 6,
+      "publishedDate": "2026.09.24",
+      "eventDate": "2026.09.24",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/speeches/uk-statement-at-the-high-level-plenary-meeting-to-address-the-existential-threats-posed-by-sea-level-rise",
+      "tags": [
+        "政策法规"
+      ]
+    },
+    {
+      "id": "doi-10-1038-s41597-026-08227-7",
       "sector": "人工智能",
       "relevance": "间接 ESG",
-      "event": "同行评审研究",
-      "title": "Artificial intelligence and the clean energy transition in China: spatiotemporal characteristics, spatial spillovers and moderating mechanisms",
-      "summary": "研究使用中国30个省份2007—2020年的面板数据与空间杜宾模型，发现人工智能发展与本地清洁能源转型呈显著正向关联，并对邻近地区产生正向空间溢出；长期效应强于短期效应。环境治理与公众环境参与会增强这一关联，气候风险则会削弱它。",
-      "score": 7,
-      "publishedDate": "2026.09.22",
-      "eventDate": "2026.09.22",
-      "dateNote": "Springer原始页显示论文于2026年9月22日在线发表",
-      "source": "Environment, Development and Sustainability / Springer Nature",
-      "url": "https://link.springer.com/article/10.1007/s10668-026-08170-y",
+      "event": "学术研究",
+      "title": "Renewable generation and electricity consumption datasets for energy market models generated with artificial intelligence",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.09.25",
+      "eventDate": "2026.09.25",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1038/s41597-026-08227-7",
       "tags": [
         "人工智能",
-        "清洁能源转型",
-        "空间溢出",
-        "中国省级数据",
-        "同行评审"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s10668-026-08132-4",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "同行评审研究",
-      "title": "Road to energy transition under the impact of climate change a micro perspective from China",
-      "summary": "研究基于2009—2023年中国上市公司面板数据构建气候风险指数并使用固定效应模型，发现企业气候风险暴露与能源转型呈显著正向关联；研发投入、数字化转型与媒体关注是重要传导渠道，效果还因行业属性、资产密集度和地区而异。",
-      "score": 7,
-      "publishedDate": "2026.09.22",
-      "eventDate": "2026.09.22",
-      "dateNote": "Springer原始页显示论文于2026年9月22日在线发表",
-      "source": "Environment, Development and Sustainability / Springer Nature",
-      "url": "https://link.springer.com/article/10.1007/s10668-026-08132-4",
-      "tags": [
-        "气候风险",
-        "企业能源转型",
-        "数字化转型",
-        "中国上市公司",
-        "同行评审"
-      ]
-    },
-    {
-      "id": "doi-10-1093-oxfclm-kgag009",
-      "sector": "企业出海",
-      "relevance": "间接 ESG",
-      "event": "同行评审研究",
-      "title": "Governing Critical Minerals for a Just Energy Transition in ASEAN: Insights from the EU",
-      "summary": "论文以公正转型框架和比较法方法评估东盟关键矿产治理，并以欧盟《关键原材料法》等制度为参照。作者识别出东盟机构碎片化、人权保障整合不足以及能源、采矿与环境政策协调不足等缺口，建议建立更一致的区域框架并强化环境与人权保障。",
-      "score": 7,
-      "publishedDate": "2026.09.22",
-      "eventDate": "2026.09.22",
-      "dateNote": "Oxford Academic显示同行评审稿于2026年9月16日接收、9月22日在线发表；当前为正式排版前的Accepted Manuscript，后续版本沿用同一DOI",
-      "source": "Oxford Open Climate Change / Oxford University Press",
-      "url": "https://academic.oup.com/oocc/advance-article/doi/10.1093/oxfclm/kgag009/8828013",
-      "tags": [
-        "关键矿产",
-        "东盟",
-        "公正转型",
-        "人权与环境治理",
-        "同行评审"
+        "能源转型",
+        "同行评审状态待核"
       ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s42452-026-09064-4",
+      "date": "2026-09-29",
+      "terms": [
+        "人工智能",
+        "可再生能源",
+        "能源转型"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-reckless-south-west-water-fined-78-million",
+      "date": "2026-09-29",
+      "terms": [
+        "高排放行业",
+        "政策监管",
+        "污染防治",
+        "水资源"
+      ]
+    },
     {
       "id": "fr-2026-19774",
       "date": "2026-09-28",
@@ -584,6 +570,7 @@
       "terms": [
         "人工智能",
         "可再生能源",
+        "能源转型",
         "电力系统"
       ]
     },
@@ -669,7 +656,8 @@
       "id": "govuk-www-gov-uk-government-speeches-uk-statement-at-the-high-level-plenary-me",
       "date": "2026-09-24",
       "terms": [
-        "新兴行业"
+        "新兴行业",
+        "政策监管"
       ]
     },
     {
@@ -723,23 +711,6 @@
         "能源转型",
         "气候风险",
         "数字化与数据"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-prime-minister-drives-global-work-on-artifici",
-      "date": "2026-09-22",
-      "terms": [
-        "人工智能",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-southern-water-fined-24m-for-kent-pollution",
-      "date": "2026-09-22",
-      "terms": [
-        "高排放行业",
-        "污染防治",
-        "水资源"
       ]
     },
     {
@@ -1942,12 +1913,6 @@
       "→"
     ],
     [
-      "人工智能",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
-      "→"
-    ],
-    [
       "新兴行业",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
@@ -1958,29 +1923,31 @@
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
+    ],
+    [
+      "高风险行业",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
+      "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、高排放行业、人工智能构成过去七日的主要行业信号",
-      "range": "2026.09.22—09.29",
-      "copy": "过去7天当前保留 10 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新能源、高排放行业、新兴行业构成过去七日的主要行业信号",
+      "range": "2026.09.23—09.30",
+      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "气候风险",
+          "政策监管",
           10
         ],
         [
+          "气候风险",
+          9
+        ],
+        [
           "工作论文",
-          9
-        ],
-        [
-          "政策监管",
-          9
-        ],
-        [
-          "人工智能",
           8
         ],
         [
@@ -1988,28 +1955,28 @@
           8
         ],
         [
+          "人工智能",
+          7
+        ],
+        [
           "能源转型",
           7
         ],
         [
           "可再生能源",
-          5
+          6
         ],
         [
           "新兴行业",
-          5
+          6
         ],
         [
           "自然与生物多样性",
-          5
+          6
         ],
         [
           "高排放行业",
-          5
-        ],
-        [
-          "水资源",
-          5
+          6
         ],
         [
           "碳与排放",
@@ -2020,11 +1987,7 @@
           5
         ],
         [
-          "企业出海",
-          4
-        ],
-        [
-          "供应链与出海",
+          "水资源",
           4
         ],
         [
@@ -2048,19 +2011,15 @@
           3
         ],
         [
-          "公正转型",
+          "企业出海",
           3
         ],
         [
-          "关键矿产",
+          "供应链与出海",
           3
         ],
         [
           "国际融资",
-          3
-        ],
-        [
-          "数字化与数据",
           3
         ],
         [
@@ -2084,7 +2043,7 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.08.30—09.29",
+      "range": "2026.08.31—09.30",
       "copy": "过去30天词频基于 163 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
@@ -2097,7 +2056,7 @@
         ],
         [
           "工作论文",
-          7
+          6
         ],
         [
           "新能源",
@@ -2116,11 +2075,11 @@
           5
         ],
         [
-          "电力系统",
+          "可再生能源",
           5
         ],
         [
-          "可再生能源",
+          "电力系统",
           5
         ],
         [
@@ -2140,11 +2099,11 @@
           4
         ],
         [
-          "气候披露",
+          "能源转型",
           4
         ],
         [
-          "能源转型",
+          "气候披露",
           4
         ],
         [
@@ -2153,7 +2112,7 @@
         ],
         [
           "能源效率",
-          4
+          3
         ],
         [
           "数据中心",
@@ -2326,17 +2285,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 7
+      "items": 9
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 49
+      "items": 48
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 37
+      "items": 40
     },
     {
       "source": "arXiv",
@@ -2344,7 +2303,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 22,
+  "verifiedCandidateCount": 17,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
