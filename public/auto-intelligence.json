@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T05:22:24.410Z",
-  "weekRange": "2026.09.26—10.03",
+  "updatedAt": "2026-10-04T05:58:14.751Z",
+  "weekRange": "2026.09.27—10.04",
   "monthLabel": "2026年10月",
   "stories": [
     {
@@ -100,6 +100,25 @@
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-1007-s10690-026-09645-8",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Climate Risk Exposure and Liquidity Risk: Do ESG Disclosure and Innovation Matter?",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.10.03",
+      "eventDate": "2026.10.03",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s10690-026-09645-8",
+      "tags": [
+        "气候与碳",
+        "披露监管",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "doi-10-1016-j-energy-2026-142606",
       "sector": "新能源",
@@ -276,24 +295,6 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2610-02014v1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "工作论文",
-      "title": "Atoms to Processes: The Role of Artificial Intelligence and Machine Learning in Chemical Engineering",
-      "summary": "The rapid maturation of artificial intelligence (AI) and machine learning (ML) has catalyzed a profound shift in how chemical engineering problems are formulated, analyzed, and solved. Advances in computing, data availability, and learning algorithms have enabled AI/ML methods to impact applications spanning atomic-scale simulations, materials and catalyst d…",
-      "score": 6,
-      "publishedDate": "2026.10.01",
-      "eventDate": "2026.10.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.02014v1",
-      "tags": [
-        "人工智能",
-        "预印本·非同行评审"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2610-01619v1",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -334,6 +335,16 @@
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s10690-026-09645-8",
+      "date": "2026-10-03",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "气候风险",
+        "气候披露"
+      ]
+    },
     {
       "id": "doi-10-1057-s41599-026-09086-8",
       "date": "2026-10-02",
@@ -388,8 +399,7 @@
       "id": "arxiv-arxiv-org-abs-2610-02014v1",
       "date": "2026-10-01",
       "terms": [
-        "人工智能",
-        "工作论文"
+        "人工智能"
       ]
     },
     {
@@ -1481,99 +1491,6 @@
       "terms": [
         "人工智能"
       ]
-    },
-    {
-      "id": "period-www-gov-uk-government-news-invasive-mosquito-species-detected-in-east-lo",
-      "date": "2026-09-03",
-      "terms": [
-        "高风险行业"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s40518-026-00292-1",
-      "date": "2026-09-03",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "电力系统"
-      ]
-    },
-    {
-      "id": "uk-invasive-mosquito-east-london-2026",
-      "date": "2026-09-03",
-      "terms": [
-        "高风险行业",
-        "气候适应"
-      ]
-    },
-    {
-      "id": "uk-ai-cough-surveillance-2026",
-      "date": "2026-09-03",
-      "terms": [
-        "人工智能",
-        "气候披露",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-investment-boost-for-climate-action-and-fores",
-      "date": "2026-09-03",
-      "terms": [
-        "绿色金融"
-      ]
-    },
-    {
-      "id": "period-www-mee-gov-cn-ywdt-hjywnews-202609-t20260903-1165072-shtml",
-      "date": "2026-09-03",
-      "terms": [
-        "高风险行业",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "period-www-ndrc-gov-cn-fzggw-wld-wanghongzhi-zyhd-202609-t20260903-1407392-html",
-      "date": "2026-09-03",
-      "terms": [
-        "新能源",
-        "人工智能",
-        "可再生能源",
-        "电力系统"
-      ]
-    },
-    {
-      "id": "period-www-gov-uk-government-news-investment-boost-for-climate-action-and-fores",
-      "date": "2026-09-03",
-      "terms": [
-        "绿色金融"
-      ]
-    },
-    {
-      "id": "cn-mee-environmental-benchmarks-plan-2026",
-      "date": "2026-09-03",
-      "terms": [
-        "高风险行业"
-      ]
-    },
-    {
-      "id": "cn-nea-new-power-grid-deployment-2026",
-      "date": "2026-09-03",
-      "terms": [
-        "新能源",
-        "人工智能",
-        "可再生能源",
-        "电力系统"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-03716v1",
-      "date": "2026-09-03",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "数据中心",
-        "气候披露",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1600,7 +1517,7 @@
     "week": {
       "label": "过去一周总结",
       "title": "新兴行业、高排放行业、新能源构成过去七日的主要行业信号",
-      "range": "2026.09.26—10.03",
+      "range": "2026.09.27—10.04",
       "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1609,35 +1526,39 @@
         ],
         [
           "政策监管",
-          8
+          10
         ],
         [
           "新能源",
-          8
+          9
         ],
         [
           "碳与排放",
-          8
+          9
         ],
         [
           "人工智能",
-          7
+          8
         ],
         [
           "可再生能源",
-          7
+          8
         ],
         [
           "新兴行业",
-          6
-        ],
-        [
-          "能源转型",
-          6
+          7
         ],
         [
           "气候风险",
-          6
+          7
+        ],
+        [
+          "能源转型",
+          7
+        ],
+        [
+          "气候披露",
+          5
         ],
         [
           "水资源",
@@ -1652,12 +1573,12 @@
           5
         ],
         [
-          "气候披露",
+          "污染防治",
           4
         ],
         [
-          "污染防治",
-          4
+          "企业出海",
+          3
         ],
         [
           "学术研究",
@@ -1672,15 +1593,15 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.03—10.03",
-      "copy": "过去30天词频基于 134 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.04—10.04",
+      "copy": "过去30天词频基于 124 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
-          "人工智能",
+          "政策监管",
           10
         ],
         [
-          "政策监管",
+          "人工智能",
           10
         ],
         [
@@ -1688,19 +1609,11 @@
           8
         ],
         [
-          "新能源",
-          7
-        ],
-        [
           "供应链与出海",
           6
         ],
         [
-          "可再生能源",
-          6
-        ],
-        [
-          "电力系统",
+          "新能源",
           6
         ],
         [
@@ -1709,6 +1622,14 @@
         ],
         [
           "气候风险",
+          6
+        ],
+        [
+          "可再生能源",
+          6
+        ],
+        [
+          "电力系统",
           5
         ],
         [
@@ -1720,27 +1641,27 @@
           5
         ],
         [
+          "企业出海",
+          5
+        ],
+        [
           "绿色金融",
           5
         ],
         [
-          "企业出海",
-          4
-        ],
-        [
           "能源转型",
-          4
+          5
         ],
         [
           "气候披露",
           4
         ],
         [
-          "数据中心",
+          "能源效率",
           4
         ],
         [
-          "能源效率",
+          "数据中心",
           4
         ],
         [
@@ -1760,19 +1681,15 @@
           3
         ],
         [
-          "气候适应",
-          3
-        ],
-        [
           "自然与生物多样性",
           3
         ],
         [
-          "高风险行业",
+          "关键矿产",
           3
         ],
         [
-          "关键矿产",
+          "气候适应",
           3
         ],
         [
@@ -1793,6 +1710,10 @@
         ],
         [
           "国际融资",
+          2
+        ],
+        [
+          "地方所有权",
           2
         ]
       ]
@@ -1924,7 +1845,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 39
+      "items": 40
     },
     {
       "source": "arXiv",
@@ -1932,7 +1853,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 16,
+  "verifiedCandidateCount": 17,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
