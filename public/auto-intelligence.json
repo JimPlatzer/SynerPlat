@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-10-04T05:58:14.751Z",
-  "weekRange": "2026.09.27—10.04",
+  "updatedAt": "2026-10-05T05:45:50.093Z",
+  "weekRange": "2026.09.28—10.05",
   "monthLabel": "2026年10月",
   "stories": [
+    {
+      "id": "doi-10-1186-s43093-026-01012-3",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Capital expenditure and sustainability performance among listed firms in Ghana: the mediating role of ESG disclosure quality",
+      "summary": "Abstract The study investigates the relationship between capital expenditure, ESG disclosure quality, and sustainability performance, with a particular focus on the mediating role of ESG disclosure quality. The data cover 18 firms listed on the Ghana Stock Exchange from 2010 to 2024. The study utilizes the two-step System GMM and Sobel test mediation approac…",
+      "score": 8,
+      "publishedDate": "2026.10.04",
+      "eventDate": "2026.10.04",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1186/s43093-026-01012-3",
+      "tags": [
+        "披露监管",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-uk-driving-action-on-climate-and-nature-at-un",
       "sector": "新兴行业",
@@ -253,45 +271,42 @@
       ]
     },
     {
-      "id": "doi-10-1007-s43621-026-04693-6",
-      "sector": "新能源",
+      "id": "arxiv-arxiv-org-abs-2610-03334v1",
+      "sector": "新兴行业",
       "relevance": "直接 ESG",
-      "event": "同行评审研究",
-      "title": "Debt sustainability implications of sovereign green bonds in Ghana’s energy transition",
-      "summary": "Springer于2026年9月27日在线刊出经同行评审的开放获取早期版本。研究以加纳为例模拟主权绿色债券融资情景，并非对已发行加纳主权绿色债券的实证评估：模型假设连续5年每年发行相当于GDP 1%的债券，债务率到2030年约比基线高4.5个百分点，且结果对汇率冲击敏感。结论依赖情景假设，不能直接视为实际发行效果预测；期刊说明早期版本后续会以最终版本替换。",
-      "score": 7,
-      "publishedDate": "2026.09.27",
-      "eventDate": "2026.09.27",
-      "dateNote": "Springer原文标注2026年9月27日在线发表；开放获取、已同行评审的早期版本，期刊注明后续将替换为最终版本。",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04693-6",
+      "event": "工作论文",
+      "title": "A population-level assessment framework for flood-related wellbeing from public discourse in Ireland",
+      "summary": "\\ textbf{Background.} Ireland's position on the eastern North Atlantic exposes it to moisture-laden westerlies and frequent low-pressure systems, generating abundant precipitation and substantial pluvial and fluvial flood risk. Climate change is intensifying heavy rainfall and compound flood risk, with consequences extending beyond physical damage and conven…",
+      "score": 6,
+      "publishedDate": "2026.10.02",
+      "eventDate": "2026.10.02",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.03334v1",
       "tags": [
-        "能源转型",
         "气候与碳",
-        "同行评审",
-        "情景模拟",
-        "开放获取"
+        "预印本·非同行评审"
       ]
     },
     {
-      "id": "doi-10-1007-s43621-026-04807-0",
-      "sector": "新能源",
+      "id": "arxiv-arxiv-org-abs-2610-02763v1",
+      "sector": "企业出海",
       "relevance": "直接 ESG",
-      "event": "同行评审研究",
-      "title": "Evidence, limitations and implications for renewable energy planning of daily global solar irradiation in tropical climate zones of Cameroon, predicted by machine learning",
-      "summary": "Springer于2026年9月27日在线刊出经同行评审的开放获取早期版本。研究使用NASA POWER 1999—2026年数据，分析喀麦隆五座城市的日太阳辐照度，并比较四种机器学习算法；随机森林表现最佳，但测试R²约0.52—0.69，准确度存在明显限制。可作为区域太阳能资源初筛研究，不宜单独用于项目融资或场址级发电量评估；期刊说明早期版本后续会以最终版本替换。",
-      "score": 7,
-      "publishedDate": "2026.09.27",
-      "eventDate": "2026.09.27",
-      "dateNote": "Springer原文标注2026年9月27日在线发表；开放获取、已同行评审的早期版本，期刊注明后续将替换为最终版本。",
-      "source": "Discover Sustainability / Springer Nature",
-      "url": "https://link.springer.com/article/10.1007/s43621-026-04807-0",
+      "event": "工作论文",
+      "title": "A Two-Stage Cascade for Near-Real-Time Forest Anomaly Detection from Sentinel-1 SAR Time Series",
+      "summary": "Tropical forest monitoring is essential for global climate stability and biodiversity preservation. To address the urgent need for rapid, reliable detection of forest loss which is essential for timely intervention against illegal logging, supply chain transparency, land-use governance and carbon market standards, we introduce a two-stage statistics-encoder…",
+      "score": 6,
+      "publishedDate": "2026.10.02",
+      "eventDate": "2026.10.02",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.02763v1",
       "tags": [
-        "太阳能资源",
-        "机器学习",
-        "同行评审",
-        "开放获取",
-        "研究局限"
+        "气候与碳",
+        "披露监管",
+        "自然与生物多样性",
+        "供应链与出海",
+        "预印本·非同行评审"
       ]
     },
     {
@@ -336,6 +351,15 @@
   ],
   "keywordEvents": [
     {
+      "id": "doi-10-1186-s43093-026-01012-3",
+      "date": "2026-10-04",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "气候披露"
+      ]
+    },
+    {
       "id": "doi-10-1007-s10690-026-09645-8",
       "date": "2026-10-03",
       "terms": [
@@ -343,6 +367,29 @@
         "政策监管",
         "气候风险",
         "气候披露"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-03334v1",
+      "date": "2026-10-02",
+      "terms": [
+        "新兴行业",
+        "气候风险",
+        "气候适应",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-02763v1",
+      "date": "2026-10-02",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "碳与排放",
+        "气候披露",
+        "供应链与出海",
+        "自然与生物多样性",
+        "工作论文"
       ]
     },
     {
@@ -396,10 +443,19 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2610-02014v1",
+      "id": "doi-10-1016-j-nexus-2026-100867",
       "date": "2026-10-01",
       "terms": [
-        "人工智能"
+        "人工智能",
+        "能源效率"
+      ]
+    },
+    {
+      "id": "doi-10-1016-j-renene-2026-126524",
+      "date": "2026-10-01",
+      "terms": [
+        "新兴行业",
+        "气候风险"
       ]
     },
     {
@@ -1382,115 +1438,6 @@
         "可再生能源",
         "电力系统"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-04906v1",
-      "date": "2026-09-04",
-      "terms": [
-        "高排放行业",
-        "气候风险",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-04632v1",
-      "date": "2026-09-04",
-      "terms": [
-        "新能源",
-        "碳与排放",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-05359v1",
-      "date": "2026-09-04",
-      "terms": [
-        "高排放行业",
-        "气候风险",
-        "碳与排放",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "period-www-cac-gov-cn-2026-09-04-c-1790271981772781-htm",
-      "date": "2026-09-04",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "数据中心",
-        "电力系统",
-        "能源效率",
-        "数字化与数据"
-      ]
-    },
-    {
-      "id": "period-www-gov-uk-government-publications-g20-innovation-ministerial-statement-",
-      "date": "2026-09-04",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "供应链与出海",
-        "绿色金融"
-      ]
-    },
-    {
-      "id": "cn-digital-green-synergy-plan-2026",
-      "date": "2026-09-04",
-      "terms": [
-        "人工智能",
-        "数据中心",
-        "电力系统",
-        "能源效率",
-        "碳与排放",
-        "数字化与数据"
-      ]
-    },
-    {
-      "id": "g20-innovation-ministerial-statement-2026",
-      "date": "2026-09-04",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "供应链与出海",
-        "绿色金融"
-      ]
-    },
-    {
-      "id": "doi-10-1038-s41467-026-77364-9",
-      "date": "2026-09-04",
-      "terms": [
-        "高排放行业",
-        "可再生能源",
-        "电力系统",
-        "能源效率"
-      ]
-    },
-    {
-      "id": "doi-10-1038-s44406-026-00043-7",
-      "date": "2026-09-04",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "电力系统",
-        "气候风险",
-        "干旱与土地"
-      ]
-    },
-    {
-      "id": "doi-10-1186-s13705-026-00604-9",
-      "date": "2026-09-04",
-      "terms": [
-        "高排放行业",
-        "政策监管",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s13132-026-03492-8",
-      "date": "2026-09-04",
-      "terms": [
-        "人工智能"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1507,6 +1454,12 @@
       "→"
     ],
     [
+      "企业出海",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
+      "→"
+    ],
+    [
       "新能源",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
@@ -1516,9 +1469,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新兴行业、高排放行业、新能源构成过去七日的主要行业信号",
-      "range": "2026.09.27—10.04",
-      "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新兴行业、高排放行业、企业出海构成过去七日的主要行业信号",
+      "range": "2026.09.28—10.05",
+      "copy": "过去7天当前保留 6 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "工作论文",
@@ -1529,39 +1482,35 @@
           10
         ],
         [
-          "新能源",
-          9
-        ],
-        [
           "碳与排放",
-          9
-        ],
-        [
-          "人工智能",
-          8
-        ],
-        [
-          "可再生能源",
           8
         ],
         [
           "新兴行业",
-          7
+          8
         ],
         [
           "气候风险",
+          8
+        ],
+        [
+          "人工智能",
           7
         ],
         [
-          "能源转型",
-          7
+          "可再生能源",
+          6
+        ],
+        [
+          "新能源",
+          6
         ],
         [
           "气候披露",
-          5
+          6
         ],
         [
-          "水资源",
+          "能源转型",
           5
         ],
         [
@@ -1569,15 +1518,23 @@
           5
         ],
         [
+          "企业出海",
+          4
+        ],
+        [
+          "水资源",
+          4
+        ],
+        [
           "高排放行业",
-          5
+          4
         ],
         [
           "污染防治",
           4
         ],
         [
-          "企业出海",
+          "供应链与出海",
           3
         ],
         [
@@ -1587,14 +1544,22 @@
         [
           "数据中心",
           3
+        ],
+        [
+          "气候适应",
+          3
+        ],
+        [
+          "能源效率",
+          3
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.04—10.04",
-      "copy": "过去30天词频基于 124 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.05—10.05",
+      "copy": "过去30天词频基于 117 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1602,7 +1567,7 @@
         ],
         [
           "人工智能",
-          10
+          9
         ],
         [
           "工作论文",
@@ -1617,27 +1582,19 @@
           6
         ],
         [
-          "高排放行业",
-          6
-        ],
-        [
           "气候风险",
           6
         ],
         [
-          "可再生能源",
+          "新兴行业",
           6
         ],
         [
-          "电力系统",
+          "可再生能源",
           5
         ],
         [
-          "碳与排放",
-          5
-        ],
-        [
-          "新兴行业",
+          "高排放行业",
           5
         ],
         [
@@ -1645,7 +1602,15 @@
           5
         ],
         [
-          "绿色金融",
+          "碳与排放",
+          5
+        ],
+        [
+          "电力系统",
+          5
+        ],
+        [
+          "气候披露",
           5
         ],
         [
@@ -1653,7 +1618,7 @@
           5
         ],
         [
-          "气候披露",
+          "绿色金融",
           4
         ],
         [
@@ -1677,15 +1642,7 @@
           3
         ],
         [
-          "数字化与数据",
-          3
-        ],
-        [
           "自然与生物多样性",
-          3
-        ],
-        [
-          "关键矿产",
           3
         ],
         [
@@ -1693,7 +1650,15 @@
           3
         ],
         [
+          "关键矿产",
+          3
+        ],
+        [
           "公正转型",
+          3
+        ],
+        [
+          "数字化与数据",
           3
         ],
         [
@@ -1728,6 +1693,15 @@
       "source": "Environmental Protection Agency",
       "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
       "score": 9
+    },
+    {
+      "date": "10.04",
+      "title": "Capital expenditure and sustainability performance among listed firms in Ghana: the mediating role of ESG disclosure quality",
+      "summary": "Abstract The study investigates the relationship between capital expenditure, ESG disclosure quality, and sustainability performance, with a particular focus on the mediating role of ESG disclosure quality. The data cover 18 firms listed on the Ghana Stock Exchange from 2010 to 2024. The study utilizes the two-step System GMM and Sobel test mediation approac…",
+      "sector": "企业出海",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1186/s43093-026-01012-3",
+      "score": 8
     },
     {
       "date": "09.28",
@@ -1835,17 +1809,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 14
+      "items": 16
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 49
+      "items": 47
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 40
+      "items": 38
     },
     {
       "source": "arXiv",
@@ -1853,7 +1827,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 17,
+  "verifiedCandidateCount": 16,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
