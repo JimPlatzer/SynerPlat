@@ -1,6 +1,101 @@
 {
-  "updatedAt": "2026-10-05T05:45:50.093Z",
+  "updatedAt": "2026-10-06T06:25:18.186Z",
   "items": [
+    {
+      "id": "arxiv-arxiv-org-abs-2610-06283v1",
+      "type": "工作论文",
+      "title": "First-Principles Investigation of Multimodal Toxic Gas Sensing in Carbon-Tuned hBN-Graphene Alloys: Chemiresistive, Work-Function, and Optical Responses",
+      "publisher": "arXiv",
+      "date": "2026-10-05",
+      "publishedDate": "2026-10-05",
+      "eventDate": "2026-10-05",
+      "dateNote": "预印本发布",
+      "sector": "新能源",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Compact, reliable, and cost-effective gas sensors have become a highly demanding subject for safety management in the medical sector, chemical manufacturing, food quality monitoring, agriculture, and industrial safety. Hazardous gas emissions need to be controlled and monitored with fast-responsive and highly sensitive sensing devices. A first-principles stu…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2610.06283v1",
+      "featured": false
+    },
+    {
+      "id": "doi-10-3389-feduc-2026-1949575",
+      "type": "学术论文",
+      "title": "Empowering future educators: integrating artificial intelligence, sustainability, and ethics into teacher preparation programs",
+      "publisher": "Frontiers Media SA",
+      "date": "2026-09-30",
+      "publishedDate": "2026-09-30",
+      "eventDate": "2026-09-30",
+      "dateNote": "论文发表",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
+      ],
+      "summary": "Teacher preparation programs have quickly adopted artificial intelligence tools, but the ethical, social, and environmental dimensions of that adoption receive comparatively little attention in how future educators are trained. This conceptual analysis addresses that gap by asking how AI competence, sustainability education, and ethical technology use can be…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.3389/feduc.2026.1949575",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-06476v1",
+      "type": "工作论文",
+      "title": "Evaluating LiDAR Data Sources, Predictor Resolution, and Spatial Random Effects in Bayesian Change-of-Support Models for Forest Inventory",
+      "publisher": "arXiv",
+      "date": "2026-10-05",
+      "publishedDate": "2026-10-05",
+      "eventDate": "2026-10-05",
+      "dateNote": "预印本发布",
+      "sector": "新兴行业",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Forest managers require timely stand-level information for operational planning. Model-based estimation combines sparse field samples with remotely sensed auxiliary data to estimate growing stock volume (GSV) for small-area units. This is particularly relevant in mixed-species and structurally heterogeneous forests, where timely structural information can su…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2610.06476v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-06380v1",
+      "type": "工作论文",
+      "title": "AeroMig: Multi-modal Inverse-Gamma modeling for aerosol particle number size distributions",
+      "publisher": "arXiv",
+      "date": "2026-10-05",
+      "publishedDate": "2026-10-05",
+      "eventDate": "2026-10-05",
+      "dateNote": "预印本发布",
+      "sector": "新兴行业",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Aerosol particles play a critical role in air quality, human health, and climate processes, making their accurate characterization essential. One common way to represent aerosol populations is through particle number size distributions (PNSDs), which describe the concentration of particles across different mobility diameters. However, these distributions are…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2610.06380v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-05963v1",
+      "type": "工作论文",
+      "title": "Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study",
+      "publisher": "arXiv",
+      "date": "2026-10-05",
+      "publishedDate": "2026-10-05",
+      "eventDate": "2026-10-05",
+      "dateNote": "预印本发布",
+      "sector": "新能源",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Smart ports increasingly depend on IoT-enabled digitalization to turn heterogeneous operational processes into measurable, optimizable workflows. Accordingly, this paper first provides a concise review of IoT-enabler technologies for port digital transformation, emphasizing how sensing, connectivity, and data integration capabilities support real-time decisi…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2610.05963v1",
+      "featured": false
+    },
     {
       "id": "doi-10-1186-s43093-026-01012-3",
       "type": "学术论文",

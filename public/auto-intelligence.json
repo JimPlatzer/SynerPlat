@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T05:45:50.093Z",
-  "weekRange": "2026.09.28—10.05",
+  "updatedAt": "2026-10-06T06:25:18.186Z",
+  "weekRange": "2026.09.29—10.06",
   "monthLabel": "2026年10月",
   "stories": [
     {
@@ -75,49 +75,46 @@
       "tags": [
         "政策法规"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04793-3",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Behavioral and economic drivers of renewable energy adoption by MSMEs in the MENA region",
-      "summary": "Springer于2026年9月28日在线发表经同行评审的开放获取早期版本，研究基于埃及、约旦和摩洛哥2023—2024年企业调查数据，分析微型、小型和中型企业可再生能源的考虑与实际采用。结果显示，便利条件与企业的采用意愿相关；而实际采用还与企业规模、场地所有权及针对性补贴相关，单有意愿并不足以推动落地，凸显技术、资金和结构可行性造成的意愿—行动差距。",
-      "score": 8,
-      "publishedDate": "2026.09.28",
-      "eventDate": "2026.09.28",
-      "dateNote": "Springer原文标注2026年9月28日发表；开放获取、已同行评审的接收后早期版本，期刊说明后续将以最终版本替换。",
-      "source": "Discover Sustainability / Springer Nature",
-      "url": "https://doi.org/10.1007/s43621-026-04793-3",
-      "tags": [
-        "能源转型",
-        "同行评审",
-        "开放获取",
-        "中小企业"
-      ]
-    },
-    {
-      "id": "fr-2026-19774",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
-      "summary": "美国环保署（EPA）于2026年9月28日刊载拟议规则，重新考虑2024年汽油配送设施危险空气污染物标准及散装汽油终端新源绩效标准中的若干规定，涉及控制设备运行限值与持续合规、汽油运输车辆蒸气密闭要求、NSPS改造判定及技术修正。EPA称该提案不会改变VOC/HAP排放、空气质量或总体健康影响；这是征求意见的拟议规则，并非最终规则，也未重开其他条款。公众意见截止2026年11月12日，信息收集意见截止10月28日。",
-      "score": 7,
-      "publishedDate": "2026.09.28",
-      "eventDate": "2026.09.28",
-      "dateNote": "Federal Register于2026年9月28日发布拟议规则，尚非最终规则；公众意见截止2026年11月12日，信息收集意见截止10月28日。",
-      "source": "Environmental Protection Agency",
-      "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
-      "tags": [
-        "污染防治",
-        "汽油配送与终端",
-        "高排放行业",
-        "政策法规"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-1186-s11671-026-04915-w",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Design of a highly efficient graphene-coated ultra-wideband solar thermal absorber for renewable mining energy applications using artificial intelligence optimization",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.10.05",
+      "eventDate": "2026.10.05",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1186/s11671-026-04915-w",
+      "tags": [
+        "人工智能",
+        "能源转型",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-06283v1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "First-Principles Investigation of Multimodal Toxic Gas Sensing in Carbon-Tuned hBN-Graphene Alloys: Chemiresistive, Work-Function, and Optical Responses",
+      "summary": "Compact, reliable, and cost-effective gas sensors have become a highly demanding subject for safety management in the medical sector, chemical manufacturing, food quality monitoring, agriculture, and industrial safety. Hazardous gas emissions need to be controlled and monitored with fast-responsive and highly sensitive sensing devices. A first-principles stu…",
+      "score": 7,
+      "publishedDate": "2026.10.05",
+      "eventDate": "2026.10.05",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.06283v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
     {
       "id": "doi-10-1007-s10690-026-09645-8",
       "sector": "企业出海",
@@ -213,6 +210,24 @@
       ]
     },
     {
+      "id": "doi-10-3389-feduc-2026-1949575",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Empowering future educators: integrating artificial intelligence, sustainability, and ethics into teacher preparation programs",
+      "summary": "Teacher preparation programs have quickly adopted artificial intelligence tools, but the ethical, social, and environmental dimensions of that adoption receive comparatively little attention in how future educators are trained. This conceptual analysis addresses that gap by asking how AI competence, sustainability education, and ethical technology use can be…",
+      "score": 7,
+      "publishedDate": "2026.09.30",
+      "eventDate": "2026.09.30",
+      "dateNote": "论文发表",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/feduc.2026.1949575",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
+      ]
+    },
+    {
       "id": "doi-10-1007-s42452-026-09064-4",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -232,124 +247,116 @@
       ]
     },
     {
-      "id": "doi-10-1007-s10462-026-11681-9",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "同行评审研究",
-      "title": "Artificial intelligence for forecasting, optimization, and energy storage in energy communities: a review",
-      "summary": "Springer于2026年9月28日在线发表经同行评审的开放获取早期版本，系统综述130篇同行评审研究，梳理AI在能源社区中的预测、优化和储能管理应用。综述认为预测结果会影响后续决策，混合AI方法正用于不确定性管理，但预测、优化与实体执行之间仍缺少紧密衔接，规模化、稳健性、公平性和现实部署仍是挑战；该综述不是AI已实现减排的实证证明。",
-      "score": 7,
-      "publishedDate": "2026.09.28",
-      "eventDate": "2026.09.28",
-      "dateNote": "Springer原文标注2026年9月28日发表；开放获取、已同行评审的接收后早期版本，期刊说明后续将以最终版本替换。",
-      "source": "Artificial Intelligence Review / Springer Nature",
-      "url": "https://doi.org/10.1007/s10462-026-11681-9",
-      "tags": [
-        "人工智能",
-        "能源社区",
-        "储能",
-        "同行评审",
-        "开放获取"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-35420v1",
+      "id": "arxiv-arxiv-org-abs-2610-06476v1",
       "sector": "新兴行业",
       "relevance": "直接 ESG",
       "event": "工作论文",
-      "title": "Automated Species Identification in Camera Trap Images for Wildlife Conservation",
-      "summary": "Wildlife conservation involves protecting, preserving, and managing wildlife species and their habitats. With today's rapid pace of human development, climate change, and other unsustainable practices, the need for wildlife conservation has heightened. Despite significant progress in species identification using deep-learning models, significant challenges s…",
-      "score": 7,
-      "publishedDate": "2026.09.28",
-      "eventDate": "2026.09.28",
+      "title": "Evaluating LiDAR Data Sources, Predictor Resolution, and Spatial Random Effects in Bayesian Change-of-Support Models for Forest Inventory",
+      "summary": "Forest managers require timely stand-level information for operational planning. Model-based estimation combines sparse field samples with remotely sensed auxiliary data to estimate growing stock volume (GSV) for small-area units. This is particularly relevant in mixed-species and structurally heterogeneous forests, where timely structural information can su…",
+      "score": 6,
+      "publishedDate": "2026.10.05",
+      "eventDate": "2026.10.05",
       "dateNote": "预印本发布",
       "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.35420v1",
+      "url": "http://arxiv.org/abs/2610.06476v1",
       "tags": [
         "气候与碳",
         "预印本·非同行评审"
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2610-03334v1",
+      "id": "arxiv-arxiv-org-abs-2610-06380v1",
       "sector": "新兴行业",
       "relevance": "直接 ESG",
       "event": "工作论文",
-      "title": "A population-level assessment framework for flood-related wellbeing from public discourse in Ireland",
-      "summary": "\\ textbf{Background.} Ireland's position on the eastern North Atlantic exposes it to moisture-laden westerlies and frequent low-pressure systems, generating abundant precipitation and substantial pluvial and fluvial flood risk. Climate change is intensifying heavy rainfall and compound flood risk, with consequences extending beyond physical damage and conven…",
+      "title": "AeroMig: Multi-modal Inverse-Gamma modeling for aerosol particle number size distributions",
+      "summary": "Aerosol particles play a critical role in air quality, human health, and climate processes, making their accurate characterization essential. One common way to represent aerosol populations is through particle number size distributions (PNSDs), which describe the concentration of particles across different mobility diameters. However, these distributions are…",
       "score": 6,
-      "publishedDate": "2026.10.02",
-      "eventDate": "2026.10.02",
+      "publishedDate": "2026.10.05",
+      "eventDate": "2026.10.05",
       "dateNote": "预印本发布",
       "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.03334v1",
+      "url": "http://arxiv.org/abs/2610.06380v1",
       "tags": [
         "气候与碳",
         "预印本·非同行评审"
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2610-02763v1",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "A Two-Stage Cascade for Near-Real-Time Forest Anomaly Detection from Sentinel-1 SAR Time Series",
-      "summary": "Tropical forest monitoring is essential for global climate stability and biodiversity preservation. To address the urgent need for rapid, reliable detection of forest loss which is essential for timely intervention against illegal logging, supply chain transparency, land-use governance and carbon market standards, we introduce a two-stage statistics-encoder…",
-      "score": 6,
-      "publishedDate": "2026.10.02",
-      "eventDate": "2026.10.02",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.02763v1",
-      "tags": [
-        "气候与碳",
-        "披露监管",
-        "自然与生物多样性",
-        "供应链与出海",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-01619v1",
+      "id": "arxiv-arxiv-org-abs-2610-05963v1",
       "sector": "新能源",
       "relevance": "直接 ESG",
       "event": "工作论文",
-      "title": "Exposing the Cost of Deep Learning Audio Development",
-      "summary": "The environmental impact of deep learning has attracted increasing attention over the past decade. Existing studies mainly focus on the energy and carbon emissions of model training and inference, while the whole development phase is often overlooked. Yet, architecture prototyping and intensive experiments are conducted during this stage, which is highly ene…",
+      "title": "Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study",
+      "summary": "Smart ports increasingly depend on IoT-enabled digitalization to turn heterogeneous operational processes into measurable, optimizable workflows. Accordingly, this paper first provides a concise review of IoT-enabler technologies for port digital transformation, emphasizing how sensing, connectivity, and data integration capabilities support real-time decisi…",
       "score": 6,
-      "publishedDate": "2026.10.01",
-      "eventDate": "2026.10.01",
+      "publishedDate": "2026.10.05",
+      "eventDate": "2026.10.05",
       "dateNote": "预印本发布",
       "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.01619v1",
+      "url": "http://arxiv.org/abs/2610.05963v1",
       "tags": [
         "气候与碳",
-        "披露监管",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-01116v1",
-      "sector": "人工智能",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Beyond State-of-the-Art: Standardising Environmental Impact Metrics for AI Research",
-      "summary": "As the capabilities and ubiquity of Large Language Models (LLMs) grow, so does their environmental footprint. Despite calls for responsible AI, the machine learning community lacks standardised practices for carbon accounting. Our automated literature review of the 5,285 papers accepted to NeurIPS 2025 reveals that reporting of environmental impact is nearly…",
-      "score": 6,
-      "publishedDate": "2026.10.01",
-      "eventDate": "2026.10.01",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.01116v1",
-      "tags": [
-        "人工智能",
-        "气候与碳",
-        "披露监管",
         "预印本·非同行评审"
       ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1186-s11671-026-04915-w",
+      "date": "2026-10-05",
+      "terms": [
+        "人工智能",
+        "可再生能源",
+        "能源转型",
+        "能源效率"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-06283v1",
+      "date": "2026-10-05",
+      "terms": [
+        "新能源",
+        "碳与排放",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-06476v1",
+      "date": "2026-10-05",
+      "terms": [
+        "新兴行业",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-06380v1",
+      "date": "2026-10-05",
+      "terms": [
+        "新兴行业",
+        "污染防治",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-05963v1",
+      "date": "2026-10-05",
+      "terms": [
+        "新能源",
+        "碳与排放",
+        "数字化与数据",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04850-x",
+      "date": "2026-10-05",
+      "terms": [
+        "人工智能",
+        "可再生能源",
+        "能源转型"
+      ]
+    },
     {
       "id": "doi-10-1186-s43093-026-01012-3",
       "date": "2026-10-04",
@@ -451,14 +458,6 @@
       ]
     },
     {
-      "id": "doi-10-1016-j-renene-2026-126524",
-      "date": "2026-10-01",
-      "terms": [
-        "新兴行业",
-        "气候风险"
-      ]
-    },
-    {
       "id": "doi-10-3389-fenvs-2026-1936215",
       "date": "2026-09-30",
       "terms": [
@@ -494,6 +493,13 @@
         "政策监管",
         "气候风险",
         "自然与生物多样性"
+      ]
+    },
+    {
+      "id": "doi-10-3389-feduc-2026-1949575",
+      "date": "2026-09-30",
+      "terms": [
+        "人工智能"
       ]
     },
     {
@@ -1448,19 +1454,13 @@
       "→"
     ],
     [
-      "高排放行业",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
-      "→"
-    ],
-    [
       "企业出海",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
     ],
     [
-      "新能源",
+      "高排放行业",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
@@ -1469,9 +1469,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新兴行业、高排放行业、企业出海构成过去七日的主要行业信号",
-      "range": "2026.09.28—10.05",
-      "copy": "过去7天当前保留 6 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新兴行业、企业出海、高排放行业构成过去七日的主要行业信号",
+      "range": "2026.09.29—10.06",
+      "copy": "过去7天当前保留 4 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "工作论文",
@@ -1479,7 +1479,11 @@
         ],
         [
           "政策监管",
-          10
+          9
+        ],
+        [
+          "人工智能",
+          8
         ],
         [
           "碳与排放",
@@ -1487,14 +1491,6 @@
         ],
         [
           "新兴行业",
-          8
-        ],
-        [
-          "气候风险",
-          8
-        ],
-        [
-          "人工智能",
           7
         ],
         [
@@ -1511,10 +1507,10 @@
         ],
         [
           "能源转型",
-          5
+          6
         ],
         [
-          "自然与生物多样性",
+          "气候风险",
           5
         ],
         [
@@ -1522,11 +1518,11 @@
           4
         ],
         [
-          "水资源",
+          "自然与生物多样性",
           4
         ],
         [
-          "高排放行业",
+          "水资源",
           4
         ],
         [
@@ -1534,11 +1530,15 @@
           4
         ],
         [
+          "能源效率",
+          4
+        ],
+        [
           "供应链与出海",
           3
         ],
         [
-          "学术研究",
+          "数字化与数据",
           3
         ],
         [
@@ -1550,7 +1550,7 @@
           3
         ],
         [
-          "能源效率",
+          "高排放行业",
           3
         ]
       ]
@@ -1558,8 +1558,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.05—10.05",
-      "copy": "过去30天词频基于 117 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.06—10.06",
+      "copy": "过去30天词频基于 123 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "政策监管",
@@ -1567,22 +1567,22 @@
         ],
         [
           "人工智能",
-          9
+          10
         ],
         [
           "工作论文",
-          8
-        ],
-        [
-          "供应链与出海",
-          6
+          9
         ],
         [
           "新能源",
           6
         ],
         [
-          "气候风险",
+          "供应链与出海",
+          6
+        ],
+        [
+          "可再生能源",
           6
         ],
         [
@@ -1590,7 +1590,11 @@
           6
         ],
         [
-          "可再生能源",
+          "气候风险",
+          6
+        ],
+        [
+          "碳与排放",
           5
         ],
         [
@@ -1602,7 +1606,7 @@
           5
         ],
         [
-          "碳与排放",
+          "能源转型",
           5
         ],
         [
@@ -1611,10 +1615,6 @@
         ],
         [
           "气候披露",
-          5
-        ],
-        [
-          "能源转型",
           5
         ],
         [
@@ -1631,7 +1631,7 @@
         ],
         [
           "污染防治",
-          3
+          4
         ],
         [
           "网络安全",
@@ -1654,11 +1654,11 @@
           3
         ],
         [
-          "公正转型",
+          "数字化与数据",
           3
         ],
         [
-          "数字化与数据",
+          "公正转型",
           3
         ],
         [
@@ -1686,15 +1686,6 @@
   },
   "monthlyHighlights": [
     {
-      "date": "09.28",
-      "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
-      "summary": "On May 8, 2024, the U.S. Environmental Protection Agency (EPA) published the National Emission Standards for Hazardous Air Pollutants (NESHAP): Gasoline Distribution Technology Reviews and New Source Performance Standards (NSPS) Review for Bulk Gasoline Terminals final rule (\"2024 Final Rule\"). The EPA is reconsidering various provisions of the 2024 Final Ru…",
-      "sector": "高排放行业",
-      "source": "Environmental Protection Agency",
-      "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
-      "score": 9
-    },
-    {
       "date": "10.04",
       "title": "Capital expenditure and sustainability performance among listed firms in Ghana: the mediating role of ESG disclosure quality",
       "summary": "Abstract The study investigates the relationship between capital expenditure, ESG disclosure quality, and sustainability performance, with a particular focus on the mediating role of ESG disclosure quality. The data cover 18 firms listed on the Ghana Stock Exchange from 2010 to 2024. The study utilizes the two-step System GMM and Sobel test mediation approac…",
@@ -1702,6 +1693,15 @@
       "source": "Springer Science and Business Media LLC",
       "url": "https://doi.org/10.1186/s43093-026-01012-3",
       "score": 8
+    },
+    {
+      "date": "09.28",
+      "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
+      "summary": "On May 8, 2024, the U.S. Environmental Protection Agency (EPA) published the National Emission Standards for Hazardous Air Pollutants (NESHAP): Gasoline Distribution Technology Reviews and New Source Performance Standards (NSPS) Review for Bulk Gasoline Terminals final rule (\"2024 Final Rule\"). The EPA is reconsidering various provisions of the 2024 Final Ru…",
+      "sector": "高排放行业",
+      "source": "Environmental Protection Agency",
+      "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
+      "score": 9
     },
     {
       "date": "09.28",
@@ -1809,17 +1809,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 16
+      "items": 15
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 47
+      "items": 46
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 38
+      "items": 39
     },
     {
       "source": "arXiv",
@@ -1827,7 +1827,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 16,
+  "verifiedCandidateCount": 17,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
