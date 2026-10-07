@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T06:25:18.186Z",
-  "weekRange": "2026.09.29—10.06",
+  "updatedAt": "2026-10-07T06:04:32.722Z",
+  "weekRange": "2026.09.30—10.07",
   "monthLabel": "2026年10月",
   "stories": [
     {
@@ -58,26 +58,45 @@
         "自然与生物多样性",
         "政策法规"
       ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-reckless-south-west-water-fined-78-million",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "'Reckless' South West Water fined £7.8 million",
-      "summary": "…The court found that the company’s conduct amounted to reckless failures as judge says that &#x27;incidents of pollution will not be tolerated&#x27;.…",
-      "score": 6,
-      "publishedDate": "2026.09.29",
-      "eventDate": "2026.09.29",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/reckless-south-west-water-fined-78-million",
-      "tags": [
-        "政策法规"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "arxiv-arxiv-org-abs-2610-08232v1",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "工作论文",
+      "title": "Behavior-Mining, Generative Conversations, and Collaborative Advisory: the Future of Travel and Tourism Recommender Systems",
+      "summary": "Since the early adoption of e-commerce, travel and tourism has been a lab for the design of recommender systems: tools that help travelers choose destinations, flights, accommodations, and combine them into itineraries. Data-driven recommendation techniques, ranging from case-based reasoning to reinforcement learning, have been adapted to travelers' needs. T…",
+      "score": 7,
+      "publishedDate": "2026.10.06",
+      "eventDate": "2026.10.06",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.08232v1",
+      "tags": [
+        "人工智能",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-07542v1",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Satellite observations of nitrous oxide emissions from adipic acid production",
+      "summary": "The production of adipic acid generates nitrous oxide as a by-product, which, if emitted, very effectively warms the climate and depletes the stratospheric ozone layer. There exists cost-effective technology to mitigate these nitrous oxide emissions from adipic acid production, but the degree of implementation of this technology, most notably at sites in Chi…",
+      "score": 7,
+      "publishedDate": "2026.10.06",
+      "eventDate": "2026.10.06",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.07542v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
     {
       "id": "doi-10-1186-s11671-026-04915-w",
       "sector": "人工智能",
@@ -228,25 +247,6 @@
       ]
     },
     {
-      "id": "doi-10-1007-s42452-026-09064-4",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Harnessing renewable energy sources for hydrogen production using artificial intelligence within a circular economy framework",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 7,
-      "publishedDate": "2026.09.29",
-      "eventDate": "2026.09.29",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s42452-026-09064-4",
-      "tags": [
-        "人工智能",
-        "能源转型",
-        "同行评审状态待核"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2610-06476v1",
       "sector": "新兴行业",
       "relevance": "直接 ESG",
@@ -281,27 +281,26 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-05963v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study",
-      "summary": "Smart ports increasingly depend on IoT-enabled digitalization to turn heterogeneous operational processes into measurable, optimizable workflows. Accordingly, this paper first provides a concise review of IoT-enabler technologies for port digital transformation, emphasizing how sensing, connectivity, and data integration capabilities support real-time decisi…",
-      "score": 6,
-      "publishedDate": "2026.10.05",
-      "eventDate": "2026.10.05",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.05963v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "arxiv-arxiv-org-abs-2610-08232v1",
+      "date": "2026-10-06",
+      "terms": [
+        "人工智能",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-07542v1",
+      "date": "2026-10-06",
+      "terms": [
+        "高排放行业",
+        "碳与排放",
+        "工作论文"
+      ]
+    },
     {
       "id": "doi-10-1186-s11671-026-04915-w",
       "date": "2026-10-05",
@@ -374,6 +373,15 @@
         "政策监管",
         "气候风险",
         "气候披露"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s41660-026-00899-3",
+      "date": "2026-10-03",
+      "terms": [
+        "人工智能",
+        "可再生能源",
+        "水资源"
       ]
     },
     {
@@ -500,25 +508,6 @@
       "date": "2026-09-30",
       "terms": [
         "人工智能"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s42452-026-09064-4",
-      "date": "2026-09-29",
-      "terms": [
-        "人工智能",
-        "可再生能源",
-        "能源转型"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-reckless-south-west-water-fined-78-million",
-      "date": "2026-09-29",
-      "terms": [
-        "高排放行业",
-        "政策监管",
-        "污染防治",
-        "水资源"
       ]
     },
     {
@@ -1458,59 +1447,53 @@
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
-    ],
-    [
-      "高排放行业",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
-      "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新兴行业、企业出海、高排放行业构成过去七日的主要行业信号",
-      "range": "2026.09.29—10.06",
-      "copy": "过去7天当前保留 4 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新兴行业、企业出海构成过去七日的主要行业信号",
+      "range": "2026.09.30—10.07",
+      "copy": "过去7天当前保留 3 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "工作论文",
           10
         ],
         [
-          "政策监管",
-          9
-        ],
-        [
           "人工智能",
           8
         ],
         [
-          "碳与排放",
-          8
-        ],
-        [
-          "新兴行业",
+          "政策监管",
           7
         ],
         [
-          "可再生能源",
+          "碳与排放",
+          7
+        ],
+        [
+          "新兴行业",
           6
+        ],
+        [
+          "可再生能源",
+          5
         ],
         [
           "新能源",
-          6
+          5
         ],
         [
           "气候披露",
-          6
-        ],
-        [
-          "能源转型",
-          6
+          5
         ],
         [
           "气候风险",
+          5
+        ],
+        [
+          "能源转型",
           5
         ],
         [
@@ -1523,15 +1506,11 @@
         ],
         [
           "水资源",
-          4
-        ],
-        [
-          "污染防治",
-          4
+          3
         ],
         [
           "能源效率",
-          4
+          3
         ],
         [
           "供应链与出海",
@@ -1550,6 +1529,10 @@
           3
         ],
         [
+          "污染防治",
+          3
+        ],
+        [
           "高排放行业",
           3
         ]
@@ -1558,15 +1541,15 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.06—10.06",
-      "copy": "过去30天词频基于 123 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.07—10.07",
+      "copy": "过去30天词频基于 124 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
-          "政策监管",
+          "人工智能",
           10
         ],
         [
-          "人工智能",
+          "政策监管",
           10
         ],
         [
@@ -1595,22 +1578,22 @@
         ],
         [
           "碳与排放",
-          5
+          6
         ],
         [
           "高排放行业",
-          5
+          6
         ],
         [
           "企业出海",
           5
         ],
         [
-          "能源转型",
+          "电力系统",
           5
         ],
         [
-          "电力系统",
+          "能源转型",
           5
         ],
         [
@@ -1619,7 +1602,7 @@
         ],
         [
           "绿色金融",
-          4
+          5
         ],
         [
           "能源效率",
@@ -1631,7 +1614,7 @@
         ],
         [
           "污染防治",
-          4
+          3
         ],
         [
           "网络安全",
@@ -1819,7 +1802,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 39
+      "items": 36
     },
     {
       "source": "arXiv",
@@ -1827,7 +1810,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 17,
+  "verifiedCandidateCount": 13,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
