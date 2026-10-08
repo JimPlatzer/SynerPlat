@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T06:04:32.722Z",
-  "weekRange": "2026.09.30—10.07",
+  "updatedAt": "2026-10-08T06:09:40.565Z",
+  "weekRange": "2026.10.01—10.08",
   "monthLabel": "2026年10月",
   "stories": [
     {
@@ -20,63 +20,25 @@
         "披露监管",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-uk-driving-action-on-climate-and-nature-at-un",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "UK driving action on climate and nature at UN General Assembly",
-      "summary": "…The UK government has put tacking the climate and nature crisis front and centre of discussions at last week&#x27;s annual gathering of the UN General Assembly.…",
-      "score": 6,
-      "publishedDate": "2026.09.30",
-      "eventDate": "2026.09.30",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/uk-driving-action-on-climate-and-nature-at-un-general-assembly",
-      "tags": [
-        "气候与碳",
-        "自然与生物多样性",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-local-communities-to-receive-79-million-to-re",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Local communities to receive £79 million to restore nature",
-      "summary": "…Environment Secretary announces local communities to receive £79 million to restore nature and adapt to climate change…",
-      "score": 6,
-      "publishedDate": "2026.09.30",
-      "eventDate": "2026.09.30",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/local-communities-to-receive-79-million-to-restore-nature",
-      "tags": [
-        "气候与碳",
-        "自然与生物多样性",
-        "政策法规"
-      ]
     }
   ],
   "watchlist": [
     {
-      "id": "arxiv-arxiv-org-abs-2610-08232v1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "工作论文",
-      "title": "Behavior-Mining, Generative Conversations, and Collaborative Advisory: the Future of Travel and Tourism Recommender Systems",
-      "summary": "Since the early adoption of e-commerce, travel and tourism has been a lab for the design of recommender systems: tools that help travelers choose destinations, flights, accommodations, and combine them into itineraries. Data-driven recommendation techniques, ranging from case-based reasoning to reinforcement learning, have been adapted to travelers' needs. T…",
+      "id": "doi-10-3389-frsus-2026-1980440",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "ESG disclosure and portfolio returns: evidence from the Indian equity market",
+      "summary": "Introduction There has been increased emphasis on responsible investing worldwide. This study contributes to the existing literature by examining whether ESG serves as an additional factor beyond FFTF model in Indian equity market. Methods The study has used prominent risk models such as traditional Fama-French three factor (FFTF) model, Augmented FFTF model…",
       "score": 7,
-      "publishedDate": "2026.10.06",
-      "eventDate": "2026.10.06",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.08232v1",
+      "publishedDate": "2026.10.08",
+      "eventDate": "2026.10.08",
+      "dateNote": "论文发表",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/frsus.2026.1980440",
       "tags": [
-        "人工智能",
-        "预印本·非同行评审"
+        "披露监管",
+        "同行评审状态待核"
       ]
     },
     {
@@ -191,59 +153,57 @@
       ]
     },
     {
-      "id": "doi-10-3389-fenvs-2026-1936215",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
+      "id": "doi-10-1016-j-indic-2026-101561",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
       "event": "学术研究",
-      "title": "From artificial intelligence to renewable energy transition: pathways through green innovation and institutional readiness",
-      "summary": "As emerging economies seek to decarbonize energy systems and advance the Sustainable Development Goals (SDGs), particularly SDG seven on affordable and clean energy, artificial intelligence (AI) is becoming a transformative capability, yet its contribution to the renewable energy transition remains insufficiently explained. This study examines how AI is asso…",
+      "title": "An Exploratory Indicator of Disclosure Consistency in ESG Environmental Reports: Application to Chinese Corporations",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
       "score": 7,
-      "publishedDate": "2026.09.30",
-      "eventDate": "2026.09.30",
+      "publishedDate": "2026.10.01",
+      "eventDate": "2026.10.01",
       "dateNote": "论文发表",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/fenvs.2026.1936215",
+      "source": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.indic.2026.101561",
       "tags": [
-        "人工智能",
-        "能源转型",
+        "披露监管",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1016-j-ref-2026-100955",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Integrated utilities for Net-Zero: empirical evidence and policy framework for the global energy–water–digital transition",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.10.01",
+      "eventDate": "2026.10.01",
+      "dateNote": "论文发表",
+      "source": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.ref.2026.100955",
+      "tags": [
         "气候与碳",
         "同行评审状态待核"
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2609-38846v1",
-      "sector": "新兴行业",
+      "id": "arxiv-arxiv-org-abs-2610-10324v1",
+      "sector": "新能源",
       "relevance": "直接 ESG",
       "event": "工作论文",
-      "title": "Coral Grow-out Robotic Assessment System (CGRAS): Scaling Coral Recruit Monitoring Through Robotics and Computer Vision",
-      "summary": "Climate change is the largest threat to coral reefs, with increasing global impacts accelerating the need for scalable reef restoration technologies. Large-scale reef restoration depends on the mass production of corals, such as through coral aquaculture. Coral seeding with recruits grown in aquaculture facilities is a feasible restoration approach, but effe…",
-      "score": 7,
-      "publishedDate": "2026.09.30",
-      "eventDate": "2026.09.30",
+      "title": "Performance at What Cost? A Sustainability-Aware Performance Index for Cell and Nucleus Instance Segmentation",
+      "summary": "Pretrained models for cell and nuclear instance segmentation differ substantially in architecture, pretraining data and objectives, parameter count, inference strategy, adaptation requirements, postprocessing pipeline, and computational demand. Large pretrained and foundation models are increasingly adopted because of their strong zero-shot capabilities, but…",
+      "score": 6,
+      "publishedDate": "2026.10.07",
+      "eventDate": "2026.10.07",
       "dateNote": "预印本发布",
       "source": "arXiv",
-      "url": "http://arxiv.org/abs/2609.38846v1",
+      "url": "http://arxiv.org/abs/2610.10324v1",
       "tags": [
         "气候与碳",
         "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "doi-10-3389-feduc-2026-1949575",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Empowering future educators: integrating artificial intelligence, sustainability, and ethics into teacher preparation programs",
-      "summary": "Teacher preparation programs have quickly adopted artificial intelligence tools, but the ethical, social, and environmental dimensions of that adoption receive comparatively little attention in how future educators are trained. This conceptual analysis addresses that gap by asking how AI competence, sustainability education, and ethical technology use can be…",
-      "score": 7,
-      "publishedDate": "2026.09.30",
-      "eventDate": "2026.09.30",
-      "dateNote": "论文发表",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/feduc.2026.1949575",
-      "tags": [
-        "人工智能",
-        "同行评审状态待核"
       ]
     },
     {
@@ -285,11 +245,39 @@
   ],
   "keywordEvents": [
     {
-      "id": "arxiv-arxiv-org-abs-2610-08232v1",
-      "date": "2026-10-06",
+      "id": "doi-10-3389-frsus-2026-1980440",
+      "date": "2026-10-08",
       "terms": [
-        "人工智能",
+        "企业出海",
+        "政策监管",
+        "气候披露"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04765-7",
+      "date": "2026-10-08",
+      "terms": [
+        "新能源",
+        "网络安全",
+        "能源转型",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-10324v1",
+      "date": "2026-10-07",
+      "terms": [
+        "新能源",
         "工作论文"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04916-w",
+      "date": "2026-10-07",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型"
       ]
     },
     {
@@ -458,11 +446,47 @@
       ]
     },
     {
+      "id": "doi-10-1016-j-indic-2026-101561",
+      "date": "2026-10-01",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "气候披露"
+      ]
+    },
+    {
+      "id": "doi-10-1016-j-ref-2026-100955",
+      "date": "2026-10-01",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "碳与排放",
+        "数字化与数据",
+        "水资源"
+      ]
+    },
+    {
+      "id": "doi-10-1016-j-suscom-2026-101495",
+      "date": "2026-10-01",
+      "terms": [
+        "人工智能",
+        "能源转型"
+      ]
+    },
+    {
       "id": "doi-10-1016-j-nexus-2026-100867",
       "date": "2026-10-01",
       "terms": [
         "人工智能",
         "能源效率"
+      ]
+    },
+    {
+      "id": "doi-10-1016-j-energy-2026-142646",
+      "date": "2026-10-01",
+      "terms": [
+        "新兴行业",
+        "碳与排放"
       ]
     },
     {
@@ -482,25 +506,6 @@
         "新兴行业",
         "气候风险",
         "工作论文"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-uk-driving-action-on-climate-and-nature-at-un",
-      "date": "2026-09-30",
-      "terms": [
-        "新兴行业",
-        "政策监管",
-        "自然与生物多样性"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-local-communities-to-receive-79-million-to-re",
-      "date": "2026-09-30",
-      "terms": [
-        "新兴行业",
-        "政策监管",
-        "气候风险",
-        "自然与生物多样性"
       ]
     },
     {
@@ -1383,65 +1388,9 @@
       "terms": [
         "高排放行业"
       ]
-    },
-    {
-      "id": "period-www-unep-org-news-and-stories-press-release-un-every-us1-invested-climat",
-      "date": "2026-09-07",
-      "terms": [
-        "高排放行业"
-      ]
-    },
-    {
-      "id": "period-energy-ec-europa-eu-news-commission-inaugurates-europes-largest-industri",
-      "date": "2026-09-07",
-      "terms": [
-        "高排放行业",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "period-www-eib-org-en-press-news-news-elia-transmission-belgium-obtient-une-fac",
-      "date": "2026-09-07",
-      "terms": [
-        "绿色金融",
-        "可再生能源",
-        "电力系统"
-      ]
-    },
-    {
-      "id": "unep-hidden-assets-clean-air-2026",
-      "date": "2026-09-07",
-      "terms": [
-        "高排放行业",
-        "污染防治"
-      ]
-    },
-    {
-      "id": "eu-yara-sluiskil-industrial-ccs-2026",
-      "date": "2026-09-07",
-      "terms": [
-        "高排放行业",
-        "碳与排放",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "eib-elia-energy-island-green-credit-2026",
-      "date": "2026-09-07",
-      "terms": [
-        "绿色金融",
-        "可再生能源",
-        "电力系统"
-      ]
     }
   ],
   "sectorInsights": [
-    [
-      "新兴行业",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
-      "→"
-    ],
     [
       "企业出海",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
@@ -1452,60 +1401,60 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新兴行业、企业出海构成过去七日的主要行业信号",
-      "range": "2026.09.30—10.07",
-      "copy": "过去7天当前保留 3 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "企业出海构成过去七日的主要行业信号",
+      "range": "2026.10.01—10.08",
+      "copy": "过去7天当前保留 1 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "工作论文",
           10
         ],
         [
-          "人工智能",
-          8
+          "政策监管",
+          9
         ],
         [
-          "政策监管",
-          7
+          "新能源",
+          9
         ],
         [
           "碳与排放",
+          9
+        ],
+        [
+          "人工智能",
           7
         ],
         [
-          "新兴行业",
+          "气候披露",
+          7
+        ],
+        [
+          "能源转型",
+          6
+        ],
+        [
+          "企业出海",
           6
         ],
         [
           "可再生能源",
+          6
+        ],
+        [
+          "新兴行业",
           5
-        ],
-        [
-          "新能源",
-          5
-        ],
-        [
-          "气候披露",
-          5
-        ],
-        [
-          "气候风险",
-          5
-        ],
-        [
-          "能源转型",
-          5
-        ],
-        [
-          "企业出海",
-          4
-        ],
-        [
-          "自然与生物多样性",
-          4
         ],
         [
           "水资源",
+          4
+        ],
+        [
+          "数字化与数据",
+          3
+        ],
+        [
+          "气候风险",
           3
         ],
         [
@@ -1517,7 +1466,7 @@
           3
         ],
         [
-          "数字化与数据",
+          "学术研究",
           3
         ],
         [
@@ -1530,6 +1479,14 @@
         ],
         [
           "污染防治",
+          3
+        ],
+        [
+          "网络安全",
+          3
+        ],
+        [
+          "自然与生物多样性",
           3
         ],
         [
@@ -1541,15 +1498,15 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.07—10.07",
-      "copy": "过去30天词频基于 124 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.08—10.08",
+      "copy": "过去30天词频基于 123 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
-          "人工智能",
+          "政策监管",
           10
         ],
         [
-          "政策监管",
+          "人工智能",
           10
         ],
         [
@@ -1558,10 +1515,18 @@
         ],
         [
           "新能源",
-          6
+          7
         ],
         [
           "供应链与出海",
+          6
+        ],
+        [
+          "碳与排放",
+          6
+        ],
+        [
+          "企业出海",
           6
         ],
         [
@@ -1574,22 +1539,6 @@
         ],
         [
           "气候风险",
-          6
-        ],
-        [
-          "碳与排放",
-          6
-        ],
-        [
-          "高排放行业",
-          6
-        ],
-        [
-          "企业出海",
-          5
-        ],
-        [
-          "电力系统",
           5
         ],
         [
@@ -1601,8 +1550,16 @@
           5
         ],
         [
-          "绿色金融",
+          "高排放行业",
           5
+        ],
+        [
+          "电力系统",
+          4
+        ],
+        [
+          "绿色金融",
+          4
         ],
         [
           "能源效率",
@@ -1613,19 +1570,19 @@
           4
         ],
         [
-          "污染防治",
-          3
-        ],
-        [
           "网络安全",
-          3
+          4
         ],
         [
           "水资源",
           3
         ],
         [
-          "自然与生物多样性",
+          "污染防治",
+          3
+        ],
+        [
+          "数字化与数据",
           3
         ],
         [
@@ -1637,7 +1594,7 @@
           3
         ],
         [
-          "数字化与数据",
+          "自然与生物多样性",
           3
         ],
         [
@@ -1645,12 +1602,12 @@
           3
         ],
         [
-          "社会与住房",
+          "学术研究",
           3
         ],
         [
-          "学术研究",
-          2
+          "社会与住房",
+          3
         ],
         [
           "绿色技术与资源效率",
@@ -1792,17 +1749,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 15
+      "items": 9
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 46
+      "items": 43
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 36
+      "items": 35
     },
     {
       "source": "arXiv",
@@ -1810,7 +1767,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 13,
+  "verifiedCandidateCount": 16,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

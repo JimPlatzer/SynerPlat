@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-07T06:04:32.722Z",
+  "updatedAt": "2026-10-08T06:09:40.565Z",
   "items": [
+    {
+      "id": "doi-10-3389-frsus-2026-1980440",
+      "type": "学术论文",
+      "title": "ESG disclosure and portfolio returns: evidence from the Indian equity market",
+      "publisher": "Frontiers Media SA",
+      "date": "2026-10-08",
+      "publishedDate": "2026-10-08",
+      "eventDate": "2026-10-08",
+      "dateNote": "论文发表",
+      "sector": "企业出海",
+      "tags": [
+        "披露监管",
+        "同行评审状态待核"
+      ],
+      "summary": "Introduction There has been increased emphasis on responsible investing worldwide. This study contributes to the existing literature by examining whether ESG serves as an additional factor beyond FFTF model in Indian equity market. Methods The study has used prominent risk models such as traditional Fama-French three factor (FFTF) model, Augmented FFTF model…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.3389/frsus.2026.1980440",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-10324v1",
+      "type": "工作论文",
+      "title": "Performance at What Cost? A Sustainability-Aware Performance Index for Cell and Nucleus Instance Segmentation",
+      "publisher": "arXiv",
+      "date": "2026-10-07",
+      "publishedDate": "2026-10-07",
+      "eventDate": "2026-10-07",
+      "dateNote": "预印本发布",
+      "sector": "新能源",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Pretrained models for cell and nuclear instance segmentation differ substantially in architecture, pretraining data and objectives, parameter count, inference strategy, adaptation requirements, postprocessing pipeline, and computational demand. Large pretrained and foundation models are increasingly adopted because of their strong zero-shot capabilities, but…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2610.10324v1",
+      "featured": false
+    },
     {
       "id": "arxiv-arxiv-org-abs-2610-07542v1",
       "type": "工作论文",
