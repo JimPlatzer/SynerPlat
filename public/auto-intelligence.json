@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-10-09T06:13:12.490Z",
-  "weekRange": "2026.10.02—10.09",
+  "updatedAt": "2026-10-10T05:56:51.671Z",
+  "weekRange": "2026.10.03—10.10",
   "monthLabel": "2026年10月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-steeple-renewables-project-development-consen",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Steeple Renewables Project development consent decision announced",
+      "summary": "The Steeple Renewables Project DCO application has today been granted development consent by the Department for Energy Security and Net Zero.…",
+      "score": 6,
+      "publishedDate": "2026.10.09",
+      "eventDate": "2026.10.09",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/steeple-renewables-project-development-consent-decision-announced",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "政策法规"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-green-hill-solar-farm-development-consent-dec",
       "sector": "新能源",
@@ -189,6 +208,24 @@
       ]
     },
     {
+      "id": "doi-10-1186-s12302-026-01527-0",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Is energy inflation a double-edged sword for the green transition? A global analysis of renewable energy and environmental sustainability",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.10.09",
+      "eventDate": "2026.10.09",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1186/s12302-026-01527-0",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ]
+    },
+    {
       "id": "doi-10-1007-s43621-026-04805-2",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -243,26 +280,29 @@
         "人工智能",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04496-9",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "India’s transition towards clean energy and its emerging geopolitical implications",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.10.08",
-      "eventDate": "2026.10.08",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04496-9",
-      "tags": [
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "govuk-www-gov-uk-government-news-steeple-renewables-project-development-consen",
+      "date": "2026-10-09",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "可再生能源",
+        "能源转型",
+        "碳与排放"
+      ]
+    },
+    {
+      "id": "doi-10-1186-s12302-026-01527-0",
+      "date": "2026-10-09",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型"
+      ]
+    },
     {
       "id": "doi-10-3389-frsus-2026-1980440",
       "date": "2026-10-08",
@@ -309,14 +349,6 @@
       "terms": [
         "人工智能",
         "绿色金融"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04496-9",
-      "date": "2026-10-08",
-      "terms": [
-        "新能源",
-        "能源转型"
       ]
     },
     {
@@ -420,15 +452,6 @@
       ]
     },
     {
-      "id": "doi-10-1007-s41660-026-00899-3",
-      "date": "2026-10-03",
-      "terms": [
-        "人工智能",
-        "可再生能源",
-        "水资源"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2610-03334v1",
       "date": "2026-10-02",
       "terms": [
@@ -449,16 +472,6 @@
         "供应链与出海",
         "自然与生物多样性",
         "工作论文"
-      ]
-    },
-    {
-      "id": "doi-10-1057-s41599-026-09086-8",
-      "date": "2026-10-02",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "碳与排放",
-        "水资源"
       ]
     },
     {
@@ -1193,150 +1206,17 @@
         "绿色技术与资源效率",
         "绿色金融"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04516-8",
-      "date": "2026-09-09",
-      "terms": [
-        "绿色金融",
-        "气候披露"
-      ]
-    },
-    {
-      "id": "fr-2026-18370",
-      "date": "2026-09-09",
-      "terms": [
-        "企业出海",
-        "政策监管",
-        "电力系统",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "period-www-federalregister-gov-documents-2026-09-09-2026-18370-securing-the-uni",
-      "date": "2026-09-09",
-      "terms": [
-        "企业出海",
-        "电力系统",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-10489v1",
-      "date": "2026-09-09",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "气候披露",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-10473v1",
-      "date": "2026-09-09",
-      "terms": [
-        "新兴行业",
-        "气候风险",
-        "气候适应",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "eu-public-procurement-act-com-2026-590",
-      "date": "2026-09-09",
-      "terms": [
-        "企业出海",
-        "政策监管",
-        "数字化与数据",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "eu-affordable-housing-act-proposal-2026-library",
-      "date": "2026-09-09",
-      "terms": [
-        "社会与住房",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "eu-innovation-act-com-2026-567",
-      "date": "2026-09-09",
-      "terms": [
-        "新兴行业",
-        "政策监管",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "eu-public-procurement-act-proposal-2026",
-      "date": "2026-09-09",
-      "terms": [
-        "企业出海",
-        "数字化与数据",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "eu-affordable-housing-act-proposal-2026",
-      "date": "2026-09-09",
-      "terms": [
-        "社会与住房",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "eu-innovation-act-proposal-2026",
-      "date": "2026-09-09",
-      "terms": [
-        "新兴行业",
-        "政策监管",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "china-apec-energy-working-group-72-2026",
-      "date": "2026-09-09",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "人工智能",
-        "能源转型"
-      ]
-    },
-    {
-      "id": "period-single-market-economy-ec-europa-eu-publications-proposal-regulation-publ",
-      "date": "2026-09-09",
-      "terms": [
-        "企业出海",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "period-housing-ec-europa-eu-whats-new-news-new-eu-proposal-and-recommendation-h",
-      "date": "2026-09-09",
-      "terms": [
-        "社会与住房"
-      ]
-    },
-    {
-      "id": "period-research-and-innovation-ec-europa-eu-strategy-support-policy-making-shap",
-      "date": "2026-09-09",
-      "terms": [
-        "新兴行业",
-        "供应链与出海"
-      ]
     }
   ],
   "sectorInsights": [
     [
-      "企业出海",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
+      "新能源",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
       "→"
     ],
     [
-      "新能源",
+      "企业出海",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
@@ -1345,61 +1225,49 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "企业出海、新能源构成过去七日的主要行业信号",
-      "range": "2026.10.02—10.09",
-      "copy": "过去7天当前保留 2 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新能源、企业出海构成过去七日的主要行业信号",
+      "range": "2026.10.03—10.10",
+      "copy": "过去7天当前保留 3 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "新能源",
           10
         ],
         [
-          "工作论文",
+          "能源转型",
           9
         ],
         [
-          "碳与排放",
-          8
-        ],
-        [
-          "能源转型",
-          8
-        ],
-        [
           "可再生能源",
+          8
+        ],
+        [
+          "工作论文",
+          7
+        ],
+        [
+          "碳与排放",
           7
         ],
         [
           "政策监管",
-          7
+          6
         ],
         [
           "人工智能",
-          6
-        ],
-        [
-          "企业出海",
-          6
-        ],
-        [
-          "气候披露",
-          6
-        ],
-        [
-          "新兴行业",
           5
         ],
         [
-          "气候风险",
-          4
+          "企业出海",
+          5
         ],
         [
-          "水资源",
-          4
+          "气候披露",
+          5
         ],
         [
-          "供应链与出海",
-          3
+          "新兴行业",
+          4
         ],
         [
           "学术研究",
@@ -1410,7 +1278,7 @@
           3
         ],
         [
-          "气候适应",
+          "气候风险",
           3
         ],
         [
@@ -1430,10 +1298,6 @@
           3
         ],
         [
-          "自然与生物多样性",
-          3
-        ],
-        [
           "高排放行业",
           3
         ]
@@ -1442,32 +1306,28 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.09—10.09",
-      "copy": "过去30天词频基于 113 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.10—10.10",
+      "copy": "过去30天词频基于 97 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
+        [
+          "工作论文",
+          10
+        ],
         [
           "政策监管",
           10
         ],
         [
-          "工作论文",
-          9
-        ],
-        [
           "人工智能",
-          9
+          10
         ],
         [
           "新能源",
-          7
-        ],
-        [
-          "供应链与出海",
-          6
+          8
         ],
         [
           "可再生能源",
-          6
+          7
         ],
         [
           "碳与排放",
@@ -1478,11 +1338,15 @@
           6
         ],
         [
+          "气候风险",
+          6
+        ],
+        [
           "企业出海",
           5
         ],
         [
-          "气候风险",
+          "供应链与出海",
           5
         ],
         [
@@ -1499,11 +1363,11 @@
         ],
         [
           "绿色金融",
-          4
+          5
         ],
         [
           "高排放行业",
-          4
+          5
         ],
         [
           "数据中心",
@@ -1518,15 +1382,7 @@
           4
         ],
         [
-          "水资源",
-          3
-        ],
-        [
           "污染防治",
-          3
-        ],
-        [
-          "气候适应",
           3
         ],
         [
@@ -1534,7 +1390,11 @@
           3
         ],
         [
-          "数字化与数据",
+          "气候适应",
+          3
+        ],
+        [
+          "水资源",
           3
         ],
         [
@@ -1546,11 +1406,11 @@
           3
         ],
         [
-          "社会与住房",
-          3
+          "公正转型",
+          2
         ],
         [
-          "公正转型",
+          "数字化与数据",
           2
         ],
         [
@@ -1563,6 +1423,10 @@
         ],
         [
           "地方所有权",
+          2
+        ],
+        [
+          "数字治理",
           2
         ]
       ]
@@ -1693,7 +1557,7 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 8
+      "items": 5
     },
     {
       "source": "GOV.UK",
@@ -1703,7 +1567,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 30
+      "items": 31
     },
     {
       "source": "arXiv",
@@ -1711,7 +1575,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 13,
+  "verifiedCandidateCount": 12,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
