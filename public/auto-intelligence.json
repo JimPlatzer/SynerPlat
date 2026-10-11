@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T05:56:51.671Z",
-  "weekRange": "2026.10.03—10.10",
+  "updatedAt": "2026-10-11T05:51:38.713Z",
+  "weekRange": "2026.10.04—10.11",
   "monthLabel": "2026年10月",
   "stories": [
     {
@@ -135,25 +135,6 @@
       ]
     },
     {
-      "id": "doi-10-1007-s10690-026-09645-8",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Climate Risk Exposure and Liquidity Risk: Do ESG Disclosure and Innovation Matter?",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 7,
-      "publishedDate": "2026.10.03",
-      "eventDate": "2026.10.03",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s10690-026-09645-8",
-      "tags": [
-        "气候与碳",
-        "披露监管",
-        "同行评审状态待核"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2610-10324v1",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -205,6 +186,24 @@
       "tags": [
         "气候与碳",
         "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04990-0",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "The relationship between artificial intelligence and food production in South Africa",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.10.11",
+      "eventDate": "2026.10.11",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04990-0",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
       ]
     },
     {
@@ -283,6 +282,13 @@
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s43621-026-04990-0",
+      "date": "2026-10-11",
+      "terms": [
+        "人工智能"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-steeple-renewables-project-development-consen",
       "date": "2026-10-09",
@@ -438,16 +444,6 @@
       "terms": [
         "企业出海",
         "政策监管",
-        "气候披露"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s10690-026-09645-8",
-      "date": "2026-10-03",
-      "terms": [
-        "企业出海",
-        "政策监管",
-        "气候风险",
         "气候披露"
       ]
     },
@@ -1134,78 +1130,6 @@
         "供应链与出海",
         "关键矿产"
       ]
-    },
-    {
-      "id": "uk-ai-healthcare-regulation-report-2026",
-      "date": "2026-09-10",
-      "terms": [
-        "人工智能",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "health-foundation-public-ai-health-regulation-2026",
-      "date": "2026-09-10",
-      "terms": [
-        "人工智能",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "uk-ai-healthcare-regulation-commission-2026",
-      "date": "2026-09-10",
-      "terms": [
-        "人工智能",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "period-www-gov-uk-government-publications-national-commission-into-the-regulati",
-      "date": "2026-09-10",
-      "terms": [
-        "人工智能",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "doi-10-1186-s43093-026-00986-4",
-      "date": "2026-09-10",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "气候披露"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-11639v1",
-      "date": "2026-09-10",
-      "terms": [
-        "新能源",
-        "能源转型",
-        "电力系统",
-        "供应链与出海",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "enisa-cra-single-reporting-platform-faq-2026",
-      "date": "2026-09-10",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "网络安全",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "doi-10-1186-s13705-026-00608-5",
-      "date": "2026-09-10",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "绿色技术与资源效率",
-        "绿色金融"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1226,7 +1150,7 @@
     "week": {
       "label": "过去一周总结",
       "title": "新能源、企业出海构成过去七日的主要行业信号",
-      "range": "2026.10.03—10.10",
+      "range": "2026.10.04—10.11",
       "copy": "过去7天当前保留 3 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1250,23 +1174,23 @@
           7
         ],
         [
+          "人工智能",
+          6
+        ],
+        [
           "政策监管",
           6
         ],
         [
-          "人工智能",
-          5
-        ],
-        [
           "企业出海",
-          5
-        ],
-        [
-          "气候披露",
-          5
+          4
         ],
         [
           "新兴行业",
+          4
+        ],
+        [
+          "气候披露",
           4
         ],
         [
@@ -1275,10 +1199,6 @@
         ],
         [
           "数字化与数据",
-          3
-        ],
-        [
-          "气候风险",
           3
         ],
         [
@@ -1306,20 +1226,20 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.10—10.10",
-      "copy": "过去30天词频基于 97 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.11—10.11",
+      "copy": "过去30天词频基于 89 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
           10
         ],
         [
-          "政策监管",
-          10
+          "人工智能",
+          9
         ],
         [
-          "人工智能",
-          10
+          "政策监管",
+          8
         ],
         [
           "新能源",
@@ -1331,7 +1251,7 @@
         ],
         [
           "碳与排放",
-          6
+          7
         ],
         [
           "能源转型",
@@ -1342,27 +1262,11 @@
           6
         ],
         [
-          "企业出海",
-          5
-        ],
-        [
-          "供应链与出海",
-          5
-        ],
-        [
           "新兴行业",
           5
         ],
         [
-          "气候披露",
-          5
-        ],
-        [
-          "电力系统",
-          5
-        ],
-        [
-          "绿色金融",
+          "企业出海",
           5
         ],
         [
@@ -1370,15 +1274,31 @@
           5
         ],
         [
+          "供应链与出海",
+          4
+        ],
+        [
+          "气候披露",
+          4
+        ],
+        [
+          "电力系统",
+          4
+        ],
+        [
+          "绿色金融",
+          4
+        ],
+        [
           "数据中心",
           4
         ],
         [
-          "网络安全",
+          "能源效率",
           4
         ],
         [
-          "能源效率",
+          "网络安全",
           4
         ],
         [
@@ -1414,10 +1334,6 @@
           2
         ],
         [
-          "绿色技术与资源效率",
-          2
-        ],
-        [
           "国际融资",
           2
         ],
@@ -1427,6 +1343,10 @@
         ],
         [
           "数字治理",
+          2
+        ],
+        [
+          "社区能源",
           2
         ]
       ]
@@ -1556,8 +1476,8 @@
   "sourceHealth": [
     {
       "source": "Federal Register",
-      "status": "ok",
-      "items": 5
+      "status": "error",
+      "message": "403 https://www.federalregister.gov/api/v1/documents.json?per_page=40&order=newest&conditions%5Bpublication_date%5D%5Bgte%5D=2026-10-04&conditions%5Bpublication_date%5D%5Blte%5D=20"
     },
     {
       "source": "GOV.UK",
@@ -1575,7 +1495,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 12,
+  "verifiedCandidateCount": 11,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
