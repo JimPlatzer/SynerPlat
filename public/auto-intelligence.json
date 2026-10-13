@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-10-12T06:02:36.698Z",
-  "weekRange": "2026.10.05—10.12",
+  "updatedAt": "2026-10-13T06:49:48.484Z",
+  "weekRange": "2026.10.06—10.13",
   "monthLabel": "2026年10月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-uk-statement-for-the-intergovernmental-workin",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "UK Statement for the Intergovernmental Working Group on transnational corporations.",
+      "summary": "Opening statement for the 12th session of the open-ended Intergovernmental Working Group on transnational corporations and other business enterprises with respect to human rights.",
+      "score": 6,
+      "publishedDate": "2026.10.12",
+      "eventDate": "2026.10.12",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/uk-statement-for-the-intergovernmental-working-group-on-transnational-corporations",
+      "tags": [
+        "政策法规"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-steeple-renewables-project-development-consen",
       "sector": "新能源",
@@ -44,6 +61,43 @@
   ],
   "watchlist": [
     {
+      "id": "doi-10-1007-s44163-026-02136-9",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Predicting ESG adoption among Malaysian SMEs using explainable machine learning",
+      "summary": "Abstract Environmental, social, and governance (ESG) considerations are increasingly embedded in regulatory frameworks, financial markets, and corporate strategy worldwide. While large listed firms have been the primary focus of ESG reporting requirements, small and medium enterprises (SMEs) play a central role in employment, supply chains, and regional deve…",
+      "score": 7,
+      "publishedDate": "2026.10.12",
+      "eventDate": "2026.10.12",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s44163-026-02136-9",
+      "tags": [
+        "披露监管",
+        "供应链与出海",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s44163-026-02369-8",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Energy constraints in large scale artificial intelligence and insights from human cognition for efficient large language models",
+      "summary": "Abstract Large-scale artificial intelligence (AI) systems, especially large language models (LLMs), face growing constraints related to energy use, power delivery, memory traffic, experimentation, and infrastructure capacity. These pressures are often studied separately, which makes it difficult to understand how they interact across the full AI lifecycle. T…",
+      "score": 7,
+      "publishedDate": "2026.10.12",
+      "eventDate": "2026.10.12",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s44163-026-02369-8",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
+      ]
+    },
+    {
       "id": "doi-10-3389-frsus-2026-1980440",
       "sector": "企业出海",
       "relevance": "直接 ESG",
@@ -80,43 +134,6 @@
       ]
     },
     {
-      "id": "doi-10-1186-s11671-026-04915-w",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Design of a highly efficient graphene-coated ultra-wideband solar thermal absorber for renewable mining energy applications using artificial intelligence optimization",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 7,
-      "publishedDate": "2026.10.05",
-      "eventDate": "2026.10.05",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1186/s11671-026-04915-w",
-      "tags": [
-        "人工智能",
-        "能源转型",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-06283v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "First-Principles Investigation of Multimodal Toxic Gas Sensing in Carbon-Tuned hBN-Graphene Alloys: Chemiresistive, Work-Function, and Optical Responses",
-      "summary": "Compact, reliable, and cost-effective gas sensors have become a highly demanding subject for safety management in the medical sector, chemical manufacturing, food quality monitoring, agriculture, and industrial safety. Hazardous gas emissions need to be controlled and monitored with fast-responsive and highly sensitive sensing devices. A first-principles stu…",
-      "score": 7,
-      "publishedDate": "2026.10.05",
-      "eventDate": "2026.10.05",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.06283v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2610-13307v1",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -147,42 +164,6 @@
       "dateNote": "预印本发布",
       "source": "arXiv",
       "url": "http://arxiv.org/abs/2610.10324v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-06476v1",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Evaluating LiDAR Data Sources, Predictor Resolution, and Spatial Random Effects in Bayesian Change-of-Support Models for Forest Inventory",
-      "summary": "Forest managers require timely stand-level information for operational planning. Model-based estimation combines sparse field samples with remotely sensed auxiliary data to estimate growing stock volume (GSV) for small-area units. This is particularly relevant in mixed-species and structurally heterogeneous forests, where timely structural information can su…",
-      "score": 6,
-      "publishedDate": "2026.10.05",
-      "eventDate": "2026.10.05",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.06476v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-06380v1",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "AeroMig: Multi-modal Inverse-Gamma modeling for aerosol particle number size distributions",
-      "summary": "Aerosol particles play a critical role in air quality, human health, and climate processes, making their accurate characterization essential. One common way to represent aerosol populations is through particle number size distributions (PNSDs), which describe the concentration of particles across different mobility diameters. However, these distributions are…",
-      "score": 6,
-      "publishedDate": "2026.10.05",
-      "eventDate": "2026.10.05",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.06380v1",
       "tags": [
         "气候与碳",
         "预印本·非同行评审"
@@ -261,9 +242,54 @@
         "气候与碳",
         "同行评审状态待核"
       ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04916-w",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Quantifying the heterogeneous impacts of green innovation and renewable energy transition on climate pressure in Nigeria",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.10.07",
+      "eventDate": "2026.10.07",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04916-w",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "同行评审状态待核"
+      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s44163-026-02136-9",
+      "date": "2026-10-12",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "气候披露",
+        "供应链与出海"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s44163-026-02369-8",
+      "date": "2026-10-12",
+      "terms": [
+        "人工智能",
+        "能源效率"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-uk-statement-for-the-intergovernmental-workin",
+      "date": "2026-10-12",
+      "terms": [
+        "新兴行业",
+        "政策监管"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-04990-0",
       "date": "2026-10-11",
@@ -367,16 +393,6 @@
       ]
     },
     {
-      "id": "doi-10-1186-s11671-026-04915-w",
-      "date": "2026-10-05",
-      "terms": [
-        "人工智能",
-        "可再生能源",
-        "能源转型",
-        "能源效率"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2610-06283v1",
       "date": "2026-10-05",
       "terms": [
@@ -410,15 +426,6 @@
         "碳与排放",
         "数字化与数据",
         "工作论文"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04850-x",
-      "date": "2026-10-05",
-      "terms": [
-        "人工智能",
-        "可再生能源",
-        "能源转型"
       ]
     },
     {
@@ -1000,33 +1007,6 @@
         "绿色技术与资源效率",
         "数字治理"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04524-8",
-      "date": "2026-09-12",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源",
-        "绿色金融"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s40518-026-00295-y",
-      "date": "2026-09-12",
-      "terms": [
-        "新能源",
-        "电力系统",
-        "气候风险",
-        "气候适应"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04671-y",
-      "date": "2026-09-12",
-      "terms": [
-        "人工智能"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1035,14 +1015,20 @@
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
+    ],
+    [
+      "新兴行业",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
+      "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源构成过去七日的主要行业信号",
-      "range": "2026.10.05—10.12",
-      "copy": "过去7天当前保留 2 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新能源、新兴行业构成过去七日的主要行业信号",
+      "range": "2026.10.06—10.13",
+      "copy": "过去7天当前保留 3 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "新能源",
@@ -1057,7 +1043,7 @@
           8
         ],
         [
-          "工作论文",
+          "政策监管",
           8
         ],
         [
@@ -1066,18 +1052,22 @@
         ],
         [
           "人工智能",
-          6
-        ],
-        [
-          "政策监管",
           5
         ],
         [
-          "新兴行业",
-          4
+          "工作论文",
+          5
         ],
         [
           "企业出海",
+          4
+        ],
+        [
+          "气候披露",
+          4
+        ],
+        [
+          "供应链与出海",
           3
         ],
         [
@@ -1085,19 +1075,11 @@
           3
         ],
         [
-          "数字化与数据",
-          3
-        ],
-        [
           "数据中心",
           3
         ],
         [
-          "气候披露",
-          3
-        ],
-        [
-          "污染防治",
+          "新兴行业",
           3
         ],
         [
@@ -1117,23 +1099,19 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.12—10.12",
-      "copy": "过去30天词频基于 81 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.13—10.13",
+      "copy": "过去30天词频基于 79 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
           10
         ],
         [
-          "新能源",
-          8
-        ],
-        [
           "政策监管",
           7
         ],
         [
-          "人工智能",
+          "新能源",
           7
         ],
         [
@@ -1141,7 +1119,7 @@
           6
         ],
         [
-          "可再生能源",
+          "人工智能",
           6
         ],
         [
@@ -1149,8 +1127,12 @@
           6
         ],
         [
-          "气候风险",
+          "可再生能源",
           6
+        ],
+        [
+          "气候风险",
+          5
         ],
         [
           "新兴行业",
@@ -1162,10 +1144,14 @@
         ],
         [
           "气候披露",
-          4
+          5
         ],
         [
           "高排放行业",
+          4
+        ],
+        [
+          "供应链与出海",
           4
         ],
         [
@@ -1175,10 +1161,6 @@
         [
           "绿色金融",
           4
-        ],
-        [
-          "供应链与出海",
-          3
         ],
         [
           "污染防治",
@@ -1193,10 +1175,6 @@
           3
         ],
         [
-          "气候适应",
-          3
-        ],
-        [
           "水资源",
           3
         ],
@@ -1206,6 +1184,10 @@
         ],
         [
           "学术研究",
+          3
+        ],
+        [
+          "气候适应",
           3
         ],
         [
@@ -1368,17 +1350,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 5
+      "items": 6
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 43
+      "items": 46
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 27
+      "items": 31
     },
     {
       "source": "arXiv",
