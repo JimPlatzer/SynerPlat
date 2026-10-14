@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T06:49:48.484Z",
-  "weekRange": "2026.10.06—10.13",
+  "updatedAt": "2026-10-14T04:57:55.228Z",
+  "weekRange": "2026.10.07—10.14",
   "monthLabel": "2026年10月",
   "stories": [
     {
@@ -116,19 +116,76 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2610-07542v1",
-      "sector": "高排放行业",
+      "id": "arxiv-arxiv-org-abs-2610-18387v1",
+      "sector": "绿色金融",
       "relevance": "直接 ESG",
       "event": "工作论文",
-      "title": "Satellite observations of nitrous oxide emissions from adipic acid production",
-      "summary": "The production of adipic acid generates nitrous oxide as a by-product, which, if emitted, very effectively warms the climate and depletes the stratospheric ozone layer. There exists cost-effective technology to mitigate these nitrous oxide emissions from adipic acid production, but the degree of implementation of this technology, most notably at sites in Chi…",
-      "score": 7,
-      "publishedDate": "2026.10.06",
-      "eventDate": "2026.10.06",
+      "title": "Risk Measures for the Climate Transition Age: Why Symmetric Risk Budgets are unlikely to mitigate two-dimensionally asymmetric Climate Change risks",
+      "summary": "The most widely used investment risk measures - variance, standard deviation, and tracking error - treat upside deviations as equally undesirable as downside losses. In stable markets with assumed symmetric return distributions, this simplification is potentially harmless. In the climate transition age, it is not. Climate risk is two-dimensionally asymmetric…",
+      "score": 6,
+      "publishedDate": "2026.10.13",
+      "eventDate": "2026.10.13",
       "dateNote": "预印本发布",
       "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.07542v1",
+      "url": "http://arxiv.org/abs/2610.18387v1",
       "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-18332v1",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Portfolio Decarbonization under Incomplete Carbon and Transition Information",
+      "summary": "We study dynamic portfolio decarbonization under incomplete information about firms' carbon intensities and the underlying transition state. The investor maximizes expected utility of terminal wealth net of a penalty on perceived cumulative financed emissions. Asset returns and carbon intensities depend on a stochastic transition factor, while the investor m…",
+      "score": 6,
+      "publishedDate": "2026.10.13",
+      "eventDate": "2026.10.13",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.18332v1",
+      "tags": [
+        "气候与碳",
+        "披露监管",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-18128v1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Organisation and aggregation of calcium carbonate ions in water via molecular simulation",
+      "summary": "Crystallisation of calcium carbonate (CaCO$_3$) in aqueous solutions is essential for carbon dioxide sequestration and the sustainable production of calcium carbonate materials, which are widely used in industry and increasingly explored for novel applications. While crystallisation is often analysed within the framework of classical nucleation theory, CaCO$…",
+      "score": 6,
+      "publishedDate": "2026.10.13",
+      "eventDate": "2026.10.13",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.18128v1",
+      "tags": [
+        "气候与碳",
+        "自然与生物多样性",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-17611v1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "A grand potential for molten-salt electrochemical phase diagrams from first principles",
+      "summary": "The clean-energy transition is driving unprecedented demand for metals, whose extraction is among the largest industrial sources of carbon emissions. Molten-salt electrolysis offers a path toward carbon-free production of aluminum, iron, titanium, and critical metals. However, corrosive operating conditions and complex, multicomponent feedstocks make experim…",
+      "score": 6,
+      "publishedDate": "2026.10.13",
+      "eventDate": "2026.10.13",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.17611v1",
+      "tags": [
+        "能源转型",
         "气候与碳",
         "预印本·非同行评审"
       ]
@@ -223,47 +280,52 @@
         "气候与碳",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04765-7",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Global evidence on energy transition and climate vulnerability through systematic review",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.10.08",
-      "eventDate": "2026.10.08",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04765-7",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04916-w",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Quantifying the heterogeneous impacts of green innovation and renewable energy transition on climate pressure in Nigeria",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.10.07",
-      "eventDate": "2026.10.07",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04916-w",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "arxiv-arxiv-org-abs-2610-18387v1",
+      "date": "2026-10-13",
+      "terms": [
+        "绿色金融",
+        "政策监管",
+        "气候风险",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-18332v1",
+      "date": "2026-10-13",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "碳与排放",
+        "气候披露",
+        "绿色金融",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-18128v1",
+      "date": "2026-10-13",
+      "terms": [
+        "新能源",
+        "碳与排放",
+        "自然与生物多样性",
+        "水资源",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-17611v1",
+      "date": "2026-10-13",
+      "terms": [
+        "新能源",
+        "能源转型",
+        "碳与排放",
+        "工作论文"
+      ]
+    },
     {
       "id": "doi-10-1007-s44163-026-02136-9",
       "date": "2026-10-12",
@@ -336,16 +398,6 @@
       ]
     },
     {
-      "id": "doi-10-1007-s43621-026-04765-7",
-      "date": "2026-10-08",
-      "terms": [
-        "新能源",
-        "网络安全",
-        "能源转型",
-        "学术研究"
-      ]
-    },
-    {
       "id": "govuk-www-gov-uk-government-news-green-hill-solar-farm-development-consent-dec",
       "date": "2026-10-08",
       "terms": [
@@ -364,6 +416,16 @@
         "可再生能源",
         "能源转型",
         "碳与排放"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04765-7",
+      "date": "2026-10-08",
+      "terms": [
+        "新能源",
+        "网络安全",
+        "能源转型",
+        "学术研究"
       ]
     },
     {
@@ -997,16 +1059,6 @@
         "政策监管",
         "数据中心"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04668-7",
-      "date": "2026-09-13",
-      "terms": [
-        "新兴行业",
-        "能源效率",
-        "绿色技术与资源效率",
-        "数字治理"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1027,43 +1079,47 @@
     "week": {
       "label": "过去一周总结",
       "title": "新能源、新兴行业构成过去七日的主要行业信号",
-      "range": "2026.10.06—10.13",
-      "copy": "过去7天当前保留 3 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "range": "2026.10.07—10.14",
+      "copy": "过去7天当前保留 3 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "新能源",
           10
         ],
         [
-          "能源转型",
-          9
-        ],
-        [
-          "可再生能源",
-          8
-        ],
-        [
           "政策监管",
           8
+        ],
+        [
+          "能源转型",
+          8
+        ],
+        [
+          "工作论文",
+          7
         ],
         [
           "碳与排放",
           7
         ],
         [
+          "可再生能源",
+          6
+        ],
+        [
           "人工智能",
           5
         ],
         [
-          "工作论文",
+          "企业出海",
           5
         ],
         [
-          "企业出海",
-          4
+          "气候披露",
+          5
         ],
         [
-          "气候披露",
+          "绿色金融",
           4
         ],
         [
@@ -1083,6 +1139,14 @@
           3
         ],
         [
+          "气候风险",
+          3
+        ],
+        [
+          "水资源",
+          3
+        ],
+        [
           "网络安全",
           3
         ],
@@ -1091,7 +1155,7 @@
           3
         ],
         [
-          "高排放行业",
+          "自然与生物多样性",
           3
         ]
       ]
@@ -1099,8 +1163,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.13—10.13",
-      "copy": "过去30天词频基于 79 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.14—10.14",
+      "copy": "过去30天词频基于 82 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1116,7 +1180,7 @@
         ],
         [
           "碳与排放",
-          6
+          7
         ],
         [
           "人工智能",
@@ -1128,18 +1192,18 @@
         ],
         [
           "可再生能源",
-          6
+          5
         ],
         [
           "气候风险",
           5
         ],
         [
-          "新兴行业",
+          "企业出海",
           5
         ],
         [
-          "企业出海",
+          "新兴行业",
           5
         ],
         [
@@ -1151,16 +1215,16 @@
           4
         ],
         [
-          "供应链与出海",
+          "绿色金融",
           4
+        ],
+        [
+          "供应链与出海",
+          3
         ],
         [
           "电力系统",
-          4
-        ],
-        [
-          "绿色金融",
-          4
+          3
         ],
         [
           "污染防治",
@@ -1171,15 +1235,15 @@
           3
         ],
         [
-          "能源效率",
-          3
-        ],
-        [
           "水资源",
           3
         ],
         [
           "自然与生物多样性",
+          3
+        ],
+        [
+          "能源效率",
           3
         ],
         [
@@ -1215,11 +1279,11 @@
           2
         ],
         [
-          "数字治理",
+          "社区能源",
           2
         ],
         [
-          "社区能源",
+          "高风险行业",
           2
         ]
       ]
@@ -1350,17 +1414,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 6
+      "items": 4
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 46
+      "items": 47
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 31
+      "items": 32
     },
     {
       "source": "arXiv",
@@ -1368,7 +1432,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 11,
+  "verifiedCandidateCount": 13,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
