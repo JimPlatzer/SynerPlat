@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-15T04:44:47.133Z",
-  "weekRange": "2026.10.08—10.15",
+  "updatedAt": "2026-10-16T04:36:18.214Z",
+  "weekRange": "2026.10.09—10.16",
   "monthLabel": "2026年10月",
   "stories": [
     {
@@ -70,25 +70,6 @@
       "dateNote": "发布",
       "source": "UK Government",
       "url": "https://www.gov.uk/government/news/steeple-renewables-project-development-consent-decision-announced",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-green-hill-solar-farm-development-consent-dec",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Green Hill Solar Farm development consent decision announced",
-      "summary": "The Green Hill Solar Farm DCO application has today been granted development consent by the Department for Energy Security and Net Zero.…",
-      "score": 6,
-      "publishedDate": "2026.10.08",
-      "eventDate": "2026.10.08",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/green-hill-solar-farm-development-consent-decision-announced",
       "tags": [
         "能源转型",
         "气候与碳",
@@ -187,24 +168,6 @@
       "url": "https://doi.org/10.1007/s44163-026-02369-8",
       "tags": [
         "人工智能",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-3389-frsus-2026-1980440",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "ESG disclosure and portfolio returns: evidence from the Indian equity market",
-      "summary": "Introduction There has been increased emphasis on responsible investing worldwide. This study contributes to the existing literature by examining whether ESG serves as an additional factor beyond FFTF model in Indian equity market. Methods The study has used prominent risk models such as traditional Fama-French three factor (FFTF) model, Augmented FFTF model…",
-      "score": 7,
-      "publishedDate": "2026.10.08",
-      "eventDate": "2026.10.08",
-      "dateNote": "论文发表",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/frsus.2026.1980440",
-      "tags": [
-        "披露监管",
         "同行评审状态待核"
       ]
     },
@@ -318,6 +281,24 @@
       "tags": [
         "人工智能",
         "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04990-0",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "The relationship between artificial intelligence and food production in South Africa",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.10.11",
+      "eventDate": "2026.10.11",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04990-0",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
       ]
     }
   ],
@@ -493,37 +474,6 @@
         "企业出海",
         "政策监管",
         "气候披露"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-green-hill-solar-farm-development-consent-dec",
-      "date": "2026-10-08",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源",
-        "能源转型",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04805-2",
-      "date": "2026-10-08",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "能源转型",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04765-7",
-      "date": "2026-10-08",
-      "terms": [
-        "新能源",
-        "网络安全",
-        "能源转型",
-        "学术研究"
       ]
     },
     {
@@ -1092,60 +1042,13 @@
         "能源效率",
         "工作论文"
       ]
-    },
-    {
-      "id": "doi-10-3389-fsuep-2026-1946675",
-      "date": "2026-09-15",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "能源转型",
-        "绿色金融"
-      ]
-    },
-    {
-      "id": "ec-eu-ets-saf-support-2025-allocation",
-      "date": "2026-09-15",
-      "terms": [
-        "高排放行业",
-        "政策监管",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "period-climate-ec-europa-eu-news-other-reads-news-over-eur400-million-eu-ets-su",
-      "date": "2026-09-15",
-      "terms": [
-        "高排放行业",
-        "气候披露"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-16963v1",
-      "date": "2026-09-15",
-      "terms": [
-        "新兴行业",
-        "气候适应",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-16899v1",
-      "date": "2026-09-15",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "能源转型",
-        "电力系统",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
     [
       "新能源",
-      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      4,
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
       "→"
     ],
     [
@@ -1159,8 +1062,8 @@
     "week": {
       "label": "过去一周总结",
       "title": "新能源、新兴行业构成过去七日的主要行业信号",
-      "range": "2026.10.08—10.15",
-      "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "range": "2026.10.09—10.16",
+      "copy": "过去7天当前保留 4 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "新能源",
@@ -1175,20 +1078,24 @@
           9
         ],
         [
-          "能源转型",
-          7
+          "工作论文",
+          8
+        ],
+        [
+          "人工智能",
+          6
         ],
         [
           "可再生能源",
           6
         ],
         [
-          "工作论文",
+          "绿色金融",
           6
         ],
         [
-          "人工智能",
-          5
+          "能源转型",
+          6
         ],
         [
           "企业出海",
@@ -1199,24 +1106,16 @@
           5
         ],
         [
-          "绿色金融",
-          5
-        ],
-        [
           "供应链与出海",
-          3
+          4
         ],
         [
           "气候风险",
-          3
+          4
         ],
         [
           "能源效率",
-          3
-        ],
-        [
-          "学术研究",
-          3
+          4
         ],
         [
           "数字化与数据",
@@ -1239,10 +1138,6 @@
           3
         ],
         [
-          "网络安全",
-          3
-        ],
-        [
           "自然与生物多样性",
           3
         ]
@@ -1251,19 +1146,19 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.15—10.15",
-      "copy": "过去30天词频基于 86 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.16—10.16",
+      "copy": "过去30天词频基于 78 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
           10
         ],
         [
-          "新能源",
-          8
+          "政策监管",
+          7
         ],
         [
-          "政策监管",
+          "新能源",
           7
         ],
         [
@@ -1275,14 +1170,6 @@
           6
         ],
         [
-          "能源转型",
-          5
-        ],
-        [
-          "可再生能源",
-          5
-        ],
-        [
           "气候风险",
           5
         ],
@@ -1291,7 +1178,15 @@
           5
         ],
         [
+          "可再生能源",
+          5
+        ],
+        [
           "气候披露",
+          5
+        ],
+        [
+          "能源转型",
           5
         ],
         [
@@ -1303,11 +1198,11 @@
           4
         ],
         [
-          "高排放行业",
+          "供应链与出海",
           4
         ],
         [
-          "供应链与出海",
+          "高排放行业",
           4
         ],
         [
@@ -1335,15 +1230,7 @@
           3
         ],
         [
-          "学术研究",
-          3
-        ],
-        [
           "数字化与数据",
-          3
-        ],
-        [
-          "气候适应",
           3
         ],
         [
@@ -1351,7 +1238,11 @@
           2
         ],
         [
-          "网络安全",
+          "学术研究",
+          2
+        ],
+        [
+          "气候适应",
           2
         ],
         [
@@ -1368,6 +1259,10 @@
         ],
         [
           "社区能源",
+          2
+        ],
+        [
+          "网络安全",
           2
         ],
         [
@@ -1511,12 +1406,12 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 8
+      "items": 10
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 51
+      "items": 53
     },
     {
       "source": "Crossref",
@@ -1529,7 +1424,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 12,
+  "verifiedCandidateCount": 8,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
