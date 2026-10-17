@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-16T04:36:18.214Z",
+  "updatedAt": "2026-10-17T04:32:33.841Z",
   "items": [
+    {
+      "id": "doi-10-3389-frai-2026-1943572",
+      "type": "学术论文",
+      "title": "A global machine learning framework for classifying national CO2 emission levels: responsible and explainable artificial intelligence for sustainable climate governance",
+      "publisher": "Frontiers Media SA",
+      "date": "2026-10-16",
+      "publishedDate": "2026-10-16",
+      "eventDate": "2026-10-16",
+      "dateNote": "论文发表",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "供应链与出海",
+        "同行评审状态待核"
+      ],
+      "summary": "We investigate whether trade openness, governance, environmental taxation and selected macroeconomic indicators can classify the contemporaneous CO2 emission level of countries observed over 2000 to 2023, using data from the World Development Indicators and the OECD. CO2 emissions per capita are divided into three ordinal levels, low, medium and high, using…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.3389/frai.2026.1943572",
+      "featured": false
+    },
     {
       "id": "doi-10-3389-fenrg-2026-1939944",
       "type": "学术论文",

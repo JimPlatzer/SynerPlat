@@ -1,8 +1,45 @@
 {
-  "updatedAt": "2026-10-16T04:36:18.214Z",
-  "weekRange": "2026.10.09—10.16",
+  "updatedAt": "2026-10-17T04:32:33.841Z",
+  "weekRange": "2026.10.10—10.17",
   "monthLabel": "2026年10月",
   "stories": [
+    {
+      "id": "doi-10-3389-frai-2026-1943572",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "A global machine learning framework for classifying national CO2 emission levels: responsible and explainable artificial intelligence for sustainable climate governance",
+      "summary": "We investigate whether trade openness, governance, environmental taxation and selected macroeconomic indicators can classify the contemporaneous CO2 emission level of countries observed over 2000 to 2023, using data from the World Development Indicators and the OECD. CO2 emissions per capita are divided into three ordinal levels, low, medium and high, using…",
+      "score": 8,
+      "publishedDate": "2026.10.16",
+      "eventDate": "2026.10.16",
+      "dateNote": "论文发表",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/frai.2026.1943572",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "供应链与出海",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-16m-fine-for-anglian-waters-pollution-of-esse",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "£1.6m fine for Anglian Water's pollution of Essex river",
+      "summary": "Anglian Water has been fined £1.6m after repeated sewage pollution of the River Brain over six weeks in 2022.…",
+      "score": 6,
+      "publishedDate": "2026.10.16",
+      "eventDate": "2026.10.16",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/16m-fine-for-anglian-waters-pollution-of-essex-river",
+      "tags": [
+        "政策法规"
+      ]
+    },
     {
       "id": "doi-10-3389-fenrg-2026-1939944",
       "sector": "新能源",
@@ -54,25 +91,6 @@
       "source": "UK Government",
       "url": "https://www.gov.uk/government/news/uk-statement-for-the-intergovernmental-working-group-on-transnational-corporations",
       "tags": [
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-steeple-renewables-project-development-consen",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Steeple Renewables Project development consent decision announced",
-      "summary": "The Steeple Renewables Project DCO application has today been granted development consent by the Department for Energy Security and Net Zero.…",
-      "score": 6,
-      "publishedDate": "2026.10.09",
-      "eventDate": "2026.10.09",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/steeple-renewables-project-development-consent-decision-announced",
-      "tags": [
-        "能源转型",
-        "气候与碳",
         "政策法规"
       ]
     }
@@ -266,24 +284,6 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2610-13307v1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "工作论文",
-      "title": "Sustainable Cloud-Fog-Edge Systems for Smart Buildings: Algorithmic Adaptation under Memory Constraints and Dynamic Orchestration Strategies",
-      "summary": "The escalating environmental footprint of the Information and Communication Technol- ogy (ICT) sectorwith global Data Center electric- ity usage potentially reaching 3% by 2030 and the imperative for real-time responsiveness in smart buildings demand a foundational shift towards Edge Computing. This article proposes a holis- tic architectural and algorithmic…",
-      "score": 6,
-      "publishedDate": "2026.10.09",
-      "eventDate": "2026.10.09",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.13307v1",
-      "tags": [
-        "人工智能",
-        "预印本·非同行评审"
-      ]
-    },
-    {
       "id": "doi-10-1007-s43621-026-04990-0",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -303,6 +303,25 @@
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-3389-frai-2026-1943572",
+      "date": "2026-10-16",
+      "terms": [
+        "人工智能",
+        "碳与排放",
+        "供应链与出海"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-16m-fine-for-anglian-waters-pollution-of-esse",
+      "date": "2026-10-16",
+      "terms": [
+        "高排放行业",
+        "政策监管",
+        "污染防治",
+        "水资源"
+      ]
+    },
     {
       "id": "doi-10-3389-fenrg-2026-1939944",
       "date": "2026-10-14",
@@ -440,31 +459,12 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-news-steeple-renewables-project-development-consen",
-      "date": "2026-10-09",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源",
-        "能源转型",
-        "碳与排放"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2610-13307v1",
       "date": "2026-10-09",
       "terms": [
         "人工智能",
         "数据中心",
         "工作论文"
-      ]
-    },
-    {
-      "id": "doi-10-1186-s12302-026-01527-0",
-      "date": "2026-10-09",
-      "terms": [
-        "新能源",
-        "可再生能源"
       ]
     },
     {
@@ -1014,45 +1014,29 @@
         "新能源",
         "政策监管"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43615-026-01124-6",
-      "date": "2026-09-16",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-18029v1",
-      "date": "2026-09-16",
-      "terms": [
-        "人工智能",
-        "碳与排放",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-17950v1",
-      "date": "2026-09-16",
-      "terms": [
-        "新兴行业",
-        "政策监管",
-        "能源效率",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
     [
       "新能源",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
+      "→"
+    ],
+    [
+      "人工智能",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
       "→"
     ],
     [
       "新兴行业",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
+      "→"
+    ],
+    [
+      "高排放行业",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
@@ -1061,20 +1045,20 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、新兴行业构成过去七日的主要行业信号",
-      "range": "2026.10.09—10.16",
-      "copy": "过去7天当前保留 4 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新能源、人工智能、新兴行业构成过去七日的主要行业信号",
+      "range": "2026.10.10—10.17",
+      "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "新能源",
+          "政策监管",
           10
         ],
         [
-          "政策监管",
-          9
+          "碳与排放",
+          10
         ],
         [
-          "碳与排放",
+          "新能源",
           9
         ],
         [
@@ -1083,22 +1067,18 @@
         ],
         [
           "人工智能",
-          6
-        ],
-        [
-          "可再生能源",
-          6
+          7
         ],
         [
           "绿色金融",
-          6
-        ],
-        [
-          "能源转型",
-          6
+          7
         ],
         [
           "企业出海",
+          5
+        ],
+        [
+          "供应链与出海",
           5
         ],
         [
@@ -1106,11 +1086,19 @@
           5
         ],
         [
-          "供应链与出海",
+          "能源转型",
+          5
+        ],
+        [
+          "可再生能源",
           4
         ],
         [
           "气候风险",
+          4
+        ],
+        [
+          "水资源",
           4
         ],
         [
@@ -1122,15 +1110,11 @@
           3
         ],
         [
-          "数据中心",
-          3
-        ],
-        [
           "新兴行业",
           3
         ],
         [
-          "水资源",
+          "污染防治",
           3
         ],
         [
@@ -1140,14 +1124,18 @@
         [
           "自然与生物多样性",
           3
+        ],
+        [
+          "高排放行业",
+          3
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.16—10.16",
-      "copy": "过去30天词频基于 78 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.17—10.17",
+      "copy": "过去30天词频基于 75 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1158,12 +1146,12 @@
           7
         ],
         [
-          "新能源",
+          "碳与排放",
           7
         ],
         [
-          "碳与排放",
-          7
+          "新能源",
+          6
         ],
         [
           "人工智能",
@@ -1171,14 +1159,10 @@
         ],
         [
           "气候风险",
-          5
+          6
         ],
         [
           "企业出海",
-          5
-        ],
-        [
-          "可再生能源",
           5
         ],
         [
@@ -1202,7 +1186,15 @@
           4
         ],
         [
+          "可再生能源",
+          4
+        ],
+        [
           "高排放行业",
+          4
+        ],
+        [
+          "污染防治",
           4
         ],
         [
@@ -1210,15 +1202,7 @@
           4
         ],
         [
-          "污染防治",
-          3
-        ],
-        [
           "水资源",
-          3
-        ],
-        [
-          "能源效率",
           3
         ],
         [
@@ -1227,6 +1211,10 @@
         ],
         [
           "数据中心",
+          3
+        ],
+        [
+          "能源效率",
           3
         ],
         [
@@ -1273,6 +1261,15 @@
     }
   },
   "monthlyHighlights": [
+    {
+      "date": "10.16",
+      "title": "A global machine learning framework for classifying national CO2 emission levels: responsible and explainable artificial intelligence for sustainable climate governance",
+      "summary": "We investigate whether trade openness, governance, environmental taxation and selected macroeconomic indicators can classify the contemporaneous CO2 emission level of countries observed over 2000 to 2023, using data from the World Development Indicators and the OECD. CO2 emissions per capita are divided into three ordinal levels, low, medium and high, using…",
+      "sector": "人工智能",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/frai.2026.1943572",
+      "score": 8
+    },
     {
       "date": "10.14",
       "title": "Governance quality and the renewable-electricity transition: evidence from a 195-country panel, 2000–2023",
@@ -1411,20 +1408,20 @@
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 53
+      "items": 54
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 36
+      "items": 33
     },
     {
       "source": "arXiv",
-      "status": "ok",
-      "items": 40
+      "status": "error",
+      "message": "429 https://export.arxiv.org/api/query?search_query=submittedDate%3A%5B202610100000%20TO%20202610172359%5D%20AND%20(all%3Aclimate%20OR%20all%3Asustainability%20OR%20all%3Aemissions"
     }
   ],
-  "verifiedCandidateCount": 8,
+  "verifiedCandidateCount": 9,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
