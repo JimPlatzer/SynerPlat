@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T04:38:51.714Z",
-  "weekRange": "2026.10.11—10.18",
+  "updatedAt": "2026-10-19T04:46:04.802Z",
+  "weekRange": "2026.10.12—10.19",
   "monthLabel": "2026年10月",
   "stories": [
     {
@@ -190,6 +190,24 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2610-23614v1",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "工作论文",
+      "title": "Water-Energy-Data nexus reveals sustainability gaps and priorities for AI infrastructure",
+      "summary": "The rapid growth of artificial intelligence (AI) depends on interconnected water, energy, and data systems spanning infrastructure life cycles and diverse geographies, with the potential to intensify water and energy insecurity, exacerbate social inequities and lead to cascading sustainability issues globally. Yet assessments commonly examine them separately…",
+      "score": 6,
+      "publishedDate": "2026.10.16",
+      "eventDate": "2026.10.16",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.23614v1",
+      "tags": [
+        "人工智能",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2610-19885v1",
       "sector": "企业出海",
       "relevance": "直接 ESG",
@@ -301,24 +319,6 @@
         "气候与碳",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04990-0",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "The relationship between artificial intelligence and food production in South Africa",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.10.11",
-      "eventDate": "2026.10.11",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04990-0",
-      "tags": [
-        "人工智能",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
@@ -346,6 +346,15 @@
         "政策监管",
         "污染防治",
         "水资源"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-23614v1",
+      "date": "2026-10-16",
+      "terms": [
+        "人工智能",
+        "水资源",
+        "工作论文"
       ]
     },
     {
@@ -475,13 +484,6 @@
       "terms": [
         "新兴行业",
         "政策监管"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04990-0",
-      "date": "2026-10-11",
-      "terms": [
-        "人工智能"
       ]
     },
     {
@@ -914,73 +916,6 @@
         "企业出海",
         "气候披露"
       ]
-    },
-    {
-      "id": "period-eur-lex-europa-eu-legal-content-en-txt-uri-oj-l-202602133",
-      "date": "2026-09-18",
-      "terms": [
-        "企业出海"
-      ]
-    },
-    {
-      "id": "period-environment-ec-europa-eu-news-commission-publishes-draft-list-countries-",
-      "date": "2026-09-18",
-      "terms": [
-        "企业出海"
-      ]
-    },
-    {
-      "id": "eu-2026-2133-goes-safeguard",
-      "date": "2026-09-18",
-      "terms": [
-        "企业出海",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "ec-waste-export-draft-list-2026",
-      "date": "2026-09-18",
-      "terms": [
-        "企业出海",
-        "供应链与出海",
-        "污染防治"
-      ]
-    },
-    {
-      "id": "ec-ai-board-ninth-meeting-2026",
-      "date": "2026-09-18",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "网络安全"
-      ]
-    },
-    {
-      "id": "eurostat-renewable-electricity-q2-2026",
-      "date": "2026-09-18",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "电力系统"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-21872v1",
-      "date": "2026-09-18",
-      "terms": [
-        "绿色金融",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-21632v1",
-      "date": "2026-09-18",
-      "terms": [
-        "人工智能",
-        "能源转型",
-        "绿色金融",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1013,7 +948,7 @@
     "week": {
       "label": "过去一周总结",
       "title": "新能源、人工智能、新兴行业构成过去七日的主要行业信号",
-      "range": "2026.10.11—10.18",
+      "range": "2026.10.12—10.19",
       "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1025,15 +960,15 @@
           10
         ],
         [
+          "工作论文",
+          9
+        ],
+        [
           "新能源",
           9
         ],
         [
           "人工智能",
-          8
-        ],
-        [
-          "工作论文",
           8
         ],
         [
@@ -1053,6 +988,10 @@
           5
         ],
         [
+          "水资源",
+          5
+        ],
+        [
           "能源转型",
           5
         ],
@@ -1062,10 +1001,6 @@
         ],
         [
           "气候风险",
-          4
-        ],
-        [
-          "水资源",
           4
         ],
         [
@@ -1101,19 +1036,19 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.18—10.18",
-      "copy": "过去30天词频基于 70 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.19—10.19",
+      "copy": "过去30天词频基于 62 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
           10
         ],
         [
-          "人工智能",
-          6
+          "碳与排放",
+          7
         ],
         [
-          "碳与排放",
+          "人工智能",
           6
         ],
         [
@@ -1129,19 +1064,19 @@
           6
         ],
         [
-          "企业出海",
-          5
-        ],
-        [
           "气候披露",
           5
         ],
         [
-          "能源转型",
-          5
+          "企业出海",
+          4
         ],
         [
           "新兴行业",
+          4
+        ],
+        [
+          "能源转型",
           4
         ],
         [
@@ -1158,7 +1093,7 @@
         ],
         [
           "水资源",
-          3
+          4
         ],
         [
           "高排放行业",
@@ -1173,19 +1108,19 @@
           3
         ],
         [
-          "污染防治",
-          3
-        ],
-        [
-          "电力系统",
-          3
-        ],
-        [
           "能源效率",
           3
         ],
         [
           "数字化与数据",
+          3
+        ],
+        [
+          "污染防治",
+          3
+        ],
+        [
+          "电力系统",
           3
         ],
         [
@@ -1209,10 +1144,6 @@
           2
         ],
         [
-          "网络安全",
-          2
-        ],
-        [
           "高风险行业",
           2
         ]
@@ -1221,21 +1152,21 @@
   },
   "monthlyHighlights": [
     {
-      "date": "10.16",
-      "title": "A global machine learning framework for classifying national CO2 emission levels: responsible and explainable artificial intelligence for sustainable climate governance",
-      "summary": "We investigate whether trade openness, governance, environmental taxation and selected macroeconomic indicators can classify the contemporaneous CO2 emission level of countries observed over 2000 to 2023, using data from the World Development Indicators and the OECD. CO2 emissions per capita are divided into three ordinal levels, low, medium and high, using…",
-      "sector": "人工智能",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/frai.2026.1943572",
-      "score": 8
-    },
-    {
       "date": "10.14",
       "title": "Governance quality and the renewable-electricity transition: evidence from a 195-country panel, 2000–2023",
       "summary": "Whether the quality of a country’s institutions shapes how fast it decarbonizes its power sector remains contested, and much of the evidence comes from single regions or now-dated samples. This study links the six World Bank Worldwide Governance Indicators to the renewable share of electricity generation for 195 countries over 2000–2023 (4,359 country-years)…",
       "sector": "新能源",
       "source": "Frontiers Media SA",
       "url": "https://doi.org/10.3389/fenrg.2026.1939944",
+      "score": 8
+    },
+    {
+      "date": "10.16",
+      "title": "A global machine learning framework for classifying national CO2 emission levels: responsible and explainable artificial intelligence for sustainable climate governance",
+      "summary": "We investigate whether trade openness, governance, environmental taxation and selected macroeconomic indicators can classify the contemporaneous CO2 emission level of countries observed over 2000 to 2023, using data from the World Development Indicators and the OECD. CO2 emissions per capita are divided into three ordinal levels, low, medium and high, using…",
+      "sector": "人工智能",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/frai.2026.1943572",
       "score": 8
     },
     {
@@ -1362,7 +1293,7 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 10
+      "items": 11
     },
     {
       "source": "GOV.UK",
@@ -1380,7 +1311,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 10,
+  "verifiedCandidateCount": 9,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
