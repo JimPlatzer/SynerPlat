@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-10-19T04:46:04.802Z",
-  "weekRange": "2026.10.12—10.19",
+  "updatedAt": "2026-10-20T04:54:55.104Z",
+  "weekRange": "2026.10.13—10.20",
   "monthLabel": "2026年10月",
   "stories": [
+    {
+      "id": "doi-10-3389-frsus-2026-1927379",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Integrated cost–risk optimization of sustainable reverse supply chain networks for medical waste using artificial intelligence with energy consumption and uncertainty considerations",
+      "summary": "Medical waste generated from laboratories and diagnostic centers has increased considerably in recent years, creating serious environmental and public health concerns. Efficient management of such hazardous waste is essential to reduce disposal risks and ensure sustainable healthcare operations. This study develops a reverse supply chain network for the mana…",
+      "score": 8,
+      "publishedDate": "2026.10.20",
+      "eventDate": "2026.10.20",
+      "dateNote": "论文发表",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/frsus.2026.1927379",
+      "tags": [
+        "人工智能",
+        "供应链与出海",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "doi-10-3389-frai-2026-1943572",
       "sector": "人工智能",
@@ -76,26 +95,45 @@
         "气候与碳",
         "政策法规"
       ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-uk-statement-for-the-intergovernmental-workin",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "UK Statement for the Intergovernmental Working Group on transnational corporations.",
-      "summary": "Opening statement for the 12th session of the open-ended Intergovernmental Working Group on transnational corporations and other business enterprises with respect to human rights.",
-      "score": 6,
-      "publishedDate": "2026.10.12",
-      "eventDate": "2026.10.12",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/uk-statement-for-the-intergovernmental-working-group-on-transnational-corporations",
-      "tags": [
-        "政策法规"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "arxiv-arxiv-org-abs-2610-26428v1",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Systemic collapse emergence from climate-induced perturbations in transportation networks",
+      "summary": "The interaction between human infrastructures and external events results in loss of functionality or even complete system disruption through a snowball effect of cascading-failures. Their complex interplay challenges their prevention, affecting the human population that rely on their functionality. Understanding how these networks respond to external pertur…",
+      "score": 7,
+      "publishedDate": "2026.10.19",
+      "eventDate": "2026.10.19",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.26428v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-25797v1",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "AirMPA: A Meteorology-to-Pollution Adapter for Global Air Quality Forecasting",
+      "summary": "Accurate real-time forecasting of atmospheric pollutants is essential for reducing exposure risks and improving public health. Traditional numerical forecasting systems suffer from incomplete parameterizations, uncertain inputs, and high computational cost. Existing deep learning approaches improve efficiency, but often entangle meteorological and pollutant…",
+      "score": 7,
+      "publishedDate": "2026.10.19",
+      "eventDate": "2026.10.19",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.25797v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
     {
       "id": "doi-10-3389-frai-2026-1969257",
       "sector": "人工智能",
@@ -153,40 +191,21 @@
       ]
     },
     {
-      "id": "doi-10-1007-s44163-026-02136-9",
-      "sector": "企业出海",
+      "id": "arxiv-arxiv-org-abs-2610-26032v1",
+      "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Predicting ESG adoption among Malaysian SMEs using explainable machine learning",
-      "summary": "Abstract Environmental, social, and governance (ESG) considerations are increasingly embedded in regulatory frameworks, financial markets, and corporate strategy worldwide. While large listed firms have been the primary focus of ESG reporting requirements, small and medium enterprises (SMEs) play a central role in employment, supply chains, and regional deve…",
-      "score": 7,
-      "publishedDate": "2026.10.12",
-      "eventDate": "2026.10.12",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s44163-026-02136-9",
+      "event": "工作论文",
+      "title": "Sustainable and Envy-free Multi-Period Allocation",
+      "summary": "Allocating renewable resources fairly requires accounting for how present decisions affect future availability. We introduce Sustainable and Envy-Free Multi-Period Allocation, in which agents are assigned over multiple periods to renewable resources whose quantities evolve over time according to renewal functions. An allocation must respect viability and cap…",
+      "score": 6,
+      "publishedDate": "2026.10.19",
+      "eventDate": "2026.10.19",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.26032v1",
       "tags": [
-        "披露监管",
-        "供应链与出海",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s44163-026-02369-8",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Energy constraints in large scale artificial intelligence and insights from human cognition for efficient large language models",
-      "summary": "Abstract Large-scale artificial intelligence (AI) systems, especially large language models (LLMs), face growing constraints related to energy use, power delivery, memory traffic, experimentation, and infrastructure capacity. These pressures are often studied separately, which makes it difficult to understand how they interact across the full AI lifecycle. T…",
-      "score": 7,
-      "publishedDate": "2026.10.12",
-      "eventDate": "2026.10.12",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s44163-026-02369-8",
-      "tags": [
-        "人工智能",
-        "同行评审状态待核"
+        "能源转型",
+        "预印本·非同行评审"
       ]
     },
     {
@@ -300,28 +319,46 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "doi-10-1007-s44163-026-02540-1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Current applications of artificial intelligence for advancing agriculture, sustainability and climate mitigation",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.10.17",
-      "eventDate": "2026.10.17",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s44163-026-02540-1",
-      "tags": [
-        "人工智能",
-        "气候与碳",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-3389-frsus-2026-1927379",
+      "date": "2026-10-20",
+      "terms": [
+        "人工智能",
+        "能源效率",
+        "供应链与出海"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-26428v1",
+      "date": "2026-10-19",
+      "terms": [
+        "新兴行业",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-25797v1",
+      "date": "2026-10-19",
+      "terms": [
+        "高排放行业",
+        "能源效率",
+        "污染防治",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-26032v1",
+      "date": "2026-10-19",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型",
+        "工作论文"
+      ]
+    },
     {
       "id": "doi-10-1007-s44163-026-02540-1",
       "date": "2026-10-17",
@@ -476,14 +513,6 @@
       "terms": [
         "人工智能",
         "能源效率"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-uk-statement-for-the-intergovernmental-workin",
-      "date": "2026-10-12",
-      "terms": [
-        "新兴行业",
-        "政策监管"
       ]
     },
     {
@@ -908,33 +937,19 @@
         "水资源",
         "工作论文"
       ]
-    },
-    {
-      "id": "doi-10-1057-s41310-026-00422-7",
-      "date": "2026-09-19",
-      "terms": [
-        "企业出海",
-        "气候披露"
-      ]
     }
   ],
   "sectorInsights": [
     [
-      "新能源",
+      "人工智能",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
     ],
     [
-      "人工智能",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
-      "→"
-    ],
-    [
-      "新兴行业",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
+      "新能源",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
       "→"
     ],
     [
@@ -947,44 +962,44 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、人工智能、新兴行业构成过去七日的主要行业信号",
-      "range": "2026.10.12—10.19",
+      "title": "人工智能、新能源、高排放行业构成过去七日的主要行业信号",
+      "range": "2026.10.13—10.20",
       "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "政策监管",
-          10
-        ],
-        [
-          "碳与排放",
-          10
-        ],
-        [
           "工作论文",
-          9
+          10
         ],
         [
           "新能源",
-          9
-        ],
-        [
-          "人工智能",
           8
         ],
         [
-          "绿色金融",
-          7
+          "碳与排放",
+          8
         ],
         [
-          "企业出海",
-          5
+          "人工智能",
+          6
+        ],
+        [
+          "政策监管",
+          6
+        ],
+        [
+          "绿色金融",
+          6
+        ],
+        [
+          "能源转型",
+          6
         ],
         [
           "供应链与出海",
           5
         ],
         [
-          "气候披露",
+          "可再生能源",
           5
         ],
         [
@@ -992,11 +1007,15 @@
           5
         ],
         [
-          "能源转型",
+          "能源效率",
           5
         ],
         [
-          "可再生能源",
+          "企业出海",
+          4
+        ],
+        [
+          "气候披露",
           4
         ],
         [
@@ -1004,7 +1023,11 @@
           4
         ],
         [
-          "能源效率",
+          "污染防治",
+          4
+        ],
+        [
+          "高排放行业",
           4
         ],
         [
@@ -1016,19 +1039,11 @@
           3
         ],
         [
-          "污染防治",
-          3
-        ],
-        [
           "电力系统",
           3
         ],
         [
           "自然与生物多样性",
-          3
-        ],
-        [
-          "高排放行业",
           3
         ]
       ]
@@ -1036,8 +1051,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.19—10.19",
-      "copy": "过去30天词频基于 62 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.20—10.20",
+      "copy": "过去30天词频基于 64 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1045,7 +1060,7 @@
         ],
         [
           "碳与排放",
-          7
+          6
         ],
         [
           "人工智能",
@@ -1061,18 +1076,10 @@
         ],
         [
           "气候风险",
-          6
-        ],
-        [
-          "气候披露",
           5
         ],
         [
-          "企业出海",
-          4
-        ],
-        [
-          "新兴行业",
+          "气候披露",
           4
         ],
         [
@@ -1080,7 +1087,11 @@
           4
         ],
         [
-          "绿色金融",
+          "新兴行业",
+          4
+        ],
+        [
+          "企业出海",
           4
         ],
         [
@@ -1092,11 +1103,19 @@
           4
         ],
         [
+          "绿色金融",
+          4
+        ],
+        [
           "水资源",
           4
         ],
         [
           "高排放行业",
+          4
+        ],
+        [
+          "能源效率",
           3
         ],
         [
@@ -1108,15 +1127,11 @@
           3
         ],
         [
-          "能源效率",
+          "污染防治",
           3
         ],
         [
           "数字化与数据",
-          3
-        ],
-        [
-          "污染防治",
           3
         ],
         [
@@ -1152,12 +1167,12 @@
   },
   "monthlyHighlights": [
     {
-      "date": "10.14",
-      "title": "Governance quality and the renewable-electricity transition: evidence from a 195-country panel, 2000–2023",
-      "summary": "Whether the quality of a country’s institutions shapes how fast it decarbonizes its power sector remains contested, and much of the evidence comes from single regions or now-dated samples. This study links the six World Bank Worldwide Governance Indicators to the renewable share of electricity generation for 195 countries over 2000–2023 (4,359 country-years)…",
-      "sector": "新能源",
+      "date": "10.20",
+      "title": "Integrated cost–risk optimization of sustainable reverse supply chain networks for medical waste using artificial intelligence with energy consumption and uncertainty considerations",
+      "summary": "Medical waste generated from laboratories and diagnostic centers has increased considerably in recent years, creating serious environmental and public health concerns. Efficient management of such hazardous waste is essential to reduce disposal risks and ensure sustainable healthcare operations. This study develops a reverse supply chain network for the mana…",
+      "sector": "人工智能",
       "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/fenrg.2026.1939944",
+      "url": "https://doi.org/10.3389/frsus.2026.1927379",
       "score": 8
     },
     {
@@ -1167,6 +1182,15 @@
       "sector": "人工智能",
       "source": "Frontiers Media SA",
       "url": "https://doi.org/10.3389/frai.2026.1943572",
+      "score": 8
+    },
+    {
+      "date": "10.14",
+      "title": "Governance quality and the renewable-electricity transition: evidence from a 195-country panel, 2000–2023",
+      "summary": "Whether the quality of a country’s institutions shapes how fast it decarbonizes its power sector remains contested, and much of the evidence comes from single regions or now-dated samples. This study links the six World Bank Worldwide Governance Indicators to the renewable share of electricity generation for 195 countries over 2000–2023 (4,359 country-years)…",
+      "sector": "新能源",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/fenrg.2026.1939944",
       "score": 8
     },
     {
@@ -1298,7 +1322,7 @@
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 54
+      "items": 51
     },
     {
       "source": "Crossref",
@@ -1311,7 +1335,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 9,
+  "verifiedCandidateCount": 12,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
