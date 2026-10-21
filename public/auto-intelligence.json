@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T04:54:55.104Z",
-  "weekRange": "2026.10.13—10.20",
+  "updatedAt": "2026-10-21T04:53:39.987Z",
+  "weekRange": "2026.10.14—10.21",
   "monthLabel": "2026年10月",
   "stories": [
     {
@@ -99,6 +99,25 @@
   ],
   "watchlist": [
     {
+      "id": "arxiv-arxiv-org-abs-2610-28042v1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Hierarchical Bayesian modeling of agrivoltaic dairy-calves under missing information",
+      "summary": "Livestock 5.0 provides a framework to optimize animal welfare and productivity amidst escalating climate change and current pressures to sustainably increase production through limited expansion of agricultural lands, while equilibrating the food-water-energy nexus. Directly tackling the food-water-energy nexus, agrivoltaics emerges as a promising solution f…",
+      "score": 7,
+      "publishedDate": "2026.10.20",
+      "eventDate": "2026.10.20",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.28042v1",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2610-26428v1",
       "sector": "新兴行业",
       "relevance": "直接 ESG",
@@ -191,6 +210,24 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2610-28219v1",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Disentangling forced and internal components in observed climate evolution using spatiotemporal deep learning",
+      "summary": "Attribution of observed historical climate evolution to externally forced change and internal variability is fundamental to understanding climate change and evaluating climate models. Yet such attribution remains challenging because the forced response is intertwined with internal variability in observations. Here, we develop a convolutional long short-term…",
+      "score": 6,
+      "publishedDate": "2026.10.20",
+      "eventDate": "2026.10.20",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.28219v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2610-26032v1",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -205,6 +242,43 @@
       "url": "http://arxiv.org/abs/2610.26032v1",
       "tags": [
         "能源转型",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-27376v1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Green Light: Carbon-Aware Design of Photonic Transformer Accelerators at the Edge",
+      "summary": "Migrating transformer inference to the edge requires sustainability considerations that encompass both operation and manufacturing, rather than operational energy alone. Silicon photonics enables high-bandwidth, low-energy matrix multiplication; however, existing microring-resonator-based Dot Product Unit (DPU) organizations have been tailored to convolution…",
+      "score": 6,
+      "publishedDate": "2026.10.19",
+      "eventDate": "2026.10.19",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.27376v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-27345v1",
+      "sector": "人工智能",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Sustainable Processing-in-DRAM Integration and Replacement for Transformer Inference Servers",
+      "summary": "Processing-in-DRAM (PID) accelerators are emerging as a sustainable alternative to GPUs for transformer model inference. They bring compute to data, mitigate the memory bandwidth limitation, and reduce the overall energy footprint. Yet, carbon analysis of PID accelerators is covered for only a limited set of hardware and workloads. In this work, we present a…",
+      "score": 6,
+      "publishedDate": "2026.10.19",
+      "eventDate": "2026.10.19",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.27345v1",
+      "tags": [
+        "人工智能",
+        "气候与碳",
         "预印本·非同行评审"
       ]
     },
@@ -244,81 +318,6 @@
         "供应链与出海",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-18387v1",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Risk Measures for the Climate Transition Age: Why Symmetric Risk Budgets are unlikely to mitigate two-dimensionally asymmetric Climate Change risks",
-      "summary": "The most widely used investment risk measures - variance, standard deviation, and tracking error - treat upside deviations as equally undesirable as downside losses. In stable markets with assumed symmetric return distributions, this simplification is potentially harmless. In the climate transition age, it is not. Climate risk is two-dimensionally asymmetric…",
-      "score": 6,
-      "publishedDate": "2026.10.13",
-      "eventDate": "2026.10.13",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.18387v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-18332v1",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Portfolio Decarbonization under Incomplete Carbon and Transition Information",
-      "summary": "We study dynamic portfolio decarbonization under incomplete information about firms' carbon intensities and the underlying transition state. The investor maximizes expected utility of terminal wealth net of a penalty on perceived cumulative financed emissions. Asset returns and carbon intensities depend on a stochastic transition factor, while the investor m…",
-      "score": 6,
-      "publishedDate": "2026.10.13",
-      "eventDate": "2026.10.13",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.18332v1",
-      "tags": [
-        "气候与碳",
-        "披露监管",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-18128v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Organisation and aggregation of calcium carbonate ions in water via molecular simulation",
-      "summary": "Crystallisation of calcium carbonate (CaCO$_3$) in aqueous solutions is essential for carbon dioxide sequestration and the sustainable production of calcium carbonate materials, which are widely used in industry and increasingly explored for novel applications. While crystallisation is often analysed within the framework of classical nucleation theory, CaCO$…",
-      "score": 6,
-      "publishedDate": "2026.10.13",
-      "eventDate": "2026.10.13",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.18128v1",
-      "tags": [
-        "气候与碳",
-        "自然与生物多样性",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-17611v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "A grand potential for molten-salt electrochemical phase diagrams from first principles",
-      "summary": "The clean-energy transition is driving unprecedented demand for metals, whose extraction is among the largest industrial sources of carbon emissions. Molten-salt electrolysis offers a path toward carbon-free production of aluminum, iron, titanium, and critical metals. However, corrosive operating conditions and complex, multicomponent feedstocks make experim…",
-      "score": 6,
-      "publishedDate": "2026.10.13",
-      "eventDate": "2026.10.13",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.17611v1",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
@@ -329,6 +328,26 @@
         "人工智能",
         "能源效率",
         "供应链与出海"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-28042v1",
+      "date": "2026-10-20",
+      "terms": [
+        "新能源",
+        "能源转型",
+        "气候风险",
+        "水资源",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-28219v1",
+      "date": "2026-10-20",
+      "terms": [
+        "新兴行业",
+        "气候风险",
+        "工作论文"
       ]
     },
     {
@@ -356,6 +375,24 @@
         "新能源",
         "可再生能源",
         "能源转型",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-27376v1",
+      "date": "2026-10-19",
+      "terms": [
+        "新能源",
+        "碳与排放",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-27345v1",
+      "date": "2026-10-19",
+      "terms": [
+        "人工智能",
+        "碳与排放",
         "工作论文"
       ]
     },
@@ -963,7 +1000,7 @@
     "week": {
       "label": "过去一周总结",
       "title": "人工智能、新能源、高排放行业构成过去七日的主要行业信号",
-      "range": "2026.10.13—10.20",
+      "range": "2026.10.14—10.21",
       "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -975,20 +1012,12 @@
           8
         ],
         [
-          "碳与排放",
-          8
-        ],
-        [
           "人工智能",
-          6
+          7
         ],
         [
-          "政策监管",
-          6
-        ],
-        [
-          "绿色金融",
-          6
+          "碳与排放",
+          7
         ],
         [
           "能源转型",
@@ -1003,6 +1032,14 @@
           5
         ],
         [
+          "政策监管",
+          5
+        ],
+        [
+          "气候风险",
+          5
+        ],
+        [
           "水资源",
           5
         ],
@@ -1011,15 +1048,7 @@
           5
         ],
         [
-          "企业出海",
-          4
-        ],
-        [
-          "气候披露",
-          4
-        ],
-        [
-          "气候风险",
+          "新兴行业",
           4
         ],
         [
@@ -1027,23 +1056,27 @@
           4
         ],
         [
+          "绿色金融",
+          4
+        ],
+        [
           "高排放行业",
           4
+        ],
+        [
+          "企业出海",
+          3
         ],
         [
           "数字化与数据",
           3
         ],
         [
-          "新兴行业",
+          "气候披露",
           3
         ],
         [
           "电力系统",
-          3
-        ],
-        [
-          "自然与生物多样性",
           3
         ]
       ]
@@ -1051,8 +1084,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.20—10.20",
-      "copy": "过去30天词频基于 64 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.21—10.21",
+      "copy": "过去30天词频基于 68 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1067,10 +1100,6 @@
           6
         ],
         [
-          "政策监管",
-          6
-        ],
-        [
           "新能源",
           6
         ],
@@ -1079,8 +1108,8 @@
           5
         ],
         [
-          "气候披露",
-          4
+          "政策监管",
+          5
         ],
         [
           "能源转型",
@@ -1088,6 +1117,10 @@
         ],
         [
           "新兴行业",
+          4
+        ],
+        [
+          "气候披露",
           4
         ],
         [
@@ -1103,16 +1136,16 @@
           4
         ],
         [
-          "绿色金融",
-          4
-        ],
-        [
           "水资源",
           4
         ],
         [
-          "高排放行业",
+          "绿色金融",
           4
+        ],
+        [
+          "高排放行业",
+          3
         ],
         [
           "能源效率",
@@ -1317,17 +1350,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 11
+      "items": 8
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 51
+      "items": 49
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 31
+      "items": 34
     },
     {
       "source": "arXiv",
@@ -1335,7 +1368,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 12,
+  "verifiedCandidateCount": 13,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
