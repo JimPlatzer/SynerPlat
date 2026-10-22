@@ -1,8 +1,47 @@
 {
-  "updatedAt": "2026-10-21T04:53:39.987Z",
-  "weekRange": "2026.10.14—10.21",
+  "updatedAt": "2026-10-22T04:53:14.750Z",
+  "weekRange": "2026.10.15—10.22",
   "monthLabel": "2026年10月",
   "stories": [
+    {
+      "id": "doi-10-3389-frai-2026-1969275",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "The AI incident disclosure shadow: tracking AI incidents into U.S. securities filings",
+      "summary": "Introduction Artificial intelligence (AI) systems developed or deployed by public companies are increasingly linked to documented real-world harms, yet whether these AI incidents ever reach investors through securities filings has not been measured. Research on corporate AI transparency has focused on AI risk-factor language rather than on realized events. W…",
+      "score": 8,
+      "publishedDate": "2026.10.21",
+      "eventDate": "2026.10.21",
+      "dateNote": "论文发表",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/frai.2026.1969275",
+      "tags": [
+        "人工智能",
+        "能源转型",
+        "披露监管",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-world-first-taskforce-to-protect-communities-",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "World-first taskforce to protect communities from climate change",
+      "summary": "Communities across the UK will be better protected against the growing threats of climate change and nature loss.",
+      "score": 6,
+      "publishedDate": "2026.10.21",
+      "eventDate": "2026.10.21",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/world-first-taskforce-to-protect-communities-from-climate-change",
+      "tags": [
+        "气候与碳",
+        "自然与生物多样性",
+        "政策法规"
+      ]
+    },
     {
       "id": "doi-10-3389-frsus-2026-1927379",
       "sector": "人工智能",
@@ -56,43 +95,6 @@
       "source": "UK Government",
       "url": "https://www.gov.uk/government/news/16m-fine-for-anglian-waters-pollution-of-essex-river",
       "tags": [
-        "政策法规"
-      ]
-    },
-    {
-      "id": "doi-10-3389-fenrg-2026-1939944",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Governance quality and the renewable-electricity transition: evidence from a 195-country panel, 2000–2023",
-      "summary": "Whether the quality of a country’s institutions shapes how fast it decarbonizes its power sector remains contested, and much of the evidence comes from single regions or now-dated samples. This study links the six World Bank Worldwide Governance Indicators to the renewable share of electricity generation for 195 countries over 2000–2023 (4,359 country-years)…",
-      "score": 8,
-      "publishedDate": "2026.10.14",
-      "eventDate": "2026.10.14",
-      "dateNote": "论文发表",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/fenrg.2026.1939944",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-carbon-capture-and-the-renewal-of-british",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Carbon capture and the renewal of British industry",
-      "summary": "Speech by Minister for Local Energy and Jobs, Martin McCluskey, at the Carbon Capture and Storage Association (CCSA) 2026 annual conference.",
-      "score": 6,
-      "publishedDate": "2026.10.14",
-      "eventDate": "2026.10.14",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/speeches/carbon-capture-and-the-renewal-of-british-industry",
-      "tags": [
-        "气候与碳",
         "政策法规"
       ]
     }
@@ -154,59 +156,40 @@
       ]
     },
     {
-      "id": "doi-10-3389-frai-2026-1969257",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "AI use and risk disclosure by investment advisers",
-      "summary": "Introduction Investment advisers increasingly report using artificial intelligence (AI), but little is known about what they disclose about it in fiduciary filings. The SEC brought its first AI-washing enforcement actions in 2024, so regulators and researchers need a reproducible measure of AI disclosure. We provide large-sample evidence on AI disclosure in…",
-      "score": 7,
-      "publishedDate": "2026.10.14",
-      "eventDate": "2026.10.14",
-      "dateNote": "论文发表",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/frai.2026.1969257",
-      "tags": [
-        "人工智能",
-        "披露监管",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04862-7",
-      "sector": "新能源",
+      "id": "arxiv-arxiv-org-abs-2610-29423v1",
+      "sector": "新兴行业",
       "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Do sustainable practices pay dividends? ESG performance, carbon intensity, and green investment in Indonesia’s energy firms",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 7,
-      "publishedDate": "2026.10.14",
-      "eventDate": "2026.10.14",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04862-7",
+      "event": "工作论文",
+      "title": "Urban climate regressions require representative monitoring networks",
+      "summary": "Land use regression models relate intra-urban air temperature to spatial predictors such as building volume, tree canopy cover and topography, and are increasingly used to produce fine-scale temperature maps. However, the accuracy of these estimates can be compromised by unrepresentative monitoring networks. Here we show that reference weather station networ…",
+      "score": 6,
+      "publishedDate": "2026.10.21",
+      "eventDate": "2026.10.21",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.29423v1",
       "tags": [
         "气候与碳",
-        "同行评审状态待核"
+        "预印本·非同行评审"
       ]
     },
     {
-      "id": "doi-10-1007-s43621-026-04905-z",
+      "id": "arxiv-arxiv-org-abs-2610-29344v1",
       "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Dynamic interactions between gender inequality ICT development and renewable energy",
-      "summary": "Abstract The Sustainable Development Goals form an interconnected system. This study examines the dynamic relationship between socio-economic factors and renewable energy consumption, used as a proxy for one dimension of climate change mitigation. The analysis focuses on gender inequality in education and digital access, captured through a composite Informat…",
-      "score": 7,
-      "publishedDate": "2026.10.14",
-      "eventDate": "2026.10.14",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04905-z",
+      "event": "工作论文",
+      "title": "Climate-Driven Supply-Demand Matching Reshapes Global SolarEV Decarbonization Potential",
+      "summary": "Rooftop photovoltaics (PV) can support rapid urban decarbonization, but their contribution is constrained by the imbalance between PV generation and demand, both shaped by local climate. Growing urban electric-vehicle (EV) deployment creates distributed storage near rooftop PV, shifting PV electricity across time. Here we simulate rooftop PV integrated with…",
+      "score": 6,
+      "publishedDate": "2026.10.21",
+      "eventDate": "2026.10.21",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.29344v1",
       "tags": [
         "能源转型",
         "气候与碳",
-        "同行评审状态待核"
+        "预印本·非同行评审"
       ]
     },
     {
@@ -301,26 +284,66 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2610-19885v1",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Generative modelling for multivariate spatio-temporal downscaling of monthly climate fields",
-      "summary": "Inferring climate fields at higher spatio-temporal resolutions from coarse representations is essential for accessing socioeconomic and environmental impacts. The downscaling of modelled climate fields faces a trade-off between data storage constraints, simulation efficiency, and resolution requirements. While many methods for spatial downscaling have been p…",
-      "score": 6,
-      "publishedDate": "2026.10.14",
-      "eventDate": "2026.10.14",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.19885v1",
+      "id": "doi-10-1007-s44163-026-02540-1",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Current applications of artificial intelligence for advancing agriculture, sustainability and climate mitigation",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.10.17",
+      "eventDate": "2026.10.17",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s44163-026-02540-1",
       "tags": [
+        "人工智能",
         "气候与碳",
-        "供应链与出海",
-        "预印本·非同行评审"
+        "同行评审状态待核"
       ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-3389-frai-2026-1969275",
+      "date": "2026-10-21",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "能源转型",
+        "气候披露"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-world-first-taskforce-to-protect-communities-",
+      "date": "2026-10-21",
+      "terms": [
+        "新兴行业",
+        "政策监管",
+        "气候风险",
+        "自然与生物多样性"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-29423v1",
+      "date": "2026-10-21",
+      "terms": [
+        "新兴行业",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-29344v1",
+      "date": "2026-10-21",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型",
+        "电力系统",
+        "碳与排放",
+        "工作论文"
+      ]
+    },
     {
       "id": "doi-10-3389-frsus-2026-1927379",
       "date": "2026-10-20",
@@ -453,15 +476,6 @@
       ]
     },
     {
-      "id": "doi-10-1007-s43621-026-04862-7",
-      "date": "2026-10-14",
-      "terms": [
-        "新能源",
-        "碳与排放",
-        "绿色金融"
-      ]
-    },
-    {
       "id": "doi-10-1007-s43621-026-04905-z",
       "date": "2026-10-14",
       "terms": [
@@ -470,15 +484,6 @@
         "能源转型",
         "气候风险",
         "数字化与数据"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-carbon-capture-and-the-renewal-of-british",
-      "date": "2026-10-14",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "碳与排放"
       ]
     },
     {
@@ -932,61 +937,19 @@
         "供应链与出海",
         "工作论文"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-24224v1",
-      "date": "2026-09-21",
-      "terms": [
-        "新兴行业",
-        "碳与排放",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-24382v1",
-      "date": "2026-09-21",
-      "terms": [
-        "高风险行业",
-        "气候风险",
-        "绿色金融",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-25432v1",
-      "date": "2026-09-21",
-      "terms": [
-        "新兴行业",
-        "气候风险",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-25437v1",
-      "date": "2026-09-21",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "数据中心",
-        "电力系统",
-        "气候披露",
-        "供应链与出海",
-        "水资源",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
     [
       "人工智能",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
       "→"
     ],
     [
-      "新能源",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
+      "新兴行业",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
       "→"
     ],
     [
@@ -999,56 +962,52 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "人工智能、新能源、高排放行业构成过去七日的主要行业信号",
-      "range": "2026.10.14—10.21",
-      "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "人工智能、新兴行业、高排放行业构成过去七日的主要行业信号",
+      "range": "2026.10.15—10.22",
+      "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "工作论文",
           10
         ],
         [
-          "新能源",
-          8
-        ],
-        [
           "人工智能",
           7
         ],
         [
-          "碳与排放",
-          7
-        ],
-        [
-          "能源转型",
-          6
-        ],
-        [
-          "供应链与出海",
+          "新兴行业",
           5
         ],
         [
-          "可再生能源",
+          "新能源",
+          5
+        ],
+        [
+          "碳与排放",
+          5
+        ],
+        [
+          "能源转型",
           5
         ],
         [
           "政策监管",
-          5
+          4
         ],
         [
           "气候风险",
-          5
+          4
         ],
         [
           "水资源",
-          5
+          4
         ],
         [
-          "能源效率",
-          5
+          "供应链与出海",
+          4
         ],
         [
-          "新兴行业",
+          "可再生能源",
           4
         ],
         [
@@ -1056,20 +1015,12 @@
           4
         ],
         [
-          "绿色金融",
+          "能源效率",
           4
         ],
         [
           "高排放行业",
           4
-        ],
-        [
-          "企业出海",
-          3
-        ],
-        [
-          "数字化与数据",
-          3
         ],
         [
           "气候披露",
@@ -1078,25 +1029,29 @@
         [
           "电力系统",
           3
+        ],
+        [
+          "自然与生物多样性",
+          3
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.21—10.21",
-      "copy": "过去30天词频基于 68 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.22—10.22",
+      "copy": "过去30天词频基于 66 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
           10
         ],
         [
-          "碳与排放",
+          "人工智能",
           6
         ],
         [
-          "人工智能",
+          "碳与排放",
           6
         ],
         [
@@ -1104,16 +1059,16 @@
           6
         ],
         [
-          "气候风险",
-          5
-        ],
-        [
           "政策监管",
           5
         ],
         [
+          "气候风险",
+          5
+        ],
+        [
           "能源转型",
-          4
+          5
         ],
         [
           "新兴行业",
@@ -1128,23 +1083,23 @@
           4
         ],
         [
-          "供应链与出海",
-          4
-        ],
-        [
           "可再生能源",
           4
         ],
         [
-          "水资源",
-          4
+          "供应链与出海",
+          3
         ],
         [
-          "绿色金融",
-          4
+          "水资源",
+          3
         ],
         [
           "高排放行业",
+          3
+        ],
+        [
+          "绿色金融",
           3
         ],
         [
@@ -1156,15 +1111,15 @@
           3
         ],
         [
-          "数据中心",
-          3
-        ],
-        [
           "污染防治",
           3
         ],
         [
           "数字化与数据",
+          3
+        ],
+        [
+          "数据中心",
           3
         ],
         [
@@ -1190,15 +1145,20 @@
         [
           "国际融资",
           2
-        ],
-        [
-          "高风险行业",
-          2
         ]
       ]
     }
   },
   "monthlyHighlights": [
+    {
+      "date": "10.21",
+      "title": "The AI incident disclosure shadow: tracking AI incidents into U.S. securities filings",
+      "summary": "Introduction Artificial intelligence (AI) systems developed or deployed by public companies are increasingly linked to documented real-world harms, yet whether these AI incidents ever reach investors through securities filings has not been measured. Research on corporate AI transparency has focused on AI risk-factor language rather than on realized events. W…",
+      "sector": "人工智能",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/frai.2026.1969275",
+      "score": 8
+    },
     {
       "date": "10.20",
       "title": "Integrated cost–risk optimization of sustainable reverse supply chain networks for medical waste using artificial intelligence with energy consumption and uncertainty considerations",
@@ -1350,7 +1310,7 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 8
+      "items": 5
     },
     {
       "source": "GOV.UK",
@@ -1360,7 +1320,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 34
+      "items": 31
     },
     {
       "source": "arXiv",
@@ -1368,7 +1328,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 13,
+  "verifiedCandidateCount": 8,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
