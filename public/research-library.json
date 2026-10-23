@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-22T04:53:14.750Z",
+  "updatedAt": "2026-10-23T04:56:40.547Z",
   "items": [
+    {
+      "id": "doi-10-1038-s41598-026-72800-8",
+      "type": "学术论文",
+      "title": "Artificial Intelligence, climate policy uncertainty, and renewable energy transition: nonlinear evidence on sustainable energy resilience",
+      "publisher": "Springer Science and Business Media LLC",
+      "date": "2026-10-22",
+      "publishedDate": "2026-10-22",
+      "eventDate": "2026-10-22",
+      "dateNote": "论文发表",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "能源转型",
+        "气候与碳",
+        "同行评审状态待核"
+      ],
+      "summary": "Abstract The transition toward renewable energy is central to achieving sustainable development and climate mitigation objectives. At the same time, artificial intelligence (AI) and climate governance have emerged as critical forces shaping the pace and resilience of clean energy transformation. Despite growing attention to these factors, limited evidence ex…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.1038/s41598-026-72800-8",
+      "featured": false
+    },
     {
       "id": "doi-10-3389-frai-2026-1969275",
       "type": "学术论文",

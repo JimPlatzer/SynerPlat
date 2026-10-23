@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-10-22T04:53:14.750Z",
-  "weekRange": "2026.10.15—10.22",
+  "updatedAt": "2026-10-23T04:56:40.547Z",
+  "weekRange": "2026.10.16—10.23",
   "monthLabel": "2026年10月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-military-planes-and-helicopters-to-fight-wild",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Military planes and helicopters to fight wildfires from the sky",
+      "summary": "Military planes and helicopters will take to the skies to fight wildfires for the first time, as we prepare for future extreme weather driven by climate change.",
+      "score": 6,
+      "publishedDate": "2026.10.22",
+      "eventDate": "2026.10.22",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/military-planes-and-helicopters-to-fight-wildfires-from-the-sky",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
+    },
     {
       "id": "doi-10-3389-frai-2026-1969275",
       "sector": "人工智能",
@@ -100,6 +118,26 @@
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-1038-s41598-026-72800-8",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Artificial Intelligence, climate policy uncertainty, and renewable energy transition: nonlinear evidence on sustainable energy resilience",
+      "summary": "Abstract The transition toward renewable energy is central to achieving sustainable development and climate mitigation objectives. At the same time, artificial intelligence (AI) and climate governance have emerged as critical forces shaping the pace and resilience of clean energy transformation. Despite growing attention to these factors, limited evidence ex…",
+      "score": 7,
+      "publishedDate": "2026.10.22",
+      "eventDate": "2026.10.22",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1038/s41598-026-72800-8",
+      "tags": [
+        "人工智能",
+        "能源转型",
+        "气候与碳",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "arxiv-arxiv-org-abs-2610-28042v1",
       "sector": "新能源",
@@ -284,26 +322,54 @@
       ]
     },
     {
-      "id": "doi-10-1007-s44163-026-02540-1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
+      "id": "doi-10-1007-s10668-026-08230-3",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
       "event": "学术研究",
-      "title": "Current applications of artificial intelligence for advancing agriculture, sustainability and climate mitigation",
+      "title": "Critical bottlenecks of renewable energy deployment and policy interventions for a sustainable green energy transition",
       "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
       "score": 5,
-      "publishedDate": "2026.10.17",
-      "eventDate": "2026.10.17",
+      "publishedDate": "2026.10.22",
+      "eventDate": "2026.10.22",
       "dateNote": "论文发表",
       "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s44163-026-02540-1",
+      "url": "https://doi.org/10.1007/s10668-026-08230-3",
       "tags": [
-        "人工智能",
-        "气候与碳",
+        "能源转型",
         "同行评审状态待核"
       ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1038-s41598-026-72800-8",
+      "date": "2026-10-22",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "可再生能源",
+        "能源转型"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-military-planes-and-helicopters-to-fight-wild",
+      "date": "2026-10-22",
+      "terms": [
+        "新兴行业",
+        "政策监管",
+        "气候风险"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s10668-026-08230-3",
+      "date": "2026-10-22",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "可再生能源",
+        "能源转型"
+      ]
+    },
     {
       "id": "doi-10-3389-frai-2026-1969275",
       "date": "2026-10-21",
@@ -888,55 +954,6 @@
         "气候风险",
         "气候披露"
       ]
-    },
-    {
-      "id": "doi-10-1007-s10668-026-08170-y",
-      "date": "2026-09-22",
-      "terms": [
-        "人工智能",
-        "能源转型",
-        "气候风险"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s10668-026-08132-4",
-      "date": "2026-09-22",
-      "terms": [
-        "新能源",
-        "能源转型",
-        "气候风险",
-        "数字化与数据"
-      ]
-    },
-    {
-      "id": "doi-10-1093-oxfclm-kgag009",
-      "date": "2026-09-22",
-      "terms": [
-        "企业出海",
-        "政策监管",
-        "能源转型",
-        "关键矿产",
-        "公正转型"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-25774v1",
-      "date": "2026-09-22",
-      "terms": [
-        "人工智能",
-        "水资源",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-25953v1",
-      "date": "2026-09-22",
-      "terms": [
-        "企业出海",
-        "气候风险",
-        "供应链与出海",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
@@ -948,8 +965,8 @@
     ],
     [
       "新兴行业",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
       "→"
     ],
     [
@@ -963,8 +980,8 @@
     "week": {
       "label": "过去一周总结",
       "title": "人工智能、新兴行业、高排放行业构成过去七日的主要行业信号",
-      "range": "2026.10.15—10.22",
-      "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "range": "2026.10.16—10.23",
+      "copy": "过去7天当前保留 6 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "工作论文",
@@ -972,14 +989,30 @@
         ],
         [
           "人工智能",
+          8
+        ],
+        [
+          "政策监管",
+          7
+        ],
+        [
+          "能源转型",
           7
         ],
         [
           "新兴行业",
-          5
+          6
         ],
         [
           "新能源",
+          6
+        ],
+        [
+          "可再生能源",
+          5
+        ],
+        [
+          "气候风险",
           5
         ],
         [
@@ -987,27 +1020,11 @@
           5
         ],
         [
-          "能源转型",
-          5
-        ],
-        [
-          "政策监管",
-          4
-        ],
-        [
-          "气候风险",
-          4
-        ],
-        [
           "水资源",
           4
         ],
         [
           "供应链与出海",
-          4
-        ],
-        [
-          "可再生能源",
           4
         ],
         [
@@ -1039,28 +1056,28 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.22—10.22",
-      "copy": "过去30天词频基于 66 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.23—10.23",
+      "copy": "过去30天词频基于 64 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
           10
         ],
         [
+          "碳与排放",
+          6
+        ],
+        [
           "人工智能",
           6
         ],
         [
-          "碳与排放",
+          "政策监管",
           6
         ],
         [
           "新能源",
           6
-        ],
-        [
-          "政策监管",
-          5
         ],
         [
           "气候风险",
@@ -1072,6 +1089,10 @@
         ],
         [
           "新兴行业",
+          5
+        ],
+        [
+          "可再生能源",
           4
         ],
         [
@@ -1083,7 +1104,7 @@
           4
         ],
         [
-          "可再生能源",
+          "高排放行业",
           4
         ],
         [
@@ -1092,10 +1113,6 @@
         ],
         [
           "水资源",
-          3
-        ],
-        [
-          "高排放行业",
           3
         ],
         [
@@ -1115,10 +1132,6 @@
           3
         ],
         [
-          "数字化与数据",
-          3
-        ],
-        [
           "数据中心",
           3
         ],
@@ -1131,15 +1144,11 @@
           2
         ],
         [
+          "数字化与数据",
+          2
+        ],
+        [
           "气候适应",
-          2
-        ],
-        [
-          "公正转型",
-          2
-        ],
-        [
-          "关键矿产",
           2
         ],
         [
@@ -1310,12 +1319,12 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 5
+      "items": 2
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 49
+      "items": 48
     },
     {
       "source": "Crossref",
@@ -1324,11 +1333,11 @@
     },
     {
       "source": "arXiv",
-      "status": "ok",
-      "items": 40
+      "status": "error",
+      "message": "429 https://export.arxiv.org/api/query?search_query=submittedDate%3A%5B202610160000%20TO%20202610232359%5D%20AND%20(all%3Aclimate%20OR%20all%3Asustainability%20OR%20all%3Aemissions"
     }
   ],
-  "verifiedCandidateCount": 8,
+  "verifiedCandidateCount": 9,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
