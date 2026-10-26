@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-10-25T04:46:16.878Z",
-  "weekRange": "2026.10.18—10.25",
+  "updatedAt": "2026-10-26T04:51:40.334Z",
+  "weekRange": "2026.10.19—10.26",
   "monthLabel": "2026年10月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-new-plans-to-end-carbon-dioxide-stunning-of-p",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "New plans to end carbon dioxide stunning of pigs to prevent suffering",
+      "summary": "Carbon dioxide stunning to be replaced with more available humane alternatives",
+      "score": 6,
+      "publishedDate": "2026.10.26",
+      "eventDate": "2026.10.26",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/new-plans-to-end-carbon-dioxide-stunning-of-pigs-to-prevent-suffering",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-speeches-the-role-of-heat-networks-in-the-energy-t",
       "sector": "新能源",
@@ -100,6 +118,25 @@
   ],
   "watchlist": [
     {
+      "id": "arxiv-arxiv-org-abs-2610-32894v1",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "LoCA: Enabling Multi-Modality in Geospatial Location Encoders",
+      "summary": "Location encoders map geographic coordinates to high-dimensional descriptors through contrastive alignment with paired Earth Observation imagery. We prove that this construction is structurally limited: any Lipschitz location encoder produces an output of intrinsic dimension at most 2, regardless of architecture or bandwidth, which forces the contrastive los…",
+      "score": 7,
+      "publishedDate": "2026.10.23",
+      "eventDate": "2026.10.23",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.32894v1",
+      "tags": [
+        "气候与碳",
+        "自然与生物多样性",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "doi-10-1038-s41598-026-72800-8",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -194,6 +231,43 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2610-32859v1",
+      "sector": "绿色金融",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Sustainability of TSFM Deployment and Pretraining: From Carbon Footprint Analysis to Mitigation via Pruning",
+      "summary": "Time Series Foundation Models (TSFMs) offer strong zero-shot forecasting capabilities, but their high pretraining cost raises a practical sustainability question: does this upfront investment pay off over a full deployment lifecycle, compared to supervised standalone models that must be periodically retrained? We model the cumulative carbon cost of different…",
+      "score": 6,
+      "publishedDate": "2026.10.23",
+      "eventDate": "2026.10.23",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.32859v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-32830v1",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "工作论文",
+      "title": "Embodied Emissions of 2.5D and 3D Scaling in Chipletized GPUs for Low-Carbon AI",
+      "summary": "GPU compute resources are scaling to support growing AI workloads, leading to further rises in the climate change impact of hyperscale data centers that rely on high-performance GPUs. To model how packaging decisions impact the carbon footprint we have estimated the embodied emissions (EE) of a chiplet-based GPU that has been scaled in 2.5D and 3D using the…",
+      "score": 6,
+      "publishedDate": "2026.10.23",
+      "eventDate": "2026.10.23",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2610.32830v1",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2610-29423v1",
       "sector": "新兴行业",
       "relevance": "直接 ESG",
@@ -265,64 +339,18 @@
         "能源转型",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-27376v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Green Light: Carbon-Aware Design of Photonic Transformer Accelerators at the Edge",
-      "summary": "Migrating transformer inference to the edge requires sustainability considerations that encompass both operation and manufacturing, rather than operational energy alone. Silicon photonics enables high-bandwidth, low-energy matrix multiplication; however, existing microring-resonator-based Dot Product Unit (DPU) organizations have been tailored to convolution…",
-      "score": 6,
-      "publishedDate": "2026.10.19",
-      "eventDate": "2026.10.19",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.27376v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-27345v1",
-      "sector": "人工智能",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Sustainable Processing-in-DRAM Integration and Replacement for Transformer Inference Servers",
-      "summary": "Processing-in-DRAM (PID) accelerators are emerging as a sustainable alternative to GPUs for transformer model inference. They bring compute to data, mitigate the memory bandwidth limitation, and reduce the overall energy footprint. Yet, carbon analysis of PID accelerators is covered for only a limited set of hardware and workloads. In this work, we present a…",
-      "score": 6,
-      "publishedDate": "2026.10.19",
-      "eventDate": "2026.10.19",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.27345v1",
-      "tags": [
-        "人工智能",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05119-z",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Artificial intelligence and the evolving behaviour of clean energy and green technology market",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.10.25",
-      "eventDate": "2026.10.25",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-05119-z",
-      "tags": [
-        "人工智能",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "govuk-www-gov-uk-government-news-new-plans-to-end-carbon-dioxide-stunning-of-p",
+      "date": "2026-10-26",
+      "terms": [
+        "新兴行业",
+        "政策监管",
+        "碳与排放"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-05119-z",
       "date": "2026-10-25",
@@ -346,6 +374,35 @@
         "新能源",
         "政策监管",
         "能源转型"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-32894v1",
+      "date": "2026-10-23",
+      "terms": [
+        "新兴行业",
+        "自然与生物多样性",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-32859v1",
+      "date": "2026-10-23",
+      "terms": [
+        "绿色金融",
+        "碳与排放",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2610-32830v1",
+      "date": "2026-10-23",
+      "terms": [
+        "人工智能",
+        "数据中心",
+        "气候风险",
+        "碳与排放",
+        "工作论文"
       ]
     },
     {
@@ -873,49 +930,17 @@
         "新能源",
         "可再生能源"
       ]
-    },
-    {
-      "id": "doi-10-3389-frsus-2026-1920930",
-      "date": "2026-09-25",
-      "terms": [
-        "人工智能",
-        "能源效率",
-        "供应链与出海",
-        "学术研究"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-30995v1",
-      "date": "2026-09-25",
-      "terms": [
-        "高排放行业",
-        "气候风险",
-        "自然与生物多样性",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-30747v1",
-      "date": "2026-09-25",
-      "terms": [
-        "人工智能",
-        "数据中心",
-        "电力系统",
-        "碳与排放",
-        "水资源",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
     [
-      "人工智能",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
+      "新兴行业",
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
       "→"
     ],
     [
-      "新兴行业",
+      "人工智能",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
@@ -930,9 +955,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "人工智能、新兴行业、新能源构成过去七日的主要行业信号",
-      "range": "2026.10.18—10.25",
-      "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新兴行业、人工智能、新能源构成过去七日的主要行业信号",
+      "range": "2026.10.19—10.26",
+      "copy": "过去7天当前保留 6 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "工作论文",
@@ -940,26 +965,30 @@
         ],
         [
           "能源转型",
-          9
-        ],
-        [
-          "新能源",
           8
-        ],
-        [
-          "可再生能源",
-          7
-        ],
-        [
-          "政策监管",
-          7
         ],
         [
           "新兴行业",
           7
         ],
         [
+          "新能源",
+          7
+        ],
+        [
+          "政策监管",
+          6
+        ],
+        [
+          "碳与排放",
+          6
+        ],
+        [
           "人工智能",
+          6
+        ],
+        [
+          "可再生能源",
           6
         ],
         [
@@ -967,15 +996,19 @@
           5
         ],
         [
-          "碳与排放",
-          5
+          "能源效率",
+          3
         ],
         [
-          "能源效率",
-          4
+          "自然与生物多样性",
+          3
         ],
         [
           "供应链与出海",
+          3
+        ],
+        [
+          "数据中心",
           3
         ],
         [
@@ -999,7 +1032,7 @@
           3
         ],
         [
-          "自然与生物多样性",
+          "绿色金融",
           3
         ],
         [
@@ -1011,23 +1044,19 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.25—10.25",
-      "copy": "过去30天词频基于 61 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.26—10.26",
+      "copy": "过去30天词频基于 62 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
           10
         ],
         [
-          "新能源",
-          7
-        ],
-        [
           "碳与排放",
           7
         ],
         [
-          "人工智能",
+          "新能源",
           6
         ],
         [
@@ -1035,11 +1064,11 @@
           6
         ],
         [
-          "能源转型",
-          5
+          "人工智能",
+          6
         ],
         [
-          "可再生能源",
+          "能源转型",
           5
         ],
         [
@@ -1047,8 +1076,12 @@
           5
         ],
         [
-          "气候风险",
+          "可再生能源",
           5
+        ],
+        [
+          "气候风险",
+          4
         ],
         [
           "气候披露",
@@ -1063,15 +1096,19 @@
           3
         ],
         [
+          "自然与生物多样性",
+          3
+        ],
+        [
           "水资源",
           3
         ],
         [
-          "能源效率",
+          "绿色金融",
           3
         ],
         [
-          "自然与生物多样性",
+          "能源效率",
           3
         ],
         [
@@ -1087,19 +1124,15 @@
           3
         ],
         [
-          "电力系统",
-          3
-        ],
-        [
-          "绿色金融",
-          3
-        ],
-        [
-          "学术研究",
+          "数字化与数据",
           2
         ],
         [
-          "数字化与数据",
+          "电力系统",
+          2
+        ],
+        [
+          "学术研究",
           2
         ],
         [
@@ -1274,7 +1307,7 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 4
+      "items": 7
     },
     {
       "source": "GOV.UK",
@@ -1292,7 +1325,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 11,
+  "verifiedCandidateCount": 14,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
