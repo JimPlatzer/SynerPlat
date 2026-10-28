@@ -1,6 +1,65 @@
 {
-  "updatedAt": "2026-10-27T05:10:31.545Z",
+  "updatedAt": "2026-10-28T05:46:48.423Z",
   "items": [
+    {
+      "id": "doi-10-3389-frai-2026-1972681",
+      "type": "学术论文",
+      "title": "Climate-smart precision poultry farming: artificial intelligence and sensor-based microclimate control for enhancing welfare and production efficiency",
+      "publisher": "Frontiers Media SA",
+      "date": "2026-10-27",
+      "publishedDate": "2026-10-27",
+      "eventDate": "2026-10-27",
+      "dateNote": "论文发表",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "同行评审状态待核"
+      ],
+      "summary": "Introduction Climate-aware farming has proved to be an innovative way of improving animal welfare and productivity on intensive broiler farms. Innovations in the Internet of Things (IoT) and artificial intelligence (AI) can provide smart systems for monitoring and predicting microclimates. Methods A systematic review of IoT- and AI-enabled microclimate regul…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.3389/frai.2026.1972681",
+      "featured": false
+    },
+    {
+      "id": "doi-10-3389-fclim-2026-1984092",
+      "type": "学术论文",
+      "title": "From Climate Risk Awareness to Climate-Conscious Investment Behavior: the roles of climate disclosure quality, trust, and greenwashing risk",
+      "publisher": "Frontiers Media SA",
+      "date": "2026-10-23",
+      "publishedDate": "2026-10-23",
+      "eventDate": "2026-10-23",
+      "dateNote": "论文发表",
+      "sector": "企业出海",
+      "tags": [
+        "气候与碳",
+        "披露监管",
+        "同行评审状态待核"
+      ],
+      "summary": "Inroduction The present study examines the factors influencing climate-conscious investment behavior among middle-income retail investors in six major metropolitan cities in India using the Stimulus–Organism–Response (S–O–R) framework, Theory of Planned Behavior (TPB), and Signaling theory. Methods Data were collected from 576 middle-income retail investors.…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.3389/fclim.2026.1984092",
+      "featured": false
+    },
+    {
+      "id": "doi-10-3389-frsus-2026-1960302",
+      "type": "学术论文",
+      "title": "Digital innovation and corporate sustainability: how blockchain transparency and green finance drive ESG performance",
+      "publisher": "Frontiers Media SA",
+      "date": "2026-10-21",
+      "publishedDate": "2026-10-21",
+      "eventDate": "2026-10-21",
+      "dateNote": "论文发表",
+      "sector": "企业出海",
+      "tags": [
+        "供应链与出海",
+        "同行评审状态待核"
+      ],
+      "summary": "Digital innovation is fundamentally reshaping how firms convert sustainable financial resources into long-term environmental, social, and governance (ESG) value. This study examines how blockchain transparency, as a digital innovation capability, links green finance to ESG performance. Drawing on a panel dataset of 19,683 firm-year observations from publicly…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.3389/frsus.2026.1960302",
+      "featured": false
+    },
     {
       "id": "doi-10-1007-s43621-026-05061-0",
       "type": "学术论文",

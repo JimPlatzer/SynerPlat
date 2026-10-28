@@ -1,8 +1,103 @@
 {
-  "updatedAt": "2026-10-27T05:10:31.545Z",
-  "weekRange": "2026.10.20—10.27",
+  "updatedAt": "2026-10-28T05:46:48.423Z",
+  "weekRange": "2026.10.21—10.28",
   "monthLabel": "2026年10月",
   "stories": [
+    {
+      "id": "doi-10-3389-frai-2026-1972681",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Climate-smart precision poultry farming: artificial intelligence and sensor-based microclimate control for enhancing welfare and production efficiency",
+      "summary": "Introduction Climate-aware farming has proved to be an innovative way of improving animal welfare and productivity on intensive broiler farms. Innovations in the Internet of Things (IoT) and artificial intelligence (AI) can provide smart systems for monitoring and predicting microclimates. Methods A systematic review of IoT- and AI-enabled microclimate regul…",
+      "score": 8,
+      "publishedDate": "2026.10.27",
+      "eventDate": "2026.10.27",
+      "dateNote": "论文发表",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/frai.2026.1972681",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "fr-2026-21884",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "政策监管",
+      "title": "Critical Material List; Addition of Helium",
+      "summary": "The United States (U.S.) Department of Energy (DOE) is issuing this notice to advise the public that DOE added helium to the DOE Critical Material List. This notice also provides the link to the assessment that forms the justification for including helium on the Critical Material List. Helium is non-substitutable for multiple critical energy functions, inclu…",
+      "score": 6,
+      "publishedDate": "2026.10.27",
+      "eventDate": "2026.10.27",
+      "dateNote": "发布",
+      "source": "Energy Department",
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21884/critical-material-list-addition-of-helium",
+      "tags": [
+        "人工智能",
+        "供应链与出海",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-great-north-road-solar-and-biodiversity-park-",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Great North Road Solar and Biodiversity Park development consent decision announced",
+      "summary": "The Great North Road Solar and Biodiversity Park DCO application has today been granted development consent by the Department for Energy Security and Net Zero.",
+      "score": 6,
+      "publishedDate": "2026.10.27",
+      "eventDate": "2026.10.27",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/great-north-road-solar-and-biodiversity-park-development-consent-decision-announced",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "自然与生物多样性",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-frodsham-solar-development-consent-decision-a",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Frodsham Solar development consent decision announced",
+      "summary": "The Frodsham Solar DCO application has today been granted development consent by the Department for Energy Security and Net Zero.",
+      "score": 6,
+      "publishedDate": "2026.10.27",
+      "eventDate": "2026.10.27",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/frodsham-solar-development-consent-decision-announced",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-gwyndod-supply-chain-mobilised-to-deliver-uks",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Gwyndod supply chain mobilised to deliver UK’s first SMRs",
+      "summary": "More than 400 suppliers came together on Ynys Môn to explore opportunities to support the delivery of Gwyndod.",
+      "score": 6,
+      "publishedDate": "2026.10.27",
+      "eventDate": "2026.10.27",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/gwyndod-supply-chain-mobilised-to-deliver-uks-first-smrs",
+      "tags": [
+        "供应链与出海",
+        "政策法规"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-05061-0",
       "sector": "人工智能",
@@ -113,28 +208,27 @@
         "自然与生物多样性",
         "政策法规"
       ]
-    },
-    {
-      "id": "doi-10-3389-frsus-2026-1927379",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Integrated cost–risk optimization of sustainable reverse supply chain networks for medical waste using artificial intelligence with energy consumption and uncertainty considerations",
-      "summary": "Medical waste generated from laboratories and diagnostic centers has increased considerably in recent years, creating serious environmental and public health concerns. Efficient management of such hazardous waste is essential to reduce disposal risks and ensure sustainable healthcare operations. This study develops a reverse supply chain network for the mana…",
-      "score": 8,
-      "publishedDate": "2026.10.20",
-      "eventDate": "2026.10.20",
-      "dateNote": "论文发表",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/frsus.2026.1927379",
-      "tags": [
-        "人工智能",
-        "供应链与出海",
-        "同行评审状态待核"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-1007-s43621-026-04843-w",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Sustainable economic growth through renewable energy infrastructure investment and policy stability",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.10.27",
+      "eventDate": "2026.10.27",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04843-w",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "arxiv-arxiv-org-abs-2610-32894v1",
       "sector": "新兴行业",
@@ -152,6 +246,25 @@
         "气候与碳",
         "自然与生物多样性",
         "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "doi-10-3389-fclim-2026-1984092",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "From Climate Risk Awareness to Climate-Conscious Investment Behavior: the roles of climate disclosure quality, trust, and greenwashing risk",
+      "summary": "Inroduction The present study examines the factors influencing climate-conscious investment behavior among middle-income retail investors in six major metropolitan cities in India using the Stimulus–Organism–Response (S–O–R) framework, Theory of Planned Behavior (TPB), and Signaling theory. Methods Data were collected from 576 middle-income retail investors.…",
+      "score": 7,
+      "publishedDate": "2026.10.23",
+      "eventDate": "2026.10.23",
+      "dateNote": "论文发表",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/fclim.2026.1984092",
+      "tags": [
+        "气候与碳",
+        "披露监管",
+        "同行评审状态待核"
       ]
     },
     {
@@ -194,22 +307,21 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2610-28042v1",
-      "sector": "新能源",
+      "id": "doi-10-3389-frsus-2026-1960302",
+      "sector": "企业出海",
       "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Hierarchical Bayesian modeling of agrivoltaic dairy-calves under missing information",
-      "summary": "Livestock 5.0 provides a framework to optimize animal welfare and productivity amidst escalating climate change and current pressures to sustainably increase production through limited expansion of agricultural lands, while equilibrating the food-water-energy nexus. Directly tackling the food-water-energy nexus, agrivoltaics emerges as a promising solution f…",
+      "event": "学术研究",
+      "title": "Digital innovation and corporate sustainability: how blockchain transparency and green finance drive ESG performance",
+      "summary": "Digital innovation is fundamentally reshaping how firms convert sustainable financial resources into long-term environmental, social, and governance (ESG) value. This study examines how blockchain transparency, as a digital innovation capability, links green finance to ESG performance. Drawing on a panel dataset of 19,683 firm-year observations from publicly…",
       "score": 7,
-      "publishedDate": "2026.10.20",
-      "eventDate": "2026.10.20",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.28042v1",
+      "publishedDate": "2026.10.21",
+      "eventDate": "2026.10.21",
+      "dateNote": "论文发表",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/frsus.2026.1960302",
       "tags": [
-        "能源转型",
-        "气候与碳",
-        "预印本·非同行评审"
+        "供应链与出海",
+        "同行评审状态待核"
       ]
     },
     {
@@ -324,46 +436,70 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-29423v1",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Urban climate regressions require representative monitoring networks",
-      "summary": "Land use regression models relate intra-urban air temperature to spatial predictors such as building volume, tree canopy cover and topography, and are increasingly used to produce fine-scale temperature maps. However, the accuracy of these estimates can be compromised by unrepresentative monitoring networks. Here we show that reference weather station networ…",
-      "score": 6,
-      "publishedDate": "2026.10.21",
-      "eventDate": "2026.10.21",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.29423v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-29344v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Climate-Driven Supply-Demand Matching Reshapes Global SolarEV Decarbonization Potential",
-      "summary": "Rooftop photovoltaics (PV) can support rapid urban decarbonization, but their contribution is constrained by the imbalance between PV generation and demand, both shaped by local climate. Growing urban electric-vehicle (EV) deployment creates distributed storage near rooftop PV, shifting PV electricity across time. Here we simulate rooftop PV integrated with…",
-      "score": 6,
-      "publishedDate": "2026.10.21",
-      "eventDate": "2026.10.21",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.29344v1",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-3389-frai-2026-1972681",
+      "date": "2026-10-27",
+      "terms": [
+        "人工智能",
+        "能源效率",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04843-w",
+      "date": "2026-10-27",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "可再生能源",
+        "能源转型",
+        "绿色金融"
+      ]
+    },
+    {
+      "id": "fr-2026-21884",
+      "date": "2026-10-27",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "供应链与出海"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-great-north-road-solar-and-biodiversity-park-",
+      "date": "2026-10-27",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "可再生能源",
+        "能源转型",
+        "碳与排放",
+        "自然与生物多样性"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-frodsham-solar-development-consent-decision-a",
+      "date": "2026-10-27",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "可再生能源",
+        "能源转型",
+        "碳与排放"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-gwyndod-supply-chain-mobilised-to-deliver-uks",
+      "date": "2026-10-27",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "供应链与出海"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-new-plans-to-end-carbon-dioxide-stunning-of-p",
       "date": "2026-10-26",
@@ -484,6 +620,17 @@
       ]
     },
     {
+      "id": "doi-10-3389-fclim-2026-1984092",
+      "date": "2026-10-23",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "气候风险",
+        "气候披露",
+        "绿色金融"
+      ]
+    },
+    {
       "id": "doi-10-1038-s41598-026-72800-8",
       "date": "2026-10-22",
       "terms": [
@@ -564,6 +711,16 @@
       ]
     },
     {
+      "id": "doi-10-3389-frsus-2026-1960302",
+      "date": "2026-10-21",
+      "terms": [
+        "企业出海",
+        "数字化与数据",
+        "供应链与出海",
+        "绿色金融"
+      ]
+    },
+    {
       "id": "doi-10-3389-frsus-2026-1927379",
       "date": "2026-10-20",
       "terms": [
@@ -590,14 +747,6 @@
         "新兴行业",
         "气候风险",
         "工作论文"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04649-w",
-      "date": "2026-10-20",
-      "terms": [
-        "新能源",
-        "可再生能源"
       ]
     },
     {
@@ -992,29 +1141,13 @@
         "高排放行业",
         "工作论文"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04693-6",
-      "date": "2026-09-27",
-      "terms": [
-        "新能源",
-        "能源转型"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04807-0",
-      "date": "2026-09-27",
-      "terms": [
-        "新能源",
-        "可再生能源"
-      ]
     }
   ],
   "sectorInsights": [
     [
       "人工智能",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
+      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      4,
       "→"
     ],
     [
@@ -1025,6 +1158,12 @@
     ],
     [
       "新能源",
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
+      "→"
+    ],
+    [
+      "企业出海",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
@@ -1034,32 +1173,36 @@
     "week": {
       "label": "过去一周总结",
       "title": "人工智能、新兴行业、新能源构成过去七日的主要行业信号",
-      "range": "2026.10.20—10.27",
-      "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "range": "2026.10.21—10.28",
+      "copy": "过去7天当前保留 11 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "工作论文",
+          "政策监管",
           10
         ],
         [
           "人工智能",
-          9
+          8
         ],
         [
-          "政策监管",
-          7
-        ],
-        [
-          "新兴行业",
-          7
+          "工作论文",
+          8
         ],
         [
           "能源转型",
-          7
+          8
         ],
         [
           "碳与排放",
           7
+        ],
+        [
+          "可再生能源",
+          6
+        ],
+        [
+          "新兴行业",
+          6
         ],
         [
           "新能源",
@@ -1067,22 +1210,34 @@
         ],
         [
           "气候风险",
-          6
-        ],
-        [
-          "可再生能源",
           5
         ],
         [
           "电力系统",
-          5
+          4
         ],
         [
-          "数据中心",
-          3
+          "绿色金融",
+          4
+        ],
+        [
+          "企业出海",
+          4
+        ],
+        [
+          "供应链与出海",
+          4
         ],
         [
           "气候披露",
+          4
+        ],
+        [
+          "自然与生物多样性",
+          4
+        ],
+        [
+          "数据中心",
           3
         ],
         [
@@ -1090,23 +1245,15 @@
           3
         ],
         [
-          "自然与生物多样性",
+          "学术研究",
           3
         ],
         [
-          "供应链与出海",
-          3
-        ],
-        [
-          "水资源",
+          "数字化与数据",
           3
         ],
         [
           "绿色技术与资源效率",
-          3
-        ],
-        [
-          "绿色金融",
           3
         ]
       ]
@@ -1114,8 +1261,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.27—10.27",
-      "copy": "过去30天词频基于 68 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.28—10.28",
+      "copy": "过去30天词频基于 73 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1126,32 +1273,32 @@
           7
         ],
         [
+          "政策监管",
+          7
+        ],
+        [
           "人工智能",
-          6
+          7
         ],
         [
           "新能源",
           6
         ],
         [
-          "政策监管",
-          6
+          "能源转型",
+          5
         ],
         [
           "新兴行业",
           5
         ],
         [
-          "能源转型",
+          "可再生能源",
           5
         ],
         [
-          "可再生能源",
-          4
-        ],
-        [
           "气候风险",
-          4
+          5
         ],
         [
           "气候披露",
@@ -1159,14 +1306,14 @@
         ],
         [
           "企业出海",
-          3
+          4
         ],
         [
           "供应链与出海",
-          3
+          4
         ],
         [
-          "电力系统",
+          "绿色金融",
           3
         ],
         [
@@ -1178,6 +1325,10 @@
           3
         ],
         [
+          "电力系统",
+          3
+        ],
+        [
           "数据中心",
           3
         ],
@@ -1186,20 +1337,16 @@
           3
         ],
         [
-          "绿色金融",
+          "高排放行业",
           3
         ],
         [
-          "高排放行业",
+          "数字化与数据",
           3
         ],
         [
           "污染防治",
           3
-        ],
-        [
-          "数字化与数据",
-          2
         ],
         [
           "学术研究",
@@ -1217,6 +1364,15 @@
     }
   },
   "monthlyHighlights": [
+    {
+      "date": "10.27",
+      "title": "Climate-smart precision poultry farming: artificial intelligence and sensor-based microclimate control for enhancing welfare and production efficiency",
+      "summary": "Introduction Climate-aware farming has proved to be an innovative way of improving animal welfare and productivity on intensive broiler farms. Innovations in the Internet of Things (IoT) and artificial intelligence (AI) can provide smart systems for monitoring and predicting microclimates. Methods A systematic review of IoT- and AI-enabled microclimate regul…",
+      "sector": "人工智能",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/frai.2026.1972681",
+      "score": 8
+    },
     {
       "date": "10.26",
       "title": "Energy access, global integration, human development, and institutional complementarity for artificial intelligence development in Africa",
@@ -1386,17 +1542,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 6
+      "items": 9
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 50
+      "items": 51
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 37
+      "items": 36
     },
     {
       "source": "arXiv",
@@ -1404,7 +1560,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 17,
+  "verifiedCandidateCount": 18,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
