@@ -1,8 +1,45 @@
 {
-  "updatedAt": "2026-10-28T05:46:48.423Z",
-  "weekRange": "2026.10.21—10.28",
+  "updatedAt": "2026-10-29T05:52:24.190Z",
+  "weekRange": "2026.10.22—10.29",
   "monthLabel": "2026年10月",
   "stories": [
+    {
+      "id": "fr-2026-21989",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "政策监管",
+      "title": "ETC Tiger Pipeline, LLC; Notice of Schedule for the Preparation of an Environmental Assessment for the Franklin Farms Project",
+      "summary": "would enable ETC Tiger to provide Entergy Louisiana, LLC with 250,000 dekatherms per day of firm transportation service mainline capacity and 1,000,000 dekatherms per day of capacity on a newly constructed lateral for a new artificial intelligence data center campus in Richland Parish, Louisiana. On July 16, 2026, the Federal Energy Regulatory Commission (Co…",
+      "score": 6,
+      "publishedDate": "2026.10.28",
+      "eventDate": "2026.10.28",
+      "dateNote": "发布",
+      "source": "Energy Department / Federal Energy Regulatory Commission",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21989/etc-tiger-pipeline-llc-notice-of-schedule-for-the-preparation-of-an-environmental-assessment-for-the",
+      "tags": [
+        "人工智能",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-8th-uk-taiwan-energy-dialogue-and-21st-uk-tai",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "8th UK-Taiwan Energy Dialogue and 21st UK-Taiwan Renewable Energy Conference",
+      "summary": "The conference advanced cooperation on energy security, offshore wind, and carbon capture, utilisation, and storage (CCUS).…",
+      "score": 6,
+      "publishedDate": "2026.10.28",
+      "eventDate": "2026.10.28",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/8th-uk-taiwan-energy-dialogue-and-21st-uk-taiwan-renewable-energy-conference",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "政策法规"
+      ]
+    },
     {
       "id": "doi-10-3389-frai-2026-1972681",
       "sector": "人工智能",
@@ -169,45 +206,6 @@
         "气候与碳",
         "政策法规"
       ]
-    },
-    {
-      "id": "doi-10-3389-frai-2026-1969275",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "The AI incident disclosure shadow: tracking AI incidents into U.S. securities filings",
-      "summary": "Introduction Artificial intelligence (AI) systems developed or deployed by public companies are increasingly linked to documented real-world harms, yet whether these AI incidents ever reach investors through securities filings has not been measured. Research on corporate AI transparency has focused on AI risk-factor language rather than on realized events. W…",
-      "score": 8,
-      "publishedDate": "2026.10.21",
-      "eventDate": "2026.10.21",
-      "dateNote": "论文发表",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/frai.2026.1969275",
-      "tags": [
-        "人工智能",
-        "能源转型",
-        "披露监管",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-world-first-taskforce-to-protect-communities-",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "World-first taskforce to protect communities from climate change",
-      "summary": "Communities across the UK will be better protected against the growing threats of climate change and nature loss.",
-      "score": 6,
-      "publishedDate": "2026.10.21",
-      "eventDate": "2026.10.21",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/world-first-taskforce-to-protect-communities-from-climate-change",
-      "tags": [
-        "气候与碳",
-        "自然与生物多样性",
-        "政策法规"
-      ]
     }
   ],
   "watchlist": [
@@ -304,24 +302,6 @@
         "能源转型",
         "气候与碳",
         "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "doi-10-3389-frsus-2026-1960302",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Digital innovation and corporate sustainability: how blockchain transparency and green finance drive ESG performance",
-      "summary": "Digital innovation is fundamentally reshaping how firms convert sustainable financial resources into long-term environmental, social, and governance (ESG) value. This study examines how blockchain transparency, as a digital innovation capability, links green finance to ESG performance. Drawing on a panel dataset of 19,683 firm-year observations from publicly…",
-      "score": 7,
-      "publishedDate": "2026.10.21",
-      "eventDate": "2026.10.21",
-      "dateNote": "论文发表",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/frsus.2026.1960302",
-      "tags": [
-        "供应链与出海",
-        "同行评审状态待核"
       ]
     },
     {
@@ -436,9 +416,47 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04934-8",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Assessing the impact of artificial intelligence on energy justice in China",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.10.26",
+      "eventDate": "2026.10.26",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04934-8",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
+      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "fr-2026-21989",
+      "date": "2026-10-28",
+      "terms": [
+        "人工智能",
+        "政策监管",
+        "数据中心"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-8th-uk-taiwan-energy-dialogue-and-21st-uk-tai",
+      "date": "2026-10-28",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "可再生能源",
+        "能源转型",
+        "碳与排放"
+      ]
+    },
     {
       "id": "doi-10-3389-frai-2026-1972681",
       "date": "2026-10-27",
@@ -678,16 +696,6 @@
         "政策监管",
         "能源转型",
         "气候披露"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-world-first-taskforce-to-protect-communities-",
-      "date": "2026-10-21",
-      "terms": [
-        "新兴行业",
-        "政策监管",
-        "气候风险",
-        "自然与生物多样性"
       ]
     },
     {
@@ -1075,72 +1083,6 @@
       "terms": [
         "人工智能"
       ]
-    },
-    {
-      "id": "fr-2026-19774",
-      "date": "2026-09-28",
-      "terms": [
-        "高排放行业",
-        "政策监管",
-        "碳与排放",
-        "污染防治"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04793-3",
-      "date": "2026-09-28",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "能源转型"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s10462-026-11681-9",
-      "date": "2026-09-28",
-      "terms": [
-        "人工智能",
-        "可再生能源",
-        "碳与排放",
-        "学术研究"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-35420v1",
-      "date": "2026-09-28",
-      "terms": [
-        "新兴行业",
-        "气候风险",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-35569v1",
-      "date": "2026-09-28",
-      "terms": [
-        "新能源",
-        "碳与排放",
-        "自然与生物多样性",
-        "水资源",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-35309v1",
-      "date": "2026-09-28",
-      "terms": [
-        "新兴行业",
-        "气候风险",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-34966v1",
-      "date": "2026-09-28",
-      "terms": [
-        "高排放行业",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1151,15 +1093,15 @@
       "→"
     ],
     [
-      "新兴行业",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
+      "新能源",
+      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      4,
       "→"
     ],
     [
-      "新能源",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
+      "新兴行业",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
       "→"
     ],
     [
@@ -1172,8 +1114,8 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "人工智能、新兴行业、新能源构成过去七日的主要行业信号",
-      "range": "2026.10.21—10.28",
+      "title": "人工智能、新能源、新兴行业构成过去七日的主要行业信号",
+      "range": "2026.10.22—10.29",
       "copy": "过去7天当前保留 11 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1185,15 +1127,15 @@
           8
         ],
         [
-          "工作论文",
-          8
+          "碳与排放",
+          7
         ],
         [
           "能源转型",
-          8
+          7
         ],
         [
-          "碳与排放",
+          "工作论文",
           7
         ],
         [
@@ -1201,16 +1143,20 @@
           6
         ],
         [
-          "新兴行业",
-          6
-        ],
-        [
           "新能源",
           6
         ],
         [
-          "气候风险",
+          "新兴行业",
           5
+        ],
+        [
+          "气候风险",
+          4
+        ],
+        [
+          "数据中心",
+          4
         ],
         [
           "电力系统",
@@ -1222,22 +1168,14 @@
         ],
         [
           "企业出海",
-          4
+          3
         ],
         [
           "供应链与出海",
-          4
+          3
         ],
         [
           "气候披露",
-          4
-        ],
-        [
-          "自然与生物多样性",
-          4
-        ],
-        [
-          "数据中心",
           3
         ],
         [
@@ -1245,11 +1183,11 @@
           3
         ],
         [
-          "学术研究",
+          "自然与生物多样性",
           3
         ],
         [
-          "数字化与数据",
+          "学术研究",
           3
         ],
         [
@@ -1261,19 +1199,19 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.28—10.28",
-      "copy": "过去30天词频基于 73 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.09.29—10.29",
+      "copy": "过去30天词频基于 67 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
           10
         ],
         [
-          "碳与排放",
+          "政策监管",
           7
         ],
         [
-          "政策监管",
+          "碳与排放",
           7
         ],
         [
@@ -1286,6 +1224,10 @@
         ],
         [
           "能源转型",
+          6
+        ],
+        [
+          "可再生能源",
           5
         ],
         [
@@ -1293,15 +1235,11 @@
           5
         ],
         [
-          "可再生能源",
-          5
+          "气候披露",
+          4
         ],
         [
           "气候风险",
-          5
-        ],
-        [
-          "气候披露",
           4
         ],
         [
@@ -1314,18 +1252,10 @@
         ],
         [
           "绿色金融",
-          3
+          4
         ],
         [
           "能源效率",
-          3
-        ],
-        [
-          "自然与生物多样性",
-          3
-        ],
-        [
-          "电力系统",
           3
         ],
         [
@@ -1333,11 +1263,11 @@
           3
         ],
         [
-          "水资源",
+          "电力系统",
           3
         ],
         [
-          "高排放行业",
+          "自然与生物多样性",
           3
         ],
         [
@@ -1345,8 +1275,16 @@
           3
         ],
         [
-          "污染防治",
+          "水资源",
           3
+        ],
+        [
+          "污染防治",
+          2
+        ],
+        [
+          "高排放行业",
+          2
         ],
         [
           "学术研究",
@@ -1542,17 +1480,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 9
+      "items": 10
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 51
+      "items": 50
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 36
+      "items": 33
     },
     {
       "source": "arXiv",
@@ -1560,7 +1498,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 18,
+  "verifiedCandidateCount": 16,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
