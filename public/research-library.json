@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-10-29T05:52:24.190Z",
+  "updatedAt": "2026-10-30T05:53:27.863Z",
   "items": [
+    {
+      "id": "fr-2026-22082",
+      "type": "政策法规",
+      "title": "Additional Reconsideration Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+      "publisher": "Environmental Protection Agency",
+      "date": "2026-10-29",
+      "publishedDate": "2026-10-29",
+      "eventDate": "2026-10-29",
+      "dateNote": "发布",
+      "sector": "高排放行业",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ],
+      "summary": "The U.S. Environmental Protection Agency (EPA) is proposing amendments to the New Source Performance Standards and Emission Guidelines for the Crude Oil and Natural Gas Source Category to address additional concerns raised with prior regulatory amendments finalized in March 2024. Specifically, the EPA is proposing changes in response to certain petitions for…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22082/additional-reconsideration-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
+      "featured": false
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-environment-secretary-commits-to-take-further",
+      "type": "政策法规",
+      "title": "Environment Secretary commits to take further action against water bosses over pollution",
+      "publisher": "UK Government",
+      "date": "2026-10-29",
+      "publishedDate": "2026-10-29",
+      "eventDate": "2026-10-29",
+      "dateNote": "发布",
+      "sector": "高排放行业",
+      "tags": [
+        "政策法规"
+      ],
+      "summary": "Government’s first ever joint regulator report leaves nowhere to hide for water companies.",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://www.gov.uk/government/news/environment-secretary-commits-to-take-further-action-against-water-bosses-over-pollution",
+      "featured": false
+    },
+    {
+      "id": "doi-10-1007-s44163-026-02607-z",
+      "type": "学术论文",
+      "title": "A systematic review of artificial intelligence driven energy management in smart grids",
+      "publisher": "Springer Science and Business Media LLC",
+      "date": "2026-10-29",
+      "publishedDate": "2026-10-29",
+      "eventDate": "2026-10-29",
+      "dateNote": "论文发表",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "披露监管",
+        "同行评审状态待核"
+      ],
+      "summary": "Abstract The rapid migration of electrical grids towards Smart Grid (SG) architectures produces high-dimensional data streams that must be processed intelligently in real time. Traditional modelling, optimisation, and control approaches cannot handle the growing complexity of contemporary power systems. This comprehensive study aims to provide a synopsis of…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.1007/s44163-026-02607-z",
+      "featured": false
+    },
     {
       "id": "doi-10-3389-frai-2026-1972681",
       "type": "学术论文",
