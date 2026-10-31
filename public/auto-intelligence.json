@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-10-30T05:53:27.863Z",
-  "weekRange": "2026.10.23—10.30",
+  "updatedAt": "2026-10-31T05:48:50.223Z",
+  "weekRange": "2026.10.24—10.31",
   "monthLabel": "2026年10月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-sea-link-development-consent-decision-announc",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Sea Link development consent decision announced",
+      "summary": "The Sea Link DCO application has today been granted development consent by the Department for Energy Security and Net Zero.…",
+      "score": 6,
+      "publishedDate": "2026.10.30",
+      "eventDate": "2026.10.30",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/sea-link-development-consent-decision-announced",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
+    },
     {
       "id": "fr-2026-22082",
       "sector": "高排放行业",
@@ -240,27 +258,27 @@
         "气候与碳",
         "政策法规"
       ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-the-role-of-heat-networks-in-the-energy-t",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "The role of heat networks in the energy transition",
-      "summary": "Speech by Minister for Local Energy and Jobs, Martin McCluskey, on heat networks to the ADE Heat Network Conference…",
-      "score": 6,
-      "publishedDate": "2026.10.23",
-      "eventDate": "2026.10.23",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/speeches/the-role-of-heat-networks-in-the-energy-transition",
-      "tags": [
-        "能源转型",
-        "政策法规"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-1007-s43621-026-05186-2",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Governance moderators on the nexus between FinTech and ESG disclosure in Saudi banks",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.10.30",
+      "eventDate": "2026.10.30",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-05186-2",
+      "tags": [
+        "披露监管",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "doi-10-1007-s44163-026-02607-z",
       "sector": "人工智能",
@@ -296,44 +314,6 @@
       "url": "https://doi.org/10.1007/s43621-026-04843-w",
       "tags": [
         "能源转型",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-32894v1",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "LoCA: Enabling Multi-Modality in Geospatial Location Encoders",
-      "summary": "Location encoders map geographic coordinates to high-dimensional descriptors through contrastive alignment with paired Earth Observation imagery. We prove that this construction is structurally limited: any Lipschitz location encoder produces an output of intrinsic dimension at most 2, regardless of architecture or bandwidth, which forces the contrastive los…",
-      "score": 7,
-      "publishedDate": "2026.10.23",
-      "eventDate": "2026.10.23",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.32894v1",
-      "tags": [
-        "气候与碳",
-        "自然与生物多样性",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "doi-10-3389-fclim-2026-1984092",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "From Climate Risk Awareness to Climate-Conscious Investment Behavior: the roles of climate disclosure quality, trust, and greenwashing risk",
-      "summary": "Inroduction The present study examines the factors influencing climate-conscious investment behavior among middle-income retail investors in six major metropolitan cities in India using the Stimulus–Organism–Response (S–O–R) framework, Theory of Planned Behavior (TPB), and Signaling theory. Methods Data were collected from 576 middle-income retail investors.…",
-      "score": 7,
-      "publishedDate": "2026.10.23",
-      "eventDate": "2026.10.23",
-      "dateNote": "论文发表",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/fclim.2026.1984092",
-      "tags": [
-        "气候与碳",
-        "披露监管",
         "同行评审状态待核"
       ]
     },
@@ -414,40 +394,21 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2610-32859v1",
-      "sector": "绿色金融",
+      "id": "doi-10-1038-s41893-026-01974-w",
+      "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Sustainability of TSFM Deployment and Pretraining: From Carbon Footprint Analysis to Mitigation via Pruning",
-      "summary": "Time Series Foundation Models (TSFMs) offer strong zero-shot forecasting capabilities, but their high pretraining cost raises a practical sustainability question: does this upfront investment pay off over a full deployment lifecycle, compared to supervised standalone models that must be periodically retrained? We model the cumulative carbon cost of different…",
-      "score": 6,
-      "publishedDate": "2026.10.23",
-      "eventDate": "2026.10.23",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.32859v1",
+      "event": "学术研究",
+      "title": "Far-right slows energy transition",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.10.30",
+      "eventDate": "2026.10.30",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1038/s41893-026-01974-w",
       "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-32830v1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "工作论文",
-      "title": "Embodied Emissions of 2.5D and 3D Scaling in Chipletized GPUs for Low-Carbon AI",
-      "summary": "GPU compute resources are scaling to support growing AI workloads, leading to further rises in the climate change impact of hyperscale data centers that rely on high-performance GPUs. To model how packaging decisions impact the carbon footprint we have estimated the embodied emissions (EE) of a chiplet-based GPU that has been scaled in 2.5D and 3D using the…",
-      "score": 6,
-      "publishedDate": "2026.10.23",
-      "eventDate": "2026.10.23",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.32830v1",
-      "tags": [
-        "人工智能",
-        "气候与碳",
-        "预印本·非同行评审"
+        "能源转型",
+        "同行评审状态待核"
       ]
     },
     {
@@ -485,9 +446,70 @@
         "人工智能",
         "同行评审状态待核"
       ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-05119-z",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Artificial intelligence and the evolving behaviour of clean energy and green technology market",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.10.25",
+      "eventDate": "2026.10.25",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-05119-z",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-05091-8",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Sustainability accounting education and ESG career readiness among accounting and auditing students in Vietnam",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.10.25",
+      "eventDate": "2026.10.25",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-05091-8",
+      "tags": [
+        "同行评审状态待核"
+      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s43621-026-05186-2",
+      "date": "2026-10-30",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "气候披露"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-sea-link-development-consent-decision-announc",
+      "date": "2026-10-30",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "碳与排放"
+      ]
+    },
+    {
+      "id": "doi-10-1038-s41893-026-01974-w",
+      "date": "2026-10-30",
+      "terms": [
+        "新能源",
+        "能源转型"
+      ]
+    },
     {
       "id": "fr-2026-22082",
       "date": "2026-10-29",
@@ -703,29 +725,6 @@
       "date": "2026-10-25",
       "terms": [
         "新兴行业"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05094-5",
-      "date": "2026-10-25",
-      "terms": [
-        "新兴行业"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05052-1",
-      "date": "2026-10-24",
-      "terms": [
-        "人工智能"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-the-role-of-heat-networks-in-the-energy-t",
-      "date": "2026-10-23",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "能源转型"
       ]
     },
     {
@@ -1158,32 +1157,6 @@
         "气候披露",
         "工作论文"
       ]
-    },
-    {
-      "id": "doi-10-3389-fenvs-2026-1936215",
-      "date": "2026-09-30",
-      "terms": [
-        "人工智能",
-        "可再生能源",
-        "能源转型",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2609-38846v1",
-      "date": "2026-09-30",
-      "terms": [
-        "新兴行业",
-        "气候风险",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "doi-10-3389-feduc-2026-1949575",
-      "date": "2026-09-30",
-      "terms": [
-        "人工智能"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1222,7 +1195,7 @@
     "week": {
       "label": "过去一周总结",
       "title": "新能源、人工智能、新兴行业构成过去七日的主要行业信号",
-      "range": "2026.10.23—10.30",
+      "range": "2026.10.24—10.31",
       "copy": "过去7天当前保留 14 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1231,18 +1204,14 @@
         ],
         [
           "人工智能",
-          8
-        ],
-        [
-          "碳与排放",
           7
         ],
         [
-          "工作论文",
+          "碳与排放",
           6
         ],
         [
-          "新兴行业",
+          "新能源",
           6
         ],
         [
@@ -1250,7 +1219,7 @@
           6
         ],
         [
-          "新能源",
+          "新兴行业",
           5
         ],
         [
@@ -1258,7 +1227,7 @@
           4
         ],
         [
-          "气候风险",
+          "工作论文",
           4
         ],
         [
@@ -1266,15 +1235,7 @@
           4
         ],
         [
-          "数据中心",
-          4
-        ],
-        [
           "气候披露",
-          4
-        ],
-        [
-          "绿色金融",
           4
         ],
         [
@@ -1290,11 +1251,15 @@
           3
         ],
         [
-          "能源效率",
+          "数据中心",
           3
         ],
         [
-          "自然与生物多样性",
+          "气候风险",
+          3
+        ],
+        [
+          "能源效率",
           3
         ],
         [
@@ -1312,14 +1277,22 @@
         [
           "绿色技术与资源效率",
           3
+        ],
+        [
+          "绿色金融",
+          3
+        ],
+        [
+          "自然与生物多样性",
+          3
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.09.30—10.30",
-      "copy": "过去30天词频基于 73 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.01—10.31",
+      "copy": "过去30天词频基于 70 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1330,28 +1303,32 @@
           8
         ],
         [
-          "人工智能",
-          8
-        ],
-        [
           "碳与排放",
           8
         ],
         [
+          "人工智能",
+          7
+        ],
+        [
           "新能源",
-          6
+          7
         ],
         [
           "能源转型",
           6
         ],
         [
+          "气候披露",
+          5
+        ],
+        [
           "新兴行业",
           5
         ],
         [
-          "气候披露",
-          5
+          "企业出海",
+          4
         ],
         [
           "可再生能源",
@@ -1359,10 +1336,6 @@
         ],
         [
           "气候风险",
-          4
-        ],
-        [
-          "企业出海",
           4
         ],
         [
@@ -1617,17 +1590,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 15
+      "items": 14
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 51
+      "items": 48
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 39
+      "items": 44
     },
     {
       "source": "arXiv",
@@ -1635,7 +1608,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 22,
+  "verifiedCandidateCount": 17,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
