@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-31T05:48:50.223Z",
-  "weekRange": "2026.10.24—10.31",
-  "monthLabel": "2026年10月",
+  "updatedAt": "2026-11-01T06:12:02.718Z",
+  "weekRange": "2026.10.25—11.01",
+  "monthLabel": "2026年11月",
   "stories": [
     {
       "id": "govuk-www-gov-uk-government-news-sea-link-development-consent-decision-announc",
@@ -394,6 +394,44 @@
       ]
     },
     {
+      "id": "doi-10-1109-esm-2026-3729527",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Artificial Intelligence-Driven Hydrogen Aggregation for High Renewable Energy Penetrated Power System: Electricity–Hydrogen Virtual Energy Pool",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.11.01",
+      "eventDate": "2026.11.01",
+      "dateNote": "论文发表",
+      "source": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "url": "https://doi.org/10.1109/esm.2026.3729527",
+      "tags": [
+        "人工智能",
+        "能源转型",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1016-j-seta-2026-105528",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Artificial intelligence, energy transition, and firm performance: evidence from listed energy companies",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.11.01",
+      "eventDate": "2026.11.01",
+      "dateNote": "论文发表",
+      "source": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.seta.2026.105528",
+      "tags": [
+        "人工智能",
+        "能源转型",
+        "同行评审状态待核"
+      ]
+    },
+    {
       "id": "doi-10-1038-s41893-026-01974-w",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -446,44 +484,27 @@
         "人工智能",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05119-z",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Artificial intelligence and the evolving behaviour of clean energy and green technology market",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.10.25",
-      "eventDate": "2026.10.25",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-05119-z",
-      "tags": [
-        "人工智能",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05091-8",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Sustainability accounting education and ESG career readiness among accounting and auditing students in Vietnam",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.10.25",
-      "eventDate": "2026.10.25",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-05091-8",
-      "tags": [
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1109-esm-2026-3729527",
+      "date": "2026-11-01",
+      "terms": [
+        "人工智能",
+        "可再生能源",
+        "能源转型",
+        "电力系统"
+      ]
+    },
+    {
+      "id": "doi-10-1016-j-seta-2026-105528",
+      "date": "2026-11-01",
+      "terms": [
+        "人工智能",
+        "能源转型"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-05186-2",
       "date": "2026-10-30",
@@ -1126,37 +1147,6 @@
         "自然与生物多样性",
         "工作论文"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-01647v1",
-      "date": "2026-10-01",
-      "terms": [
-        "人工智能",
-        "数据中心",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-01619v1",
-      "date": "2026-10-01",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "碳与排放",
-        "气候披露",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-01116v1",
-      "date": "2026-10-01",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "碳与排放",
-        "气候披露",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1195,7 +1185,7 @@
     "week": {
       "label": "过去一周总结",
       "title": "新能源、人工智能、新兴行业构成过去七日的主要行业信号",
-      "range": "2026.10.24—10.31",
+      "range": "2026.10.25—11.01",
       "copy": "过去7天当前保留 14 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1204,6 +1194,10 @@
         ],
         [
           "人工智能",
+          8
+        ],
+        [
+          "能源转型",
           7
         ],
         [
@@ -1215,23 +1209,19 @@
           6
         ],
         [
-          "能源转型",
-          6
+          "可再生能源",
+          5
         ],
         [
           "新兴行业",
           5
         ],
         [
-          "可再生能源",
-          4
+          "电力系统",
+          5
         ],
         [
           "工作论文",
-          4
-        ],
-        [
-          "电力系统",
           4
         ],
         [
@@ -1291,8 +1281,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.01—10.31",
-      "copy": "过去30天词频基于 70 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.02—11.01",
+      "copy": "过去30天词频基于 69 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1300,7 +1290,7 @@
         ],
         [
           "政策监管",
-          8
+          9
         ],
         [
           "碳与排放",
@@ -1308,7 +1298,7 @@
         ],
         [
           "人工智能",
-          7
+          8
         ],
         [
           "新能源",
@@ -1316,23 +1306,23 @@
         ],
         [
           "能源转型",
-          6
-        ],
-        [
-          "气候披露",
-          5
+          7
         ],
         [
           "新兴行业",
           5
         ],
         [
-          "企业出海",
-          4
+          "可再生能源",
+          5
         ],
         [
-          "可再生能源",
-          4
+          "气候披露",
+          5
+        ],
+        [
+          "企业出海",
+          5
         ],
         [
           "气候风险",
@@ -1343,16 +1333,16 @@
           4
         ],
         [
+          "电力系统",
+          4
+        ],
+        [
           "绿色金融",
           4
         ],
         [
-          "电力系统",
-          3
-        ],
-        [
           "能源效率",
-          3
+          4
         ],
         [
           "数据中心",
@@ -1380,7 +1370,7 @@
         ],
         [
           "学术研究",
-          2
+          3
         ],
         [
           "气候适应",
@@ -1600,7 +1590,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 44
+      "items": 43
     },
     {
       "source": "arXiv",
@@ -1608,7 +1598,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 17,
+  "verifiedCandidateCount": 18,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
