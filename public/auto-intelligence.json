@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-11-02T06:12:21.106Z",
-  "weekRange": "2026.10.26—11.02",
+  "updatedAt": "2026-11-03T06:53:40.187Z",
+  "weekRange": "2026.10.27—11.03",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-uk-helps-pakistani-climate-businesses-seek-us",
+      "sector": "绿色金融",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "UK helps Pakistani climate businesses seek US$51 million in investment",
+      "summary": "10 Pakistani businesses are seeking combined US$51 million over the next 12 months to expand practical climate solutions, following specialist support from the UK government.",
+      "score": 8,
+      "publishedDate": "2026.11.02",
+      "eventDate": "2026.11.02",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/uk-helps-pakistani-climate-businesses-seek-us51-million-in-investment",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-sea-link-development-consent-decision-announc",
       "sector": "新能源",
@@ -222,42 +240,6 @@
       "tags": [
         "政策法规"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05061-0",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Energy access, global integration, human development, and institutional complementarity for artificial intelligence development in Africa",
-      "summary": "Abstract Artificial Intelligence is a key driver of economic growth and sustainable development for modern economies. Its development relies heavily on enabling conditions such as access to electricity, globalization, openness, effective regulatory quality, and skilled human capital. This study examined the dynamic relationship between Artificial Intelligenc…",
-      "score": 8,
-      "publishedDate": "2026.10.26",
-      "eventDate": "2026.10.26",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-05061-0",
-      "tags": [
-        "人工智能",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-new-plans-to-end-carbon-dioxide-stunning-of-p",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "New plans to end carbon dioxide stunning of pigs to prevent suffering",
-      "summary": "Carbon dioxide stunning to be replaced with more available humane alternatives",
-      "score": 6,
-      "publishedDate": "2026.10.26",
-      "eventDate": "2026.10.26",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/new-plans-to-end-carbon-dioxide-stunning-of-pigs-to-prevent-suffering",
-      "tags": [
-        "气候与碳",
-        "政策法规"
-      ]
     }
   ],
   "watchlist": [
@@ -318,6 +300,26 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2611-02889v1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Tug of Watts: A study on the Energy - Accuracy Trade-off of Large Language Models on Medical Question Answering Tasks",
+      "summary": "Large Language Models (LLMs) are increasingly used in medical question answering (QA) systems. While recent works aim at incrementally improving the downstream task accuracy, an empirical estimation of the models' energy consumption and the associated carbon footprints is often overlooked. In this study, we demonstrate how practitioners can estimate energy c…",
+      "score": 6,
+      "publishedDate": "2026.11.02",
+      "eventDate": "2026.11.02",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.02889v1",
+      "tags": [
+        "气候与碳",
+        "披露监管",
+        "供应链与出海",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2610-41103v1",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -333,82 +335,6 @@
       "tags": [
         "能源转型",
         "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-35464v1",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "EvoBench: An Evolving, Diagnostic Benchmark Framework for Environmental Modeling",
-      "summary": "Machine learning models are now widely used to predict environmental variable dynamics in domains like hydrology, climate science, agriculture, and ecology. These models are usually compared on fixed benchmark datasets using a single average accuracy score. As models improve, their scores become very close when averaged over large regions and long time perio…",
-      "score": 6,
-      "publishedDate": "2026.10.26",
-      "eventDate": "2026.10.26",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.35464v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-35294v1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "工作论文",
-      "title": "Application of Artificial Intelligence in the Management of Climate Change-Related Health Issues in Africa",
-      "summary": "While climate change disproportionately impacts African public health, AI predictive modeling remains heavily constrained. Using a Synthetic Knowledge Synthesis approach and VOSviewer, we conducted a bibliometric analysis of Scopus-indexed literature, comparing Global and African corpora. Network analysis reveals stark divergences: global research emphasizes…",
-      "score": 6,
-      "publishedDate": "2026.10.26",
-      "eventDate": "2026.10.26",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.35294v1",
-      "tags": [
-        "人工智能",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-35230v1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "工作论文",
-      "title": "Context Is Not Free: Carbon-Aware LLM Routing for Multi-Turn LLM Web Services across Geo-Distributed Data Centers",
-      "summary": "The sustainability of the Web has drawn growing attention, as large language model (LLM)-based web services leave a substantial carbon footprint. These services typically run in geo-distributed data centers whose grid carbon intensity varies across regions and over time, so routing each query to a cleaner region or a smaller model can reduce emissions. A con…",
-      "score": 6,
-      "publishedDate": "2026.10.26",
-      "eventDate": "2026.10.26",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.35230v1",
-      "tags": [
-        "人工智能",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-35189v1",
-      "sector": "人工智能",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Right Model, Right Task: Capability-Constrained Carbon Labeling to Decarbonize Generative AI",
-      "summary": "The carbon footprint of generative-AI inference depends not only on hardware efficiency and electricity supply, but also on whether the selected model is appropriate for the task. A frontier model may expend unnecessary computation on a routine request, whereas an under-capable model may increase energy use through failure, retries, extended reasoning and es…",
-      "score": 6,
-      "publishedDate": "2026.10.26",
-      "eventDate": "2026.10.26",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2610.35189v1",
-      "tags": [
-        "人工智能",
-        "气候与碳",
-        "披露监管",
         "预印本·非同行评审"
       ]
     },
@@ -488,6 +414,26 @@
     }
   ],
   "keywordEvents": [
+    {
+      "id": "govuk-www-gov-uk-government-news-uk-helps-pakistani-climate-businesses-seek-us",
+      "date": "2026-11-02",
+      "terms": [
+        "绿色金融",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-02889v1",
+      "date": "2026-11-02",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "碳与排放",
+        "气候披露",
+        "供应链与出海",
+        "工作论文"
+      ]
+    },
     {
       "id": "doi-10-1109-esm-2026-3729527",
       "date": "2026-11-01",
@@ -681,15 +627,6 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-news-new-plans-to-end-carbon-dioxide-stunning-of-p",
-      "date": "2026-10-26",
-      "terms": [
-        "新兴行业",
-        "政策监管",
-        "碳与排放"
-      ]
-    },
-    {
       "id": "doi-10-1007-s43621-026-05061-0",
       "date": "2026-10-26",
       "terms": [
@@ -736,13 +673,6 @@
         "碳与排放",
         "气候披露",
         "工作论文"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04934-8",
-      "date": "2026-10-26",
-      "terms": [
-        "人工智能"
       ]
     },
     {
@@ -1132,14 +1062,8 @@
     ],
     [
       "人工智能",
-      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      4,
-      "→"
-    ],
-    [
-      "新兴行业",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
       "→"
     ],
     [
@@ -1153,37 +1077,39 @@
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
+    ],
+    [
+      "新兴行业",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
+      "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、人工智能、新兴行业构成过去七日的主要行业信号",
-      "range": "2026.10.26—11.02",
-      "copy": "过去7天当前保留 14 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新能源、人工智能、高排放行业构成过去七日的主要行业信号",
+      "range": "2026.10.27—11.03",
+      "copy": "过去7天当前保留 13 条达到主门槛的重大动态，并展示 9 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
           10
         ],
         [
-          "人工智能",
-          7
+          "新能源",
+          6
         ],
         [
           "能源转型",
           6
         ],
         [
-          "新能源",
-          6
+          "人工智能",
+          5
         ],
         [
           "碳与排放",
-          6
-        ],
-        [
-          "电力系统",
           5
         ],
         [
@@ -1191,19 +1117,15 @@
           4
         ],
         [
-          "工作论文",
-          4
-        ],
-        [
-          "新兴行业",
-          4
+          "供应链与出海",
+          3
         ],
         [
           "气候披露",
           3
         ],
         [
-          "能源效率",
+          "电力系统",
           3
         ],
         [
@@ -1211,19 +1133,23 @@
           3
         ],
         [
-          "供应链与出海",
-          3
-        ],
-        [
           "学术研究",
           3
         ],
         [
-          "数据中心",
+          "工作论文",
           3
         ],
         [
-          "气候风险",
+          "新兴行业",
+          3
+        ],
+        [
+          "绿色金融",
+          3
+        ],
+        [
+          "能源效率",
           3
         ],
         [
@@ -1231,15 +1157,19 @@
           3
         ],
         [
+          "数据中心",
+          2
+        ],
+        [
+          "气候风险",
+          2
+        ],
+        [
           "水资源",
           2
         ],
         [
           "污染防治",
-          2
-        ],
-        [
-          "绿色金融",
           2
         ],
         [
@@ -1251,7 +1181,7 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.03—11.02",
+      "range": "2026.10.04—11.03",
       "copy": "过去30天词频基于 66 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
@@ -1267,11 +1197,11 @@
           8
         ],
         [
-          "人工智能",
+          "新能源",
           7
         ],
         [
-          "新能源",
+          "人工智能",
           7
         ],
         [
@@ -1283,10 +1213,6 @@
           5
         ],
         [
-          "新兴行业",
-          5
-        ],
-        [
           "气候披露",
           5
         ],
@@ -1295,15 +1221,19 @@
           4
         ],
         [
+          "新兴行业",
+          4
+        ],
+        [
+          "供应链与出海",
+          4
+        ],
+        [
           "气候风险",
           4
         ],
         [
           "电力系统",
-          4
-        ],
-        [
-          "供应链与出海",
           4
         ],
         [
@@ -1346,6 +1276,15 @@
     }
   },
   "monthlyHighlights": [
+    {
+      "date": "11.02",
+      "title": "UK helps Pakistani climate businesses seek US$51 million in investment",
+      "summary": "10 Pakistani businesses are seeking combined US$51 million over the next 12 months to expand practical climate solutions, following specialist support from the UK government.",
+      "sector": "绿色金融",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/uk-helps-pakistani-climate-businesses-seek-us51-million-in-investment",
+      "score": 8
+    },
     {
       "date": "10.29",
       "title": "Additional Reconsideration Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
@@ -1542,7 +1481,7 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 15
+      "items": 12
     },
     {
       "source": "GOV.UK",
@@ -1552,7 +1491,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 39
+      "items": 43
     },
     {
       "source": "arXiv",
@@ -1560,7 +1499,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 18,
+  "verifiedCandidateCount": 16,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

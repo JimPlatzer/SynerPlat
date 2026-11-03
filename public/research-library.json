@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-02T06:12:21.106Z",
+  "updatedAt": "2026-11-03T06:53:40.187Z",
   "items": [
+    {
+      "id": "govuk-www-gov-uk-government-news-uk-helps-pakistani-climate-businesses-seek-us",
+      "type": "政策法规",
+      "title": "UK helps Pakistani climate businesses seek US$51 million in investment",
+      "publisher": "UK Government",
+      "date": "2026-11-02",
+      "publishedDate": "2026-11-02",
+      "eventDate": "2026-11-02",
+      "dateNote": "发布",
+      "sector": "绿色金融",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ],
+      "summary": "10 Pakistani businesses are seeking combined US$51 million over the next 12 months to expand practical climate solutions, following specialist support from the UK government.",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://www.gov.uk/government/news/uk-helps-pakistani-climate-businesses-seek-us51-million-in-investment",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-02889v1",
+      "type": "工作论文",
+      "title": "Tug of Watts: A study on the Energy - Accuracy Trade-off of Large Language Models on Medical Question Answering Tasks",
+      "publisher": "arXiv",
+      "date": "2026-11-02",
+      "publishedDate": "2026-11-02",
+      "eventDate": "2026-11-02",
+      "dateNote": "预印本发布",
+      "sector": "新能源",
+      "tags": [
+        "气候与碳",
+        "披露监管",
+        "供应链与出海",
+        "预印本·非同行评审"
+      ],
+      "summary": "Large Language Models (LLMs) are increasingly used in medical question answering (QA) systems. While recent works aim at incrementally improving the downstream task accuracy, an empirical estimation of the models' energy consumption and the associated carbon footprints is often overlooked. In this study, we demonstrate how practitioners can estimate energy c…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2611.02889v1",
+      "featured": false
+    },
     {
       "id": "arxiv-arxiv-org-abs-2610-41103v1",
       "type": "工作论文",
