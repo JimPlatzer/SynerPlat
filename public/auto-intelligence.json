@@ -1,8 +1,43 @@
 {
-  "updatedAt": "2026-11-03T06:53:40.187Z",
-  "weekRange": "2026.10.27—11.03",
+  "updatedAt": "2026-11-04T06:30:36.557Z",
+  "weekRange": "2026.10.28—11.04",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "fr-2026-22443",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Streamlining Contested Adjudications in Licensing Proceedings",
+      "summary": "The U.S. Nuclear Regulatory Commission (NRC, agency, or Commission) is revising the agency's rules of practice and procedure to streamline contested adjudications in NRC licensing proceedings in response to the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024 (ADVANCE Act) and Executive Order 14300, Ordering the Reform of t…",
+      "score": 8,
+      "publishedDate": "2026.11.03",
+      "eventDate": "2026.11.03",
+      "dateNote": "发布",
+      "source": "Nuclear Regulatory Commission",
+      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings",
+      "tags": [
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-supply-chain-adjudicator-urges-farmers-to-spe",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Supply chain Adjudicator urges farmers to speak up over unfair supply contracts",
+      "summary": "The Agricultural Supply Chain Adjudicator (ASCA) publishes second annual report, highlighting progress in promoting fair dealing and addressing concerns across agricultural supply chains",
+      "score": 8,
+      "publishedDate": "2026.11.03",
+      "eventDate": "2026.11.03",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/supply-chain-adjudicator-urges-farmers-to-speak-up-over-unfair-supply-contracts",
+      "tags": [
+        "供应链与出海",
+        "政策法规"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-uk-helps-pakistani-climate-businesses-seek-us",
       "sector": "绿色金融",
@@ -128,121 +163,28 @@
         "气候与碳",
         "政策法规"
       ]
-    },
+    }
+  ],
+  "watchlist": [
     {
-      "id": "doi-10-3389-frai-2026-1972681",
+      "id": "doi-10-1016-j-aiia-2026-11-002",
       "sector": "人工智能",
       "relevance": "间接 ESG",
       "event": "学术研究",
-      "title": "Climate-smart precision poultry farming: artificial intelligence and sensor-based microclimate control for enhancing welfare and production efficiency",
-      "summary": "Introduction Climate-aware farming has proved to be an innovative way of improving animal welfare and productivity on intensive broiler farms. Innovations in the Internet of Things (IoT) and artificial intelligence (AI) can provide smart systems for monitoring and predicting microclimates. Methods A systematic review of IoT- and AI-enabled microclimate regul…",
-      "score": 8,
-      "publishedDate": "2026.10.27",
-      "eventDate": "2026.10.27",
+      "title": "A multi-source artificial intelligence framework for understanding climate effects on quality of agricultural products and supporting sustainable food systems",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.11.01",
+      "eventDate": "2026.11.01",
       "dateNote": "论文发表",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/frai.2026.1972681",
+      "source": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.aiia.2026.11.002",
       "tags": [
         "人工智能",
         "气候与碳",
         "同行评审状态待核"
       ]
     },
-    {
-      "id": "fr-2026-21884",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "政策监管",
-      "title": "Critical Material List; Addition of Helium",
-      "summary": "The United States (U.S.) Department of Energy (DOE) is issuing this notice to advise the public that DOE added helium to the DOE Critical Material List. This notice also provides the link to the assessment that forms the justification for including helium on the Critical Material List. Helium is non-substitutable for multiple critical energy functions, inclu…",
-      "score": 6,
-      "publishedDate": "2026.10.27",
-      "eventDate": "2026.10.27",
-      "dateNote": "发布",
-      "source": "Energy Department",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21884/critical-material-list-addition-of-helium",
-      "tags": [
-        "人工智能",
-        "供应链与出海",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-great-north-road-solar-and-biodiversity-park-",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Great North Road Solar and Biodiversity Park development consent decision announced",
-      "summary": "The Great North Road Solar and Biodiversity Park DCO application has today been granted development consent by the Department for Energy Security and Net Zero.",
-      "score": 6,
-      "publishedDate": "2026.10.27",
-      "eventDate": "2026.10.27",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/great-north-road-solar-and-biodiversity-park-development-consent-decision-announced",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "自然与生物多样性",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-frodsham-solar-development-consent-decision-a",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Frodsham Solar development consent decision announced",
-      "summary": "The Frodsham Solar DCO application has today been granted development consent by the Department for Energy Security and Net Zero.",
-      "score": 6,
-      "publishedDate": "2026.10.27",
-      "eventDate": "2026.10.27",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/frodsham-solar-development-consent-decision-announced",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-gwyndod-supply-chain-mobilised-to-deliver-uks",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Gwyndod supply chain mobilised to deliver UK’s first SMRs",
-      "summary": "More than 400 suppliers came together on Ynys Môn to explore opportunities to support the delivery of Gwyndod.",
-      "score": 6,
-      "publishedDate": "2026.10.27",
-      "eventDate": "2026.10.27",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/gwyndod-supply-chain-mobilised-to-deliver-uks-first-smrs",
-      "tags": [
-        "供应链与出海",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-warm-homes-loan-scheme-factsheet",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Warm Homes Loan Scheme: Factsheet",
-      "summary": "How the government's Warm Homes Loan scheme can help households install clean energy technology and save money on bills.",
-      "score": 6,
-      "publishedDate": "2026.10.27",
-      "eventDate": "2026.10.27",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/warm-homes-loan-scheme-factsheet",
-      "tags": [
-        "政策法规"
-      ]
-    }
-  ],
-  "watchlist": [
     {
       "id": "doi-10-1007-s43621-026-05186-2",
       "sector": "企业出海",
@@ -278,24 +220,6 @@
         "人工智能",
         "气候与碳",
         "披露监管",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04843-w",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Sustainable economic growth through renewable energy infrastructure investment and policy stability",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 7,
-      "publishedDate": "2026.10.27",
-      "eventDate": "2026.10.27",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04843-w",
-      "tags": [
-        "能源转型",
         "同行评审状态待核"
       ]
     },
@@ -377,6 +301,44 @@
       ]
     },
     {
+      "id": "doi-10-1016-j-renene-2026-126665",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Retraction notice to “Integration of renewable energy, environmental policy stringency, and climate technologies in realizing environmental sustainability: Evidence from OECD countries” [RENE 196, (2022), 1376--1384]",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.11.01",
+      "eventDate": "2026.11.01",
+      "dateNote": "论文发表",
+      "source": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.renene.2026.126665",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1016-j-geosus-2026-100566",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Assessing virtual ecosystem services in the global metacoupled renewable energy supply chains",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.11.01",
+      "eventDate": "2026.11.01",
+      "dateNote": "论文发表",
+      "source": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.geosus.2026.100566",
+      "tags": [
+        "能源转型",
+        "供应链与出海",
+        "同行评审状态待核"
+      ]
+    },
+    {
       "id": "doi-10-1038-s41893-026-01974-w",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -415,6 +377,24 @@
   ],
   "keywordEvents": [
     {
+      "id": "fr-2026-22443",
+      "date": "2026-11-03",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "能源转型"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-supply-chain-adjudicator-urges-farmers-to-spe",
+      "date": "2026-11-03",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "供应链与出海"
+      ]
+    },
+    {
       "id": "govuk-www-gov-uk-government-news-uk-helps-pakistani-climate-businesses-seek-us",
       "date": "2026-11-02",
       "terms": [
@@ -450,6 +430,33 @@
       "terms": [
         "人工智能",
         "能源转型"
+      ]
+    },
+    {
+      "id": "doi-10-1016-j-aiia-2026-11-002",
+      "date": "2026-11-01",
+      "terms": [
+        "人工智能"
+      ]
+    },
+    {
+      "id": "doi-10-1016-j-renene-2026-126665",
+      "date": "2026-11-01",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "可再生能源",
+        "能源转型"
+      ]
+    },
+    {
+      "id": "doi-10-1016-j-geosus-2026-100566",
+      "date": "2026-11-01",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型",
+        "供应链与出海"
       ]
     },
     {
@@ -563,67 +570,6 @@
         "人工智能",
         "能源效率",
         "学术研究"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04843-w",
-      "date": "2026-10-27",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源",
-        "能源转型",
-        "绿色金融"
-      ]
-    },
-    {
-      "id": "fr-2026-21884",
-      "date": "2026-10-27",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-great-north-road-solar-and-biodiversity-park-",
-      "date": "2026-10-27",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源",
-        "能源转型",
-        "碳与排放",
-        "自然与生物多样性"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-frodsham-solar-development-consent-decision-a",
-      "date": "2026-10-27",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源",
-        "能源转型",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-gwyndod-supply-chain-mobilised-to-deliver-uks",
-      "date": "2026-10-27",
-      "terms": [
-        "企业出海",
-        "政策监管",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-warm-homes-loan-scheme-factsheet",
-      "date": "2026-10-27",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "能源转型"
       ]
     },
     {
@@ -1042,26 +988,11 @@
         "数字化与数据",
         "工作论文"
       ]
-    },
-    {
-      "id": "doi-10-1186-s43093-026-01012-3",
-      "date": "2026-10-04",
-      "terms": [
-        "企业出海",
-        "政策监管",
-        "气候披露"
-      ]
     }
   ],
   "sectorInsights": [
     [
       "新能源",
-      "过去七日保留 5 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      5,
-      "→"
-    ],
-    [
-      "人工智能",
       "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       3,
       "→"
@@ -1070,6 +1001,12 @@
       "高排放行业",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
+      "→"
+    ],
+    [
+      "人工智能",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
       "→"
     ],
     [
@@ -1088,9 +1025,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、人工智能、高排放行业构成过去七日的主要行业信号",
-      "range": "2026.10.27—11.03",
-      "copy": "过去7天当前保留 13 条达到主门槛的重大动态，并展示 9 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新能源、高排放行业、人工智能构成过去七日的主要行业信号",
+      "range": "2026.10.28—11.04",
+      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
@@ -1098,18 +1035,14 @@
         ],
         [
           "新能源",
-          6
+          7
         ],
         [
           "能源转型",
-          6
+          7
         ],
         [
           "人工智能",
-          5
-        ],
-        [
-          "碳与排放",
           5
         ],
         [
@@ -1117,23 +1050,23 @@
           4
         ],
         [
+          "碳与排放",
+          4
+        ],
+        [
           "供应链与出海",
-          3
+          4
         ],
         [
           "气候披露",
-          3
+          4
         ],
         [
           "电力系统",
-          3
+          4
         ],
         [
           "企业出海",
-          3
-        ],
-        [
-          "学术研究",
           3
         ],
         [
@@ -1142,6 +1075,30 @@
         ],
         [
           "新兴行业",
+          3
+        ],
+        [
+          "高排放行业",
+          3
+        ],
+        [
+          "学术研究",
+          3
+        ],
+        [
+          "数据中心",
+          3
+        ],
+        [
+          "气候风险",
+          3
+        ],
+        [
+          "水资源",
+          3
+        ],
+        [
+          "污染防治",
           3
         ],
         [
@@ -1151,38 +1108,14 @@
         [
           "能源效率",
           3
-        ],
-        [
-          "高排放行业",
-          3
-        ],
-        [
-          "数据中心",
-          2
-        ],
-        [
-          "气候风险",
-          2
-        ],
-        [
-          "水资源",
-          2
-        ],
-        [
-          "污染防治",
-          2
-        ],
-        [
-          "自然与生物多样性",
-          2
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.04—11.03",
-      "copy": "过去30天词频基于 66 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.05—11.04",
+      "copy": "过去30天词频基于 64 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1190,23 +1123,23 @@
         ],
         [
           "政策监管",
-          9
-        ],
-        [
-          "碳与排放",
           8
-        ],
-        [
-          "新能源",
-          7
         ],
         [
           "人工智能",
           7
         ],
         [
-          "能源转型",
+          "新能源",
           7
+        ],
+        [
+          "碳与排放",
+          7
+        ],
+        [
+          "能源转型",
+          6
         ],
         [
           "可再生能源",
@@ -1217,11 +1150,11 @@
           5
         ],
         [
-          "企业出海",
+          "新兴行业",
           4
         ],
         [
-          "新兴行业",
+          "企业出海",
           4
         ],
         [
@@ -1265,17 +1198,35 @@
           3
         ],
         [
-          "自然与生物多样性",
+          "学术研究",
           3
         ],
         [
-          "学术研究",
+          "自然与生物多样性",
           3
         ]
       ]
     }
   },
   "monthlyHighlights": [
+    {
+      "date": "11.03",
+      "title": "Streamlining Contested Adjudications in Licensing Proceedings",
+      "summary": "The U.S. Nuclear Regulatory Commission (NRC, agency, or Commission) is revising the agency's rules of practice and procedure to streamline contested adjudications in NRC licensing proceedings in response to the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024 (ADVANCE Act) and Executive Order 14300, Ordering the Reform of t…",
+      "sector": "新能源",
+      "source": "Nuclear Regulatory Commission",
+      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings",
+      "score": 8
+    },
+    {
+      "date": "11.03",
+      "title": "Supply chain Adjudicator urges farmers to speak up over unfair supply contracts",
+      "summary": "The Agricultural Supply Chain Adjudicator (ASCA) publishes second annual report, highlighting progress in promoting fair dealing and addressing concerns across agricultural supply chains",
+      "sector": "企业出海",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/supply-chain-adjudicator-urges-farmers-to-speak-up-over-unfair-supply-contracts",
+      "score": 8
+    },
     {
       "date": "11.02",
       "title": "UK helps Pakistani climate businesses seek US$51 million in investment",
@@ -1437,15 +1388,6 @@
       "source": "Frontiers Media SA",
       "url": "https://doi.org/10.3389/fsuep.2026.1946675",
       "score": 8
-    },
-    {
-      "date": "09.03",
-      "title": "Investment boost for climate action and forest protection",
-      "summary": "The UK has announced its intention to invest £400 million into the Tropical Forests Forever Facility (TFFF).",
-      "sector": "绿色金融",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/investment-boost-for-climate-action-and-forest-protection",
-      "score": 8
     }
   ],
   "annualHighlights": [
@@ -1481,17 +1423,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 12
+      "items": 13
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 48
+      "items": 47
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 43
+      "items": 44
     },
     {
       "source": "arXiv",
@@ -1499,7 +1441,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 16,
+  "verifiedCandidateCount": 17,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

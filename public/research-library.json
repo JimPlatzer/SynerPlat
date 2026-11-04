@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-11-03T06:53:40.187Z",
+  "updatedAt": "2026-11-04T06:30:36.557Z",
   "items": [
+    {
+      "id": "fr-2026-22443",
+      "type": "政策法规",
+      "title": "Streamlining Contested Adjudications in Licensing Proceedings",
+      "publisher": "Nuclear Regulatory Commission",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "eventDate": "2026-11-03",
+      "dateNote": "发布",
+      "sector": "新能源",
+      "tags": [
+        "政策法规"
+      ],
+      "summary": "The U.S. Nuclear Regulatory Commission (NRC, agency, or Commission) is revising the agency's rules of practice and procedure to streamline contested adjudications in NRC licensing proceedings in response to the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024 (ADVANCE Act) and Executive Order 14300, Ordering the Reform of t…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings",
+      "featured": false
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-supply-chain-adjudicator-urges-farmers-to-spe",
+      "type": "政策法规",
+      "title": "Supply chain Adjudicator urges farmers to speak up over unfair supply contracts",
+      "publisher": "UK Government",
+      "date": "2026-11-03",
+      "publishedDate": "2026-11-03",
+      "eventDate": "2026-11-03",
+      "dateNote": "发布",
+      "sector": "企业出海",
+      "tags": [
+        "供应链与出海",
+        "政策法规"
+      ],
+      "summary": "The Agricultural Supply Chain Adjudicator (ASCA) publishes second annual report, highlighting progress in promoting fair dealing and addressing concerns across agricultural supply chains",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://www.gov.uk/government/news/supply-chain-adjudicator-urges-farmers-to-speak-up-over-unfair-supply-contracts",
+      "featured": false
+    },
     {
       "id": "govuk-www-gov-uk-government-news-uk-helps-pakistani-climate-businesses-seek-us",
       "type": "政策法规",
