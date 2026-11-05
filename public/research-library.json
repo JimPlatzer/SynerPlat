@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-11-04T06:30:36.557Z",
+  "updatedAt": "2026-11-05T06:53:25.773Z",
   "items": [
+    {
+      "id": "govuk-www-gov-uk-government-case-studies-bringing-clean-solar-power-to-communi",
+      "type": "政策法规",
+      "title": "Bringing clean solar power to communities in Bangladesh",
+      "publisher": "UK Government",
+      "date": "2026-11-04",
+      "publishedDate": "2026-11-04",
+      "eventDate": "2026-11-04",
+      "dateNote": "发布",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "政策法规"
+      ],
+      "summary": "The UK’s International Climate Finance is helping Bangladesh sustain clean, affordable electricity for millions of people in rural and off-grid communities.",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://www.gov.uk/government/case-studies/bringing-clean-solar-power-to-communities-in-bangladesh",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-06316v1",
+      "type": "工作论文",
+      "title": "Generalized principal eigenvalues for nonlocal operators with drift",
+      "publisher": "arXiv",
+      "date": "2026-11-04",
+      "publishedDate": "2026-11-04",
+      "eventDate": "2026-11-04",
+      "dateNote": "预印本发布",
+      "sector": "新兴行业",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "Nonlocal diffusion operators with a drift term naturally arise in models such as moving coordinate systems induced by climate change. This paper systematically studies several concepts of generalized principal eigenvalues (GPEs) for such operators. We allow the dispersal kernel to be heterogeneous and non-symmetric, and remove the standard global upper bound…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2611.06316v1",
+      "featured": false
+    },
     {
       "id": "fr-2026-22443",
       "type": "政策法规",

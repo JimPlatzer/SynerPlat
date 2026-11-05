@@ -1,8 +1,45 @@
 {
-  "updatedAt": "2026-11-04T06:30:36.557Z",
-  "weekRange": "2026.10.28—11.04",
+  "updatedAt": "2026-11-05T06:53:25.773Z",
+  "weekRange": "2026.10.29—11.05",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-case-studies-bringing-clean-solar-power-to-communi",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Bringing clean solar power to communities in Bangladesh",
+      "summary": "The UK’s International Climate Finance is helping Bangladesh sustain clean, affordable electricity for millions of people in rural and off-grid communities.",
+      "score": 8,
+      "publishedDate": "2026.11.04",
+      "eventDate": "2026.11.04",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/case-studies/bringing-clean-solar-power-to-communities-in-bangladesh",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-case-studies-protecting-the-worlds-most-biodiverse",
+      "sector": "绿色金融",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Protecting the world’s most biodiverse coral reef ecosystems",
+      "summary": "Supported by the UK’s International Climate Finance (ICF), Indonesia is scaling solutions to protect its globally significant coral reefs supporting food security, sustainable livelihoods, and greater climate resilience.",
+      "score": 6,
+      "publishedDate": "2026.11.04",
+      "eventDate": "2026.11.04",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/case-studies/protecting-the-worlds-most-biodiverse-coral-reef-ecosystems",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
+    },
     {
       "id": "fr-2026-22443",
       "sector": "新能源",
@@ -126,43 +163,6 @@
         "气候与碳",
         "政策法规"
       ]
-    },
-    {
-      "id": "fr-2026-21989",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "政策监管",
-      "title": "ETC Tiger Pipeline, LLC; Notice of Schedule for the Preparation of an Environmental Assessment for the Franklin Farms Project",
-      "summary": "would enable ETC Tiger to provide Entergy Louisiana, LLC with 250,000 dekatherms per day of firm transportation service mainline capacity and 1,000,000 dekatherms per day of capacity on a newly constructed lateral for a new artificial intelligence data center campus in Richland Parish, Louisiana. On July 16, 2026, the Federal Energy Regulatory Commission (Co…",
-      "score": 6,
-      "publishedDate": "2026.10.28",
-      "eventDate": "2026.10.28",
-      "dateNote": "发布",
-      "source": "Energy Department / Federal Energy Regulatory Commission",
-      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21989/etc-tiger-pipeline-llc-notice-of-schedule-for-the-preparation-of-an-environmental-assessment-for-the",
-      "tags": [
-        "人工智能",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-8th-uk-taiwan-energy-dialogue-and-21st-uk-tai",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "8th UK-Taiwan Energy Dialogue and 21st UK-Taiwan Renewable Energy Conference",
-      "summary": "The conference advanced cooperation on energy security, offshore wind, and carbon capture, utilisation, and storage (CCUS).…",
-      "score": 6,
-      "publishedDate": "2026.10.28",
-      "eventDate": "2026.10.28",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/8th-uk-taiwan-energy-dialogue-and-21st-uk-taiwan-renewable-energy-conference",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "政策法规"
-      ]
     }
   ],
   "watchlist": [
@@ -224,6 +224,42 @@
       ]
     },
     {
+      "id": "govuk-www-gov-uk-government-speeches-foreign-secretary-speech-at-the-blue-fina",
+      "sector": "绿色金融",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Foreign Secretary speech at the 'Blue Finance and Innovation' event at the Commonwealth Heads of Government Meeting (CHOGM)",
+      "summary": "…He outlined UK leadership on ocean finance, private finance mobilisation, climate resilience and sustainable growth.…",
+      "score": 6,
+      "publishedDate": "2026.11.04",
+      "eventDate": "2026.11.04",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/speeches/foreign-secretary-speech-at-the-blue-finance-and-innovation-event-at-the-commonwealth-heads-of-government-meeting-chogm",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-06316v1",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Generalized principal eigenvalues for nonlocal operators with drift",
+      "summary": "Nonlocal diffusion operators with a drift term naturally arise in models such as moving coordinate systems induced by climate change. This paper systematically studies several concepts of generalized principal eigenvalues (GPEs) for such operators. We allow the dispersal kernel to be heterogeneous and non-symmetric, and remove the standard global upper bound…",
+      "score": 6,
+      "publishedDate": "2026.11.04",
+      "eventDate": "2026.11.04",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.06316v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2611-02889v1",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -260,6 +296,42 @@
         "能源转型",
         "气候与碳",
         "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-05161-x",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Corporate social responsibility, climate action, and greenwashing risks in transition economies: an illustrative case from North Macedonia",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.11.04",
+      "eventDate": "2026.11.04",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-05161-x",
+      "tags": [
+        "气候与碳",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1038-s44458-026-00185-w",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "The cost of capital is the main barrier to Africa’s energy transition",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.11.04",
+      "eventDate": "2026.11.04",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1038/s44458-026-00185-w",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
       ]
     },
     {
@@ -318,64 +390,65 @@
         "气候与碳",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "doi-10-1016-j-geosus-2026-100566",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Assessing virtual ecosystem services in the global metacoupled renewable energy supply chains",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.11.01",
-      "eventDate": "2026.11.01",
-      "dateNote": "论文发表",
-      "source": "Elsevier BV",
-      "url": "https://doi.org/10.1016/j.geosus.2026.100566",
-      "tags": [
-        "能源转型",
-        "供应链与出海",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1038-s41893-026-01974-w",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Far-right slows energy transition",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.10.30",
-      "eventDate": "2026.10.30",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1038/s41893-026-01974-w",
-      "tags": [
-        "能源转型",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s10614-026-11440-6",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Climate Transition Risk and Corporate ESG Greenwashing: A Nonlinear Governance Perspective",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.10.29",
-      "eventDate": "2026.10.29",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s10614-026-11440-6",
-      "tags": [
-        "气候与碳",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "govuk-www-gov-uk-government-case-studies-bringing-clean-solar-power-to-communi",
+      "date": "2026-11-04",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "可再生能源",
+        "能源转型",
+        "电力系统",
+        "绿色金融"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-foreign-secretary-speech-at-the-blue-fina",
+      "date": "2026-11-04",
+      "terms": [
+        "绿色金融",
+        "政策监管",
+        "气候适应"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-case-studies-protecting-the-worlds-most-biodiverse",
+      "date": "2026-11-04",
+      "terms": [
+        "绿色金融",
+        "政策监管",
+        "气候适应"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-06316v1",
+      "date": "2026-11-04",
+      "terms": [
+        "新兴行业",
+        "政策监管",
+        "聚变能源",
+        "气候风险",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-05161-x",
+      "date": "2026-11-04",
+      "terms": [
+        "新兴行业"
+      ]
+    },
+    {
+      "id": "doi-10-1038-s44458-026-00185-w",
+      "date": "2026-11-04",
+      "terms": [
+        "新能源",
+        "能源转型"
+      ]
+    },
     {
       "id": "fr-2026-22443",
       "date": "2026-11-03",
@@ -455,7 +528,6 @@
       "terms": [
         "新能源",
         "可再生能源",
-        "能源转型",
         "供应链与出海"
       ]
     },
@@ -478,14 +550,6 @@
       ]
     },
     {
-      "id": "doi-10-1038-s41893-026-01974-w",
-      "date": "2026-10-30",
-      "terms": [
-        "新能源",
-        "能源转型"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2610-41103v1",
       "date": "2026-10-30",
       "terms": [
@@ -495,6 +559,14 @@
         "电力系统",
         "能源效率",
         "工作论文"
+      ]
+    },
+    {
+      "id": "doi-10-1038-s41893-026-01974-w",
+      "date": "2026-10-30",
+      "terms": [
+        "新能源",
+        "能源转型"
       ]
     },
     {
@@ -541,26 +613,6 @@
       "date": "2026-10-29",
       "terms": [
         "新兴行业"
-      ]
-    },
-    {
-      "id": "fr-2026-21989",
-      "date": "2026-10-28",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "数据中心"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-8th-uk-taiwan-energy-dialogue-and-21st-uk-tai",
-      "date": "2026-10-28",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源",
-        "能源转型",
-        "碳与排放"
       ]
     },
     {
@@ -952,42 +1004,6 @@
         "碳与排放",
         "工作论文"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-06283v1",
-      "date": "2026-10-05",
-      "terms": [
-        "新能源",
-        "碳与排放",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-06476v1",
-      "date": "2026-10-05",
-      "terms": [
-        "新兴行业",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-06380v1",
-      "date": "2026-10-05",
-      "terms": [
-        "新兴行业",
-        "污染防治",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-05963v1",
-      "date": "2026-10-05",
-      "terms": [
-        "新能源",
-        "碳与排放",
-        "数字化与数据",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
@@ -998,15 +1014,15 @@
       "→"
     ],
     [
-      "高排放行业",
+      "绿色金融",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
     ],
     [
-      "人工智能",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
+      "高排放行业",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
       "→"
     ],
     [
@@ -1025,9 +1041,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、高排放行业、人工智能构成过去七日的主要行业信号",
-      "range": "2026.10.28—11.04",
-      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新能源、绿色金融、高排放行业构成过去七日的主要行业信号",
+      "range": "2026.10.29—11.05",
+      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
@@ -1039,26 +1055,18 @@
         ],
         [
           "能源转型",
-          7
+          6
         ],
         [
           "人工智能",
-          5
+          4
         ],
         [
           "可再生能源",
           4
         ],
         [
-          "碳与排放",
-          4
-        ],
-        [
-          "供应链与出海",
-          4
-        ],
-        [
-          "气候披露",
+          "新兴行业",
           4
         ],
         [
@@ -1066,15 +1074,35 @@
           4
         ],
         [
+          "绿色金融",
+          4
+        ],
+        [
+          "供应链与出海",
+          4
+        ],
+        [
+          "工作论文",
+          4
+        ],
+        [
+          "气候披露",
+          4
+        ],
+        [
+          "碳与排放",
+          4
+        ],
+        [
           "企业出海",
           3
         ],
         [
-          "工作论文",
+          "气候适应",
           3
         ],
         [
-          "新兴行业",
+          "气候风险",
           3
         ],
         [
@@ -1086,14 +1114,6 @@
           3
         ],
         [
-          "数据中心",
-          3
-        ],
-        [
-          "气候风险",
-          3
-        ],
-        [
           "水资源",
           3
         ],
@@ -1102,7 +1122,7 @@
           3
         ],
         [
-          "绿色金融",
+          "聚变能源",
           3
         ],
         [
@@ -1114,7 +1134,7 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.05—11.04",
+      "range": "2026.10.06—11.05",
       "copy": "过去30天词频基于 64 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
@@ -1123,7 +1143,7 @@
         ],
         [
           "政策监管",
-          8
+          9
         ],
         [
           "人工智能",
@@ -1139,7 +1159,7 @@
         ],
         [
           "能源转型",
-          6
+          7
         ],
         [
           "可再生能源",
@@ -1150,15 +1170,11 @@
           5
         ],
         [
+          "绿色金融",
+          5
+        ],
+        [
           "新兴行业",
-          4
-        ],
-        [
-          "企业出海",
-          4
-        ],
-        [
-          "供应链与出海",
           4
         ],
         [
@@ -1170,16 +1186,16 @@
           4
         ],
         [
-          "绿色金融",
+          "企业出海",
+          4
+        ],
+        [
+          "供应链与出海",
           4
         ],
         [
           "能源效率",
           4
-        ],
-        [
-          "数据中心",
-          3
         ],
         [
           "水资源",
@@ -1190,11 +1206,7 @@
           3
         ],
         [
-          "数字化与数据",
-          3
-        ],
-        [
-          "污染防治",
+          "数据中心",
           3
         ],
         [
@@ -1202,13 +1214,38 @@
           3
         ],
         [
+          "数字化与数据",
+          3
+        ],
+        [
+          "气候适应",
+          3
+        ],
+        [
+          "污染防治",
+          3
+        ],
+        [
           "自然与生物多样性",
           3
+        ],
+        [
+          "聚变能源",
+          2
         ]
       ]
     }
   },
   "monthlyHighlights": [
+    {
+      "date": "11.04",
+      "title": "Bringing clean solar power to communities in Bangladesh",
+      "summary": "The UK’s International Climate Finance is helping Bangladesh sustain clean, affordable electricity for millions of people in rural and off-grid communities.",
+      "sector": "新能源",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/case-studies/bringing-clean-solar-power-to-communities-in-bangladesh",
+      "score": 8
+    },
     {
       "date": "11.03",
       "title": "Streamlining Contested Adjudications in Licensing Proceedings",
@@ -1379,15 +1416,6 @@
       "source": "Springer Science and Business Media LLC",
       "url": "https://doi.org/10.1007/s43615-026-01124-6",
       "score": 8
-    },
-    {
-      "date": "09.15",
-      "title": "Governance thresholds, financial intermediation and the renewable energy transition: implications for sustainable development in Sub-Saharan Africa",
-      "summary": "This study develops an institutional-complementarity framework to test whether governance quality shapes the developmental effectiveness of financial intermediation and the renewable energy transition in Sub-Saharan Africa. Using an unbalanced panel of 35 countries (2005–2023), we apply second-generation unit-root and cointegration tests, two-step system GMM…",
-      "sector": "新能源",
-      "source": "Frontiers Media SA",
-      "url": "https://doi.org/10.3389/fsuep.2026.1946675",
-      "score": 8
     }
   ],
   "annualHighlights": [
@@ -1423,17 +1451,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 13
+      "items": 11
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 47
+      "items": 49
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 44
+      "items": 42
     },
     {
       "source": "arXiv",
@@ -1441,7 +1469,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 17,
+  "verifiedCandidateCount": 19,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
