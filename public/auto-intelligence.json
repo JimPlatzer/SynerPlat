@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-11-05T06:53:25.773Z",
-  "weekRange": "2026.10.29—11.05",
+  "updatedAt": "2026-11-06T06:52:32.334Z",
+  "weekRange": "2026.10.30—11.06",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-rpc-statement-impact-of-energy-independence-b",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "RPC statement: impact of Energy Independence Bill from DESNZ",
+      "summary": "Update on our scrutiny of the impact assessments from the Department for Energy Security and Net Zero",
+      "score": 6,
+      "publishedDate": "2026.11.05",
+      "eventDate": "2026.11.05",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/rpc-statement-impact-of-energy-independence-bill-from-desnz",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-cop17-uk-government-steps-up-calls-to-tackle-",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "COP17: UK government steps up calls to tackle nature loss",
+      "summary": "UK welcomes progress made and remains firmly committed to reversing and halting biodiversity loss",
+      "score": 6,
+      "publishedDate": "2026.11.05",
+      "eventDate": "2026.11.05",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/cop17-uk-government-steps-up-calls-to-tackle-nature-loss",
+      "tags": [
+        "自然与生物多样性",
+        "政策法规"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-case-studies-bringing-clean-solar-power-to-communi",
       "sector": "新能源",
@@ -110,62 +146,65 @@
         "气候与碳",
         "政策法规"
       ]
-    },
-    {
-      "id": "fr-2026-22082",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Additional Reconsideration Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
-      "summary": "The U.S. Environmental Protection Agency (EPA) is proposing amendments to the New Source Performance Standards and Emission Guidelines for the Crude Oil and Natural Gas Source Category to address additional concerns raised with prior regulatory amendments finalized in March 2024. Specifically, the EPA is proposing changes in response to certain petitions for…",
-      "score": 8,
-      "publishedDate": "2026.10.29",
-      "eventDate": "2026.10.29",
-      "dateNote": "发布",
-      "source": "Environmental Protection Agency",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22082/additional-reconsideration-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
-      "tags": [
-        "气候与碳",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-environment-secretary-commits-to-take-further",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Environment Secretary commits to take further action against water bosses over pollution",
-      "summary": "Government’s first ever joint regulator report leaves nowhere to hide for water companies.",
-      "score": 8,
-      "publishedDate": "2026.10.29",
-      "eventDate": "2026.10.29",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/environment-secretary-commits-to-take-further-action-against-water-bosses-over-pollution",
-      "tags": [
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-students-tackle-public-policy-challenges-with",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Students tackle public policy challenges with support from GAD",
-      "summary": "Postgraduate students have presented research on health, social care and climate risks after completing projects supported by GAD industry supervisors.",
-      "score": 6,
-      "publishedDate": "2026.10.29",
-      "eventDate": "2026.10.29",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/students-tackle-public-policy-challenges-with-support-from-gad",
-      "tags": [
-        "气候与碳",
-        "政策法规"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-1007-s41660-026-00902-x",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Sustainable EPQ Model with Price, Green Investment and Advertisement Cost Reliant Demand under Energy Transition from Non-Renewable to Renewable Energy Source",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.11.06",
+      "eventDate": "2026.11.06",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s41660-026-00902-x",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s44274-026-01189-y",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "A text-mining analysis of climate risk disclosure and corporate energy efficiency in Chinese listed firms",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.11.05",
+      "eventDate": "2026.11.05",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s44274-026-01189-y",
+      "tags": [
+        "气候与碳",
+        "披露监管",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1057-s41310-026-00439-y",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Weathering climate risk: corporate governance and climate change disclosure in global insurance companies",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.11.05",
+      "eventDate": "2026.11.05",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1057/s41310-026-00439-y",
+      "tags": [
+        "气候与碳",
+        "披露监管",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "doi-10-1016-j-aiia-2026-11-002",
       "sector": "人工智能",
@@ -182,6 +221,24 @@
       "tags": [
         "人工智能",
         "气候与碳",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1016-j-grets-2026-100478",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Renewable hydrogen deployment and investment readiness: An evidence-bounded framework for sustainable energy transitions",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.11.01",
+      "eventDate": "2026.11.01",
+      "dateNote": "论文发表",
+      "source": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.grets.2026.100478",
+      "tags": [
+        "能源转型",
         "同行评审状态待核"
       ]
     },
@@ -204,23 +261,41 @@
       ]
     },
     {
-      "id": "doi-10-1007-s44163-026-02607-z",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "A systematic review of artificial intelligence driven energy management in smart grids",
-      "summary": "Abstract The rapid migration of electrical grids towards Smart Grid (SG) architectures produces high-dimensional data streams that must be processed intelligently in real time. Traditional modelling, optimisation, and control approaches cannot handle the growing complexity of contemporary power systems. This comprehensive study aims to provide a synopsis of…",
-      "score": 7,
-      "publishedDate": "2026.10.29",
-      "eventDate": "2026.10.29",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s44163-026-02607-z",
+      "id": "arxiv-arxiv-org-abs-2611-07522v1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "First Results from JACKS: A VLA Ammonia View of Gas Heating and Star-forming Cores in the Central Molecular Zone",
+      "summary": "The Central Molecular Zone (CMZ) combines warm molecular gas, strong turbulence, and a star-formation rate below that expected from its dense-gas reservoir. The JVLA Ammonia C-configuration K-band Survey (JACKS) is designed to connect these environmental conditions to the thermal and kinematic structure of compact, potentially star-forming gas. JACKS follows…",
+      "score": 6,
+      "publishedDate": "2026.11.05",
+      "eventDate": "2026.11.05",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.07522v1",
       "tags": [
-        "人工智能",
+        "能源转型",
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-07378v1",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Adversarial Multiplicity: Cherry-Picked Models and the Limits of Disclosure",
+      "summary": "Predictive multiplicity -- where similarly accurate models disagree on individual predictions -- can be leveraged to optimize secondary metrics (e.g., fairness) without loss in predictive performance. However, exploiting multiplicity opens the opportunity for motivated parties (or coding agents gaming their objectives) to steer predictions toward their own e…",
+      "score": 6,
+      "publishedDate": "2026.11.05",
+      "eventDate": "2026.11.05",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.07378v1",
+      "tags": [
         "气候与碳",
         "披露监管",
-        "同行评审状态待核"
+        "预印本·非同行评审"
       ]
     },
     {
@@ -297,102 +372,77 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05161-x",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Corporate social responsibility, climate action, and greenwashing risks in transition economies: an illustrative case from North Macedonia",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.11.04",
-      "eventDate": "2026.11.04",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-05161-x",
-      "tags": [
-        "气候与碳",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1038-s44458-026-00185-w",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "The cost of capital is the main barrier to Africa’s energy transition",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.11.04",
-      "eventDate": "2026.11.04",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1038/s44458-026-00185-w",
-      "tags": [
-        "能源转型",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1109-esm-2026-3729527",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Artificial Intelligence-Driven Hydrogen Aggregation for High Renewable Energy Penetrated Power System: Electricity–Hydrogen Virtual Energy Pool",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.11.01",
-      "eventDate": "2026.11.01",
-      "dateNote": "论文发表",
-      "source": "Institute of Electrical and Electronics Engineers (IEEE)",
-      "url": "https://doi.org/10.1109/esm.2026.3729527",
-      "tags": [
-        "人工智能",
-        "能源转型",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1016-j-seta-2026-105528",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Artificial intelligence, energy transition, and firm performance: evidence from listed energy companies",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.11.01",
-      "eventDate": "2026.11.01",
-      "dateNote": "论文发表",
-      "source": "Elsevier BV",
-      "url": "https://doi.org/10.1016/j.seta.2026.105528",
-      "tags": [
-        "人工智能",
-        "能源转型",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1016-j-renene-2026-126665",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Retraction notice to “Integration of renewable energy, environmental policy stringency, and climate technologies in realizing environmental sustainability: Evidence from OECD countries” [RENE 196, (2022), 1376--1384]",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.11.01",
-      "eventDate": "2026.11.01",
-      "dateNote": "论文发表",
-      "source": "Elsevier BV",
-      "url": "https://doi.org/10.1016/j.renene.2026.126665",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s41660-026-00902-x",
+      "date": "2026-11-06",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型",
+        "绿色金融"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s44274-026-01189-y",
+      "date": "2026-11-05",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "能源效率",
+        "气候风险",
+        "气候披露"
+      ]
+    },
+    {
+      "id": "doi-10-1057-s41310-026-00439-y",
+      "date": "2026-11-05",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "气候风险",
+        "气候披露"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-rpc-statement-impact-of-energy-independence-b",
+      "date": "2026-11-05",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "碳与排放"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-cop17-uk-government-steps-up-calls-to-tackle-",
+      "date": "2026-11-05",
+      "terms": [
+        "新兴行业",
+        "政策监管",
+        "自然与生物多样性"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-07522v1",
+      "date": "2026-11-05",
+      "terms": [
+        "新能源",
+        "能源转型",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-07378v1",
+      "date": "2026-11-05",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "气候披露",
+        "工作论文"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-case-studies-bringing-clean-solar-power-to-communi",
       "date": "2026-11-04",
@@ -488,28 +538,20 @@
       ]
     },
     {
-      "id": "doi-10-1109-esm-2026-3729527",
-      "date": "2026-11-01",
-      "terms": [
-        "人工智能",
-        "可再生能源",
-        "能源转型",
-        "电力系统"
-      ]
-    },
-    {
-      "id": "doi-10-1016-j-seta-2026-105528",
-      "date": "2026-11-01",
-      "terms": [
-        "人工智能",
-        "能源转型"
-      ]
-    },
-    {
       "id": "doi-10-1016-j-aiia-2026-11-002",
       "date": "2026-11-01",
       "terms": [
         "人工智能"
+      ]
+    },
+    {
+      "id": "doi-10-1016-j-grets-2026-100478",
+      "date": "2026-11-01",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型",
+        "绿色金融"
       ]
     },
     {
@@ -518,8 +560,7 @@
       "terms": [
         "新能源",
         "政策监管",
-        "可再生能源",
-        "能源转型"
+        "可再生能源"
       ]
     },
     {
@@ -597,22 +638,6 @@
         "电力系统",
         "气候披露",
         "学术研究"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-students-tackle-public-policy-challenges-with",
-      "date": "2026-10-29",
-      "terms": [
-        "新兴行业",
-        "政策监管",
-        "气候风险"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s10614-026-11440-6",
-      "date": "2026-10-29",
-      "terms": [
-        "新兴行业"
       ]
     },
     {
@@ -995,32 +1020,17 @@
         "新能源",
         "工作论文"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-07542v1",
-      "date": "2026-10-06",
-      "terms": [
-        "高排放行业",
-        "碳与排放",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
     [
       "新能源",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
+      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      4,
       "→"
     ],
     [
       "绿色金融",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
-      "→"
-    ],
-    [
-      "高排放行业",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
@@ -1041,9 +1051,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、绿色金融、高排放行业构成过去七日的主要行业信号",
-      "range": "2026.10.29—11.05",
-      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新能源、绿色金融、企业出海构成过去七日的主要行业信号",
+      "range": "2026.10.30—11.06",
+      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
@@ -1051,34 +1061,18 @@
         ],
         [
           "新能源",
-          7
+          9
         ],
         [
           "能源转型",
           6
         ],
         [
-          "人工智能",
-          4
+          "绿色金融",
+          5
         ],
         [
           "可再生能源",
-          4
-        ],
-        [
-          "新兴行业",
-          4
-        ],
-        [
-          "电力系统",
-          4
-        ],
-        [
-          "绿色金融",
-          4
-        ],
-        [
-          "供应链与出海",
           4
         ],
         [
@@ -1090,11 +1084,23 @@
           4
         ],
         [
-          "碳与排放",
+          "企业出海",
           4
         ],
         [
-          "企业出海",
+          "供应链与出海",
+          3
+        ],
+        [
+          "新兴行业",
+          3
+        ],
+        [
+          "气候风险",
+          3
+        ],
+        [
+          "碳与排放",
           3
         ],
         [
@@ -1102,40 +1108,32 @@
           3
         ],
         [
-          "气候风险",
-          3
-        ],
-        [
-          "高排放行业",
-          3
-        ],
-        [
-          "学术研究",
-          3
-        ],
-        [
-          "水资源",
-          3
-        ],
-        [
-          "污染防治",
-          3
-        ],
-        [
-          "聚变能源",
+          "电力系统",
           3
         ],
         [
           "能源效率",
           3
+        ],
+        [
+          "人工智能",
+          2
+        ],
+        [
+          "聚变能源",
+          2
+        ],
+        [
+          "自然与生物多样性",
+          2
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.06—11.05",
-      "copy": "过去30天词频基于 64 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.07—11.06",
+      "copy": "过去30天词频基于 67 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1143,14 +1141,14 @@
         ],
         [
           "政策监管",
-          9
-        ],
-        [
-          "人工智能",
-          7
+          10
         ],
         [
           "新能源",
+          8
+        ],
+        [
+          "人工智能",
           7
         ],
         [
@@ -1162,10 +1160,6 @@
           7
         ],
         [
-          "可再生能源",
-          5
-        ],
-        [
           "气候披露",
           5
         ],
@@ -1174,23 +1168,27 @@
           5
         ],
         [
+          "可再生能源",
+          5
+        ],
+        [
+          "企业出海",
+          5
+        ],
+        [
+          "气候风险",
+          5
+        ],
+        [
+          "供应链与出海",
+          4
+        ],
+        [
           "新兴行业",
           4
         ],
         [
-          "气候风险",
-          4
-        ],
-        [
           "电力系统",
-          4
-        ],
-        [
-          "企业出海",
-          4
-        ],
-        [
-          "供应链与出海",
           4
         ],
         [
@@ -1202,11 +1200,15 @@
           3
         ],
         [
-          "高排放行业",
+          "数据中心",
           3
         ],
         [
-          "数据中心",
+          "自然与生物多样性",
+          3
+        ],
+        [
+          "高排放行业",
           3
         ],
         [
@@ -1223,10 +1225,6 @@
         ],
         [
           "污染防治",
-          3
-        ],
-        [
-          "自然与生物多样性",
           3
         ],
         [
@@ -1256,21 +1254,21 @@
       "score": 8
     },
     {
-      "date": "11.03",
-      "title": "Supply chain Adjudicator urges farmers to speak up over unfair supply contracts",
-      "summary": "The Agricultural Supply Chain Adjudicator (ASCA) publishes second annual report, highlighting progress in promoting fair dealing and addressing concerns across agricultural supply chains",
-      "sector": "企业出海",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/supply-chain-adjudicator-urges-farmers-to-speak-up-over-unfair-supply-contracts",
-      "score": 8
-    },
-    {
       "date": "11.02",
       "title": "UK helps Pakistani climate businesses seek US$51 million in investment",
       "summary": "10 Pakistani businesses are seeking combined US$51 million over the next 12 months to expand practical climate solutions, following specialist support from the UK government.",
       "sector": "绿色金融",
       "source": "UK Government",
       "url": "https://www.gov.uk/government/news/uk-helps-pakistani-climate-businesses-seek-us51-million-in-investment",
+      "score": 8
+    },
+    {
+      "date": "11.03",
+      "title": "Supply chain Adjudicator urges farmers to speak up over unfair supply contracts",
+      "summary": "The Agricultural Supply Chain Adjudicator (ASCA) publishes second annual report, highlighting progress in promoting fair dealing and addressing concerns across agricultural supply chains",
+      "sector": "企业出海",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/supply-chain-adjudicator-urges-farmers-to-speak-up-over-unfair-supply-contracts",
       "score": 8
     },
     {
@@ -1451,12 +1449,12 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 11
+      "items": 6
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 49
+      "items": 50
     },
     {
       "source": "Crossref",
@@ -1469,7 +1467,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 19,
+  "verifiedCandidateCount": 20,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

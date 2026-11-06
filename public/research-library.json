@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-05T06:53:25.773Z",
+  "updatedAt": "2026-11-06T06:52:32.334Z",
   "items": [
+    {
+      "id": "arxiv-arxiv-org-abs-2611-07522v1",
+      "type": "工作论文",
+      "title": "First Results from JACKS: A VLA Ammonia View of Gas Heating and Star-forming Cores in the Central Molecular Zone",
+      "publisher": "arXiv",
+      "date": "2026-11-05",
+      "publishedDate": "2026-11-05",
+      "eventDate": "2026-11-05",
+      "dateNote": "预印本发布",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "预印本·非同行评审"
+      ],
+      "summary": "The Central Molecular Zone (CMZ) combines warm molecular gas, strong turbulence, and a star-formation rate below that expected from its dense-gas reservoir. The JVLA Ammonia C-configuration K-band Survey (JACKS) is designed to connect these environmental conditions to the thermal and kinematic structure of compact, potentially star-forming gas. JACKS follows…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2611.07522v1",
+      "featured": false
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-07378v1",
+      "type": "工作论文",
+      "title": "Adversarial Multiplicity: Cherry-Picked Models and the Limits of Disclosure",
+      "publisher": "arXiv",
+      "date": "2026-11-05",
+      "publishedDate": "2026-11-05",
+      "eventDate": "2026-11-05",
+      "dateNote": "预印本发布",
+      "sector": "企业出海",
+      "tags": [
+        "气候与碳",
+        "披露监管",
+        "预印本·非同行评审"
+      ],
+      "summary": "Predictive multiplicity -- where similarly accurate models disagree on individual predictions -- can be leveraged to optimize secondary metrics (e.g., fairness) without loss in predictive performance. However, exploiting multiplicity opens the opportunity for motivated parties (or coding agents gaming their objectives) to steer predictions toward their own e…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "http://arxiv.org/abs/2611.07378v1",
+      "featured": false
+    },
     {
       "id": "govuk-www-gov-uk-government-case-studies-bringing-clean-solar-power-to-communi",
       "type": "政策法规",
