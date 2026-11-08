@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-07T06:02:31.546Z",
-  "weekRange": "2026.10.31—11.07",
+  "updatedAt": "2026-11-08T06:07:08.013Z",
+  "weekRange": "2026.11.01—11.08",
   "monthLabel": "2026年11月",
   "stories": [
     {
@@ -146,6 +146,24 @@
       "url": "https://doi.org/10.1007/s43621-026-04806-1",
       "tags": [
         "人工智能",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-05271-6",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Assurance and ESG rating divergence can limit the informational value of sustainability disclosure mandates",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.11.07",
+      "eventDate": "2026.11.07",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-05271-6",
+      "tags": [
+        "披露监管",
         "同行评审状态待核"
       ]
     },
@@ -335,24 +353,6 @@
         "供应链与出海",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05161-x",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Corporate social responsibility, climate action, and greenwashing risks in transition economies: an illustrative case from North Macedonia",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.11.04",
-      "eventDate": "2026.11.04",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-05161-x",
-      "tags": [
-        "气候与碳",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
@@ -361,6 +361,15 @@
       "date": "2026-11-07",
       "terms": [
         "人工智能"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-05271-6",
+      "date": "2026-11-07",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "气候披露"
       ]
     },
     {
@@ -983,15 +992,6 @@
         "数据中心",
         "工作论文"
       ]
-    },
-    {
-      "id": "doi-10-3389-frsus-2026-1980440",
-      "date": "2026-10-08",
-      "terms": [
-        "企业出海",
-        "政策监管",
-        "气候披露"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1024,7 +1024,7 @@
     "week": {
       "label": "过去一周总结",
       "title": "新能源、绿色金融、企业出海构成过去七日的主要行业信号",
-      "range": "2026.10.31—11.07",
+      "range": "2026.11.01—11.08",
       "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1033,7 +1033,7 @@
         ],
         [
           "新能源",
-          9
+          8
         ],
         [
           "能源转型",
@@ -1048,19 +1048,19 @@
           5
         ],
         [
+          "气候披露",
+          5
+        ],
+        [
+          "企业出海",
+          4
+        ],
+        [
           "工作论文",
           4
         ],
         [
-          "气候披露",
-          4
-        ],
-        [
           "人工智能",
-          4
-        ],
-        [
-          "企业出海",
           4
         ],
         [
@@ -1104,7 +1104,7 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.08—11.07",
+      "range": "2026.10.09—11.08",
       "copy": "过去30天词频基于 66 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
@@ -1431,7 +1431,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 36
+      "items": 34
     },
     {
       "source": "arXiv",
@@ -1439,7 +1439,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 21,
+  "verifiedCandidateCount": 22,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
