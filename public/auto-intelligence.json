@@ -1,8 +1,45 @@
 {
-  "updatedAt": "2026-11-09T06:39:21.780Z",
-  "weekRange": "2026.11.02—11.09",
+  "updatedAt": "2026-11-10T07:23:39.623Z",
+  "weekRange": "2026.11.03—11.10",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-cop31-what-it-is-and-the-uks-priorities",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "COP31: what it is and the UK’s priorities",
+      "summary": "…An explainer on the UN&#x27;s annual climate conference and the government&#x27;s priorities for COP31.…",
+      "score": 6,
+      "publishedDate": "2026.11.09",
+      "eventDate": "2026.11.09",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/cop31-what-it-is-and-the-uks-priorities",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "doi-10-3389-fclim-2026-1985153",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "From the 2026 Hormuz disruption to renewable resilience: energy security and decarbonization governance in import-dependent economies",
+      "summary": "Import-dependent economies face a systemic governance challenge: a small number of fossil-fuel chokepoints and centralized fossil assets concentrate macroeconomic, health, and water-security risks that conventional energy-security framing systematically underprices. Using the 2026 disruption of the Strait of Hormuz as an illustrative stress test and Israel a…",
+      "score": 8,
+      "publishedDate": "2026.11.06",
+      "eventDate": "2026.11.06",
+      "dateNote": "论文发表",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/fclim.2026.1985153",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-rpc-statement-impact-of-energy-independence-b",
       "sector": "新能源",
@@ -108,24 +145,6 @@
       "url": "https://www.gov.uk/government/news/supply-chain-adjudicator-urges-farmers-to-speak-up-over-unfair-supply-contracts",
       "tags": [
         "供应链与出海",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-uk-helps-pakistani-climate-businesses-seek-us",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "UK helps Pakistani climate businesses seek US$51 million in investment",
-      "summary": "10 Pakistani businesses are seeking combined US$51 million over the next 12 months to expand practical climate solutions, following specialist support from the UK government.",
-      "score": 8,
-      "publishedDate": "2026.11.02",
-      "eventDate": "2026.11.02",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/uk-helps-pakistani-climate-businesses-seek-us51-million-in-investment",
-      "tags": [
-        "气候与碳",
         "政策法规"
       ]
     }
@@ -242,6 +261,44 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2611-12677v1",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Spatially varying quantile downscaling of summer temperature from atmospheric circulation and long-term trends over peninsular Spain",
+      "summary": "Over recent decades, high temperatures have intensified worldwide, with impacts on human health, ecosystems, and the economy. Understanding their spatial evolution requires accounting for long-term temperature changes and the role of atmospheric circulation. Quantile regression provides a flexible framework for characterizing changes across the temperature d…",
+      "score": 6,
+      "publishedDate": "2026.11.09",
+      "eventDate": "2026.11.09",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.12677v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-12106v1",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "工作论文",
+      "title": "Perils and opportunities of AI for public climate services",
+      "summary": "The rapid integration of artificial intelligence (AI), particularly generative and machine-learning systems, in climate services development and provision is transforming how climate information is produced, accessed, and interpreted. AI-enabled climate services offer significant opportunities for process automation, optimisation, tailoring, and the translat…",
+      "score": 6,
+      "publishedDate": "2026.11.09",
+      "eventDate": "2026.11.09",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.12106v1",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "自然与生物多样性",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2611-09251v1",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -314,45 +371,34 @@
         "披露监管",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-foreign-secretary-speech-at-the-blue-fina",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Foreign Secretary speech at the 'Blue Finance and Innovation' event at the Commonwealth Heads of Government Meeting (CHOGM)",
-      "summary": "…He outlined UK leadership on ocean finance, private finance mobilisation, climate resilience and sustainable growth.…",
-      "score": 6,
-      "publishedDate": "2026.11.04",
-      "eventDate": "2026.11.04",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/speeches/foreign-secretary-speech-at-the-blue-finance-and-innovation-event-at-the-commonwealth-heads-of-government-meeting-chogm",
-      "tags": [
-        "气候与碳",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-06316v1",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Generalized principal eigenvalues for nonlocal operators with drift",
-      "summary": "Nonlocal diffusion operators with a drift term naturally arise in models such as moving coordinate systems induced by climate change. This paper systematically studies several concepts of generalized principal eigenvalues (GPEs) for such operators. We allow the dispersal kernel to be heterogeneous and non-symmetric, and remove the standard global upper bound…",
-      "score": 6,
-      "publishedDate": "2026.11.04",
-      "eventDate": "2026.11.04",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.06316v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "govuk-www-gov-uk-government-news-cop31-what-it-is-and-the-uks-priorities",
+      "date": "2026-11-09",
+      "terms": [
+        "新兴行业",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-12677v1",
+      "date": "2026-11-09",
+      "terms": [
+        "新兴行业",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-12106v1",
+      "date": "2026-11-09",
+      "terms": [
+        "人工智能",
+        "自然与生物多样性",
+        "工作论文"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-04806-1",
       "date": "2026-11-07",
@@ -404,6 +450,17 @@
         "绿色金融",
         "碳与排放",
         "工作论文"
+      ]
+    },
+    {
+      "id": "doi-10-3389-fclim-2026-1985153",
+      "date": "2026-11-06",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型",
+        "碳与排放",
+        "水资源"
       ]
     },
     {
@@ -477,15 +534,6 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-speeches-foreign-secretary-speech-at-the-blue-fina",
-      "date": "2026-11-04",
-      "terms": [
-        "绿色金融",
-        "政策监管",
-        "气候适应"
-      ]
-    },
-    {
       "id": "govuk-www-gov-uk-government-case-studies-protecting-the-worlds-most-biodiverse",
       "date": "2026-11-04",
       "terms": [
@@ -503,6 +551,14 @@
         "聚变能源",
         "气候风险",
         "工作论文"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-foreign-secretary-speech-at-the-blue-fina",
+      "date": "2026-11-04",
+      "terms": [
+        "绿色金融",
+        "气候适应"
       ]
     },
     {
@@ -968,12 +1024,12 @@
   "sectorInsights": [
     [
       "新能源",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
+      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      4,
       "→"
     ],
     [
-      "绿色金融",
+      "新兴行业",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
@@ -985,7 +1041,7 @@
       "→"
     ],
     [
-      "新兴行业",
+      "绿色金融",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
@@ -994,9 +1050,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、绿色金融、企业出海构成过去七日的主要行业信号",
-      "range": "2026.11.02—11.09",
-      "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新能源、新兴行业、企业出海构成过去七日的主要行业信号",
+      "range": "2026.11.03—11.10",
+      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
@@ -1004,18 +1060,18 @@
         ],
         [
           "新能源",
-          8
+          9
         ],
         [
           "工作论文",
+          7
+        ],
+        [
+          "能源转型",
           6
         ],
         [
-          "绿色金融",
-          5
-        ],
-        [
-          "气候披露",
+          "新兴行业",
           5
         ],
         [
@@ -1023,15 +1079,19 @@
           5
         ],
         [
-          "能源转型",
+          "绿色金融",
           5
         ],
         [
           "企业出海",
-          4
+          5
         ],
         [
-          "新兴行业",
+          "气候披露",
+          5
+        ],
+        [
+          "可再生能源",
           4
         ],
         [
@@ -1039,11 +1099,7 @@
           4
         ],
         [
-          "供应链与出海",
-          3
-        ],
-        [
-          "可再生能源",
+          "人工智能",
           3
         ],
         [
@@ -1055,7 +1111,15 @@
           3
         ],
         [
-          "人工智能",
+          "自然与生物多样性",
+          3
+        ],
+        [
+          "供应链与出海",
+          3
+        ],
+        [
+          "水资源",
           3
         ],
         [
@@ -1067,10 +1131,6 @@
           3
         ],
         [
-          "自然与生物多样性",
-          3
-        ],
-        [
           "高性能计算",
           3
         ]
@@ -1079,8 +1139,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.10—11.09",
-      "copy": "过去30天词频基于 63 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.11—11.10",
+      "copy": "过去30天词频基于 67 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1088,7 +1148,7 @@
         ],
         [
           "政策监管",
-          9
+          8
         ],
         [
           "新能源",
@@ -1115,15 +1175,15 @@
           5
         ],
         [
-          "气候风险",
-          5
-        ],
-        [
-          "企业出海",
+          "新兴行业",
           4
         ],
         [
-          "电力系统",
+          "气候风险",
+          4
+        ],
+        [
+          "企业出海",
           4
         ],
         [
@@ -1131,7 +1191,7 @@
           4
         ],
         [
-          "新兴行业",
+          "电力系统",
           4
         ],
         [
@@ -1156,23 +1216,23 @@
         ],
         [
           "学术研究",
-          3
+          2
         ],
         [
           "数字化与数据",
-          3
+          2
         ],
         [
           "数据中心",
-          3
+          2
         ],
         [
           "气候适应",
-          3
+          2
         ],
         [
           "污染防治",
-          3
+          2
         ],
         [
           "聚变能源",
@@ -1186,6 +1246,15 @@
     }
   },
   "monthlyHighlights": [
+    {
+      "date": "11.06",
+      "title": "From the 2026 Hormuz disruption to renewable resilience: energy security and decarbonization governance in import-dependent economies",
+      "summary": "Import-dependent economies face a systemic governance challenge: a small number of fossil-fuel chokepoints and centralized fossil assets concentrate macroeconomic, health, and water-security risks that conventional energy-security framing systematically underprices. Using the 2026 disruption of the Strait of Hormuz as an illustrative stress test and Israel a…",
+      "sector": "新能源",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/fclim.2026.1985153",
+      "score": 8
+    },
     {
       "date": "11.04",
       "title": "Bringing clean solar power to communities in Bangladesh",
@@ -1356,15 +1425,6 @@
       "source": "Environmental Protection Agency",
       "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
       "score": 9
-    },
-    {
-      "date": "09.16",
-      "title": "A Hierarchical ISM–MICMAC Framework for Integrating Circular Economy and Renewable Energy in Manufacturing",
-      "summary": "Abstract Circular economy (CE) and renewable energy (RE) are frequently discussed as complementary pathways for sustainable manufacturing, yet implementation guidance often treats resource circularity, energy transition, digitalization, and institutional conditions separately. This study develops a hierarchical framework for their joint integration. Candidat…",
-      "sector": "新能源",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43615-026-01124-6",
-      "score": 8
     }
   ],
   "annualHighlights": [
@@ -1400,7 +1460,7 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 13
+      "items": 12
     },
     {
       "source": "GOV.UK",
@@ -1410,7 +1470,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 29
+      "items": 36
     },
     {
       "source": "arXiv",
