@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-11-10T07:23:39.623Z",
-  "weekRange": "2026.11.03—11.10",
+  "updatedAt": "2026-11-11T04:16:36.493Z",
+  "weekRange": "2026.11.04—11.11",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "period-www-iea-org-news-iea-launches-global-observatory-to-help-strengthen-ener",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "国际组织数据平台发布",
+      "title": "国际能源署推出全球能源韧性观察站，绘制电力基础设施气候风险",
+      "summary": "国际能源署（IEA）于2026年11月10日推出全球能源部门韧性观察站，首期聚焦电力系统，可查询能源中断、基础设施对洪水、热浪和热带气旋的暴露，以及130多项韧性措施与政策案例。IEA称，自2022年以来已记录150多个国家约3,000起与极端天气等自然灾害相关的停电，平均每年约1.9亿电力用户短暂断电；其分析估计，全球约30%的电力资产暴露于不同强度的热带气旋、约20%暴露于持续高温，超过10%位于洪泛区。该平台为电网适应投资和能源安全规划提供跨国数据；暴露比例代表风险暴露，不等于损失预测。",
+      "score": 9,
+      "publishedDate": "2026.11.10",
+      "eventDate": "2026.11.10",
+      "dateNote": "IEA原始新闻页发布日期与平台启动日期均为2026年11月10日；文中停电统计自2022年起，基础设施暴露数据为IEA分析。",
+      "source": "International Energy Agency (IEA)",
+      "url": "https://www.iea.org/news/iea-launches-global-observatory-to-help-strengthen-energy-sector-resilience",
+      "tags": [
+        "电力系统",
+        "气候适应",
+        "气候风险",
+        "能源韧性",
+        "国际组织数据平台"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-cop31-what-it-is-and-the-uks-priorities",
       "sector": "新兴行业",
@@ -110,41 +131,6 @@
       "url": "https://www.gov.uk/government/case-studies/protecting-the-worlds-most-biodiverse-coral-reef-ecosystems",
       "tags": [
         "气候与碳",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "fr-2026-22443",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Streamlining Contested Adjudications in Licensing Proceedings",
-      "summary": "The U.S. Nuclear Regulatory Commission (NRC, agency, or Commission) is revising the agency's rules of practice and procedure to streamline contested adjudications in NRC licensing proceedings in response to the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024 (ADVANCE Act) and Executive Order 14300, Ordering the Reform of t…",
-      "score": 8,
-      "publishedDate": "2026.11.03",
-      "eventDate": "2026.11.03",
-      "dateNote": "发布",
-      "source": "Nuclear Regulatory Commission",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings",
-      "tags": [
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-supply-chain-adjudicator-urges-farmers-to-spe",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Supply chain Adjudicator urges farmers to speak up over unfair supply contracts",
-      "summary": "The Agricultural Supply Chain Adjudicator (ASCA) publishes second annual report, highlighting progress in promoting fair dealing and addressing concerns across agricultural supply chains",
-      "score": 8,
-      "publishedDate": "2026.11.03",
-      "eventDate": "2026.11.03",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/supply-chain-adjudicator-urges-farmers-to-speak-up-over-unfair-supply-contracts",
-      "tags": [
-        "供应链与出海",
         "政策法规"
       ]
     }
@@ -374,6 +360,25 @@
     }
   ],
   "keywordEvents": [
+    {
+      "id": "period-www-iea-org-news-iea-launches-global-observatory-to-help-strengthen-ener",
+      "date": "2026-11-10",
+      "terms": [
+        "新能源",
+        "新兴行业",
+        "电力系统",
+        "气候风险",
+        "气候适应",
+        "能源韧性"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-05290-3",
+      "date": "2026-11-10",
+      "terms": [
+        "人工智能"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-cop31-what-it-is-and-the-uks-priorities",
       "date": "2026-11-09",
@@ -1024,20 +1029,14 @@
   "sectorInsights": [
     [
       "新能源",
-      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      4,
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
       "→"
     ],
     [
       "新兴行业",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
-      "→"
-    ],
-    [
-      "企业出海",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
       "→"
     ],
     [
@@ -1050,72 +1049,68 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、新兴行业、企业出海构成过去七日的主要行业信号",
-      "range": "2026.11.03—11.10",
-      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "能源韧性与气候适应成为本周基础设施重点",
+      "range": "2026.11.04—11.11",
+      "copy": "过去7天收录 7 条达到主门槛的重大动态，并保留 12 条已核验新增观察。IEA新推出的全球能源韧性观察站将电力中断记录、基础设施气候暴露和韧性措施纳入同一数据平台；周度词频同时统计同期研究资料。",
       "words": [
         [
-          "政策监管",
+          "新能源",
           10
         ],
         [
-          "新能源",
+          "政策监管",
           9
         ],
         [
           "工作论文",
-          7
+          8
+        ],
+        [
+          "新兴行业",
+          6
+        ],
+        [
+          "碳与排放",
+          6
+        ],
+        [
+          "绿色金融",
+          6
         ],
         [
           "能源转型",
           6
         ],
         [
-          "新兴行业",
+          "气候披露",
           5
         ],
         [
-          "碳与排放",
+          "气候风险",
           5
         ],
         [
-          "绿色金融",
-          5
+          "人工智能",
+          4
         ],
         [
           "企业出海",
-          5
-        ],
-        [
-          "气候披露",
-          5
+          4
         ],
         [
           "可再生能源",
           4
         ],
         [
-          "气候风险",
+          "气候适应",
           4
         ],
         [
-          "人工智能",
-          3
-        ],
-        [
-          "气候适应",
-          3
-        ],
-        [
           "电力系统",
-          3
+          4
         ],
         [
           "自然与生物多样性",
-          3
-        ],
-        [
-          "供应链与出海",
           3
         ],
         [
@@ -1131,6 +1126,10 @@
           3
         ],
         [
+          "能源韧性",
+          3
+        ],
+        [
           "高性能计算",
           3
         ]
@@ -1139,8 +1138,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.11—11.10",
-      "copy": "过去30天词频基于 67 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.12—11.11",
+      "copy": "过去30天词频基于滚动期内去重动态、观察与研究资料形成；本期新增IEA能源韧性观察站等基础设施气候风险信号。词频用于识别主题集中度，不代表风险程度或行业绩效。",
       "words": [
         [
           "工作论文",
@@ -1152,7 +1151,7 @@
         ],
         [
           "新能源",
-          7
+          8
         ],
         [
           "碳与排放",
@@ -1176,10 +1175,14 @@
         ],
         [
           "新兴行业",
-          4
+          5
         ],
         [
           "气候风险",
+          5
+        ],
+        [
+          "电力系统",
           4
         ],
         [
@@ -1188,10 +1191,6 @@
         ],
         [
           "可再生能源",
-          4
-        ],
-        [
-          "电力系统",
           4
         ],
         [
@@ -1208,6 +1207,10 @@
         ],
         [
           "自然与生物多样性",
+          3
+        ],
+        [
+          "气候适应",
           3
         ],
         [
@@ -1227,15 +1230,15 @@
           2
         ],
         [
-          "气候适应",
-          2
-        ],
-        [
           "污染防治",
           2
         ],
         [
           "聚变能源",
+          2
+        ],
+        [
+          "能源韧性",
           2
         ],
         [
@@ -1246,6 +1249,15 @@
     }
   },
   "monthlyHighlights": [
+    {
+      "date": "11.10",
+      "title": "国际能源署推出全球能源韧性观察站，绘制电力基础设施气候风险",
+      "summary": "国际能源署（IEA）于2026年11月10日推出全球能源部门韧性观察站，首期聚焦电力系统，可查询能源中断、基础设施对洪水、热浪和热带气旋的暴露，以及130多项韧性措施与政策案例。IEA称，自2022年以来已记录150多个国家约3,000起与极端天气等自然灾害相关的停电，平均每年约1.9亿电力用户短暂断电；其分析估计，全球约30%的电力资产暴露于不同强度的热带气旋、约20%暴露于持续高温，超过10%位于洪泛区。该平台为电网适应投资和能源安全规划提供跨国数据；暴露比例代表风险暴露，不等于损失预测。",
+      "sector": "新能源",
+      "source": "International Energy Agency (IEA)",
+      "url": "https://www.iea.org/news/iea-launches-global-observatory-to-help-strengthen-energy-sector-resilience",
+      "score": 9
+    },
     {
       "date": "11.06",
       "title": "From the 2026 Hormuz disruption to renewable resilience: energy security and decarbonization governance in import-dependent economies",
@@ -1416,15 +1428,6 @@
       "source": "Environmental Protection Agency",
       "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19072/rescission-of-the-greenhouse-gas-findings-for-fossil-fuel-fired-power-plants-and-repeal-of",
       "score": 9
-    },
-    {
-      "date": "09.17",
-      "title": "Partial Repeal of the Carbon Pollution Standards for Fossil Fuel-Fired Electric Generating Units",
-      "summary": "In this final rule, the U.S. Environmental Protection Agency (EPA) is repealing most provisions of the 2024 Carbon Pollution Standards for greenhouse gas (GHG) emissions from fossil fuel-fired electric generating units (EGUs) based on a reevaluation of the best system of emission reduction for the relevant subcategories. Specifically, the EPA is repealing th…",
-      "sector": "高排放行业",
-      "source": "Environmental Protection Agency",
-      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
-      "score": 9
     }
   ],
   "annualHighlights": [
@@ -1460,7 +1463,7 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 12
+      "items": 10
     },
     {
       "source": "GOV.UK",
@@ -1470,7 +1473,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 36
+      "items": 39
     },
     {
       "source": "arXiv",
@@ -1478,7 +1481,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 18,
+  "verifiedCandidateCount": 16,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

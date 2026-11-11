@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-10T07:23:39.623Z",
+  "updatedAt": "2026-11-11T04:16:36.493Z",
   "items": [
+    {
+      "id": "period-www-iea-org-news-iea-launches-global-observatory-to-help-strengthen-ener",
+      "type": "行业报告",
+      "title": "国际能源署推出全球能源韧性观察站，绘制电力基础设施气候风险",
+      "publisher": "International Energy Agency (IEA)",
+      "date": "2026-11-10",
+      "publishedDate": "2026-11-10",
+      "eventDate": "2026-11-10",
+      "dateNote": "IEA原始新闻页发布日期与平台启动日期均为2026年11月10日；文中停电统计自2022年起，基础设施暴露数据为IEA分析。",
+      "sector": "新能源",
+      "tags": [
+        "电力系统",
+        "气候适应",
+        "气候风险",
+        "能源韧性"
+      ],
+      "summary": "国际能源署（IEA）于2026年11月10日推出全球能源部门韧性观察站，首期聚焦电力系统，可查询能源中断、基础设施对洪水、热浪和热带气旋的暴露，以及130多项韧性措施与政策案例。IEA称，自2022年以来已记录150多个国家约3,000起与极端天气等自然灾害相关的停电，平均每年约1.9亿电力用户短暂断电；其分析估计，全球约30%的电力资产暴露于不同强度的热带气旋、约20%暴露于持续高温，超过10%位于洪泛区。该平台为电网适应投资和能源安全规划提供跨国数据；暴露比例代表风险暴露，不等于损失预测。",
+      "insight": "IEA全球观察站整合能源中断记录、基础设施气候风险地图和130多项韧性政策措施，可用于电网规划、气候适应评估与跨国比较；使用暴露数据时需区分风险暴露与实际损失。",
+      "url": "https://www.iea.org/news/iea-launches-global-observatory-to-help-strengthen-energy-sector-resilience",
+      "featured": true
+    },
     {
       "id": "doi-10-3389-fclim-2026-1985153",
       "type": "学术论文",
