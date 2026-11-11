@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:16:36.493Z",
+  "updatedAt": "2026-11-11T06:29:35.895Z",
   "weekRange": "2026.11.04—11.11",
   "monthLabel": "2026年11月",
   "stories": [
@@ -247,6 +247,24 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2611-14207v1",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "DailyWildfireCAN: A Dataset and Benchmark for Next-Day Wildfire Spread Prediction in Canada",
+      "summary": "Wildfires represent a critical ecological and socio-economic challenge in Canada, where vast boreal forests and a warming climate have amplified the frequency and severity of extreme fire seasons. Predicting next-day wildfire spread can support fire management, but requires capturing complex interactions among weather, fuels, and terrain. Deep learning has e…",
+      "score": 6,
+      "publishedDate": "2026.11.10",
+      "eventDate": "2026.11.10",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.14207v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2611-12677v1",
       "sector": "新兴行业",
       "relevance": "直接 ESG",
@@ -338,25 +356,6 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-07378v1",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Adversarial Multiplicity: Cherry-Picked Models and the Limits of Disclosure",
-      "summary": "Predictive multiplicity -- where similarly accurate models disagree on individual predictions -- can be leveraged to optimize secondary metrics (e.g., fairness) without loss in predictive performance. However, exploiting multiplicity opens the opportunity for motivated parties (or coding agents gaming their objectives) to steer predictions toward their own e…",
-      "score": 6,
-      "publishedDate": "2026.11.05",
-      "eventDate": "2026.11.05",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.07378v1",
-      "tags": [
-        "气候与碳",
-        "披露监管",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
@@ -365,11 +364,19 @@
       "date": "2026-11-10",
       "terms": [
         "新能源",
-        "新兴行业",
+        "政策监管",
         "电力系统",
         "气候风险",
         "气候适应",
-        "能源韧性"
+        "绿色金融"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-14207v1",
+      "date": "2026-11-10",
+      "terms": [
+        "新兴行业",
+        "工作论文"
       ]
     },
     {
@@ -1029,8 +1036,8 @@
   "sectorInsights": [
     [
       "新能源",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
+      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      4,
       "→"
     ],
     [
@@ -1049,32 +1056,32 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "能源韧性与气候适应成为本周基础设施重点",
+      "title": "新能源、新兴行业、绿色金融构成过去七日的主要行业信号",
       "range": "2026.11.04—11.11",
-      "copy": "过去7天收录 7 条达到主门槛的重大动态，并保留 12 条已核验新增观察。IEA新推出的全球能源韧性观察站将电力中断记录、基础设施气候暴露和韧性措施纳入同一数据平台；周度词频同时统计同期研究资料。",
+      "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
+        [
+          "政策监管",
+          10
+        ],
         [
           "新能源",
           10
         ],
         [
-          "政策监管",
-          9
-        ],
-        [
           "工作论文",
-          8
+          9
         ],
         [
           "新兴行业",
           6
         ],
         [
-          "碳与排放",
+          "绿色金融",
           6
         ],
         [
-          "绿色金融",
+          "碳与排放",
           6
         ],
         [
@@ -1126,10 +1133,6 @@
           3
         ],
         [
-          "能源韧性",
-          3
-        ],
-        [
           "高性能计算",
           3
         ]
@@ -1139,7 +1142,7 @@
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
       "range": "2026.10.12—11.11",
-      "copy": "过去30天词频基于滚动期内去重动态、观察与研究资料形成；本期新增IEA能源韧性观察站等基础设施气候风险信号。词频用于识别主题集中度，不代表风险程度或行业绩效。",
+      "copy": "过去30天词频基于 70 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1151,7 +1154,7 @@
         ],
         [
           "新能源",
-          8
+          7
         ],
         [
           "碳与排放",
@@ -1166,11 +1169,11 @@
           6
         ],
         [
-          "气候披露",
+          "绿色金融",
           5
         ],
         [
-          "绿色金融",
+          "气候披露",
           5
         ],
         [
@@ -1238,10 +1241,6 @@
           2
         ],
         [
-          "能源韧性",
-          2
-        ],
-        [
           "高性能计算",
           2
         ]
@@ -1249,15 +1248,6 @@
     }
   },
   "monthlyHighlights": [
-    {
-      "date": "11.10",
-      "title": "国际能源署推出全球能源韧性观察站，绘制电力基础设施气候风险",
-      "summary": "国际能源署（IEA）于2026年11月10日推出全球能源部门韧性观察站，首期聚焦电力系统，可查询能源中断、基础设施对洪水、热浪和热带气旋的暴露，以及130多项韧性措施与政策案例。IEA称，自2022年以来已记录150多个国家约3,000起与极端天气等自然灾害相关的停电，平均每年约1.9亿电力用户短暂断电；其分析估计，全球约30%的电力资产暴露于不同强度的热带气旋、约20%暴露于持续高温，超过10%位于洪泛区。该平台为电网适应投资和能源安全规划提供跨国数据；暴露比例代表风险暴露，不等于损失预测。",
-      "sector": "新能源",
-      "source": "International Energy Agency (IEA)",
-      "url": "https://www.iea.org/news/iea-launches-global-observatory-to-help-strengthen-energy-sector-resilience",
-      "score": 9
-    },
     {
       "date": "11.06",
       "title": "From the 2026 Hormuz disruption to renewable resilience: energy security and decarbonization governance in import-dependent economies",
@@ -1275,6 +1265,15 @@
       "source": "UK Government",
       "url": "https://www.gov.uk/government/case-studies/bringing-clean-solar-power-to-communities-in-bangladesh",
       "score": 8
+    },
+    {
+      "date": "11.10",
+      "title": "国际能源署推出全球能源韧性观察站，绘制电力基础设施气候风险",
+      "summary": "国际能源署（IEA）于2026年11月10日推出全球能源部门韧性观察站，首期聚焦电力系统，可查询能源中断、基础设施对洪水、热浪和热带气旋的暴露，以及130多项韧性措施与政策案例。IEA称，自2022年以来已记录150多个国家约3,000起与极端天气等自然灾害相关的停电，平均每年约1.9亿电力用户短暂断电；其分析估计，全球约30%的电力资产暴露于不同强度的热带气旋、约20%暴露于持续高温，超过10%位于洪泛区。该平台为电网适应投资和能源安全规划提供跨国数据；暴露比例代表风险暴露，不等于损失预测。",
+      "sector": "新能源",
+      "source": "International Energy Agency (IEA)",
+      "url": "https://www.iea.org/news/iea-launches-global-observatory-to-help-strengthen-energy-sector-resilience",
+      "score": 9
     },
     {
       "date": "11.03",
