@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-11-11T06:29:35.895Z",
-  "weekRange": "2026.11.04—11.11",
+  "updatedAt": "2026-11-12T07:16:39.258Z",
+  "weekRange": "2026.11.05—11.12",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-government-to-stamp-illegal-deforestation-out",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Government to stamp illegal deforestation out of UK supply chains",
+      "summary": "The government is stepping in to ensure everyday products sold in Great Britain do not drive illegal deforestation around the world.",
+      "score": 6,
+      "publishedDate": "2026.11.11",
+      "eventDate": "2026.11.11",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/government-to-stamp-illegal-deforestation-out-of-uk-supply-chains",
+      "tags": [
+        "自然与生物多样性",
+        "供应链与出海",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-53rd-universal-periodic-review-of-human-r",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "53rd Universal Periodic Review of human rights: UK Statement on Ireland",
+      "summary": "Statement by the UK's Human Rights Ambassador, Eleanor Sanders, at Ireland's Universal Periodic Review at the Human Rights Council in Geneva.",
+      "score": 6,
+      "publishedDate": "2026.11.11",
+      "eventDate": "2026.11.11",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/speeches/53rd-universal-periodic-review-of-human-rights-uk-statement-on-ireland",
+      "tags": [
+        "政策法规"
+      ]
+    },
     {
       "id": "period-www-iea-org-news-iea-launches-global-observatory-to-help-strengthen-ener",
       "sector": "新能源",
@@ -96,46 +132,27 @@
         "自然与生物多样性",
         "政策法规"
       ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-case-studies-bringing-clean-solar-power-to-communi",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Bringing clean solar power to communities in Bangladesh",
-      "summary": "The UK’s International Climate Finance is helping Bangladesh sustain clean, affordable electricity for millions of people in rural and off-grid communities.",
-      "score": 8,
-      "publishedDate": "2026.11.04",
-      "eventDate": "2026.11.04",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/case-studies/bringing-clean-solar-power-to-communities-in-bangladesh",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-case-studies-protecting-the-worlds-most-biodiverse",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Protecting the world’s most biodiverse coral reef ecosystems",
-      "summary": "Supported by the UK’s International Climate Finance (ICF), Indonesia is scaling solutions to protect its globally significant coral reefs supporting food security, sustainable livelihoods, and greater climate resilience.",
-      "score": 6,
-      "publishedDate": "2026.11.04",
-      "eventDate": "2026.11.04",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/case-studies/protecting-the-worlds-most-biodiverse-coral-reef-ecosystems",
-      "tags": [
-        "气候与碳",
-        "政策法规"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "id": "govuk-www-gov-uk-government-speeches-foreign-secretary-ed-milibands-speech-at-",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Foreign Secretary Ed Miliband's speech at the Clean Energy Transition & Electrification Summit at COP31",
+      "summary": "…The Foreign Secretary delivered a speech at the &#x27;Clean Energy Transition & Electrification Summit&#x27; event at COP31 in Antalya on 11 November 2026.…",
+      "score": 8,
+      "publishedDate": "2026.11.11",
+      "eventDate": "2026.11.11",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/speeches/foreign-secretary-ed-milibands-speech-at-the-clean-energy-transition-electrification-summit-at-cop31",
+      "tags": [
+        "能源转型",
+        "政策法规"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-04806-1",
       "sector": "人工智能",
@@ -337,28 +354,36 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-07522v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "First Results from JACKS: A VLA Ammonia View of Gas Heating and Star-forming Cores in the Central Molecular Zone",
-      "summary": "The Central Molecular Zone (CMZ) combines warm molecular gas, strong turbulence, and a star-formation rate below that expected from its dense-gas reservoir. The JVLA Ammonia C-configuration K-band Survey (JACKS) is designed to connect these environmental conditions to the thermal and kinematic structure of compact, potentially star-forming gas. JACKS follows…",
-      "score": 6,
-      "publishedDate": "2026.11.05",
-      "eventDate": "2026.11.05",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.07522v1",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "govuk-www-gov-uk-government-speeches-foreign-secretary-ed-milibands-speech-at-",
+      "date": "2026-11-11",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "能源转型"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-government-to-stamp-illegal-deforestation-out",
+      "date": "2026-11-11",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "供应链与出海",
+        "自然与生物多样性"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-53rd-universal-periodic-review-of-human-r",
+      "date": "2026-11-11",
+      "terms": [
+        "新兴行业",
+        "政策监管"
+      ]
+    },
     {
       "id": "period-www-iea-org-news-iea-launches-global-observatory-to-help-strengthen-ener",
       "date": "2026-11-10",
@@ -546,15 +571,6 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-case-studies-protecting-the-worlds-most-biodiverse",
-      "date": "2026-11-04",
-      "terms": [
-        "绿色金融",
-        "政策监管",
-        "气候适应"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2611-06316v1",
       "date": "2026-11-04",
       "terms": [
@@ -563,38 +579,6 @@
         "聚变能源",
         "气候风险",
         "工作论文"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-foreign-secretary-speech-at-the-blue-fina",
-      "date": "2026-11-04",
-      "terms": [
-        "绿色金融",
-        "气候适应"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05161-x",
-      "date": "2026-11-04",
-      "terms": [
-        "新兴行业"
-      ]
-    },
-    {
-      "id": "doi-10-1038-s44458-026-00185-w",
-      "date": "2026-11-04",
-      "terms": [
-        "新能源",
-        "能源转型"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05160-y",
-      "date": "2026-11-04",
-      "terms": [
-        "新能源",
-        "电力系统",
-        "碳与排放"
       ]
     },
     {
@@ -1013,41 +997,23 @@
         "碳与排放",
         "工作论文"
       ]
-    },
-    {
-      "id": "doi-10-1007-s44163-026-02136-9",
-      "date": "2026-10-12",
-      "terms": [
-        "企业出海",
-        "政策监管",
-        "气候披露",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s44163-026-02369-8",
-      "date": "2026-10-12",
-      "terms": [
-        "人工智能",
-        "能源效率"
-      ]
     }
   ],
   "sectorInsights": [
     [
-      "新能源",
-      "过去七日保留 4 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      4,
-      "→"
-    ],
-    [
       "新兴行业",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
       "→"
     ],
     [
-      "绿色金融",
+      "新能源",
+      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      3,
+      "→"
+    ],
+    [
+      "企业出海",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
@@ -1056,8 +1022,8 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、新兴行业、绿色金融构成过去七日的主要行业信号",
-      "range": "2026.11.04—11.11",
+      "title": "新兴行业、新能源、企业出海构成过去七日的主要行业信号",
+      "range": "2026.11.05—11.12",
       "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1066,34 +1032,30 @@
         ],
         [
           "新能源",
-          10
+          9
         ],
         [
           "工作论文",
-          9
+          8
         ],
         [
           "新兴行业",
           6
         ],
         [
-          "绿色金融",
-          6
-        ],
-        [
-          "碳与排放",
-          6
-        ],
-        [
-          "能源转型",
-          6
+          "企业出海",
+          5
         ],
         [
           "气候披露",
           5
         ],
         [
-          "气候风险",
+          "碳与排放",
+          5
+        ],
+        [
+          "能源转型",
           5
         ],
         [
@@ -1101,23 +1063,27 @@
           4
         ],
         [
-          "企业出海",
+          "气候风险",
           4
         ],
         [
-          "可再生能源",
-          4
-        ],
-        [
-          "气候适应",
-          4
-        ],
-        [
-          "电力系统",
+          "绿色金融",
           4
         ],
         [
           "自然与生物多样性",
+          4
+        ],
+        [
+          "可再生能源",
+          3
+        ],
+        [
+          "供应链与出海",
+          3
+        ],
+        [
+          "气候适应",
           3
         ],
         [
@@ -1125,7 +1091,7 @@
           3
         ],
         [
-          "聚变能源",
+          "电力系统",
           3
         ],
         [
@@ -1141,8 +1107,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.12—11.11",
-      "copy": "过去30天词频基于 70 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.13—11.12",
+      "copy": "过去30天词频基于 66 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1150,7 +1116,7 @@
         ],
         [
           "政策监管",
-          8
+          9
         ],
         [
           "新能源",
@@ -1158,7 +1124,7 @@
         ],
         [
           "碳与排放",
-          7
+          6
         ],
         [
           "人工智能",
@@ -1169,7 +1135,7 @@
           6
         ],
         [
-          "绿色金融",
+          "新兴行业",
           5
         ],
         [
@@ -1177,16 +1143,12 @@
           5
         ],
         [
-          "新兴行业",
-          5
-        ],
-        [
           "气候风险",
           5
         ],
         [
-          "电力系统",
-          4
+          "绿色金融",
+          5
         ],
         [
           "企业出海",
@@ -1197,11 +1159,15 @@
           4
         ],
         [
-          "能源效率",
+          "电力系统",
           4
         ],
         [
           "供应链与出海",
+          4
+        ],
+        [
+          "能源效率",
           4
         ],
         [
@@ -1210,10 +1176,6 @@
         ],
         [
           "自然与生物多样性",
-          3
-        ],
-        [
-          "气候适应",
           3
         ],
         [
@@ -1234,6 +1196,10 @@
         ],
         [
           "污染防治",
+          2
+        ],
+        [
+          "气候适应",
           2
         ],
         [
@@ -1462,12 +1428,12 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 10
+      "items": 13
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 50
+      "items": 49
     },
     {
       "source": "Crossref",
@@ -1480,7 +1446,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 16,
+  "verifiedCandidateCount": 13,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
