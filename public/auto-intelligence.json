@@ -1,8 +1,43 @@
 {
-  "updatedAt": "2026-11-12T07:16:39.258Z",
-  "weekRange": "2026.11.05—11.12",
+  "updatedAt": "2026-11-13T06:50:26.228Z",
+  "weekRange": "2026.11.06—11.13",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-united-kingdom-norway-joint-statement-of-inte",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "政策监管",
+      "title": "United Kingdom-Norway Joint Statement of intent on Artificial Intelligence",
+      "summary": "A joint statement by the UK and Norway to deepen cooperation on AI, including compute, defence, AI security, and international governance.",
+      "score": 6,
+      "publishedDate": "2026.11.12",
+      "eventDate": "2026.11.12",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence",
+      "tags": [
+        "人工智能",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-clean-energy-jobs-fair-held-in-birmingham",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Clean Energy Jobs Fair held in Birmingham",
+      "summary": "Energy Secretary joins 400 young people at Birmingham Clean Energy Jobs Fair",
+      "score": 6,
+      "publishedDate": "2026.11.12",
+      "eventDate": "2026.11.12",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/clean-energy-jobs-fair-held-in-birmingham",
+      "tags": [
+        "政策法规"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-government-to-stamp-illegal-deforestation-out",
       "sector": "企业出海",
@@ -96,45 +131,27 @@
         "气候与碳",
         "同行评审状态待核"
       ]
-    },
+    }
+  ],
+  "watchlist": [
     {
-      "id": "govuk-www-gov-uk-government-news-rpc-statement-impact-of-energy-independence-b",
-      "sector": "新能源",
+      "id": "govuk-www-gov-uk-government-news-foreign-secretary-speech-on-climate-security-",
+      "sector": "新兴行业",
       "relevance": "直接 ESG",
       "event": "政策监管",
-      "title": "RPC statement: impact of Energy Independence Bill from DESNZ",
-      "summary": "Update on our scrutiny of the impact assessments from the Department for Energy Security and Net Zero",
-      "score": 6,
-      "publishedDate": "2026.11.05",
-      "eventDate": "2026.11.05",
+      "title": "Foreign Secretary speech on climate security at COP31",
+      "summary": "…Foreign Secretary Ed Miliband delivered a speech at the &#x27;Delivering Climate Security in Fragile Contexts&#x27; ministerial roundtable at COP31 in Antalya on 12 November 2026.…",
+      "score": 8,
+      "publishedDate": "2026.11.12",
+      "eventDate": "2026.11.12",
       "dateNote": "发布",
       "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/rpc-statement-impact-of-energy-independence-bill-from-desnz",
+      "url": "https://www.gov.uk/government/news/foreign-secretary-speech-on-climate-security-at-cop31",
       "tags": [
         "气候与碳",
         "政策法规"
       ]
     },
-    {
-      "id": "govuk-www-gov-uk-government-news-cop17-uk-government-steps-up-calls-to-tackle-",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "COP17: UK government steps up calls to tackle nature loss",
-      "summary": "UK welcomes progress made and remains firmly committed to reversing and halting biodiversity loss",
-      "score": 6,
-      "publishedDate": "2026.11.05",
-      "eventDate": "2026.11.05",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/cop17-uk-government-steps-up-calls-to-tackle-nature-loss",
-      "tags": [
-        "自然与生物多样性",
-        "政策法规"
-      ]
-    }
-  ],
-  "watchlist": [
     {
       "id": "govuk-www-gov-uk-government-speeches-foreign-secretary-ed-milibands-speech-at-",
       "sector": "新能源",
@@ -151,6 +168,42 @@
       "tags": [
         "能源转型",
         "政策法规"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-16831v1",
+      "sector": "绿色金融",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "A Modular Framework for ESG Prediction through Domain-Specific Language Modeling and Graph Learning",
+      "summary": "Environmental, Social and Governance (ESG) scores are increasingly used to evaluate corporate sustainability, supporting investment decisions, ensuring regulatory compliance and assessing risk. However, current ESG evaluations largely rely on proprietary methodologies that often produce inconsistent ratings. This motivates the development of data-driven pred…",
+      "score": 7,
+      "publishedDate": "2026.11.12",
+      "eventDate": "2026.11.12",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.16831v1",
+      "tags": [
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-16789v1",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "工作论文",
+      "title": "ScrewSense: Mapping the Invisible - Anomaly Detection and Error Classification in Screwdriving Processes",
+      "summary": "The growing volume of process data generated by screwdriving systems, combined with advancements in computing power, data storage, and algorithms, is facilitating the application of artificial intelligence in this field. Accurately detecting and classifying screwdriving errors is crucial for ensuring product quality, avoiding costly rework in manufacturing,…",
+      "score": 7,
+      "publishedDate": "2026.11.12",
+      "eventDate": "2026.11.12",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.16789v1",
+      "tags": [
+        "人工智能",
+        "能源转型",
+        "预印本·非同行评审"
       ]
     },
     {
@@ -226,41 +279,57 @@
       ]
     },
     {
-      "id": "doi-10-1007-s44274-026-01189-y",
-      "sector": "新能源",
+      "id": "govuk-www-gov-uk-government-speeches-pm-speech-at-cop31-climate-summit-12-nove",
+      "sector": "新兴行业",
       "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "A text-mining analysis of climate risk disclosure and corporate energy efficiency in Chinese listed firms",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 7,
-      "publishedDate": "2026.11.05",
-      "eventDate": "2026.11.05",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s44274-026-01189-y",
+      "event": "政策监管",
+      "title": "PM speech at COP31 climate summit: 12 November 2026",
+      "summary": "Prime Minister Andy Burnham delivers a speech at the COP31 climate summit 2026.",
+      "score": 6,
+      "publishedDate": "2026.11.12",
+      "eventDate": "2026.11.12",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-at-cop31-climate-summit-12-november-2026",
       "tags": [
         "气候与碳",
-        "披露监管",
-        "同行评审状态待核"
+        "政策法规"
       ]
     },
     {
-      "id": "doi-10-1057-s41310-026-00439-y",
-      "sector": "企业出海",
+      "id": "arxiv-arxiv-org-abs-2611-16896v1",
+      "sector": "高排放行业",
       "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Weathering climate risk: corporate governance and climate change disclosure in global insurance companies",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 7,
-      "publishedDate": "2026.11.05",
-      "eventDate": "2026.11.05",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1057/s41310-026-00439-y",
+      "event": "工作论文",
+      "title": "Chlorophyll-a Fluorescence-Based Optical Temperature Sensor Using Food-Grade Chlorella Extract",
+      "summary": "This letter reports the development of an optical temperature sensor based on the fluorescence of an extract obtained from \\textit{Chlorella}, a unicellular microalga commercially available as food-grade biomass. Using a straightforward ethanolic extraction route, the sensing platform exploits the characteristic emission of chlorophyll-\\textit{a} as the opti…",
+      "score": 6,
+      "publishedDate": "2026.11.12",
+      "eventDate": "2026.11.12",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.16896v1",
       "tags": [
         "气候与碳",
-        "披露监管",
-        "同行评审状态待核"
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-16752v1",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "AgriSense: Vision-Language Decision Support and Robotic Intervention in a Virtual Greenhouse Copy title",
+      "summary": "Autonomous greenhouse management increasingly requires robotic systems that integrate perception, navigation, environmental regulation, and plant-level intervention. This paper presents AgriSense, a framework combining an Isaac Sim virtual greenhouse, a quadruped mobile manipulator, RGB and LiDAR-inertial sensing, environmental control, and supervised vision…",
+      "score": 6,
+      "publishedDate": "2026.11.12",
+      "eventDate": "2026.11.12",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.16752v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
       ]
     },
     {
@@ -280,83 +349,77 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-12677v1",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Spatially varying quantile downscaling of summer temperature from atmospheric circulation and long-term trends over peninsular Spain",
-      "summary": "Over recent decades, high temperatures have intensified worldwide, with impacts on human health, ecosystems, and the economy. Understanding their spatial evolution requires accounting for long-term temperature changes and the role of atmospheric circulation. Quantile regression provides a flexible framework for characterizing changes across the temperature d…",
-      "score": 6,
-      "publishedDate": "2026.11.09",
-      "eventDate": "2026.11.09",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.12677v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-12106v1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "工作论文",
-      "title": "Perils and opportunities of AI for public climate services",
-      "summary": "The rapid integration of artificial intelligence (AI), particularly generative and machine-learning systems, in climate services development and provision is transforming how climate information is produced, accessed, and interpreted. AI-enabled climate services offer significant opportunities for process automation, optimisation, tailoring, and the translat…",
-      "score": 6,
-      "publishedDate": "2026.11.09",
-      "eventDate": "2026.11.09",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.12106v1",
-      "tags": [
-        "人工智能",
-        "气候与碳",
-        "自然与生物多样性",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-09251v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Green500: Adventure in Qualifying a Cluster",
-      "summary": "Energy effciency has become a key metric for evaluating High Performance Computing (HPC) systems, as reflected by the Green500 ranking. However, energy effciency alone does not capture the full environmental impact of an HPC cluster. Using the Kuma cluster at EPFL, we report on two Green500 measurement campaigns at Level 2 and Level 3, and extend this analys…",
-      "score": 6,
-      "publishedDate": "2026.11.06",
-      "eventDate": "2026.11.06",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.09251v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-09213v1",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Joint modelling of financial cost and carbon footprint in motor insurance claims: a BINAR(1) decision framework for circular auto parts adoption",
-      "summary": "Motor insurance claims management increasingly faces a dual objective: controlling claim costs while reducing greenhouse-gas emissions associated with vehicle repair decisions. This paper proposes a bivariate, discrete-time modelling framework that links the dynamics of financial claims and repair-related carbon footprint inspired by a BINAR(1) dependence st…",
-      "score": 6,
-      "publishedDate": "2026.11.06",
-      "eventDate": "2026.11.06",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.09213v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "govuk-www-gov-uk-government-news-foreign-secretary-speech-on-climate-security-",
+      "date": "2026-11-12",
+      "terms": [
+        "新兴行业",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-16831v1",
+      "date": "2026-11-12",
+      "terms": [
+        "绿色金融",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-16789v1",
+      "date": "2026-11-12",
+      "terms": [
+        "人工智能",
+        "能源转型",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-united-kingdom-norway-joint-statement-of-inte",
+      "date": "2026-11-12",
+      "terms": [
+        "人工智能",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-clean-energy-jobs-fair-held-in-birmingham",
+      "date": "2026-11-12",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "能源转型"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-speeches-pm-speech-at-cop31-climate-summit-12-nove",
+      "date": "2026-11-12",
+      "terms": [
+        "新兴行业",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-16896v1",
+      "date": "2026-11-12",
+      "terms": [
+        "高排放行业",
+        "碳与排放",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-16752v1",
+      "date": "2026-11-12",
+      "terms": [
+        "高排放行业",
+        "政策监管",
+        "工作论文"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-speeches-foreign-secretary-ed-milibands-speech-at-",
       "date": "2026-11-11",
@@ -498,45 +561,6 @@
         "能源转型",
         "碳与排放",
         "水资源"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s44274-026-01189-y",
-      "date": "2026-11-05",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "能源效率",
-        "气候风险",
-        "气候披露"
-      ]
-    },
-    {
-      "id": "doi-10-1057-s41310-026-00439-y",
-      "date": "2026-11-05",
-      "terms": [
-        "企业出海",
-        "政策监管",
-        "气候风险",
-        "气候披露"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-rpc-statement-impact-of-energy-independence-b",
-      "date": "2026-11-05",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "碳与排放"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-cop17-uk-government-steps-up-calls-to-tackle-",
-      "date": "2026-11-05",
-      "terms": [
-        "新兴行业",
-        "政策监管",
-        "自然与生物多样性"
       ]
     },
     {
@@ -954,62 +978,25 @@
         "供应链与出海",
         "工作论文"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-18387v1",
-      "date": "2026-10-13",
-      "terms": [
-        "绿色金融",
-        "政策监管",
-        "气候风险",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-18332v1",
-      "date": "2026-10-13",
-      "terms": [
-        "企业出海",
-        "政策监管",
-        "碳与排放",
-        "气候披露",
-        "绿色金融",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-18128v1",
-      "date": "2026-10-13",
-      "terms": [
-        "新能源",
-        "碳与排放",
-        "自然与生物多样性",
-        "水资源",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-17611v1",
-      "date": "2026-10-13",
-      "terms": [
-        "新能源",
-        "能源转型",
-        "碳与排放",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
     [
-      "新兴行业",
+      "新能源",
       "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       3,
       "→"
     ],
     [
-      "新能源",
-      "过去七日保留 3 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      3,
+      "新兴行业",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
+      "→"
+    ],
+    [
+      "人工智能",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
       "→"
     ],
     [
@@ -1022,8 +1009,8 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新兴行业、新能源、企业出海构成过去七日的主要行业信号",
-      "range": "2026.11.05—11.12",
+      "title": "新能源、新兴行业、人工智能构成过去七日的主要行业信号",
+      "range": "2026.11.06—11.13",
       "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -1031,51 +1018,47 @@
           10
         ],
         [
-          "新能源",
+          "工作论文",
           9
         ],
         [
-          "工作论文",
-          8
+          "新能源",
+          7
         ],
         [
           "新兴行业",
           6
         ],
         [
-          "企业出海",
-          5
+          "人工智能",
+          6
         ],
         [
-          "气候披露",
-          5
+          "能源转型",
+          6
         ],
         [
           "碳与排放",
           5
         ],
         [
-          "能源转型",
+          "绿色金融",
           5
         ],
         [
-          "人工智能",
-          4
-        ],
-        [
-          "气候风险",
-          4
-        ],
-        [
-          "绿色金融",
-          4
-        ],
-        [
-          "自然与生物多样性",
-          4
+          "企业出海",
+          3
         ],
         [
           "可再生能源",
+          3
+        ],
+        [
+          "自然与生物多样性",
+          3
+        ],
+        [
+          "高排放行业",
           3
         ],
         [
@@ -1083,7 +1066,15 @@
           3
         ],
         [
+          "气候披露",
+          3
+        ],
+        [
           "气候适应",
+          3
+        ],
+        [
+          "气候风险",
           3
         ],
         [
@@ -1092,10 +1083,6 @@
         ],
         [
           "电力系统",
-          3
-        ],
-        [
-          "能源效率",
           3
         ],
         [
@@ -1107,7 +1094,7 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.13—11.12",
+      "range": "2026.10.14—11.13",
       "copy": "过去30天词频基于 66 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
@@ -1116,18 +1103,14 @@
         ],
         [
           "政策监管",
-          9
-        ],
-        [
-          "新能源",
-          7
-        ],
-        [
-          "碳与排放",
-          6
+          8
         ],
         [
           "人工智能",
+          6
+        ],
+        [
+          "新能源",
           6
         ],
         [
@@ -1135,23 +1118,15 @@
           6
         ],
         [
+          "碳与排放",
+          6
+        ],
+        [
           "新兴行业",
           5
         ],
         [
-          "气候披露",
-          5
-        ],
-        [
-          "气候风险",
-          5
-        ],
-        [
           "绿色金融",
-          5
-        ],
-        [
-          "企业出海",
           4
         ],
         [
@@ -1163,12 +1138,28 @@
           4
         ],
         [
+          "气候披露",
+          4
+        ],
+        [
+          "气候风险",
+          4
+        ],
+        [
+          "企业出海",
+          4
+        ],
+        [
           "供应链与出海",
           4
         ],
         [
           "能源效率",
-          4
+          3
+        ],
+        [
+          "高排放行业",
+          3
         ],
         [
           "水资源",
@@ -1176,10 +1167,6 @@
         ],
         [
           "自然与生物多样性",
-          3
-        ],
-        [
-          "高排放行业",
           3
         ],
         [
@@ -1433,12 +1420,12 @@
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 49
+      "items": 47
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 39
+      "items": 42
     },
     {
       "source": "arXiv",
@@ -1446,7 +1433,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 13,
+  "verifiedCandidateCount": 16,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
