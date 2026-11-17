@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-11-16T06:36:08.429Z",
-  "weekRange": "2026.11.09—11.16",
+  "updatedAt": "2026-11-17T07:59:08.191Z",
+  "weekRange": "2026.11.10—11.17",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-uk-leads-international-cooperation-on-sustain",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "UK leads international cooperation on sustainable export finance",
+      "summary": "New international report shows $376 billion in export finance is now covered by net-zero commitments, up 58% in a year.",
+      "score": 9,
+      "publishedDate": "2026.11.16",
+      "eventDate": "2026.11.16",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/uk-leads-international-cooperation-on-sustainable-export-finance",
+      "tags": [
+        "气候与碳",
+        "供应链与出海",
+        "政策法规"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-04956-2",
       "sector": "人工智能",
@@ -111,24 +130,6 @@
         "气候风险",
         "能源韧性",
         "国际组织数据平台"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-cop31-what-it-is-and-the-uks-priorities",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "COP31: what it is and the UK’s priorities",
-      "summary": "…An explainer on the UN&#x27;s annual climate conference and the government&#x27;s priorities for COP31.…",
-      "score": 6,
-      "publishedDate": "2026.11.09",
-      "eventDate": "2026.11.09",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/cop31-what-it-is-and-the-uks-priorities",
-      "tags": [
-        "气候与碳",
-        "政策法规"
       ]
     }
   ],
@@ -261,6 +262,43 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2611-20921v1",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Life-cycle structural reliability of RC bridge piers under corrosion in a changing climate",
+      "summary": "Aging and deterioration processes of structures and infrastructure systems can be severely affected by the long-term evolution of environmental conditions expected in a changing climate. This paper aims at investigating the interaction between climate change and environmental aggressiveness on the probabilistic life-cycle performance of concrete structures u…",
+      "score": 6,
+      "publishedDate": "2026.11.16",
+      "eventDate": "2026.11.16",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.20921v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-20830v1",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "工作论文",
+      "title": "Investigating the Impact of CI-Source Sensitivity in Carbon-Aware Resource Management Systems",
+      "summary": "The sustainable growth of data centres increasingly depends on Resource-Management Systems (RMSs) that aim to reduce carbon emissions of computing workloads without degrading performance. This need is intensified by the rise of Artificial Intelligence (AI) workloads, which demand exponentially growing amounts of compute and energy across geographically distr…",
+      "score": 6,
+      "publishedDate": "2026.11.16",
+      "eventDate": "2026.11.16",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.20830v1",
+      "tags": [
+        "人工智能",
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2611-17942v1",
       "sector": "绿色金融",
       "relevance": "直接 ESG",
@@ -313,45 +351,17 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-16752v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "AgriSense: Vision-Language Decision Support and Robotic Intervention in a Virtual Greenhouse Copy title",
-      "summary": "Autonomous greenhouse management increasingly requires robotic systems that integrate perception, navigation, environmental regulation, and plant-level intervention. This paper presents AgriSense, a framework combining an Isaac Sim virtual greenhouse, a quadruped mobile manipulator, RGB and LiDAR-inertial sensing, environmental control, and supervised vision…",
-      "score": 6,
-      "publishedDate": "2026.11.12",
-      "eventDate": "2026.11.12",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.16752v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-14207v1",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "DailyWildfireCAN: A Dataset and Benchmark for Next-Day Wildfire Spread Prediction in Canada",
-      "summary": "Wildfires represent a critical ecological and socio-economic challenge in Canada, where vast boreal forests and a warming climate have amplified the frequency and severity of extreme fire seasons. Predicting next-day wildfire spread can support fire management, but requires capturing complex interactions among weather, fuels, and terrain. Deep learning has e…",
-      "score": 6,
-      "publishedDate": "2026.11.10",
-      "eventDate": "2026.11.10",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.14207v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1186-s12302-026-01570-x",
+      "date": "2026-11-17",
+      "terms": [
+        "人工智能",
+        "可再生能源"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-04956-2",
       "date": "2026-11-16",
@@ -359,6 +369,45 @@
         "人工智能",
         "能源效率",
         "污染防治"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-uk-leads-international-cooperation-on-sustain",
+      "date": "2026-11-16",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "碳与排放",
+        "供应链与出海",
+        "绿色金融"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-20921v1",
+      "date": "2026-11-16",
+      "terms": [
+        "新兴行业",
+        "气候风险",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-20830v1",
+      "date": "2026-11-16",
+      "terms": [
+        "人工智能",
+        "数据中心",
+        "碳与排放",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s10668-026-08295-0",
+      "date": "2026-11-16",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型"
       ]
     },
     {
@@ -519,14 +568,6 @@
       "date": "2026-11-10",
       "terms": [
         "人工智能"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-cop31-what-it-is-and-the-uks-priorities",
-      "date": "2026-11-09",
-      "terms": [
-        "新兴行业",
-        "政策监管"
       ]
     },
     {
@@ -956,7 +997,7 @@
       "→"
     ],
     [
-      "新兴行业",
+      "企业出海",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
@@ -968,7 +1009,7 @@
       "→"
     ],
     [
-      "企业出海",
+      "新兴行业",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
@@ -977,8 +1018,8 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "人工智能、新兴行业、新能源构成过去七日的主要行业信号",
-      "range": "2026.11.09—11.16",
+      "title": "人工智能、企业出海、新能源构成过去七日的主要行业信号",
+      "range": "2026.11.10—11.17",
       "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
@@ -990,12 +1031,8 @@
           9
         ],
         [
-          "新兴行业",
-          6
-        ],
-        [
           "新能源",
-          6
+          7
         ],
         [
           "人工智能",
@@ -1006,24 +1043,20 @@
           6
         ],
         [
+          "新兴行业",
+          6
+        ],
+        [
           "碳与排放",
-          4
+          6
         ],
         [
           "绿色金融",
+          5
+        ],
+        [
+          "可再生能源",
           4
-        ],
-        [
-          "电力系统",
-          3
-        ],
-        [
-          "自然与生物多样性",
-          3
-        ],
-        [
-          "高排放行业",
-          3
         ],
         [
           "企业出海",
@@ -1034,15 +1067,23 @@
           3
         ],
         [
-          "可再生能源",
+          "气候风险",
+          3
+        ],
+        [
+          "电力系统",
+          3
+        ],
+        [
+          "高排放行业",
+          3
+        ],
+        [
+          "数据中心",
           3
         ],
         [
           "气候适应",
-          3
-        ],
-        [
-          "气候风险",
           3
         ],
         [
@@ -1052,14 +1093,18 @@
         [
           "能源效率",
           3
+        ],
+        [
+          "自然与生物多样性",
+          3
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.17—11.16",
-      "copy": "过去30天词频基于 63 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.18—11.17",
+      "copy": "过去30天词频基于 67 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1067,7 +1112,7 @@
         ],
         [
           "政策监管",
-          8
+          7
         ],
         [
           "新能源",
@@ -1090,10 +1135,6 @@
           5
         ],
         [
-          "电力系统",
-          4
-        ],
-        [
           "绿色金融",
           4
         ],
@@ -1102,16 +1143,12 @@
           4
         ],
         [
-          "气候风险",
+          "电力系统",
           4
         ],
         [
-          "气候披露",
-          3
-        ],
-        [
-          "能源效率",
-          3
+          "气候风险",
+          4
         ],
         [
           "企业出海",
@@ -1122,7 +1159,19 @@
           3
         ],
         [
+          "气候披露",
+          3
+        ],
+        [
+          "能源效率",
+          3
+        ],
+        [
           "高排放行业",
+          3
+        ],
+        [
+          "数据中心",
           3
         ],
         [
@@ -1139,10 +1188,6 @@
         ],
         [
           "学术研究",
-          2
-        ],
-        [
-          "数据中心",
           2
         ],
         [
@@ -1165,6 +1210,15 @@
     }
   },
   "monthlyHighlights": [
+    {
+      "date": "11.16",
+      "title": "UK leads international cooperation on sustainable export finance",
+      "summary": "New international report shows $376 billion in export finance is now covered by net-zero commitments, up 58% in a year.",
+      "sector": "企业出海",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/uk-leads-international-cooperation-on-sustainable-export-finance",
+      "score": 9
+    },
     {
       "date": "11.16",
       "title": "Artificial intelligence for marine pollution monitoring and control",
@@ -1335,18 +1389,18 @@
       "source": "UK Department for Energy Security and Net Zero / Great British Energy",
       "url": "https://www.gov.uk/government/news/peoples-power-projects-to-give-more-control-over-local-energy",
       "score": 8
-    },
-    {
-      "date": "09.24",
-      "title": "英国承诺3.31亿英镑支持气候与自然安全及脆弱社区",
-      "summary": "英国宣布向全球环境基金GEF9（2026—2030年）提供3.3亿英镑，并向联合国气候安全机制提供100万英镑。资金支持生态系统保护、可持续农业与渔业、清洁水及气候风险预防；政府说明GEF9承诺来自已公布的ODA预算安排。",
-      "sector": "绿色金融",
-      "source": "UK Foreign, Commonwealth & Development Office",
-      "url": "https://www.gov.uk/government/news/uk-invests-331-million-to-tackle-climate-driven-instability-and-protect-vulnerable-communities",
-      "score": 8
     }
   ],
   "annualHighlights": [
+    {
+      "date": "11.16",
+      "title": "UK leads international cooperation on sustainable export finance",
+      "summary": "New international report shows $376 billion in export finance is now covered by net-zero commitments, up 58% in a year.",
+      "sector": "企业出海",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/uk-leads-international-cooperation-on-sustainable-export-finance",
+      "score": 9
+    },
     {
       "date": "09.28",
       "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
@@ -1379,17 +1433,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 12
+      "items": 10
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 48
+      "items": 50
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 35
+      "items": 40
     },
     {
       "source": "arXiv",
@@ -1397,7 +1451,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 13,
+  "verifiedCandidateCount": 11,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
