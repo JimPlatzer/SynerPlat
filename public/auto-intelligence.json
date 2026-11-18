@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-11-17T07:59:08.191Z",
-  "weekRange": "2026.11.10—11.17",
+  "updatedAt": "2026-11-18T07:33:50.016Z",
+  "weekRange": "2026.11.11—11.18",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-australia-united-kingdom-joint-communique-on-",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Australia-United Kingdom Joint Communiqué on the 2nd Strategic Innovation Dialogue",
+      "summary": "The joint statement commits to continuing science, research, commercialisation and trade collaboration in the key areas of renewable energy , life sciences, and research & innovation.",
+      "score": 6,
+      "publishedDate": "2026.11.18",
+      "eventDate": "2026.11.18",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/australia-united-kingdom-joint-communique-on-the-2nd-strategic-innovation-dialogue",
+      "tags": [
+        "能源转型",
+        "供应链与出海",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-chemical-manufacturer-fined-more-than-100k-af",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Chemical manufacturer fined more than £100k after pollution",
+      "summary": "Following an investigation by the Environment Agency, a company has been fined after it allowed waste containing a toxic chemical to be released on to open land.",
+      "score": 6,
+      "publishedDate": "2026.11.17",
+      "eventDate": "2026.11.17",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/chemical-manufacturer-fined-more-than-100k-after-pollution",
+      "tags": [
+        "政策法规"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-uk-leads-international-cooperation-on-sustain",
       "sector": "企业出海",
@@ -110,27 +146,6 @@
       "tags": [
         "政策法规"
       ]
-    },
-    {
-      "id": "period-www-iea-org-news-iea-launches-global-observatory-to-help-strengthen-ener",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "国际组织数据平台发布",
-      "title": "国际能源署推出全球能源韧性观察站，绘制电力基础设施气候风险",
-      "summary": "国际能源署（IEA）于2026年11月10日推出全球能源部门韧性观察站，首期聚焦电力系统，可查询能源中断、基础设施对洪水、热浪和热带气旋的暴露，以及130多项韧性措施与政策案例。IEA称，自2022年以来已记录150多个国家约3,000起与极端天气等自然灾害相关的停电，平均每年约1.9亿电力用户短暂断电；其分析估计，全球约30%的电力资产暴露于不同强度的热带气旋、约20%暴露于持续高温，超过10%位于洪泛区。该平台为电网适应投资和能源安全规划提供跨国数据；暴露比例代表风险暴露，不等于损失预测。",
-      "score": 9,
-      "publishedDate": "2026.11.10",
-      "eventDate": "2026.11.10",
-      "dateNote": "IEA原始新闻页发布日期与平台启动日期均为2026年11月10日；文中停电统计自2022年起，基础设施暴露数据为IEA分析。",
-      "source": "International Energy Agency (IEA)",
-      "url": "https://www.iea.org/news/iea-launches-global-observatory-to-help-strengthen-energy-sector-resilience",
-      "tags": [
-        "电力系统",
-        "气候适应",
-        "气候风险",
-        "能源韧性",
-        "国际组织数据平台"
-      ]
     }
   ],
   "watchlist": [
@@ -168,6 +183,24 @@
       "tags": [
         "能源转型",
         "政策法规"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-22705v1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Route Optimization under Port Congestion and Carbon Reduction: An NSGA-II Approach",
+      "summary": "Maritime shipping simultaneously faces the dual challenges of escalating port congestion and increasingly stringent decarbonization mandates. Large-scale vessel anchorage at hub ports inflates unit transport costs while generating significant additional \\(CO_2\\) emissions from idling auxiliary engines. This study develops a multi-objective routing optimizati…",
+      "score": 7,
+      "publishedDate": "2026.11.17",
+      "eventDate": "2026.11.17",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.22705v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
       ]
     },
     {
@@ -262,6 +295,24 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2611-22711v1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "Transmission Expansion and Energy Storage Planning under Great Britain's Uncertain Energy Transition Pathways",
+      "summary": "Long term power system planning must account for uncertainty in electricity demand and generation, while recognising the different investment and commissioning characteristics of transmission and energy storage. This paper develops a multi year stochastic framework for coordinated transmission expansion and energy storage planning and applies it to the Great…",
+      "score": 6,
+      "publishedDate": "2026.11.17",
+      "eventDate": "2026.11.17",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.22711v1",
+      "tags": [
+        "能源转型",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2611-20921v1",
       "sector": "新兴行业",
       "relevance": "直接 ESG",
@@ -315,45 +366,49 @@
         "气候与碳",
         "预印本·非同行评审"
       ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-speeches-pm-speech-at-cop31-climate-summit-12-nove",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "PM speech at COP31 climate summit: 12 November 2026",
-      "summary": "Prime Minister Andy Burnham delivers a speech at the COP31 climate summit 2026.",
-      "score": 6,
-      "publishedDate": "2026.11.12",
-      "eventDate": "2026.11.12",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/speeches/pm-speech-at-cop31-climate-summit-12-november-2026",
-      "tags": [
-        "气候与碳",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-16896v1",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Chlorophyll-a Fluorescence-Based Optical Temperature Sensor Using Food-Grade Chlorella Extract",
-      "summary": "This letter reports the development of an optical temperature sensor based on the fluorescence of an extract obtained from \\textit{Chlorella}, a unicellular microalga commercially available as food-grade biomass. Using a straightforward ethanolic extraction route, the sensing platform exploits the characteristic emission of chlorophyll-\\textit{a} as the opti…",
-      "score": 6,
-      "publishedDate": "2026.11.12",
-      "eventDate": "2026.11.12",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.16896v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "govuk-www-gov-uk-government-news-australia-united-kingdom-joint-communique-on-",
+      "date": "2026-11-18",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "可再生能源",
+        "能源转型",
+        "供应链与出海"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-22705v1",
+      "date": "2026-11-17",
+      "terms": [
+        "新能源",
+        "碳与排放",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-chemical-manufacturer-fined-more-than-100k-af",
+      "date": "2026-11-17",
+      "terms": [
+        "高排放行业",
+        "政策监管",
+        "污染防治"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-22711v1",
+      "date": "2026-11-17",
+      "terms": [
+        "新能源",
+        "能源转型",
+        "电力系统",
+        "绿色金融",
+        "工作论文"
+      ]
+    },
     {
       "id": "doi-10-1186-s12302-026-01570-x",
       "date": "2026-11-17",
@@ -491,14 +546,6 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-speeches-pm-speech-at-cop31-climate-summit-12-nove",
-      "date": "2026-11-12",
-      "terms": [
-        "新兴行业",
-        "政策监管"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2611-16896v1",
       "date": "2026-11-12",
       "terms": [
@@ -561,13 +608,6 @@
       "terms": [
         "新兴行业",
         "工作论文"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05290-3",
-      "date": "2026-11-10",
-      "terms": [
-        "人工智能"
       ]
     },
     {
@@ -1013,14 +1053,20 @@
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
+    ],
+    [
+      "高排放行业",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
+      "→"
     ]
   ],
   "summary": {
     "week": {
       "label": "过去一周总结",
       "title": "人工智能、企业出海、新能源构成过去七日的主要行业信号",
-      "range": "2026.11.10—11.17",
-      "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "range": "2026.11.11—11.18",
+      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "工作论文",
@@ -1032,30 +1078,38 @@
         ],
         [
           "新能源",
-          7
-        ],
-        [
-          "人工智能",
-          6
+          8
         ],
         [
           "能源转型",
-          6
-        ],
-        [
-          "新兴行业",
-          6
+          7
         ],
         [
           "碳与排放",
           6
         ],
         [
-          "绿色金融",
+          "人工智能",
           5
         ],
         [
           "可再生能源",
+          5
+        ],
+        [
+          "绿色金融",
+          5
+        ],
+        [
+          "供应链与出海",
+          4
+        ],
+        [
+          "新兴行业",
+          4
+        ],
+        [
+          "高排放行业",
           4
         ],
         [
@@ -1063,11 +1117,7 @@
           3
         ],
         [
-          "供应链与出海",
-          3
-        ],
-        [
-          "气候风险",
+          "污染防治",
           3
         ],
         [
@@ -1075,19 +1125,11 @@
           3
         ],
         [
-          "高排放行业",
-          3
-        ],
-        [
           "数据中心",
           3
         ],
         [
-          "气候适应",
-          3
-        ],
-        [
-          "污染防治",
+          "气候风险",
           3
         ],
         [
@@ -1103,8 +1145,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.18—11.17",
-      "copy": "过去30天词频基于 67 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.19—11.18",
+      "copy": "过去30天词频基于 69 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1116,11 +1158,7 @@
         ],
         [
           "新能源",
-          6
-        ],
-        [
-          "人工智能",
-          6
+          7
         ],
         [
           "碳与排放",
@@ -1131,8 +1169,12 @@
           6
         ],
         [
+          "人工智能",
+          6
+        ],
+        [
           "新兴行业",
-          5
+          4
         ],
         [
           "绿色金融",
@@ -1151,11 +1193,11 @@
           4
         ],
         [
-          "企业出海",
+          "供应链与出海",
           3
         ],
         [
-          "供应链与出海",
+          "企业出海",
           3
         ],
         [
@@ -1171,15 +1213,15 @@
           3
         ],
         [
+          "污染防治",
+          3
+        ],
+        [
           "数据中心",
           3
         ],
         [
           "水资源",
-          3
-        ],
-        [
-          "污染防治",
           3
         ],
         [
@@ -1211,7 +1253,7 @@
   },
   "monthlyHighlights": [
     {
-      "date": "11.16",
+      "date": "11.17",
       "title": "UK leads international cooperation on sustainable export finance",
       "summary": "New international report shows $376 billion in export finance is now covered by net-zero commitments, up 58% in a year.",
       "sector": "企业出海",
@@ -1393,7 +1435,7 @@
   ],
   "annualHighlights": [
     {
-      "date": "11.16",
+      "date": "11.17",
       "title": "UK leads international cooperation on sustainable export finance",
       "summary": "New international report shows $376 billion in export finance is now covered by net-zero commitments, up 58% in a year.",
       "sector": "企业出海",
@@ -1433,17 +1475,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 10
+      "items": 8
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 50
+      "items": 54
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 40
+      "items": 37
     },
     {
       "source": "arXiv",
@@ -1451,7 +1493,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 11,
+  "verifiedCandidateCount": 10,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
