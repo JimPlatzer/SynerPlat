@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T07:30:55.327Z",
-  "weekRange": "2026.11.12—11.19",
+  "updatedAt": "2026-11-20T07:21:42.512Z",
+  "weekRange": "2026.11.13—11.20",
   "monthLabel": "2026年11月",
   "stories": [
     {
@@ -18,6 +18,60 @@
       "url": "https://www.gov.uk/government/news/environment-secretary-launches-43-million-schemes-to-test-farming-tech-boost-climate-resilience-and-build-reservoirs",
       "tags": [
         "气候与碳",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-12-month-just-energy-transition-partnership-l",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "12-month Just Energy Transition Partnership Leaders’ update 2026",
+      "summary": "This report provides a 12-month update to the leaders of the South Africa Just Energy Transition Partnership (JETP).…",
+      "score": 8,
+      "publishedDate": "2026.11.19",
+      "eventDate": "2026.11.19",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/12-month-just-energy-transition-partnership-leaders-update-2026",
+      "tags": [
+        "能源转型",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-rethinking-risk-in-a-changing-climate",
+      "sector": "绿色金融",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Rethinking risk in a changing climate",
+      "summary": "Climate change, nature loss and the limits of traditional risk modelling all came under the spotlight at a sustainable finance event.",
+      "score": 6,
+      "publishedDate": "2026.11.19",
+      "eventDate": "2026.11.19",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/rethinking-risk-in-a-changing-climate",
+      "tags": [
+        "气候与碳",
+        "自然与生物多样性",
+        "政策法规"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-southern-water-ordered-to-pay-6-figures-after",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "Southern Water ordered to pay 6 figures after seaside sewage release",
+      "summary": "Environment Agency calls failure to learn from previous pollution “negligent”",
+      "score": 6,
+      "publishedDate": "2026.11.19",
+      "eventDate": "2026.11.19",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/southern-water-ordered-to-pay-6-figures-after-seaside-sewage-release",
+      "tags": [
         "政策法规"
       ]
     },
@@ -93,62 +147,9 @@
         "人工智能",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-united-kingdom-norway-joint-statement-of-inte",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "政策监管",
-      "title": "United Kingdom-Norway Joint Statement of intent on Artificial Intelligence",
-      "summary": "A joint statement by the UK and Norway to deepen cooperation on AI, including compute, defence, AI security, and international governance.",
-      "score": 6,
-      "publishedDate": "2026.11.12",
-      "eventDate": "2026.11.12",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence",
-      "tags": [
-        "人工智能",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-clean-energy-jobs-fair-held-in-birmingham",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Clean Energy Jobs Fair held in Birmingham",
-      "summary": "Energy Secretary joins 400 young people at Birmingham Clean Energy Jobs Fair",
-      "score": 6,
-      "publishedDate": "2026.11.12",
-      "eventDate": "2026.11.12",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/clean-energy-jobs-fair-held-in-birmingham",
-      "tags": [
-        "政策法规"
-      ]
     }
   ],
   "watchlist": [
-    {
-      "id": "govuk-www-gov-uk-government-news-foreign-secretary-speech-on-climate-security-",
-      "sector": "新兴行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Foreign Secretary speech on climate security at COP31",
-      "summary": "…Foreign Secretary Ed Miliband delivered a speech at the &#x27;Delivering Climate Security in Fragile Contexts&#x27; ministerial roundtable at COP31 in Antalya on 12 November 2026.…",
-      "score": 8,
-      "publishedDate": "2026.11.12",
-      "eventDate": "2026.11.12",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/foreign-secretary-speech-on-climate-security-at-cop31",
-      "tags": [
-        "气候与碳",
-        "政策法规"
-      ]
-    },
     {
       "id": "arxiv-arxiv-org-abs-2611-22705v1",
       "sector": "新能源",
@@ -219,42 +220,6 @@
       "url": "http://arxiv.org/abs/2611.17878v1",
       "tags": [
         "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-16831v1",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "A Modular Framework for ESG Prediction through Domain-Specific Language Modeling and Graph Learning",
-      "summary": "Environmental, Social and Governance (ESG) scores are increasingly used to evaluate corporate sustainability, supporting investment decisions, ensuring regulatory compliance and assessing risk. However, current ESG evaluations largely rely on proprietary methodologies that often produce inconsistent ratings. This motivates the development of data-driven pred…",
-      "score": 7,
-      "publishedDate": "2026.11.12",
-      "eventDate": "2026.11.12",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.16831v1",
-      "tags": [
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-16789v1",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "工作论文",
-      "title": "ScrewSense: Mapping the Invisible - Anomaly Detection and Error Classification in Screwdriving Processes",
-      "summary": "The growing volume of process data generated by screwdriving systems, combined with advancements in computing power, data storage, and algorithms, is facilitating the application of artificial intelligence in this field. Accurately detecting and classifying screwdriving errors is crucial for ensuring product quality, avoiding costly rework in manufacturing,…",
-      "score": 7,
-      "publishedDate": "2026.11.12",
-      "eventDate": "2026.11.12",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.16789v1",
-      "tags": [
-        "人工智能",
-        "能源转型",
         "预印本·非同行评审"
       ]
     },
@@ -351,6 +316,61 @@
         "供应链与出海",
         "同行评审状态待核"
       ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-05311-1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Digitalization, renewable energy transition and the environmental Kuznets curve in GCC economies",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.11.18",
+      "eventDate": "2026.11.18",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-05311-1",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1186-s12302-026-01570-x",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Renewable energy development and environmental sustainability in China: dynamic panel evidence on the moderating and threshold roles of artificial intelligence",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.11.17",
+      "eventDate": "2026.11.17",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1186/s12302-026-01570-x",
+      "tags": [
+        "人工智能",
+        "能源转型",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s10668-026-08295-0",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Financing sustainable development under geopolitical risk: green innovation, FinTech, and renewable energy transition in G7 economies",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.11.16",
+      "eventDate": "2026.11.16",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s10668-026-08295-0",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ]
     }
   ],
   "keywordEvents": [
@@ -373,6 +393,35 @@
         "能源转型",
         "碳与排放",
         "供应链与出海"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-12-month-just-energy-transition-partnership-l",
+      "date": "2026-11-19",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "能源转型"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-rethinking-risk-in-a-changing-climate",
+      "date": "2026-11-19",
+      "terms": [
+        "绿色金融",
+        "政策监管",
+        "气候风险",
+        "自然与生物多样性"
+      ]
+    },
+    {
+      "id": "govuk-www-gov-uk-government-news-southern-water-ordered-to-pay-6-figures-after",
+      "date": "2026-11-19",
+      "terms": [
+        "高排放行业",
+        "政策监管",
+        "污染防治",
+        "水资源"
       ]
     },
     {
@@ -430,7 +479,8 @@
       "date": "2026-11-17",
       "terms": [
         "人工智能",
-        "可再生能源"
+        "可再生能源",
+        "能源转型"
       ]
     },
     {
@@ -542,23 +592,6 @@
         "人工智能",
         "能源转型",
         "工作论文"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-united-kingdom-norway-joint-statement-of-inte",
-      "date": "2026-11-12",
-      "terms": [
-        "人工智能",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-clean-energy-jobs-fair-held-in-birmingham",
-      "date": "2026-11-12",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "能源转型"
       ]
     },
     {
@@ -950,44 +983,9 @@
         "供应链与出海",
         "绿色金融"
       ]
-    },
-    {
-      "id": "doi-10-3389-frsus-2026-1927379",
-      "date": "2026-10-20",
-      "terms": [
-        "人工智能",
-        "能源效率",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-28042v1",
-      "date": "2026-10-20",
-      "terms": [
-        "新能源",
-        "能源转型",
-        "气候风险",
-        "水资源",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-28219v1",
-      "date": "2026-10-20",
-      "terms": [
-        "新兴行业",
-        "气候风险",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
-    [
-      "人工智能",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
-      "→"
-    ],
     [
       "新能源",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
@@ -995,19 +993,25 @@
       "→"
     ],
     [
-      "企业出海",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
-      "→"
-    ],
-    [
       "绿色金融",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
       "→"
     ],
     [
       "高排放行业",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
+      "→"
+    ],
+    [
+      "人工智能",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
+      "→"
+    ],
+    [
+      "企业出海",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
@@ -1016,24 +1020,28 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "人工智能、新能源、企业出海构成过去七日的主要行业信号",
-      "range": "2026.11.12—11.19",
-      "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新能源、绿色金融、高排放行业构成过去七日的主要行业信号",
+      "range": "2026.11.13—11.20",
+      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "工作论文",
+          "新能源",
           10
         ],
         [
-          "新能源",
-          8
+          "能源转型",
+          10
         ],
         [
-          "能源转型",
-          8
+          "工作论文",
+          9
         ],
         [
           "政策监管",
+          8
+        ],
+        [
+          "可再生能源",
           7
         ],
         [
@@ -1041,36 +1049,36 @@
           7
         ],
         [
+          "绿色金融",
+          6
+        ],
+        [
           "人工智能",
           6
         ],
         [
-          "可再生能源",
-          6
-        ],
-        [
-          "绿色金融",
+          "供应链与出海",
           5
         ],
         [
-          "供应链与出海",
+          "污染防治",
+          5
+        ],
+        [
+          "气候风险",
+          4
+        ],
+        [
+          "水资源",
+          4
+        ],
+        [
+          "电力系统",
           4
         ],
         [
           "高排放行业",
           4
-        ],
-        [
-          "新兴行业",
-          3
-        ],
-        [
-          "污染防治",
-          3
-        ],
-        [
-          "电力系统",
-          3
         ],
         [
           "企业出海",
@@ -1085,19 +1093,19 @@
           3
         ],
         [
+          "新兴行业",
+          3
+        ],
+        [
           "气候适应",
           3
         ],
         [
-          "气候风险",
-          3
-        ],
-        [
-          "水资源",
-          3
-        ],
-        [
           "能源效率",
+          3
+        ],
+        [
+          "自然与生物多样性",
           3
         ]
       ]
@@ -1105,8 +1113,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.20—11.19",
-      "copy": "过去30天词频基于 65 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.21—11.20",
+      "copy": "过去30天词频基于 63 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1125,11 +1133,11 @@
           7
         ],
         [
-          "人工智能",
+          "碳与排放",
           6
         ],
         [
-          "碳与排放",
+          "人工智能",
           6
         ],
         [
@@ -1154,18 +1162,10 @@
         ],
         [
           "供应链与出海",
-          4
+          3
         ],
         [
           "气候披露",
-          3
-        ],
-        [
-          "企业出海",
-          3
-        ],
-        [
-          "能源效率",
           3
         ],
         [
@@ -1173,7 +1173,19 @@
           3
         ],
         [
+          "企业出海",
+          3
+        ],
+        [
           "水资源",
+          3
+        ],
+        [
+          "污染防治",
+          3
+        ],
+        [
+          "能源效率",
           3
         ],
         [
@@ -1181,7 +1193,7 @@
           3
         ],
         [
-          "污染防治",
+          "自然与生物多样性",
           3
         ],
         [
@@ -1194,10 +1206,6 @@
         ],
         [
           "气候适应",
-          2
-        ],
-        [
-          "自然与生物多样性",
           2
         ],
         [
@@ -1220,6 +1228,15 @@
       "source": "UK Government",
       "url": "https://www.gov.uk/government/news/uk-leads-international-cooperation-on-sustainable-export-finance",
       "score": 9
+    },
+    {
+      "date": "11.19",
+      "title": "12-month Just Energy Transition Partnership Leaders’ update 2026",
+      "summary": "This report provides a 12-month update to the leaders of the South Africa Just Energy Transition Partnership (JETP).…",
+      "sector": "新能源",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/12-month-just-energy-transition-partnership-leaders-update-2026",
+      "score": 8
     },
     {
       "date": "11.19",
@@ -1382,15 +1399,6 @@
       "source": "Environmental Protection Agency",
       "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
       "score": 9
-    },
-    {
-      "date": "09.28",
-      "title": "Behavioral and economic drivers of renewable energy adoption by MSMEs in the MENA region",
-      "summary": "Abstract Micro, small, and medium enterprises (MSMEs) dominate the MENA private sector, yet renewable-energy technology (RET) adoption remains limited. Using nationally representative TCEES 2023–2024 data from Egypt, Jordan, and Morocco, this study models RET engagement as sequential consideration and effective adoption. Country-specific TAM-FC structural eq…",
-      "sector": "新能源",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04793-3",
-      "score": 8
     }
   ],
   "annualHighlights": [
@@ -1435,7 +1443,7 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 8
+      "items": 11
     },
     {
       "source": "GOV.UK",
@@ -1445,7 +1453,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 37
+      "items": 33
     },
     {
       "source": "arXiv",
@@ -1453,7 +1461,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 9,
+  "verifiedCandidateCount": 12,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-11-19T07:30:55.327Z",
+  "updatedAt": "2026-11-20T07:21:42.512Z",
   "items": [
+    {
+      "id": "govuk-www-gov-uk-government-news-12-month-just-energy-transition-partnership-l",
+      "type": "政策法规",
+      "title": "12-month Just Energy Transition Partnership Leaders’ update 2026",
+      "publisher": "UK Government",
+      "date": "2026-11-19",
+      "publishedDate": "2026-11-19",
+      "eventDate": "2026-11-19",
+      "dateNote": "发布",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "政策法规"
+      ],
+      "summary": "This report provides a 12-month update to the leaders of the South Africa Just Energy Transition Partnership (JETP).…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://www.gov.uk/government/news/12-month-just-energy-transition-partnership-leaders-update-2026",
+      "featured": false
+    },
     {
       "id": "govuk-www-gov-uk-government-news-environment-secretary-launches-43-million-sch",
       "type": "政策法规",
