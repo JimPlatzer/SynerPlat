@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-20T07:21:42.512Z",
-  "weekRange": "2026.11.13—11.20",
+  "updatedAt": "2026-11-21T07:14:11.012Z",
+  "weekRange": "2026.11.14—11.21",
   "monthLabel": "2026年11月",
   "stories": [
     {
@@ -151,6 +151,42 @@
   ],
   "watchlist": [
     {
+      "id": "doi-10-1007-s43621-026-05387-9",
+      "sector": "企业出海",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "The moderating role of R&D intensity in the relationship between ESG disclosure and firm performance in an emerging market",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.11.20",
+      "eventDate": "2026.11.20",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-05387-9",
+      "tags": [
+        "披露监管",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04632-5",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "An integrated multimodal artificial intelligence framework for halal food compliance and pilgrim sustainability in Islamic mass tourism",
+      "summary": "Abstract The rapid development of AI in the analysis of halal foods and the management of pilgrimage presents opportunities for AI decision support for holistic and sustainable approaches, yet it can also introduce uncertainties about model reliability, ethical considerations for governance, and responsible deployment. In this study, a hybrid AI-based five-s…",
+      "score": 7,
+      "publishedDate": "2026.11.20",
+      "eventDate": "2026.11.20",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04632-5",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2611-22705v1",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -163,61 +199,6 @@
       "dateNote": "预印本发布",
       "source": "arXiv",
       "url": "http://arxiv.org/abs/2611.22705v1",
-      "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-18188v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "A Bayesian approach to technological emergence, climate variability, and demographic stability in northern South America",
-      "summary": "Human communities produce technology in almost every environment, but the conditions that enable technologies in the tropics are not well understood. We test two competing hypotheses---that technological emergence is triggered by environmental stress and that technology tracks growth in effective populations---by integrating Holocene archaeological and paleo…",
-      "score": 7,
-      "publishedDate": "2026.11.13",
-      "eventDate": "2026.11.13",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.18188v1",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-17975v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Enhancing Transient Stability of VSG-Controlled Converters Under Grid Frequency Disturbances",
-      "summary": "Strong damping feedback can substantially improve the transient synchronization stability of renewable energy converters employing virtual synchronous generator (VSG) control. However, conventional damping feedback uses the nominal frequency as its reference. When the frequency of a weak grid deviates from nominal, strong damping tends to keep the VSG freque…",
-      "score": 7,
-      "publishedDate": "2026.11.13",
-      "eventDate": "2026.11.13",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.17975v1",
-      "tags": [
-        "能源转型",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-17878v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery",
-      "summary": "Cities account for over two-thirds of the world's energy and more than 70% of global carbon dioxide emissions. City energy is essential for achieving the 2050 net-zero target and the UN's Sustainable Development Goals 7 and 11. Although existing studies have made progress, they are limited by data and methodological gaps. Existing studies are largely predict…",
-      "score": 7,
-      "publishedDate": "2026.11.13",
-      "eventDate": "2026.11.13",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.17878v1",
       "tags": [
         "气候与碳",
         "预印本·非同行评审"
@@ -279,21 +260,21 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2611-17942v1",
-      "sector": "绿色金融",
+      "id": "doi-10-1007-s43621-026-05275-2",
+      "sector": "新能源",
       "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Mapping NGFS Climate Pathways to GICS Sectors: Application to Portfolio Decarbonization",
-      "summary": "Portfolio climate alignment is limited by the mismatch between asset managers' sector classifications and those of climate scenarios. This article proposes an NGFS-GICS mapping based on the materiality of Scope 1 and 2 GHG emissions rather than on semantic similarity. The mapping feeds a Sectoral Decarbonization Approach that down-scales NGFS trajectories in…",
-      "score": 6,
-      "publishedDate": "2026.11.13",
-      "eventDate": "2026.11.13",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.17942v1",
+      "event": "学术研究",
+      "title": "Renewable energy, institutional quality and economic diversification in oil-dependent African economies",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.11.20",
+      "eventDate": "2026.11.20",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-05275-2",
       "tags": [
-        "气候与碳",
-        "预印本·非同行评审"
+        "能源转型",
+        "同行评审状态待核"
       ]
     },
     {
@@ -374,6 +355,31 @@
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s43621-026-05387-9",
+      "date": "2026-11-20",
+      "terms": [
+        "企业出海",
+        "政策监管",
+        "气候披露"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-04632-5",
+      "date": "2026-11-20",
+      "terms": [
+        "人工智能"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-05275-2",
+      "date": "2026-11-20",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-environment-secretary-launches-43-million-sch",
       "date": "2026-11-19",
@@ -943,46 +949,6 @@
         "碳与排放",
         "工作论文"
       ]
-    },
-    {
-      "id": "doi-10-3389-frai-2026-1969275",
-      "date": "2026-10-21",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "能源转型",
-        "气候披露"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-29423v1",
-      "date": "2026-10-21",
-      "terms": [
-        "新兴行业",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-29344v1",
-      "date": "2026-10-21",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "能源转型",
-        "电力系统",
-        "碳与排放",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "doi-10-3389-frsus-2026-1960302",
-      "date": "2026-10-21",
-      "terms": [
-        "企业出海",
-        "数字化与数据",
-        "供应链与出海",
-        "绿色金融"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1021,11 +987,11 @@
     "week": {
       "label": "过去一周总结",
       "title": "新能源、绿色金融、高排放行业构成过去七日的主要行业信号",
-      "range": "2026.11.13—11.20",
-      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "range": "2026.11.14—11.21",
+      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "新能源",
+          "政策监管",
           10
         ],
         [
@@ -1033,27 +999,27 @@
           10
         ],
         [
-          "工作论文",
+          "新能源",
           9
         ],
         [
-          "政策监管",
+          "可再生能源",
           8
         ],
         [
-          "可再生能源",
+          "人工智能",
           7
         ],
         [
-          "碳与排放",
-          7
-        ],
-        [
-          "绿色金融",
+          "工作论文",
           6
         ],
         [
-          "人工智能",
+          "碳与排放",
+          6
+        ],
+        [
+          "绿色金融",
           6
         ],
         [
@@ -1065,6 +1031,10 @@
           5
         ],
         [
+          "企业出海",
+          4
+        ],
+        [
           "气候风险",
           4
         ],
@@ -1073,16 +1043,8 @@
           4
         ],
         [
-          "电力系统",
-          4
-        ],
-        [
           "高排放行业",
           4
-        ],
-        [
-          "企业出海",
-          3
         ],
         [
           "数字化与数据",
@@ -1097,7 +1059,15 @@
           3
         ],
         [
+          "气候披露",
+          3
+        ],
+        [
           "气候适应",
+          3
+        ],
+        [
+          "电力系统",
           3
         ],
         [
@@ -1113,8 +1083,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.21—11.20",
-      "copy": "过去30天词频基于 63 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.22—11.21",
+      "copy": "过去30天词频基于 62 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1122,7 +1092,7 @@
         ],
         [
           "政策监管",
-          8
+          9
         ],
         [
           "新能源",
@@ -1161,19 +1131,19 @@
           4
         ],
         [
-          "供应链与出海",
-          3
-        ],
-        [
           "气候披露",
-          3
+          4
         ],
         [
           "高排放行业",
-          3
+          4
         ],
         [
           "企业出海",
+          3
+        ],
+        [
+          "供应链与出海",
           3
         ],
         [
@@ -1198,14 +1168,14 @@
         ],
         [
           "学术研究",
-          2
-        ],
-        [
-          "数字化与数据",
-          2
+          3
         ],
         [
           "气候适应",
+          3
+        ],
+        [
+          "数字化与数据",
           2
         ],
         [
@@ -1443,17 +1413,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 11
+      "items": 9
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 55
+      "items": 57
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 33
+      "items": 34
     },
     {
       "source": "arXiv",
@@ -1461,7 +1431,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 12,
+  "verifiedCandidateCount": 14,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

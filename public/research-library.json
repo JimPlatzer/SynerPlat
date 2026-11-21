@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-11-20T07:21:42.512Z",
+  "updatedAt": "2026-11-21T07:14:11.012Z",
   "items": [
+    {
+      "id": "doi-10-1007-s43621-026-04632-5",
+      "type": "学术论文",
+      "title": "An integrated multimodal artificial intelligence framework for halal food compliance and pilgrim sustainability in Islamic mass tourism",
+      "publisher": "Springer Science and Business Media LLC",
+      "date": "2026-11-20",
+      "publishedDate": "2026-11-20",
+      "eventDate": "2026-11-20",
+      "dateNote": "论文发表",
+      "sector": "人工智能",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
+      ],
+      "summary": "Abstract The rapid development of AI in the analysis of halal foods and the management of pilgrimage presents opportunities for AI decision support for holistic and sustainable approaches, yet it can also introduce uncertainties about model reliability, ethical considerations for governance, and responsible deployment. In this study, a hybrid AI-based five-s…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.1007/s43621-026-04632-5",
+      "featured": false
+    },
     {
       "id": "govuk-www-gov-uk-government-news-12-month-just-energy-transition-partnership-l",
       "type": "政策法规",
