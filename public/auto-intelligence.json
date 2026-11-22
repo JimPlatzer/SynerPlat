@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-21T07:14:11.012Z",
-  "weekRange": "2026.11.14—11.21",
+  "updatedAt": "2026-11-22T06:55:01.357Z",
+  "weekRange": "2026.11.15—11.22",
   "monthLabel": "2026年11月",
   "stories": [
     {
@@ -260,6 +260,43 @@
       ]
     },
     {
+      "id": "doi-10-1007-s44163-026-02647-5",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "A systematic review of artificial intelligence methods and data constraints in ESG financial intelligence with implications for emerging markets",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.11.21",
+      "eventDate": "2026.11.21",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s44163-026-02647-5",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-05399-5",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Sustainable chemistry for the production of clean and renewable energy and its role in climate action",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.11.21",
+      "eventDate": "2026.11.21",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-05399-5",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "同行评审状态待核"
+      ]
+    },
+    {
       "id": "doi-10-1007-s43621-026-05275-2",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -334,27 +371,26 @@
         "能源转型",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "doi-10-1007-s10668-026-08295-0",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Financing sustainable development under geopolitical risk: green innovation, FinTech, and renewable energy transition in G7 economies",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.11.16",
-      "eventDate": "2026.11.16",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s10668-026-08295-0",
-      "tags": [
-        "能源转型",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s44163-026-02647-5",
+      "date": "2026-11-21",
+      "terms": [
+        "人工智能",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-05399-5",
+      "date": "2026-11-21",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-05387-9",
       "date": "2026-11-20",
@@ -928,27 +964,6 @@
         "气候披露",
         "绿色金融"
       ]
-    },
-    {
-      "id": "doi-10-1038-s41598-026-72800-8",
-      "date": "2026-10-22",
-      "terms": [
-        "人工智能",
-        "政策监管",
-        "可再生能源",
-        "能源转型"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-30870v1",
-      "date": "2026-10-22",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "能源转型",
-        "碳与排放",
-        "工作论文"
-      ]
     }
   ],
   "sectorInsights": [
@@ -987,16 +1002,16 @@
     "week": {
       "label": "过去一周总结",
       "title": "新能源、绿色金融、高排放行业构成过去七日的主要行业信号",
-      "range": "2026.11.14—11.21",
-      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "range": "2026.11.15—11.22",
+      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
-        [
-          "政策监管",
-          10
-        ],
         [
           "能源转型",
           10
+        ],
+        [
+          "政策监管",
+          9
         ],
         [
           "新能源",
@@ -1047,6 +1062,10 @@
           4
         ],
         [
+          "学术研究",
+          3
+        ],
+        [
           "数字化与数据",
           3
         ],
@@ -1083,7 +1102,7 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.22—11.21",
+      "range": "2026.10.23—11.22",
       "copy": "过去30天词频基于 62 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
@@ -1096,18 +1115,18 @@
         ],
         [
           "新能源",
-          7
+          8
         ],
         [
           "能源转型",
           7
         ],
         [
-          "碳与排放",
+          "人工智能",
           6
         ],
         [
-          "人工智能",
+          "碳与排放",
           6
         ],
         [
@@ -1159,15 +1178,15 @@
           3
         ],
         [
+          "学术研究",
+          3
+        ],
+        [
           "数据中心",
           3
         ],
         [
           "自然与生物多样性",
-          3
-        ],
-        [
-          "学术研究",
           3
         ],
         [
@@ -1423,7 +1442,7 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 34
+      "items": 36
     },
     {
       "source": "arXiv",
@@ -1431,7 +1450,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 14,
+  "verifiedCandidateCount": 16,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
