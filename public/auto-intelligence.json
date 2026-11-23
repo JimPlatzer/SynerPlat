@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-11-22T06:55:01.357Z",
-  "weekRange": "2026.11.15—11.22",
+  "updatedAt": "2026-11-23T07:44:34.135Z",
+  "weekRange": "2026.11.16—11.23",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-cop31-outcomes-your-questions-answered",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "COP31 Outcomes - your questions answered",
+      "summary": "…Q&A on the outcome of the United Nation&#x27;s 31st Climate Conference.…",
+      "score": 6,
+      "publishedDate": "2026.11.22",
+      "eventDate": "2026.11.22",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/cop31-outcomes-your-questions-answered",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-environment-secretary-launches-43-million-sch",
       "sector": "绿色金融",
@@ -205,6 +223,25 @@
       ]
     },
     {
+      "id": "arxiv-arxiv-org-abs-2611-27241v1",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "WINSO: A Large-Size Very-High-Resolution Remote Sensing Dataset for Wind Turbine Detection and Solar Panel Segmentation",
+      "summary": "Wind and solar energy are central to the global transition toward net-zero emissions and sustainable development. Accurate spatial inventories of wind and solar facilities are essential for future energy planning. Satellite remote sensing provides a practical and efficient means to acquire such geospatial data at scale. However, reliable facility mapping fro…",
+      "score": 6,
+      "publishedDate": "2026.11.20",
+      "eventDate": "2026.11.20",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.27241v1",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
       "id": "arxiv-arxiv-org-abs-2611-22711v1",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -352,28 +389,17 @@
         "能源转型",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "doi-10-1186-s12302-026-01570-x",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Renewable energy development and environmental sustainability in China: dynamic panel evidence on the moderating and threshold roles of artificial intelligence",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.11.17",
-      "eventDate": "2026.11.17",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1186/s12302-026-01570-x",
-      "tags": [
-        "人工智能",
-        "能源转型",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "govuk-www-gov-uk-government-news-cop31-outcomes-your-questions-answered",
+      "date": "2026-11-22",
+      "terms": [
+        "新兴行业",
+        "政策监管"
+      ]
+    },
     {
       "id": "doi-10-1007-s44163-026-02647-5",
       "date": "2026-11-21",
@@ -414,6 +440,18 @@
         "新能源",
         "可再生能源",
         "能源转型"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-27241v1",
+      "date": "2026-11-20",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型",
+        "能源效率",
+        "碳与排放",
+        "工作论文"
       ]
     },
     {
@@ -521,8 +559,7 @@
       "date": "2026-11-17",
       "terms": [
         "人工智能",
-        "可再生能源",
-        "能源转型"
+        "可再生能源"
       ]
     },
     {
@@ -924,46 +961,6 @@
         "气候披露",
         "工作论文"
       ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-32894v1",
-      "date": "2026-10-23",
-      "terms": [
-        "新兴行业",
-        "自然与生物多样性",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-32859v1",
-      "date": "2026-10-23",
-      "terms": [
-        "绿色金融",
-        "碳与排放",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-32830v1",
-      "date": "2026-10-23",
-      "terms": [
-        "人工智能",
-        "数据中心",
-        "气候风险",
-        "碳与排放",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "doi-10-3389-fclim-2026-1984092",
-      "date": "2026-10-23",
-      "terms": [
-        "企业出海",
-        "政策监管",
-        "气候风险",
-        "气候披露",
-        "绿色金融"
-      ]
     }
   ],
   "sectorInsights": [
@@ -1002,24 +999,24 @@
     "week": {
       "label": "过去一周总结",
       "title": "新能源、绿色金融、高排放行业构成过去七日的主要行业信号",
-      "range": "2026.11.15—11.22",
-      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "range": "2026.11.16—11.23",
+      "copy": "过去7天当前保留 9 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
+        [
+          "政策监管",
+          10
+        ],
+        [
+          "新能源",
+          10
+        ],
         [
           "能源转型",
           10
         ],
         [
-          "政策监管",
-          9
-        ],
-        [
-          "新能源",
-          9
-        ],
-        [
           "可再生能源",
-          8
+          9
         ],
         [
           "人工智能",
@@ -1050,11 +1047,19 @@
           4
         ],
         [
+          "新兴行业",
+          4
+        ],
+        [
           "气候风险",
           4
         ],
         [
           "水资源",
+          4
+        ],
+        [
+          "能源效率",
           4
         ],
         [
@@ -1074,10 +1079,6 @@
           3
         ],
         [
-          "新兴行业",
-          3
-        ],
-        [
           "气候披露",
           3
         ],
@@ -1090,10 +1091,6 @@
           3
         ],
         [
-          "能源效率",
-          3
-        ],
-        [
           "自然与生物多样性",
           3
         ]
@@ -1102,8 +1099,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.23—11.22",
-      "copy": "过去30天词频基于 62 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.24—11.23",
+      "copy": "过去30天词频基于 60 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1130,27 +1127,19 @@
           6
         ],
         [
-          "绿色金融",
-          5
-        ],
-        [
           "可再生能源",
           5
         ],
         [
+          "绿色金融",
+          5
+        ],
+        [
           "电力系统",
-          4
+          5
         ],
         [
           "新兴行业",
-          4
-        ],
-        [
-          "气候风险",
-          4
-        ],
-        [
-          "气候披露",
           4
         ],
         [
@@ -1158,11 +1147,23 @@
           4
         ],
         [
-          "企业出海",
+          "供应链与出海",
           3
         ],
         [
-          "供应链与出海",
+          "气候披露",
+          3
+        ],
+        [
+          "气候风险",
+          3
+        ],
+        [
+          "能源效率",
+          3
+        ],
+        [
+          "企业出海",
           3
         ],
         [
@@ -1174,10 +1175,6 @@
           3
         ],
         [
-          "能源效率",
-          3
-        ],
-        [
           "学术研究",
           3
         ],
@@ -1186,11 +1183,11 @@
           3
         ],
         [
-          "自然与生物多样性",
+          "气候适应",
           3
         ],
         [
-          "气候适应",
+          "自然与生物多样性",
           3
         ],
         [
@@ -1228,21 +1225,21 @@
       "score": 8
     },
     {
-      "date": "11.19",
-      "title": "Environment Secretary launches £43 million schemes to test farming tech, boost climate resilience and build reservoirs",
-      "summary": "Farmers backed with £28m innovation competition, as part of the largest ever annual investment to boost business resilience through better soil and water management",
-      "sector": "绿色金融",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/environment-secretary-launches-43-million-schemes-to-test-farming-tech-boost-climate-resilience-and-build-reservoirs",
-      "score": 8
-    },
-    {
       "date": "11.16",
       "title": "Artificial intelligence for marine pollution monitoring and control",
       "summary": "Abstract Globally, marine pollution generated by oil spills, plastic litter, and industrial waste poses major threats to the environment, the economy, and human health. Field surveys, optical sensing, and manual sampling are examples of traditional monitoring and mitigation techniques that are frequently hampered by inefficiency, poor precision, and restrict…",
       "sector": "人工智能",
       "source": "Springer Science and Business Media LLC",
       "url": "https://doi.org/10.1007/s43621-026-04956-2",
+      "score": 8
+    },
+    {
+      "date": "11.19",
+      "title": "Environment Secretary launches £43 million schemes to test farming tech, boost climate resilience and build reservoirs",
+      "summary": "Farmers backed with £28m innovation competition, as part of the largest ever annual investment to boost business resilience through better soil and water management",
+      "sector": "绿色金融",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/environment-secretary-launches-43-million-schemes-to-test-farming-tech-boost-climate-resilience-and-build-reservoirs",
       "score": 8
     },
     {
@@ -1432,17 +1429,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 9
+      "items": 10
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 57
+      "items": 59
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 36
+      "items": 34
     },
     {
       "source": "arXiv",
@@ -1450,7 +1447,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 16,
+  "verifiedCandidateCount": 17,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
