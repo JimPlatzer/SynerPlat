@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-11-24T09:58:52.484Z",
-  "weekRange": "2026.11.17—11.24",
+  "updatedAt": "2026-11-25T08:41:33.719Z",
+  "weekRange": "2026.11.18—11.25",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-gad-actuary-contributes-to-research-on-ocean-",
+      "sector": "新兴行业",
+      "relevance": "直接 ESG",
+      "event": "政策监管",
+      "title": "GAD actuary contributes to research on ocean health risks",
+      "summary": "Climate Risk Actuary Sara Joslin co-authors new research examining the risks declining ocean health could pose to society, financial systems and pension outcomes.",
+      "score": 6,
+      "publishedDate": "2026.11.24",
+      "eventDate": "2026.11.24",
+      "dateNote": "发布",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/gad-actuary-contributes-to-research-on-ocean-health-risks",
+      "tags": [
+        "气候与碳",
+        "政策法规"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-cop31-outcomes-your-questions-answered",
       "sector": "新兴行业",
@@ -111,42 +129,6 @@
         "供应链与出海",
         "政策法规"
       ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-uk-leads-international-cooperation-on-sustain",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "UK leads international cooperation on sustainable export finance",
-      "summary": "New international report shows $376 billion in export finance is now covered by net-zero commitments, up 58% in a year.",
-      "score": 9,
-      "publishedDate": "2026.11.17",
-      "eventDate": "2026.11.17",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/uk-leads-international-cooperation-on-sustainable-export-finance",
-      "tags": [
-        "气候与碳",
-        "供应链与出海",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-chemical-manufacturer-fined-more-than-100k-af",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Chemical manufacturer fined more than £100k after pollution",
-      "summary": "Following an investigation by the Environment Agency, a company has been fined after it allowed waste containing a toxic chemical to be released on to open land.",
-      "score": 6,
-      "publishedDate": "2026.11.17",
-      "eventDate": "2026.11.17",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/chemical-manufacturer-fined-more-than-100k-after-pollution",
-      "tags": [
-        "政策法规"
-      ]
     }
   ],
   "watchlist": [
@@ -187,18 +169,36 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2611-22705v1",
-      "sector": "新能源",
+      "id": "arxiv-arxiv-org-abs-2611-32948v1",
+      "sector": "高排放行业",
       "relevance": "直接 ESG",
       "event": "工作论文",
-      "title": "Route Optimization under Port Congestion and Carbon Reduction: An NSGA-II Approach",
-      "summary": "Maritime shipping simultaneously faces the dual challenges of escalating port congestion and increasingly stringent decarbonization mandates. Large-scale vessel anchorage at hub ports inflates unit transport costs while generating significant additional \\(CO_2\\) emissions from idling auxiliary engines. This study develops a multi-objective routing optimizati…",
-      "score": 7,
-      "publishedDate": "2026.11.17",
-      "eventDate": "2026.11.17",
+      "title": "Beyond Expected Value: PPO with Distributional Critics for Systematic Conservation Planning",
+      "summary": "Systematic conservation planning must allocate limited protection budgets sequentially under ecological and climatic uncertainty. Static tools cannot adapt as conditions change, and policies optimised only for expected outcomes can fail on the worst-case trajectories climate change makes increasingly likely. CAPTAIN was the first framework to cast this as se…",
+      "score": 6,
+      "publishedDate": "2026.11.24",
+      "eventDate": "2026.11.24",
       "dateNote": "预印本发布",
       "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.22705v1",
+      "url": "http://arxiv.org/abs/2611.32948v1",
+      "tags": [
+        "气候与碳",
+        "预印本·非同行评审"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-32505v1",
+      "sector": "高排放行业",
+      "relevance": "直接 ESG",
+      "event": "工作论文",
+      "title": "An Integrated Remote Sensing and Machine Learning Framework for Mapping Hazard Associated with Leached Metals",
+      "summary": "This study integrates satellite remote sensing, groundwater monitoring, and machine learning to map leached-metal-associated hazards at four coal combustion residual (CCR) sites in Virginia, USA. Constituent-specific groundwater concentrations were expressed as Hazard Quotients (HQ) and combined into a composite Hazard Index (HI). Predictors included Sentine…",
+      "score": 6,
+      "publishedDate": "2026.11.24",
+      "eventDate": "2026.11.24",
+      "dateNote": "预印本发布",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2611.32505v1",
       "tags": [
         "气候与碳",
         "预印本·非同行评审"
@@ -238,24 +238,6 @@
       "tags": [
         "能源转型",
         "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2611-22711v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "Transmission Expansion and Energy Storage Planning under Great Britain's Uncertain Energy Transition Pathways",
-      "summary": "Long term power system planning must account for uncertainty in electricity demand and generation, while recognising the different investment and commissioning characteristics of transmission and energy storage. This paper develops a multi year stochastic framework for coordinated transmission expansion and energy storage planning and applies it to the Great…",
-      "score": 6,
-      "publishedDate": "2026.11.17",
-      "eventDate": "2026.11.17",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.22711v1",
-      "tags": [
-        "能源转型",
         "预印本·非同行评审"
       ]
     },
@@ -352,28 +334,36 @@
         "能源转型",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "doi-10-1186-s12302-026-01570-x",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Renewable energy development and environmental sustainability in China: dynamic panel evidence on the moderating and threshold roles of artificial intelligence",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.11.17",
-      "eventDate": "2026.11.17",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1186/s12302-026-01570-x",
-      "tags": [
-        "人工智能",
-        "能源转型",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "govuk-www-gov-uk-government-news-gad-actuary-contributes-to-research-on-ocean-",
+      "date": "2026-11-24",
+      "terms": [
+        "新兴行业",
+        "政策监管",
+        "气候风险"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-32948v1",
+      "date": "2026-11-24",
+      "terms": [
+        "高排放行业",
+        "气候风险",
+        "工作论文"
+      ]
+    },
+    {
+      "id": "arxiv-arxiv-org-abs-2611-32505v1",
+      "date": "2026-11-24",
+      "terms": [
+        "高排放行业",
+        "水资源",
+        "工作论文"
+      ]
+    },
     {
       "id": "arxiv-arxiv-org-abs-2611-30423v1",
       "date": "2026-11-23",
@@ -526,15 +516,6 @@
       ]
     },
     {
-      "id": "govuk-www-gov-uk-government-news-chemical-manufacturer-fined-more-than-100k-af",
-      "date": "2026-11-17",
-      "terms": [
-        "高排放行业",
-        "政策监管",
-        "污染防治"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2611-22711v1",
       "date": "2026-11-17",
       "terms": [
@@ -546,17 +527,8 @@
       ]
     },
     {
-      "id": "doi-10-1186-s12302-026-01570-x",
-      "date": "2026-11-17",
-      "terms": [
-        "人工智能",
-        "可再生能源",
-        "能源转型"
-      ]
-    },
-    {
       "id": "govuk-www-gov-uk-government-news-uk-leads-international-cooperation-on-sustain",
-      "date": "2026-11-17",
+      "date": "2026-11-16",
       "terms": [
         "企业出海",
         "政策监管",
@@ -948,6 +920,12 @@
   ],
   "sectorInsights": [
     [
+      "新兴行业",
+      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      2,
+      "→"
+    ],
+    [
       "新能源",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
@@ -961,18 +939,6 @@
     ],
     [
       "高排放行业",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
-      "→"
-    ],
-    [
-      "企业出海",
-      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      1,
-      "→"
-    ],
-    [
-      "新兴行业",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
@@ -981,9 +947,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新能源、绿色金融、高排放行业构成过去七日的主要行业信号",
-      "range": "2026.11.17—11.24",
-      "copy": "过去7天当前保留 8 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新兴行业、新能源、绿色金融构成过去七日的主要行业信号",
+      "range": "2026.11.18—11.25",
+      "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
           "政策监管",
@@ -991,10 +957,6 @@
         ],
         [
           "能源转型",
-          10
-        ],
-        [
-          "新能源",
           9
         ],
         [
@@ -1002,40 +964,48 @@
           8
         ],
         [
-          "碳与排放",
-          6
-        ],
-        [
-          "人工智能",
-          6
+          "新能源",
+          8
         ],
         [
           "工作论文",
           6
         ],
         [
-          "绿色金融",
+          "高排放行业",
           6
         ],
         [
-          "供应链与出海",
+          "人工智能",
           5
         ],
         [
-          "高排放行业",
+          "气候风险",
           5
-        ],
-        [
-          "企业出海",
-          4
         ],
         [
           "水资源",
+          5
+        ],
+        [
+          "碳与排放",
+          5
+        ],
+        [
+          "供应链与出海",
           4
         ],
         [
-          "污染防治",
+          "新兴行业",
           4
+        ],
+        [
+          "绿色金融",
+          4
+        ],
+        [
+          "企业出海",
+          3
         ],
         [
           "学术研究",
@@ -1043,10 +1013,6 @@
         ],
         [
           "数字化与数据",
-          3
-        ],
-        [
-          "新兴行业",
           3
         ],
         [
@@ -1058,11 +1024,7 @@
           3
         ],
         [
-          "气候风险",
-          3
-        ],
-        [
-          "电力系统",
+          "污染防治",
           3
         ],
         [
@@ -1078,8 +1040,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.25—11.24",
-      "copy": "过去30天词频基于 60 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.26—11.25",
+      "copy": "过去30天词频基于 61 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1087,15 +1049,15 @@
         ],
         [
           "政策监管",
-          9
-        ],
-        [
-          "新能源",
           8
         ],
         [
-          "能源转型",
+          "新能源",
           7
+        ],
+        [
+          "能源转型",
+          6
         ],
         [
           "碳与排放",
@@ -1106,12 +1068,12 @@
           6
         ],
         [
-          "可再生能源",
+          "绿色金融",
           5
         ],
         [
-          "绿色金融",
-          5
+          "可再生能源",
+          4
         ],
         [
           "电力系统",
@@ -1126,6 +1088,10 @@
           4
         ],
         [
+          "气候风险",
+          4
+        ],
+        [
           "供应链与出海",
           3
         ],
@@ -1134,7 +1100,7 @@
           3
         ],
         [
-          "气候风险",
+          "水资源",
           3
         ],
         [
@@ -1146,15 +1112,11 @@
           3
         ],
         [
-          "水资源",
+          "学术研究",
           3
         ],
         [
           "污染防治",
-          3
-        ],
-        [
-          "学术研究",
           3
         ],
         [
@@ -1408,17 +1370,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 8
+      "items": 14
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 59
+      "items": 57
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 34
+      "items": 31
     },
     {
       "source": "arXiv",
@@ -1426,7 +1388,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 13,
+  "verifiedCandidateCount": 12,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
