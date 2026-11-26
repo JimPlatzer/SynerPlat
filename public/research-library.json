@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-25T08:41:33.719Z",
+  "updatedAt": "2026-11-26T03:29:34.733Z",
   "items": [
+    {
+      "id": "report-ocean-maelstrom-ifoa-2026-11-24",
+      "type": "行业报告",
+      "title": "Ocean Maelstrom: navigating the climate storm",
+      "publisher": "Institute and Faculty of Actuaries; The Ocean Race; University of Exeter",
+      "date": "2026-11-24",
+      "publishedDate": "2026-11-24",
+      "eventDate": "2026-11-24",
+      "dateNote": "发布日期以英国政府介绍页为准（2026-11-24）；报告封面标注2026年11月。",
+      "sector": "绿色金融",
+      "tags": [
+        "气候风险",
+        "自然与生物多样性",
+        "绿色金融",
+        "非同行评审报告"
+      ],
+      "summary": "思想领导报告提出“Ocean Solvency”框架，并用“Ocean Maelstrom”情景讨论海洋变暖、洋流变化、珊瑚礁衰退、渔业压力和海平面上升等风险如何相互作用，进而影响粮食系统、供应链、通胀、金融市场与养老金。报告由IFoA与The Ocean Race、埃克塞特大学合作，属于开放的风险研究/思想领导材料，不是同行评审论文。",
+      "insight": "可用于海洋自然风险、供应链韧性和长期金融暴露的研究线索；报告自述其为思想领导研究，引用时应区分其情景分析与实证预测。",
+      "url": "https://www.gov.uk/government/news/gad-actuary-contributes-to-research-on-ocean-health-risks",
+      "featured": true
+    },
     {
       "id": "arxiv-arxiv-org-abs-2611-32948v1",
       "type": "工作论文",

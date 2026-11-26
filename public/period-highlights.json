@@ -1,6 +1,24 @@
 {
   "monthlyHighlights": [
     {
+      "date": "11.25",
+      "title": "生态环境部召开京津冀美丽中国先行区建设工作推进会",
+      "summary": "生态环境部通报京津冀先行区建设推进情况，要求区域协作推动环境治理提质、绿色转型、减污降碳协同与生态修复；没有公布新的约束性规则，作为区域政策实施信号跟踪。",
+      "sector": "区域环境治理",
+      "source": "中华人民共和国生态环境部",
+      "url": "https://www.mee.gov.cn/xxgk/hjyw/202611/t20261125_1187316.shtml",
+      "score": 6
+    },
+    {
+      "date": "11.24",
+      "title": "IFoA、The Ocean Race与埃克塞特大学发布海洋系统风险报告",
+      "summary": "《Ocean Maelstrom: navigating the climate storm》讨论海洋健康风险如何经由气候调节、食品、贸易、供应链与金融系统形成相互关联的暴露，并提出“Ocean Solvency”分析框架。该材料是思想领导报告，不是同行评审论文。",
+      "sector": "绿色金融",
+      "source": "Institute and Faculty of Actuaries; The Ocean Race; University of Exeter",
+      "url": "https://www.gov.uk/government/news/gad-actuary-contributes-to-research-on-ocean-health-risks",
+      "score": 8
+    },
+    {
       "date": "11.10",
       "title": "国际能源署推出全球能源韧性观察站，绘制电力基础设施气候风险",
       "summary": "国际能源署（IEA）于2026年11月10日推出全球能源部门韧性观察站，首期聚焦电力系统，可查询能源中断、基础设施对洪水、热浪和热带气旋的暴露，以及130多项韧性措施与政策案例。IEA称，自2022年以来已记录150多个国家约3,000起与极端天气等自然灾害相关的停电，平均每年约1.9亿电力用户短暂断电；其分析估计，全球约30%的电力资产暴露于不同强度的热带气旋、约20%暴露于持续高温，超过10%位于洪泛区。该平台为电网适应投资和能源安全规划提供跨国数据；暴露比例代表风险暴露，不等于损失预测。",
@@ -516,5 +534,5 @@
       "score": 8
     }
   ],
-  "updatedAt": "2026-11-11T04:16:36.493Z"
+  "updatedAt": "2026-11-26T03:29:34.733Z"
 }

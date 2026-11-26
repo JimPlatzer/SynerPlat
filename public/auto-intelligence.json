@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-11-25T08:41:33.719Z",
-  "weekRange": "2026.11.18—11.25",
+  "updatedAt": "2026-11-26T03:29:34.733Z",
+  "weekRange": "2026.11.19—11.26",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "mee-jingjinji-beautiful-china-pilot-progress-meeting-2026-11-25",
+      "sector": "区域环境治理",
+      "relevance": "直接 ESG",
+      "event": "政策实施进展",
+      "title": "生态环境部召开京津冀美丽中国先行区建设工作推进会",
+      "summary": "生态环境部于11月25日发布消息称，京津冀美丽中国先行区建设工作推进会近日在北京召开。会议要求三地加强区域协作，协同提升生态环境治理与绿色转型，建设减污降碳协同和生态修复示范区；会上还交流了科技赋能与生态环境智能感知网络建设。通报属于推进部署和进展信号，未公布新的标准或具有约束力的政策措施。",
+      "score": 6,
+      "publishedDate": "2026.11.25",
+      "eventDate": "",
+      "dateNote": "发布日期为2026-11-25；原文仅称会议“近日”召开，未披露具体会议日期。",
+      "source": "中华人民共和国生态环境部",
+      "url": "https://www.mee.gov.cn/xxgk/hjyw/202611/t20261125_1187316.shtml",
+      "tags": [
+        "区域协同",
+        "污染防治",
+        "减污降碳",
+        "生态修复",
+        "政策实施进展"
+      ]
+    },
     {
       "id": "govuk-www-gov-uk-government-news-gad-actuary-contributes-to-research-on-ocean-",
       "sector": "新兴行业",
@@ -108,25 +129,6 @@
       "source": "UK Government",
       "url": "https://www.gov.uk/government/news/southern-water-ordered-to-pay-6-figures-after-seaside-sewage-release",
       "tags": [
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-australia-united-kingdom-joint-communique-on-",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Australia-United Kingdom Joint Communiqué on the 2nd Strategic Innovation Dialogue",
-      "summary": "The joint statement commits to continuing science, research, commercialisation and trade collaboration in the key areas of renewable energy , life sciences, and research & innovation.",
-      "score": 6,
-      "publishedDate": "2026.11.18",
-      "eventDate": "2026.11.18",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/australia-united-kingdom-joint-communique-on-the-2nd-strategic-innovation-dialogue",
-      "tags": [
-        "能源转型",
-        "供应链与出海",
         "政策法规"
       ]
     }
@@ -316,24 +318,6 @@
         "供应链与出海",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05311-1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Digitalization, renewable energy transition and the environmental Kuznets curve in GCC economies",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.11.18",
-      "eventDate": "2026.11.18",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-05311-1",
-      "tags": [
-        "能源转型",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
@@ -483,27 +467,6 @@
         "政策监管",
         "污染防治",
         "水资源"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-australia-united-kingdom-joint-communique-on-",
-      "date": "2026-11-18",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "可再生能源",
-        "能源转型",
-        "供应链与出海"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05311-1",
-      "date": "2026-11-18",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "能源转型",
-        "数字化与数据"
       ]
     },
     {
@@ -869,52 +832,24 @@
       ]
     },
     {
-      "id": "doi-10-1007-s43621-026-05061-0",
-      "date": "2026-10-26",
+      "id": "mee-jingjinji-beautiful-china-pilot-progress-meeting-2026-11-25",
+      "date": "2026-11-25",
       "terms": [
-        "人工智能",
-        "电力系统"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-35464v1",
-      "date": "2026-10-26",
-      "terms": [
-        "新兴行业",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-35294v1",
-      "date": "2026-10-26",
-      "terms": [
-        "人工智能",
-        "气候风险",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-35230v1",
-      "date": "2026-10-26",
-      "terms": [
-        "人工智能",
-        "数据中心",
-        "电力系统",
-        "碳与排放",
-        "工作论文"
-      ]
-    },
-    {
-      "id": "arxiv-arxiv-org-abs-2610-35189v1",
-      "date": "2026-10-26",
-      "terms": [
-        "人工智能",
+        "区域环境治理",
         "政策监管",
-        "电力系统",
-        "能源效率",
-        "碳与排放",
-        "气候披露",
-        "工作论文"
+        "污染防治",
+        "能源转型",
+        "气候风险"
+      ]
+    },
+    {
+      "id": "report-ocean-maelstrom-ifoa-2026-11-24",
+      "date": "2026-11-24",
+      "terms": [
+        "绿色金融",
+        "气候风险",
+        "自然与生物多样性",
+        "学术研究"
       ]
     }
   ],
@@ -926,15 +861,21 @@
       "→"
     ],
     [
-      "新能源",
+      "绿色金融",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
     ],
     [
-      "绿色金融",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
+      "区域环境治理",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
+      "→"
+    ],
+    [
+      "新能源",
+      "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
+      1,
       "→"
     ],
     [
@@ -947,33 +888,33 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新兴行业、新能源、绿色金融构成过去七日的主要行业信号",
-      "range": "2026.11.18—11.25",
-      "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "title": "新兴行业、绿色金融、新能源构成过去七日的主要行业信号",
+      "range": "2026.11.19—11.26",
+      "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 10 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "政策监管",
+          "工作论文",
           10
         ],
         [
-          "能源转型",
+          "政策监管",
           9
-        ],
-        [
-          "可再生能源",
-          8
         ],
         [
           "新能源",
           8
         ],
         [
-          "工作论文",
+          "能源转型",
+          7
+        ],
+        [
+          "碳与排放",
           6
         ],
         [
-          "高排放行业",
-          6
+          "绿色金融",
+          5
         ],
         [
           "人工智能",
@@ -981,18 +922,14 @@
         ],
         [
           "气候风险",
-          5
+          4
         ],
         [
-          "水资源",
-          5
+          "高排放行业",
+          4
         ],
         [
-          "碳与排放",
-          5
-        ],
-        [
-          "供应链与出海",
+          "可再生能源",
           4
         ],
         [
@@ -1000,11 +937,15 @@
           4
         ],
         [
-          "绿色金融",
-          4
+          "水资源",
+          3
         ],
         [
           "企业出海",
+          3
+        ],
+        [
+          "供应链与出海",
           3
         ],
         [
@@ -1012,15 +953,7 @@
           3
         ],
         [
-          "数字化与数据",
-          3
-        ],
-        [
           "气候披露",
-          3
-        ],
-        [
-          "气候适应",
           3
         ],
         [
@@ -1034,14 +967,22 @@
         [
           "自然与生物多样性",
           3
+        ],
+        [
+          "气候适应",
+          3
+        ],
+        [
+          "区域环境治理",
+          2
         ]
       ]
     },
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.26—11.25",
-      "copy": "过去30天词频基于 61 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.27—11.26",
+      "copy": "过去30天词频基于 56 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1049,22 +990,18 @@
         ],
         [
           "政策监管",
-          8
+          9
         ],
         [
           "新能源",
-          7
+          8
         ],
         [
           "能源转型",
-          6
+          7
         ],
         [
           "碳与排放",
-          6
-        ],
-        [
-          "人工智能",
           6
         ],
         [
@@ -1072,7 +1009,23 @@
           5
         ],
         [
+          "人工智能",
+          5
+        ],
+        [
+          "气候风险",
+          4
+        ],
+        [
+          "高排放行业",
+          4
+        ],
+        [
           "可再生能源",
+          4
+        ],
+        [
+          "新兴行业",
           4
         ],
         [
@@ -1080,31 +1033,7 @@
           4
         ],
         [
-          "新兴行业",
-          4
-        ],
-        [
-          "高排放行业",
-          4
-        ],
-        [
-          "气候风险",
-          4
-        ],
-        [
-          "供应链与出海",
-          3
-        ],
-        [
-          "气候披露",
-          3
-        ],
-        [
           "水资源",
-          3
-        ],
-        [
-          "能源效率",
           3
         ],
         [
@@ -1112,7 +1041,15 @@
           3
         ],
         [
+          "供应链与出海",
+          3
+        ],
+        [
           "学术研究",
+          3
+        ],
+        [
+          "气候披露",
           3
         ],
         [
@@ -1120,11 +1057,7 @@
           3
         ],
         [
-          "数据中心",
-          3
-        ],
-        [
-          "气候适应",
+          "能源效率",
           3
         ],
         [
@@ -1132,7 +1065,15 @@
           3
         ],
         [
-          "数字化与数据",
+          "气候适应",
+          3
+        ],
+        [
+          "区域环境治理",
+          2
+        ],
+        [
+          "数据中心",
           2
         ],
         [
@@ -1380,15 +1321,20 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 31
+      "items": 30
     },
     {
       "source": "arXiv",
       "status": "ok",
       "items": 40
+    },
+    {
+      "source": "中华人民共和国生态环境部",
+      "status": "ok",
+      "items": 1
     }
   ],
-  "verifiedCandidateCount": 12,
+  "verifiedCandidateCount": 9,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
