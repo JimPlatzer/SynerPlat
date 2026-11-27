@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T00:45:11.526Z",
+  "updatedAt": "2026-11-27T08:40:41.329Z",
   "weekRange": "2026.11.20—11.27",
   "monthLabel": "2026年11月",
   "stories": [
@@ -104,6 +104,42 @@
     }
   ],
   "watchlist": [
+    {
+      "id": "doi-10-1007-s43621-026-04975-z",
+      "sector": "人工智能",
+      "relevance": "间接 ESG",
+      "event": "学术研究",
+      "title": "Employee artificial intelligence expertise strengthens the relationship between artificial intelligence adoption and credit risk assessment accuracy in Jordanian Islamic banks",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 7,
+      "publishedDate": "2026.11.27",
+      "eventDate": "2026.11.27",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-04975-z",
+      "tags": [
+        "人工智能",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1186-s13705-026-00621-8",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "From energy crisis to solar boom: the political economy of decentralized clean energy transition in Pakistan",
+      "summary": "Abstract Background Since 2022, Pakistan has experienced a rapid surge of rooftop solar photovoltaic (PV) adoption as households and businesses increasingly shift toward distributed solar systems to reduce dependence on the national grid. This unprecedented shift raises critical questions for energy governance, energy system sustainability, and energy justic…",
+      "score": 7,
+      "publishedDate": "2026.11.27",
+      "eventDate": "2026.11.27",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1186/s13705-026-00621-8",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ]
+    },
     {
       "id": "doi-10-1007-s43621-026-05387-9",
       "sector": "企业出海",
@@ -251,6 +287,25 @@
       ]
     },
     {
+      "id": "doi-10-3389-frai-2026-1984267",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Harnessing quantum-enhanced Hybrid Transformer Model for predicting long-term wind energy losses: a multimodal fusion approach to climate-driven variability",
+      "summary": "Wind energy has become increasingly important in addressing the world’s energy issues. However, estimating long-term energy losses from climate change has been a challenge. This study presents a Quantum-Enhanced Hybrid Transformer Model for predicting long-term wind energy losses resulting from climate variability. In contrast to conventional methods that pr…",
+      "score": 5,
+      "publishedDate": "2026.11.27",
+      "eventDate": "2026.11.27",
+      "dateNote": "论文发表",
+      "source": "Frontiers Media SA",
+      "url": "https://doi.org/10.3389/frai.2026.1984267",
+      "tags": [
+        "能源转型",
+        "气候与碳",
+        "同行评审状态待核"
+      ]
+    },
+    {
       "id": "doi-10-1007-s44163-026-02647-5",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -267,46 +322,37 @@
         "人工智能",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05399-5",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Sustainable chemistry for the production of clean and renewable energy and its role in climate action",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.11.21",
-      "eventDate": "2026.11.21",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-05399-5",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05275-2",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "Renewable energy, institutional quality and economic diversification in oil-dependent African economies",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 5,
-      "publishedDate": "2026.11.20",
-      "eventDate": "2026.11.20",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-05275-2",
-      "tags": [
-        "能源转型",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
+    {
+      "id": "doi-10-1007-s43621-026-04975-z",
+      "date": "2026-11-27",
+      "terms": [
+        "人工智能"
+      ]
+    },
+    {
+      "id": "doi-10-1186-s13705-026-00621-8",
+      "date": "2026-11-27",
+      "terms": [
+        "新能源",
+        "可再生能源",
+        "能源转型",
+        "电力系统"
+      ]
+    },
+    {
+      "id": "doi-10-3389-frai-2026-1984267",
+      "date": "2026-11-27",
+      "terms": [
+        "新能源",
+        "聚变能源",
+        "可再生能源",
+        "能源转型",
+        "气候风险"
+      ]
+    },
     {
       "id": "govuk-trees-action-plan-england-2026-2030",
       "date": "2026-11-26",
@@ -321,7 +367,7 @@
       "id": "govuk-www-gov-uk-government-news-rpc-statement-impact-of-energy-independence-b",
       "date": "2026-11-26",
       "terms": [
-        "绿色金融",
+        "新能源",
         "政策监管",
         "能源转型"
       ]
@@ -372,7 +418,10 @@
       "terms": [
         "新兴行业",
         "政策监管",
-        "气候风险"
+        "气候风险",
+        "供应链与出海",
+        "自然与生物多样性",
+        "绿色金融"
       ]
     },
     {
@@ -417,7 +466,8 @@
       "date": "2026-11-22",
       "terms": [
         "新兴行业",
-        "政策监管"
+        "政策监管",
+        "气候风险"
       ]
     },
     {
@@ -433,8 +483,7 @@
       "date": "2026-11-21",
       "terms": [
         "新能源",
-        "可再生能源",
-        "能源转型"
+        "可再生能源"
       ]
     },
     {
@@ -454,15 +503,6 @@
       ]
     },
     {
-      "id": "doi-10-1007-s43621-026-05275-2",
-      "date": "2026-11-20",
-      "terms": [
-        "新能源",
-        "可再生能源",
-        "能源转型"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2611-27241v1",
       "date": "2026-11-20",
       "terms": [
@@ -472,6 +512,14 @@
         "能源效率",
         "碳与排放",
         "工作论文"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-05275-2",
+      "date": "2026-11-20",
+      "terms": [
+        "新能源",
+        "可再生能源"
       ]
     },
     {
@@ -648,6 +696,18 @@
       "terms": [
         "新兴行业",
         "工作论文"
+      ]
+    },
+    {
+      "id": "period-www-iea-org-news-iea-launches-global-observatory-to-help-strengthen-ener",
+      "date": "2026-11-10",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "电力系统",
+        "气候风险",
+        "气候适应",
+        "绿色金融"
       ]
     },
     {
@@ -849,7 +909,7 @@
       "→"
     ],
     [
-      "绿色金融",
+      "新能源",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
@@ -864,12 +924,12 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "英格兰自然行动、英国能源监管审查与区域协同治理构成近期政策信号",
+      "title": "新兴行业、区域环境治理、新能源构成过去七日的主要行业信号",
       "range": "2026.11.20—11.27",
-      "copy": "过去7天保留 5 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频统计同时纳入研究资料和政策文件。发布日期与事件日期分开记录，遇到时间未披露的原文会在日期说明中标注。",
+      "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "工作论文",
+          "新能源",
           10
         ],
         [
@@ -877,23 +937,39 @@
           9
         ],
         [
-          "新能源",
+          "能源转型",
+          9
+        ],
+        [
+          "工作论文",
           8
         ],
         [
-          "能源转型",
+          "可再生能源",
           7
         ],
         [
-          "碳与排放",
-          6
-        ],
-        [
-          "绿色金融",
-          5
+          "气候风险",
+          7
         ],
         [
           "人工智能",
+          6
+        ],
+        [
+          "电力系统",
+          5
+        ],
+        [
+          "自然与生物多样性",
+          5
+        ],
+        [
+          "高排放行业",
+          5
+        ],
+        [
+          "供应链与出海",
           4
         ],
         [
@@ -901,47 +977,23 @@
           4
         ],
         [
-          "电力系统",
-          4
-        ],
-        [
-          "高排放行业",
-          4
-        ],
-        [
-          "可再生能源",
-          4
-        ],
-        [
-          "气候风险",
-          3
-        ],
-        [
           "水资源",
-          3
+          4
+        ],
+        [
+          "碳与排放",
+          4
+        ],
+        [
+          "绿色金融",
+          4
         ],
         [
           "企业出海",
           3
         ],
         [
-          "供应链与出海",
-          3
-        ],
-        [
-          "气候披露",
-          3
-        ],
-        [
-          "污染防治",
-          3
-        ],
-        [
-          "能源效率",
-          3
-        ],
-        [
-          "自然与生物多样性",
+          "区域环境治理",
           3
         ],
         [
@@ -953,16 +1005,28 @@
           3
         ],
         [
+          "气候披露",
+          3
+        ],
+        [
           "气候适应",
           3
         ],
         [
-          "区域环境治理",
-          2
+          "污染防治",
+          3
+        ],
+        [
+          "聚变能源",
+          3
+        ],
+        [
+          "能源效率",
+          3
         ],
         [
           "自然与林业",
-          2
+          3
         ]
       ]
     },
@@ -970,7 +1034,7 @@
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
       "range": "2026.10.28—11.27",
-      "copy": "过去30天词频基于 56 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "copy": "过去30天词频基于 60 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -982,7 +1046,7 @@
         ],
         [
           "新能源",
-          8
+          9
         ],
         [
           "能源转型",
@@ -998,18 +1062,10 @@
         ],
         [
           "人工智能",
-          4
-        ],
-        [
-          "新兴行业",
-          4
+          5
         ],
         [
           "电力系统",
-          4
-        ],
-        [
-          "高排放行业",
           4
         ],
         [
@@ -1018,6 +1074,18 @@
         ],
         [
           "气候风险",
+          4
+        ],
+        [
+          "新兴行业",
+          4
+        ],
+        [
+          "高排放行业",
+          4
+        ],
+        [
+          "供应链与出海",
           3
         ],
         [
@@ -1029,11 +1097,15 @@
           3
         ],
         [
-          "供应链与出海",
+          "气候披露",
           3
         ],
         [
-          "气候披露",
+          "自然与生物多样性",
+          3
+        ],
+        [
+          "气候适应",
           3
         ],
         [
@@ -1045,10 +1117,6 @@
           3
         ],
         [
-          "自然与生物多样性",
-          3
-        ],
-        [
           "学术研究",
           3
         ],
@@ -1057,15 +1125,11 @@
           3
         ],
         [
-          "气候适应",
+          "聚变能源",
           3
         ],
         [
           "区域环境治理",
-          2
-        ],
-        [
-          "聚变能源",
           2
         ],
         [
@@ -1313,20 +1377,15 @@
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 31
+      "items": 33
     },
     {
       "source": "arXiv",
       "status": "ok",
       "items": 40
-    },
-    {
-      "source": "中华人民共和国生态环境部",
-      "status": "ok",
-      "items": 1
     }
   ],
-  "verifiedCandidateCount": 7,
+  "verifiedCandidateCount": 12,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

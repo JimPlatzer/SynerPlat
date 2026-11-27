@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-11-27T00:45:11.526Z",
+  "updatedAt": "2026-11-27T08:40:41.329Z",
   "items": [
+    {
+      "id": "doi-10-1186-s13705-026-00621-8",
+      "type": "学术论文",
+      "title": "From energy crisis to solar boom: the political economy of decentralized clean energy transition in Pakistan",
+      "publisher": "Springer Science and Business Media LLC",
+      "date": "2026-11-27",
+      "publishedDate": "2026-11-27",
+      "eventDate": "2026-11-27",
+      "dateNote": "论文发表",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "同行评审状态待核"
+      ],
+      "summary": "Abstract Background Since 2022, Pakistan has experienced a rapid surge of rooftop solar photovoltaic (PV) adoption as households and businesses increasingly shift toward distributed solar systems to reduce dependence on the national grid. This unprecedented shift raises critical questions for energy governance, energy system sustainability, and energy justic…",
+      "insight": "自动检索并完成原始链接核验；正式引用前请复核原文、适用范围及日期含义。",
+      "url": "https://doi.org/10.1186/s13705-026-00621-8",
+      "featured": false
+    },
     {
       "id": "govuk-rpc-opinion-energy-independence-bill-2026-11-26",
       "type": "监管审查意见",
