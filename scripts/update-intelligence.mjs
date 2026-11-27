@@ -20,13 +20,14 @@ const trustedPublisherPattern=/Elsevier|Springer|Wiley|SAGE|Oxford University Pr
 const arxivFalsePositivePattern=/astronom|astrophys|cosmolog|black[ -]?hole|gravitational.wave|post-minkowskian|compact objects?|relativistic fluids?|particle physics|nuclear recoil|\bLHC\b|quasar|cosmic star formation|Josephson|vortex laser|stellar|galax/i;
 const arxivEsgPattern=/climate change|carbon capture|\bCCUS\b|CO2 emissions?|renewable energy|energy transition|sustainab|pollution|environmental|traffic noise|biodiversity|circular economy|green finance|net[ -]?zero|decarbon|气候|碳|能源|可持续|污染|生物多样性|循环经济|绿色金融/i;
 const genericDiplomaticStatementPattern=/UN Human Rights Council|UN Security Council|Interactive Dialogue|Fact-Finding Mission|Joint Statement on (?:Sri Lanka|Sudan)|terror(?:ism|ist)|OSCE Economic and Environmental Forum|UK statement (?:at|to) (?:the )?(?:UN|OSCE)/i;
+const ceremonialSoftSignalPattern=/celebrate friendship.{0,100}(?:birthday party|reception)|(?:birthday party|reception).{0,100}climate action/i;
 const speechTitlePattern=/\b(?:speech|remarks|address)\b/i;
 const businessHumanRightsNexusPattern=/business|company|corporat|industry|supply chain|forced labo(?:u)?r|worker|workplace|trade|export|mining|energy|technology|artificial intelligence|\bAI\b/i;
 const concretePolicyActionPattern=/adopt|endorse|establish|launch|publish|policy|regulation|law|rule|standard|funding|investment|agreement|initiative|programme|program|sanction|guidance|recommendation|company|industry|supply chain|disclosure|renewable|energy transition/i;
 
 function isoDate(date){return date.toISOString().slice(0,10)}
 function dotDate(value){return String(value||'').replaceAll('-','.')}
-function decode(value=''){return String(value).replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g,'$1').replace(/<[^>]+>/g,' ').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/\s+/g,' ').trim()}
+function decode(value=''){return String(value).replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g,'$1').replace(/<[^>]+>/g,' ').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&#(x[0-9a-f]+|\d+);/gi,(_,code)=>String.fromCodePoint(code[0].toLowerCase()==='x'?parseInt(code.slice(1),16):parseInt(code,10))).replace(/\s+/g,' ').trim()}
 function tag(block,name){const match=block.match(new RegExp(`<${name}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${name}>`,'i'));return decode(match?.[1]||'')}
 function link(block){const href=block.match(/<link[^>]+href=["']([^"']+)["']/i)?.[1];return href||tag(block,'link')}
 function idFor(value){return String(value).toLowerCase().replace(/^https?:\/\//,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,72)}
@@ -36,6 +37,7 @@ function heuristicScore(item){let score=4;if(['Federal Register','GOV.UK'].inclu
 function sectorFor(text){if(/artificial intelligence|\bai\b|data cent/i.test(text))return '人工智能';if(/renewable|solar|wind|battery|hydrogen|electricity|grid|energy/i.test(text))return '新能源';if(/disclosure|supply chain|trade|border|export|deforestation/i.test(text))return '企业出海';if(/finance|investment|bank|insurance|taxonomy/i.test(text))return '绿色金融';if(/steel|cement|aluminium|oil|gas|coal|chemical|emission|pollution/i.test(text))return '高排放行业';return '新兴行业'}
 function meaningfulEsgNexus(item){
  const text=`${item.title||''} ${item.summary||''} ${(item.tags||[]).join(' ')}`;
+ if(ceremonialSoftSignalPattern.test(text))return false;
  if(genericDiplomaticStatementPattern.test(text)&&(!businessHumanRightsNexusPattern.test(text)||!concretePolicyActionPattern.test(text)))return false;
  const isArxiv=item?.source==='arXiv'||item?.publisher==='arXiv';if(!isArxiv)return true;
  return arxivEsgPattern.test(text)&&!arxivFalsePositivePattern.test(text);
@@ -99,8 +101,10 @@ async function collectGovUk(){
  for(const term of terms){
   const xml=await fetchText(`https://www.gov.uk/search/news-and-communications.atom?keywords=${encodeURIComponent(term)}`);
   for(const entry of xml.match(/<entry[\s\S]*?<\/entry>/gi)||[]){
-   const published=dateParts(tag(entry,'updated')||tag(entry,'published'));if(!published||published<weekStart)continue;
-   rows.push({candidateId:`govuk-${idFor(link(entry)||tag(entry,'id'))}`,source:'GOV.UK',publisher:'UK Government',sourceType:'policy',title:tag(entry,'title'),summary:tag(entry,'summary')||tag(entry,'content'),publishedDate:published,eventDate:published,dateNote:'发布',url:link(entry),peerReviewed:false});
+   const url=link(entry)||tag(entry,'id');const feedPublished=dateParts(tag(entry,'published'));const updated=dateParts(tag(entry,'updated'))||feedPublished;let published=feedPublished;
+   if(!published&&url){try{const html=await fetchText(url);const match=html.match(/<meta[^>]+name=["']govuk:published_at["'][^>]+content=["']([^"']+)/i)||html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']govuk:published_at["']/i)||html.match(/<meta[^>]+property=["']article:published_time["'][^>]+content=["']([^"']+)/i);published=dateParts(match?.[1]||'')}catch{}}
+   published=published||updated;const activity=updated>published?updated:published;if(!published||activity<weekStart||activity>endDate)continue;
+   rows.push({candidateId:`govuk-${idFor(url)}`,source:'GOV.UK',publisher:'UK Government',sourceType:'policy',title:tag(entry,'title'),summary:tag(entry,'summary')||tag(entry,'content'),publishedDate:published,eventDate:activity,dateNote:updated>published?`页面更新：${updated}；首次发布日期：${published}`:'发布',url,peerReviewed:false});
   }
  }
  return rows;
@@ -176,7 +180,8 @@ async function main(){
  const allowedCandidateIds=new Set([...stories,...watchlist,...newResources,...cleanedLibrary].filter(meaningfulEsgNexus).map(item=>item.id));
  const automatedCandidateId=/^(?:govuk-|fr-|doi-|arxiv-)/;
  const previousKeywordEvents=(previous.keywordEvents||[]).filter(item=>item.date>=rollingMonthStart&&item.date<=endDate&&(!automatedCandidateId.test(String(item.id))||allowedCandidateIds.has(item.id)));
- const periodKeywordEvents=(periods.monthlyHighlights||[]).map(item=>({id:`period-${idFor(item.url||item.title)}`,date:`${endDate.slice(0,4)}-${String(item.date).replaceAll('.','-')}`,terms:keywordTerms(item)}));
+ const recentCanonicalUrls=new Set([...stories,...watchlist,...newResources,...cleanedLibrary].map(item=>String(item.url||'').replace(/\/$/, '').toLowerCase()).filter(Boolean));
+ const periodKeywordEvents=(periods.monthlyHighlights||[]).filter(item=>!recentCanonicalUrls.has(String(item.url||'').replace(/\/$/, '').toLowerCase())).map(item=>({id:`period-${idFor(item.url||item.title)}`,date:`${endDate.slice(0,4)}-${String(item.date).replaceAll('.','-')}`,terms:keywordTerms(item)}));
  const libraryKeywordEvents=[...newResources,...cleanedLibrary].map(item=>({id:item.id,date:String(item.publishedDate||item.date||'').replaceAll('.','-').slice(0,10),terms:keywordTerms(item)}));
  const visibleKeywordEvents=[...stories,...watchlist].map(item=>({id:item.id,date:activityDate(item),terms:keywordTerms(item)}));
  const candidateKeywordEvents=verified.map(item=>({id:item.candidateId,date:activityDate(item),terms:keywordTerms(item)}));

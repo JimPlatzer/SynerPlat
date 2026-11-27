@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-26T08:25:30.053Z",
+  "updatedAt": "2026-11-27T00:45:11.526Z",
   "items": [
+    {
+      "id": "govuk-rpc-opinion-energy-independence-bill-2026-11-26",
+      "type": "监管审查意见",
+      "title": "RPC opinion: Energy Independence Bill",
+      "publisher": "UK Regulatory Policy Committee",
+      "date": "2026-11-26",
+      "publishedDate": "2026-11-26",
+      "eventDate": "2026-11-23",
+      "dateNote": "意见发布日期：2026-11-26；正文记录RPC于2026-11-23给出整体红色评级。",
+      "sector": "新能源",
+      "tags": [
+        "能源转型",
+        "监管审查",
+        "影响评估",
+        "非立法性材料"
+      ],
+      "summary": "RPC审查《能源独立法案》影响评估，整体给出红色评级，认为支持“为何需要监管”的证据与分析不适合目的。该结论针对影响评估质量，而非对政策本身的实质评价；RPC说明其误收两项个别评估的错误版本，并指出相关评级未在已发布版本中列出，部门可能重新提交。",
+      "insight": "这份审查材料是理解能源法案证据基础和监管质量的重要依据，但不能据此推断法案被否决或政策无效。",
+      "url": "https://www.gov.uk/government/publications/rpc-opinion-energy-independence-bill",
+      "featured": true
+    },
+    {
+      "id": "govuk-trees-action-plan-england-2026-2030",
+      "type": "政策文件",
+      "title": "Trees Action Plan for England 2026 to 2030",
+      "publisher": "Department for Environment, Food & Rural Affairs (Defra); Forestry Commission",
+      "date": "2026-11-26",
+      "publishedDate": "2026-11-26",
+      "eventDate": "2026-11-26",
+      "dateNote": "政策文件发布日期：2026-11-26；文件适用范围为英格兰，行动计划期为2026—2030年。",
+      "sector": "自然与林业",
+      "tags": [
+        "自然与生物多样性",
+        "气候适应",
+        "土地利用",
+        "林业政策"
+      ],
+      "summary": "英格兰树木与林地行动计划，涵盖社区参与、经济与供应链、保护、恢复与扩展。计划包括最多50万棵林地外树木、3座新国家森林，以及至2040年将可持续管理林地比例从56%提升至65%—70%的目标。",
+      "insight": "该计划连接自然恢复、碳汇、气候适应、生物安全、木材供应与社区公平；后续关注资金落地、林地质量和管理比例目标的执行监测。",
+      "url": "https://www.gov.uk/government/publications/trees-action-plan-for-england-2026-to-2030/trees-action-plan-for-england-2026-to-2030-html-version",
+      "featured": true
+    },
     {
       "id": "arxiv-arxiv-org-abs-2611-34272v1",
       "type": "工作论文",

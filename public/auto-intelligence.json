@@ -1,8 +1,48 @@
 {
-  "updatedAt": "2026-11-26T08:25:30.053Z",
-  "weekRange": "2026.11.19—11.26",
+  "updatedAt": "2026-11-27T00:45:11.526Z",
+  "weekRange": "2026.11.20—11.27",
   "monthLabel": "2026年11月",
   "stories": [
+    {
+      "id": "govuk-www-gov-uk-government-news-rpc-statement-impact-of-energy-independence-b",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "监管影响评估",
+      "title": "英国监管政策委员会对《能源独立法案》影响评估给出红色评级",
+      "summary": "英国监管政策委员会（RPC）公布对《能源独立法案》影响评估的审查意见，并称其于11月23日给予整体影响评估“红色”评级，认为支撑监管必要性的证据与分析不适合目的。该意见针对影响评估材料质量，不是对法案政策本身的否定；RPC说明两项评估曾误用版本，其具体评级未列入本次公开版本，部门可能重新提交评估。",
+      "score": 8,
+      "publishedDate": "2026.11.26",
+      "eventDate": "2026.11.23",
+      "dateNote": "RPC意见于2026-11-26发布；正文称“红色”评级于2026-11-23作出。评级针对证据与分析，不代表对法案政策的评判。",
+      "source": "UK Regulatory Policy Committee",
+      "url": "https://www.gov.uk/government/publications/rpc-opinion-energy-independence-bill",
+      "tags": [
+        "政策监管",
+        "能源转型",
+        "监管影响评估",
+        "证据审查"
+      ]
+    },
+    {
+      "id": "govuk-trees-action-plan-england-2026-2030",
+      "sector": "自然与林业",
+      "relevance": "直接 ESG",
+      "event": "政策与实施计划",
+      "title": "英格兰发布2026—2030年树木行动计划",
+      "summary": "英格兰环境、食品与乡村事务部发布覆盖2026—2030年的国家行动计划，围绕社区参与、林业经济、树木保护与恢复、林地扩展和知识建设提出行动。计划提出新设3座国家森林，并设立社区树木基金，计划在林地之外最多种植50万棵树；同时提出到2040年将处于可持续管理状态的林地比例从56%提高至65%—70%。这是政策计划，不等同于新立法或强制性规则。",
+      "score": 8,
+      "publishedDate": "2026.11.26",
+      "eventDate": "2026.11.26",
+      "dateNote": "政策文件发布日期：2026-11-26；计划实施期为2026—2030年。",
+      "source": "Department for Environment, Food & Rural Affairs (Defra)",
+      "url": "https://www.gov.uk/government/publications/trees-action-plan-for-england-2026-to-2030/trees-action-plan-for-england-2026-to-2030-html-version",
+      "tags": [
+        "自然与生物多样性",
+        "气候适应",
+        "土地利用",
+        "林业政策"
+      ]
+    },
     {
       "id": "mee-jingjinji-beautiful-china-pilot-progress-meeting-2026-11-25",
       "sector": "区域环境治理",
@@ -28,107 +68,37 @@
       "id": "govuk-www-gov-uk-government-news-gad-actuary-contributes-to-research-on-ocean-",
       "sector": "新兴行业",
       "relevance": "直接 ESG",
-      "event": "政策监管",
+      "event": "行业报告发布",
       "title": "GAD actuary contributes to research on ocean health risks",
-      "summary": "Climate Risk Actuary Sara Joslin co-authors new research examining the risks declining ocean health could pose to society, financial systems and pension outcomes.",
-      "score": 6,
+      "summary": "英国政府精算部的精算师参与《Ocean Maelstrom: navigating the climate storm》报告，报告提出“Ocean Solvency”框架，并以情景方式分析海洋变暖、洋流变化、珊瑚礁衰退、渔业压力和海平面上升等风险如何交织。作者讨论海洋健康变化对食品系统、供应链、通胀、金融市场与养老金的潜在影响；这是一份思想领导报告，而非同行评审论文。",
+      "score": 7,
       "publishedDate": "2026.11.24",
       "eventDate": "2026.11.24",
       "dateNote": "发布",
-      "source": "UK Government",
+      "source": "GOV.UK / Institute and Faculty of Actuaries, The Ocean Race, University of Exeter",
       "url": "https://www.gov.uk/government/news/gad-actuary-contributes-to-research-on-ocean-health-risks",
       "tags": [
-        "气候与碳",
-        "政策法规"
+        "气候风险",
+        "自然与生物多样性",
+        "绿色金融",
+        "行业报告"
       ]
     },
     {
       "id": "govuk-www-gov-uk-government-news-cop31-outcomes-your-questions-answered",
       "sector": "新兴行业",
       "relevance": "直接 ESG",
-      "event": "政策监管",
+      "event": "国际气候政策",
       "title": "COP31 Outcomes - your questions answered",
-      "summary": "…Q&A on the outcome of the United Nation&#x27;s 31st Climate Conference.…",
+      "summary": "英国政府对COP31谈判结果作出说明：大会未能就主席国提出的《安塔利亚公约》（Antalya Pact）达成全面一致，但其他谈判议题和自愿承诺仍有进展。该页面是英国政府对会议结果的解释，不是COP正式决定文本；后续评估应以联合国气候变化框架公约公布的最终文件为准。",
       "score": 6,
       "publishedDate": "2026.11.22",
       "eventDate": "2026.11.22",
-      "dateNote": "发布",
+      "dateNote": "发布日期为2026-11-22；页面为COP31结果问答，大会于11月22日闭幕。",
       "source": "UK Government",
       "url": "https://www.gov.uk/government/news/cop31-outcomes-your-questions-answered",
       "tags": [
         "气候与碳",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-environment-secretary-launches-43-million-sch",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Environment Secretary launches £43 million schemes to test farming tech, boost climate resilience and build reservoirs",
-      "summary": "Farmers backed with £28m innovation competition, as part of the largest ever annual investment to boost business resilience through better soil and water management",
-      "score": 8,
-      "publishedDate": "2026.11.19",
-      "eventDate": "2026.11.19",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/environment-secretary-launches-43-million-schemes-to-test-farming-tech-boost-climate-resilience-and-build-reservoirs",
-      "tags": [
-        "气候与碳",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-12-month-just-energy-transition-partnership-l",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "12-month Just Energy Transition Partnership Leaders’ update 2026",
-      "summary": "This report provides a 12-month update to the leaders of the South Africa Just Energy Transition Partnership (JETP).…",
-      "score": 8,
-      "publishedDate": "2026.11.19",
-      "eventDate": "2026.11.19",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/12-month-just-energy-transition-partnership-leaders-update-2026",
-      "tags": [
-        "能源转型",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-rethinking-risk-in-a-changing-climate",
-      "sector": "绿色金融",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Rethinking risk in a changing climate",
-      "summary": "Climate change, nature loss and the limits of traditional risk modelling all came under the spotlight at a sustainable finance event.",
-      "score": 6,
-      "publishedDate": "2026.11.19",
-      "eventDate": "2026.11.19",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/rethinking-risk-in-a-changing-climate",
-      "tags": [
-        "气候与碳",
-        "自然与生物多样性",
-        "政策法规"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-southern-water-ordered-to-pay-6-figures-after",
-      "sector": "高排放行业",
-      "relevance": "直接 ESG",
-      "event": "政策监管",
-      "title": "Southern Water ordered to pay 6 figures after seaside sewage release",
-      "summary": "Environment Agency calls failure to learn from previous pollution “negligent”",
-      "score": 6,
-      "publishedDate": "2026.11.19",
-      "eventDate": "2026.11.19",
-      "dateNote": "发布",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/southern-water-ordered-to-pay-6-figures-after-seaside-sewage-release",
-      "tags": [
         "政策法规"
       ]
     }
@@ -334,45 +304,35 @@
         "能源转型",
         "同行评审状态待核"
       ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04781-7",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "Artificial intelligence capacity and environmental sustainability transitions in a resource-dependent economy",
-      "summary": "Abstract Artificial intelligence (AI) is increasingly viewed as an enabler of environmental sustainability, yet its macro-level effects remain uncertain, particularly in resource-dependent economies. This study examines the relationships among AI capacity, economic development, CO 2 emissions, and renewable energy adoption in Qatar using annual data from 200…",
-      "score": 5,
-      "publishedDate": "2026.11.19",
-      "eventDate": "2026.11.19",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04781-7",
-      "tags": [
-        "人工智能",
-        "能源转型",
-        "气候与碳",
-        "供应链与出海",
-        "同行评审状态待核"
-      ]
     }
   ],
   "keywordEvents": [
     {
-      "id": "mee-jingjinji-beautiful-china-pilot-progress-meeting-2026-11-25",
-      "date": "2026-11-25",
+      "id": "govuk-trees-action-plan-england-2026-2030",
+      "date": "2026-11-26",
       "terms": [
-        "区域环境治理",
+        "自然与林业",
         "政策监管",
-        "污染防治"
+        "自然与生物多样性",
+        "气候适应"
       ]
     },
     {
-      "id": "period-www-mee-gov-cn-xxgk-hjyw-202611-t20261125-1187316-shtml",
-      "date": "2026-11-25",
+      "id": "govuk-www-gov-uk-government-news-rpc-statement-impact-of-energy-independence-b",
+      "date": "2026-11-26",
       "terms": [
-        "区域环境治理",
-        "政策监管"
+        "绿色金融",
+        "政策监管",
+        "能源转型"
+      ]
+    },
+    {
+      "id": "govuk-rpc-opinion-energy-independence-bill-2026-11-26",
+      "date": "2026-11-26",
+      "terms": [
+        "新能源",
+        "政策监管",
+        "能源转型"
       ]
     },
     {
@@ -395,6 +355,15 @@
         "能源转型",
         "电力系统",
         "工作论文"
+      ]
+    },
+    {
+      "id": "mee-jingjinji-beautiful-china-pilot-progress-meeting-2026-11-25",
+      "date": "2026-11-25",
+      "terms": [
+        "区域环境治理",
+        "政策监管",
+        "污染防治"
       ]
     },
     {
@@ -432,14 +401,6 @@
         "气候风险",
         "供应链与出海",
         "自然与生物多样性"
-      ]
-    },
-    {
-      "id": "period-www-gov-uk-government-news-gad-actuary-contributes-to-research-on-ocean-",
-      "date": "2026-11-24",
-      "terms": [
-        "绿色金融",
-        "供应链与出海"
       ]
     },
     {
@@ -524,43 +485,12 @@
       ]
     },
     {
-      "id": "doi-10-1007-s43621-026-04781-7",
-      "date": "2026-11-19",
-      "terms": [
-        "人工智能",
-        "可再生能源",
-        "能源转型",
-        "碳与排放",
-        "供应链与出海"
-      ]
-    },
-    {
       "id": "govuk-www-gov-uk-government-news-12-month-just-energy-transition-partnership-l",
       "date": "2026-11-19",
       "terms": [
         "新能源",
         "政策监管",
         "能源转型"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-rethinking-risk-in-a-changing-climate",
-      "date": "2026-11-19",
-      "terms": [
-        "绿色金融",
-        "政策监管",
-        "气候风险",
-        "自然与生物多样性"
-      ]
-    },
-    {
-      "id": "govuk-www-gov-uk-government-news-southern-water-ordered-to-pay-6-figures-after",
-      "date": "2026-11-19",
-      "terms": [
-        "高排放行业",
-        "政策监管",
-        "污染防治",
-        "水资源"
       ]
     },
     {
@@ -710,18 +640,6 @@
         "新能源",
         "政策监管",
         "能源转型"
-      ]
-    },
-    {
-      "id": "period-www-iea-org-news-iea-launches-global-observatory-to-help-strengthen-ener",
-      "date": "2026-11-10",
-      "terms": [
-        "新能源",
-        "政策监管",
-        "电力系统",
-        "气候风险",
-        "气候适应",
-        "绿色金融"
       ]
     },
     {
@@ -915,26 +833,11 @@
         "气候披露",
         "学术研究"
       ]
-    },
-    {
-      "id": "doi-10-3389-frai-2026-1972681",
-      "date": "2026-10-27",
-      "terms": [
-        "人工智能",
-        "能源效率",
-        "学术研究"
-      ]
     }
   ],
   "sectorInsights": [
     [
       "新兴行业",
-      "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
-      2,
-      "→"
-    ],
-    [
-      "绿色金融",
       "过去七日保留 2 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       2,
       "→"
@@ -946,13 +849,13 @@
       "→"
     ],
     [
-      "新能源",
+      "绿色金融",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
     ],
     [
-      "高排放行业",
+      "自然与林业",
       "过去七日保留 1 条达到主门槛的重大动态；建议结合原文跟踪政策执行、企业暴露与行业传导。",
       1,
       "→"
@@ -961,109 +864,9 @@
   "summary": {
     "week": {
       "label": "过去一周总结",
-      "title": "新兴行业、绿色金融、区域环境治理构成过去七日的主要行业信号",
-      "range": "2026.11.19—11.26",
-      "copy": "过去7天当前保留 7 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
-      "words": [
-        [
-          "政策监管",
-          10
-        ],
-        [
-          "能源转型",
-          8
-        ],
-        [
-          "工作论文",
-          7
-        ],
-        [
-          "新能源",
-          6
-        ],
-        [
-          "人工智能",
-          6
-        ],
-        [
-          "可再生能源",
-          6
-        ],
-        [
-          "气候风险",
-          6
-        ],
-        [
-          "水资源",
-          6
-        ],
-        [
-          "绿色金融",
-          6
-        ],
-        [
-          "高排放行业",
-          6
-        ],
-        [
-          "供应链与出海",
-          5
-        ],
-        [
-          "碳与排放",
-          5
-        ],
-        [
-          "区域环境治理",
-          4
-        ],
-        [
-          "新兴行业",
-          4
-        ],
-        [
-          "污染防治",
-          4
-        ],
-        [
-          "电力系统",
-          4
-        ],
-        [
-          "自然与生物多样性",
-          4
-        ],
-        [
-          "企业出海",
-          3
-        ],
-        [
-          "学术研究",
-          3
-        ],
-        [
-          "数据中心",
-          3
-        ],
-        [
-          "气候披露",
-          3
-        ],
-        [
-          "气候适应",
-          3
-        ],
-        [
-          "能源效率",
-          3
-        ]
-      ]
-    },
-    "month": {
-      "label": "过去一个月总结",
-      "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.27—11.26",
-      "copy": "过去30天词频基于 60 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "title": "英格兰自然行动、英国能源监管审查与区域协同治理构成近期政策信号",
+      "range": "2026.11.20—11.27",
+      "copy": "过去7天保留 5 条达到主门槛的重大动态，并展示 11 条已核验新增观察；词频统计同时纳入研究资料和政策文件。发布日期与事件日期分开记录，遇到时间未披露的原文会在日期说明中标注。",
       "words": [
         [
           "工作论文",
@@ -1091,7 +894,11 @@
         ],
         [
           "人工智能",
-          5
+          4
+        ],
+        [
+          "新兴行业",
+          4
         ],
         [
           "电力系统",
@@ -1106,23 +913,19 @@
           4
         ],
         [
-          "新兴行业",
-          4
-        ],
-        [
           "气候风险",
-          4
-        ],
-        [
-          "供应链与出海",
-          4
+          3
         ],
         [
           "水资源",
-          4
+          3
         ],
         [
           "企业出海",
+          3
+        ],
+        [
+          "供应链与出海",
           3
         ],
         [
@@ -1138,15 +941,11 @@
           3
         ],
         [
-          "学术研究",
-          3
-        ],
-        [
           "自然与生物多样性",
           3
         ],
         [
-          "区域环境治理",
+          "学术研究",
           3
         ],
         [
@@ -1158,7 +957,119 @@
           3
         ],
         [
+          "区域环境治理",
+          2
+        ],
+        [
+          "自然与林业",
+          2
+        ]
+      ]
+    },
+    "month": {
+      "label": "过去一个月总结",
+      "title": "过去30天政策、产业与研究信号持续滚动更新",
+      "range": "2026.10.28—11.27",
+      "copy": "过去30天词频基于 56 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "words": [
+        [
+          "工作论文",
+          10
+        ],
+        [
+          "政策监管",
+          9
+        ],
+        [
+          "新能源",
+          8
+        ],
+        [
+          "能源转型",
+          7
+        ],
+        [
+          "碳与排放",
+          6
+        ],
+        [
+          "绿色金融",
+          5
+        ],
+        [
+          "人工智能",
+          4
+        ],
+        [
+          "新兴行业",
+          4
+        ],
+        [
+          "电力系统",
+          4
+        ],
+        [
+          "高排放行业",
+          4
+        ],
+        [
+          "可再生能源",
+          4
+        ],
+        [
+          "气候风险",
+          3
+        ],
+        [
+          "水资源",
+          3
+        ],
+        [
+          "企业出海",
+          3
+        ],
+        [
+          "供应链与出海",
+          3
+        ],
+        [
+          "气候披露",
+          3
+        ],
+        [
+          "污染防治",
+          3
+        ],
+        [
+          "能源效率",
+          3
+        ],
+        [
+          "自然与生物多样性",
+          3
+        ],
+        [
+          "学术研究",
+          3
+        ],
+        [
+          "数据中心",
+          3
+        ],
+        [
+          "气候适应",
+          3
+        ],
+        [
+          "区域环境治理",
+          2
+        ],
+        [
           "聚变能源",
+          2
+        ],
+        [
+          "自然与林业",
           2
         ],
         [
@@ -1170,13 +1081,22 @@
   },
   "monthlyHighlights": [
     {
-      "date": "11.17",
-      "title": "UK leads international cooperation on sustainable export finance",
-      "summary": "New international report shows $376 billion in export finance is now covered by net-zero commitments, up 58% in a year.",
-      "sector": "企业出海",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/uk-leads-international-cooperation-on-sustainable-export-finance",
-      "score": 9
+      "date": "11.26",
+      "title": "英国监管政策委员会发布《能源独立法案》影响评估意见",
+      "summary": "RPC对法案影响评估给出红色评级，指出支持监管必要性的证据与分析不适合目的；评级针对评估材料，不是对法案政策本身的结论。",
+      "sector": "新能源",
+      "source": "UK Regulatory Policy Committee",
+      "url": "https://www.gov.uk/government/publications/rpc-opinion-energy-independence-bill",
+      "score": 8
+    },
+    {
+      "date": "11.26",
+      "title": "英格兰发布2026—2030年树木行动计划",
+      "summary": "Defra发布国家行动计划，提出社区树木基金、3座新国家森林，以及至2040年将可持续管理林地比例提高到65%—70%的目标。该计划连接自然恢复、气候适应与林业供应链。",
+      "sector": "自然与林业",
+      "source": "Department for Environment, Food & Rural Affairs (Defra)",
+      "url": "https://www.gov.uk/government/publications/trees-action-plan-for-england-2026-to-2030/trees-action-plan-for-england-2026-to-2030-html-version",
+      "score": 8
     },
     {
       "date": "11.19",
@@ -1188,6 +1108,24 @@
       "score": 8
     },
     {
+      "date": "11.19",
+      "title": "Environment Secretary launches £43 million schemes to test farming tech, boost climate resilience and build reservoirs",
+      "summary": "Farmers backed with £28m innovation competition, as part of the largest ever annual investment to boost business resilience through better soil and water management",
+      "sector": "绿色金融",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/environment-secretary-launches-43-million-schemes-to-test-farming-tech-boost-climate-resilience-and-build-reservoirs",
+      "score": 8
+    },
+    {
+      "date": "11.17",
+      "title": "UK leads international cooperation on sustainable export finance",
+      "summary": "New international report shows $376 billion in export finance is now covered by net-zero commitments, up 58% in a year.",
+      "sector": "企业出海",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/uk-leads-international-cooperation-on-sustainable-export-finance",
+      "score": 9
+    },
+    {
       "date": "11.16",
       "title": "Artificial intelligence for marine pollution monitoring and control",
       "summary": "Abstract Globally, marine pollution generated by oil spills, plastic litter, and industrial waste poses major threats to the environment, the economy, and human health. Field surveys, optical sensing, and manual sampling are examples of traditional monitoring and mitigation techniques that are frequently hampered by inefficiency, poor precision, and restrict…",
@@ -1197,13 +1135,13 @@
       "score": 8
     },
     {
-      "date": "11.19",
-      "title": "Environment Secretary launches £43 million schemes to test farming tech, boost climate resilience and build reservoirs",
-      "summary": "Farmers backed with £28m innovation competition, as part of the largest ever annual investment to boost business resilience through better soil and water management",
-      "sector": "绿色金融",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/environment-secretary-launches-43-million-schemes-to-test-farming-tech-boost-climate-resilience-and-build-reservoirs",
-      "score": 8
+      "date": "11.10",
+      "title": "国际能源署推出全球能源韧性观察站，绘制电力基础设施气候风险",
+      "summary": "国际能源署（IEA）于2026年11月10日推出全球能源部门韧性观察站，首期聚焦电力系统，可查询能源中断、基础设施对洪水、热浪和热带气旋的暴露，以及130多项韧性措施与政策案例。IEA称，自2022年以来已记录150多个国家约3,000起与极端天气等自然灾害相关的停电，平均每年约1.9亿电力用户短暂断电；其分析估计，全球约30%的电力资产暴露于不同强度的热带气旋、约20%暴露于持续高温，超过10%位于洪泛区。该平台为电网适应投资和能源安全规划提供跨国数据；暴露比例代表风险暴露，不等于损失预测。",
+      "sector": "新能源",
+      "source": "International Energy Agency (IEA)",
+      "url": "https://www.iea.org/news/iea-launches-global-observatory-to-help-strengthen-energy-sector-resilience",
+      "score": 9
     },
     {
       "date": "11.06",
@@ -1224,15 +1162,6 @@
       "score": 8
     },
     {
-      "date": "11.10",
-      "title": "国际能源署推出全球能源韧性观察站，绘制电力基础设施气候风险",
-      "summary": "国际能源署（IEA）于2026年11月10日推出全球能源部门韧性观察站，首期聚焦电力系统，可查询能源中断、基础设施对洪水、热浪和热带气旋的暴露，以及130多项韧性措施与政策案例。IEA称，自2022年以来已记录150多个国家约3,000起与极端天气等自然灾害相关的停电，平均每年约1.9亿电力用户短暂断电；其分析估计，全球约30%的电力资产暴露于不同强度的热带气旋、约20%暴露于持续高温，超过10%位于洪泛区。该平台为电网适应投资和能源安全规划提供跨国数据；暴露比例代表风险暴露，不等于损失预测。",
-      "sector": "新能源",
-      "source": "International Energy Agency (IEA)",
-      "url": "https://www.iea.org/news/iea-launches-global-observatory-to-help-strengthen-energy-sector-resilience",
-      "score": 9
-    },
-    {
       "date": "11.03",
       "title": "Streamlining Contested Adjudications in Licensing Proceedings",
       "summary": "The U.S. Nuclear Regulatory Commission (NRC, agency, or Commission) is revising the agency's rules of practice and procedure to streamline contested adjudications in NRC licensing proceedings in response to the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024 (ADVANCE Act) and Executive Order 14300, Ordering the Reform of t…",
@@ -1242,21 +1171,21 @@
       "score": 8
     },
     {
-      "date": "11.02",
-      "title": "UK helps Pakistani climate businesses seek US$51 million in investment",
-      "summary": "10 Pakistani businesses are seeking combined US$51 million over the next 12 months to expand practical climate solutions, following specialist support from the UK government.",
-      "sector": "绿色金融",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/uk-helps-pakistani-climate-businesses-seek-us51-million-in-investment",
-      "score": 8
-    },
-    {
       "date": "11.03",
       "title": "Supply chain Adjudicator urges farmers to speak up over unfair supply contracts",
       "summary": "The Agricultural Supply Chain Adjudicator (ASCA) publishes second annual report, highlighting progress in promoting fair dealing and addressing concerns across agricultural supply chains",
       "sector": "企业出海",
       "source": "UK Government",
       "url": "https://www.gov.uk/government/news/supply-chain-adjudicator-urges-farmers-to-speak-up-over-unfair-supply-contracts",
+      "score": 8
+    },
+    {
+      "date": "11.02",
+      "title": "UK helps Pakistani climate businesses seek US$51 million in investment",
+      "summary": "10 Pakistani businesses are seeking combined US$51 million over the next 12 months to expand practical climate solutions, following specialist support from the UK government.",
+      "sector": "绿色金融",
+      "source": "UK Government",
+      "url": "https://www.gov.uk/government/news/uk-helps-pakistani-climate-businesses-seek-us51-million-in-investment",
       "score": 8
     },
     {
@@ -1330,24 +1259,6 @@
       "source": "Frontiers Media SA",
       "url": "https://doi.org/10.3389/fenrg.2026.1939944",
       "score": 8
-    },
-    {
-      "date": "10.04",
-      "title": "Capital expenditure and sustainability performance among listed firms in Ghana: the mediating role of ESG disclosure quality",
-      "summary": "Abstract The study investigates the relationship between capital expenditure, ESG disclosure quality, and sustainability performance, with a particular focus on the mediating role of ESG disclosure quality. The data cover 18 firms listed on the Ghana Stock Exchange from 2010 to 2024. The study utilizes the two-step System GMM and Sobel test mediation approac…",
-      "sector": "企业出海",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1186/s43093-026-01012-3",
-      "score": 8
-    },
-    {
-      "date": "09.28",
-      "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
-      "summary": "On May 8, 2024, the U.S. Environmental Protection Agency (EPA) published the National Emission Standards for Hazardous Air Pollutants (NESHAP): Gasoline Distribution Technology Reviews and New Source Performance Standards (NSPS) Review for Bulk Gasoline Terminals final rule (\"2024 Final Rule\"). The EPA is reconsidering various provisions of the 2024 Final Ru…",
-      "sector": "高排放行业",
-      "source": "Environmental Protection Agency",
-      "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
-      "score": 9
     }
   ],
   "annualHighlights": [
@@ -1392,25 +1303,30 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 14
+      "items": 10
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 57
+      "items": 56
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 30
+      "items": 31
     },
     {
       "source": "arXiv",
       "status": "ok",
       "items": 40
+    },
+    {
+      "source": "中华人民共和国生态环境部",
+      "status": "ok",
+      "items": 1
     }
   ],
-  "verifiedCandidateCount": 11,
+  "verifiedCandidateCount": 7,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,

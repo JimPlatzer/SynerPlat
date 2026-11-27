@@ -1,6 +1,24 @@
 {
   "monthlyHighlights": [
     {
+      "date": "11.26",
+      "title": "英国监管政策委员会发布《能源独立法案》影响评估意见",
+      "summary": "RPC对法案影响评估给出红色评级，指出支持监管必要性的证据与分析不适合目的；评级针对评估材料，不是对法案政策本身的结论。",
+      "sector": "新能源",
+      "source": "UK Regulatory Policy Committee",
+      "url": "https://www.gov.uk/government/publications/rpc-opinion-energy-independence-bill",
+      "score": 8
+    },
+    {
+      "date": "11.26",
+      "title": "英格兰发布2026—2030年树木行动计划",
+      "summary": "Defra发布国家行动计划，提出社区树木基金、3座新国家森林，以及至2040年将可持续管理林地比例提高到65%—70%的目标。该计划连接自然恢复、气候适应与林业供应链。",
+      "sector": "自然与林业",
+      "source": "Department for Environment, Food & Rural Affairs (Defra)",
+      "url": "https://www.gov.uk/government/publications/trees-action-plan-for-england-2026-to-2030/trees-action-plan-for-england-2026-to-2030-html-version",
+      "score": 8
+    },
+    {
       "date": "11.25",
       "title": "生态环境部召开京津冀美丽中国先行区建设工作推进会",
       "summary": "生态环境部通报京津冀先行区建设推进情况，要求区域协作推动环境治理提质、绿色转型、减污降碳协同与生态修复；没有公布新的约束性规则，作为区域政策实施信号跟踪。",
@@ -534,5 +552,5 @@
       "score": 8
     }
   ],
-  "updatedAt": "2026-11-26T03:29:34.733Z"
+  "updatedAt": "2026-11-27T00:45:11.526Z"
 }
