@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T08:40:41.329Z",
-  "weekRange": "2026.11.20—11.27",
+  "updatedAt": "2026-11-28T07:54:50.660Z",
+  "weekRange": "2026.11.21—11.28",
   "monthLabel": "2026年11月",
   "stories": [
     {
@@ -141,42 +141,6 @@
       ]
     },
     {
-      "id": "doi-10-1007-s43621-026-05387-9",
-      "sector": "企业出海",
-      "relevance": "直接 ESG",
-      "event": "学术研究",
-      "title": "The moderating role of R&D intensity in the relationship between ESG disclosure and firm performance in an emerging market",
-      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
-      "score": 7,
-      "publishedDate": "2026.11.20",
-      "eventDate": "2026.11.20",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-05387-9",
-      "tags": [
-        "披露监管",
-        "同行评审状态待核"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-04632-5",
-      "sector": "人工智能",
-      "relevance": "间接 ESG",
-      "event": "学术研究",
-      "title": "An integrated multimodal artificial intelligence framework for halal food compliance and pilgrim sustainability in Islamic mass tourism",
-      "summary": "Abstract The rapid development of AI in the analysis of halal foods and the management of pilgrimage presents opportunities for AI decision support for holistic and sustainable approaches, yet it can also introduce uncertainties about model reliability, ethical considerations for governance, and responsible deployment. In this study, a hybrid AI-based five-s…",
-      "score": 7,
-      "publishedDate": "2026.11.20",
-      "eventDate": "2026.11.20",
-      "dateNote": "论文发表",
-      "source": "Springer Science and Business Media LLC",
-      "url": "https://doi.org/10.1007/s43621-026-04632-5",
-      "tags": [
-        "人工智能",
-        "同行评审状态待核"
-      ]
-    },
-    {
       "id": "arxiv-arxiv-org-abs-2611-34272v1",
       "sector": "人工智能",
       "relevance": "间接 ESG",
@@ -268,25 +232,6 @@
       ]
     },
     {
-      "id": "arxiv-arxiv-org-abs-2611-27241v1",
-      "sector": "新能源",
-      "relevance": "直接 ESG",
-      "event": "工作论文",
-      "title": "WINSO: A Large-Size Very-High-Resolution Remote Sensing Dataset for Wind Turbine Detection and Solar Panel Segmentation",
-      "summary": "Wind and solar energy are central to the global transition toward net-zero emissions and sustainable development. Accurate spatial inventories of wind and solar facilities are essential for future energy planning. Satellite remote sensing provides a practical and efficient means to acquire such geospatial data at scale. However, reliable facility mapping fro…",
-      "score": 6,
-      "publishedDate": "2026.11.20",
-      "eventDate": "2026.11.20",
-      "dateNote": "预印本发布",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2611.27241v1",
-      "tags": [
-        "能源转型",
-        "气候与碳",
-        "预印本·非同行评审"
-      ]
-    },
-    {
       "id": "doi-10-3389-frai-2026-1984267",
       "sector": "新能源",
       "relevance": "直接 ESG",
@@ -320,6 +265,25 @@
       "url": "https://doi.org/10.1007/s44163-026-02647-5",
       "tags": [
         "人工智能",
+        "同行评审状态待核"
+      ]
+    },
+    {
+      "id": "doi-10-1007-s43621-026-05399-5",
+      "sector": "新能源",
+      "relevance": "直接 ESG",
+      "event": "学术研究",
+      "title": "Sustainable chemistry for the production of clean and renewable energy and its role in climate action",
+      "summary": "原始来源已通过可访问性核验；请打开原文查看完整内容。",
+      "score": 5,
+      "publishedDate": "2026.11.21",
+      "eventDate": "2026.11.21",
+      "dateNote": "论文发表",
+      "source": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s43621-026-05399-5",
+      "tags": [
+        "能源转型",
+        "气候与碳",
         "同行评审状态待核"
       ]
     }
@@ -483,16 +447,8 @@
       "date": "2026-11-21",
       "terms": [
         "新能源",
-        "可再生能源"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05387-9",
-      "date": "2026-11-20",
-      "terms": [
-        "企业出海",
-        "政策监管",
-        "气候披露"
+        "可再生能源",
+        "能源转型"
       ]
     },
     {
@@ -512,14 +468,6 @@
         "能源效率",
         "碳与排放",
         "工作论文"
-      ]
-    },
-    {
-      "id": "doi-10-1007-s43621-026-05275-2",
-      "date": "2026-11-20",
-      "terms": [
-        "新能源",
-        "可再生能源"
       ]
     },
     {
@@ -925,11 +873,11 @@
     "week": {
       "label": "过去一周总结",
       "title": "新兴行业、区域环境治理、新能源构成过去七日的主要行业信号",
-      "range": "2026.11.20—11.27",
-      "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 12 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
+      "range": "2026.11.21—11.28",
+      "copy": "过去7天当前保留 5 条达到主门槛的重大动态，并展示 10 条已核验新增观察；词频同时纳入同期研究资料。所有内容在正式引用前仍应打开原文复核。",
       "words": [
         [
-          "新能源",
+          "能源转型",
           10
         ],
         [
@@ -937,7 +885,7 @@
           9
         ],
         [
-          "能源转型",
+          "新能源",
           9
         ],
         [
@@ -945,16 +893,16 @@
           8
         ],
         [
-          "可再生能源",
-          7
-        ],
-        [
           "气候风险",
-          7
+          8
         ],
         [
           "人工智能",
-          6
+          5
+        ],
+        [
+          "可再生能源",
+          5
         ],
         [
           "电力系统",
@@ -981,16 +929,8 @@
           4
         ],
         [
-          "碳与排放",
-          4
-        ],
-        [
           "绿色金融",
           4
-        ],
-        [
-          "企业出海",
-          3
         ],
         [
           "区域环境治理",
@@ -1005,10 +945,6 @@
           3
         ],
         [
-          "气候披露",
-          3
-        ],
-        [
           "气候适应",
           3
         ],
@@ -1017,11 +953,11 @@
           3
         ],
         [
-          "聚变能源",
+          "碳与排放",
           3
         ],
         [
-          "能源效率",
+          "聚变能源",
           3
         ],
         [
@@ -1033,8 +969,8 @@
     "month": {
       "label": "过去一个月总结",
       "title": "过去30天政策、产业与研究信号持续滚动更新",
-      "range": "2026.10.28—11.27",
-      "copy": "过去30天词频基于 60 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
+      "range": "2026.10.29—11.28",
+      "copy": "过去30天词频基于 58 条去重后的重大动态、新增观察、月度重点与研究资料生成，用于识别持续出现而非单日爆发的主题。",
       "words": [
         [
           "工作论文",
@@ -1046,7 +982,7 @@
         ],
         [
           "新能源",
-          9
+          8
         ],
         [
           "能源转型",
@@ -1069,11 +1005,11 @@
           4
         ],
         [
-          "可再生能源",
+          "气候风险",
           4
         ],
         [
-          "气候风险",
+          "可再生能源",
           4
         ],
         [
@@ -1093,15 +1029,15 @@
           3
         ],
         [
+          "自然与生物多样性",
+          3
+        ],
+        [
           "企业出海",
           3
         ],
         [
           "气候披露",
-          3
-        ],
-        [
-          "自然与生物多样性",
           3
         ],
         [
@@ -1367,17 +1303,17 @@
     {
       "source": "Federal Register",
       "status": "ok",
-      "items": 10
+      "items": 9
     },
     {
       "source": "GOV.UK",
       "status": "ok",
-      "items": 56
+      "items": 57
     },
     {
       "source": "Crossref",
       "status": "ok",
-      "items": 33
+      "items": 31
     },
     {
       "source": "arXiv",
@@ -1385,7 +1321,7 @@
       "items": 40
     }
   ],
-  "verifiedCandidateCount": 12,
+  "verifiedCandidateCount": 9,
   "materialityThreshold": {
     "policy": 6,
     "academic": 8,
